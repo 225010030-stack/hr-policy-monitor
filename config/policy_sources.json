@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "notes": "海外薪酬福利政策监控源。若某源 403/404，可改用 RSSHub 自建或替换 url。",
+  "sources": [
+    {
+      "id": "fedreg_irs",
+      "name": "US Federal Register · IRS",
+      "url": "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bagencies%5D%5B%5D=internal-revenue-service",
+      "region": "US",
+      "category": "tax",
+      "tags": ["tax", "payroll", "withholding", "IRS", "US"]
+    },
+    {
+      "id": "fedreg_dol",
+      "name": "US Federal Register · DOL",
+      "url": "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bagencies%5D%5B%5D=employment-standards-administration",
+      "region": "US",
+      "category": "leave",
+      "tags": ["leave", "wage", "FLSA", "overtime", "US"]
+    },
+    {
+      "id": "uk_hmrc",
+      "name": "UK HMRC Updates",
+      "url": "https://www.gov.uk/government/organisations/hm-revenue-customs.atom",
+      "region": "UK",
+      "category": "tax",
+      "tags": ["tax", "payroll", "NI", "UK"]
+    },
+    {
+      "id": "uk_dwp",
+      "name": "UK DWP · Employment & Benefits",
+      "url": "https://www.gov.uk/government/organisations/department-for-work-pensions.atom",
+      "region": "UK",
+      "category": "benefits",
+      "tags": ["benefits", "leave", "pension", "UK"]
+    },
+    {
+      "id": "cra_news",
+      "name": "Canada Revenue Agency",
+      "url": "https://www.canada.ca/en/revenue-agency/news.rss",
+      "region": "CA",
+      "category": "tax",
+      "tags": ["tax", "CPP", "EI", "payroll", "CA"],
+      "notes": "部分地区网络可能超时"
+    },
+    {
+      "id": "eu_employment",
+      "name": "EU Employment & Social Affairs",
+      "url": "https://employment-social-affairs.ec.europa.eu/news/rss_en.xml",
+      "region": "EU",
+      "category": "leave",
+      "tags": ["leave", "social", "benefits", "EU"],
+      "enabled": false
+    }
+  ]
+}

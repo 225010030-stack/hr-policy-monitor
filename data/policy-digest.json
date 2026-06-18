@@ -1,0 +1,139 @@
+{
+  "digests": [
+    {
+      "date": "2026-06-17",
+      "generated_at": "2026-06-18T10:35:22",
+      "total_candidates": 24,
+      "top_n": 5,
+      "items": [
+        {
+          "id": "ffcb3d1fce9b6dfe15b53c52",
+          "title": "Current DWP research being undertaken by external organisations",
+          "link": "https://www.gov.uk/guidance/current-dwp-research-in-the-field-undertaken-by-external-organisations",
+          "summary": "Check a list of live research being conducted by research organisations for the Department of Work and Pensions (DWP).",
+          "published_at": "2026-06-17T23:05:37",
+          "fetched_at": "2026-06-18T10:35:01",
+          "source_id": "uk_dwp",
+          "source_name": "UK DWP · Employment & Benefits",
+          "region": "UK",
+          "category": "benefits",
+          "tags": [
+            "benefits",
+            "leave",
+            "pension",
+            "UK"
+          ],
+          "score": 22,
+          "matched_keywords": [
+            "leave",
+            "benefit",
+            "benefits",
+            "pension",
+            "ei"
+          ]
+        },
+        {
+          "id": "e1678d38f6534d5f1d50e47c",
+          "title": "Guidance: Timms Review of Personal Independence Payment: run a workshop",
+          "link": "https://www.gov.uk/government/publications/timms-review-of-personal-independence-payment-run-a-workshop",
+          "summary": "This 'Workshop in a box' provides materials to run sessions that gather and share views for the Timms Review of Personal Independence Payment (PIP).",
+          "published_at": "2026-06-17T21:52:10",
+          "fetched_at": "2026-06-18T10:35:01",
+          "source_id": "uk_dwp",
+          "source_name": "UK DWP · Employment & Benefits",
+          "region": "UK",
+          "category": "benefits",
+          "tags": [
+            "benefits",
+            "leave",
+            "pension",
+            "UK"
+          ],
+          "score": 18,
+          "matched_keywords": [
+            "leave",
+            "benefit",
+            "benefits",
+            "pension"
+          ]
+        },
+        {
+          "id": "b6cc9a110f790f78da10d22c",
+          "title": "Guidance: LA Welfare Direct bulletins: 2026",
+          "link": "https://www.gov.uk/government/publications/la-welfare-direct-bulletins-2026",
+          "summary": "These LA Welfare Direct bulletins provide information that affects Housing Benefit and other areas of DWP, to local authority staff.",
+          "published_at": "2026-06-17T18:42:35",
+          "fetched_at": "2026-06-18T10:35:01",
+          "source_id": "uk_dwp",
+          "source_name": "UK DWP · Employment & Benefits",
+          "region": "UK",
+          "category": "benefits",
+          "tags": [
+            "benefits",
+            "leave",
+            "pension",
+            "UK"
+          ],
+          "score": 18,
+          "matched_keywords": [
+            "leave",
+            "benefit",
+            "benefits",
+            "pension"
+          ]
+        },
+        {
+          "id": "9e96c9637c3d5aae47373fe3",
+          "title": "Corporate report: DWP annual report and accounts 2024 to 2025",
+          "link": "https://www.gov.uk/government/publications/dwp-annual-report-and-accounts-2024-to-2025",
+          "summary": "Information on the expenditure and performance of the Department for Work and Pensions from 1 April 2024 to 31 March 2025.",
+          "published_at": "2026-06-17T18:20:55",
+          "fetched_at": "2026-06-18T10:35:01",
+          "source_id": "uk_dwp",
+          "source_name": "UK DWP · Employment & Benefits",
+          "region": "UK",
+          "category": "benefits",
+          "tags": [
+            "benefits",
+            "leave",
+            "pension",
+            "UK"
+          ],
+          "score": 18,
+          "matched_keywords": [
+            "leave",
+            "benefit",
+            "benefits",
+            "pension"
+          ]
+        },
+        {
+          "id": "2c40bb1a36f480929377f22b",
+          "title": "Official Statistics: Universal Credit claimants statistics on the two child limit policy, April 2026",
+          "link": "https://www.gov.uk/government/statistics/announcements/universal-credit-claimants-statistics-on-the-two-child-limit-policy-april-2026",
+          "summary": "Universal Credit statistics on the two child limit policy, April 2026, including those likely to benefit from the removal of the policy.",
+          "published_at": "2026-06-17T16:30:03",
+          "fetched_at": "2026-06-18T10:35:01",
+          "source_id": "uk_dwp",
+          "source_name": "UK DWP · Employment & Benefits",
+          "region": "UK",
+          "category": "benefits",
+          "tags": [
+            "benefits",
+            "leave",
+            "pension",
+            "UK"
+          ],
+          "score": 18,
+          "matched_keywords": [
+            "leave",
+            "benefit",
+            "benefits",
+            "pension"
+          ]
+        }
+      ],
+      "summary_text": "【薪酬福利政策早报】2026-06-17\n共筛选 5 条可能相关：\n\n1. [UK|22分] Current DWP research being undertaken by external organisations\n   https://www.gov.uk/guidance/current-dwp-research-in-the-field-undertaken-by-external-organisations\n2. [UK|18分] Guidance: Timms Review of Personal Independence Payment: run a workshop\n   https://www.gov.uk/government/publications/timms-review-of-personal-independence-payment-run-a-workshop\n3. [UK|18分] Guidance: LA Welfare Direct bulletins: 2026\n   https://www.gov.uk/government/publications/la-welfare-direct-bulletins-2026\n4. [UK|18分] Corporate report: DWP annual report and accounts 2024 to 2025\n   https://www.gov.uk/government/publications/dwp-annual-report-and-accounts-2024-to-2025\n5. [UK|18分] Official Statistics: Universal Credit claimants statistics on the two child limit policy, April 2026\n   https://www.gov.uk/government/statistics/announcements/universal-credit-claimants-statistics-on-the-two-child-limit-policy-april-2026"
+    }
+  ]
+}

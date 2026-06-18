@@ -1,0 +1,88 @@
+name: Policy Feed Sync
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+    - cron: "0 1 * * *"
+    - cron: "0 2 * * 1"
+  workflow_dispatch:
+    inputs:
+      task:
+        description: "sync | digest | weekly | all"
+        required: false
+        default: "sync"
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    if: github.event.schedule == '0 */6 * * *' || (github.event_name == 'workflow_dispatch' && (inputs.task == 'sync' || inputs.task == 'all'))
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install feedparser python-dotenv requests
+      - run: python3 scripts/sync_policy_feeds.py --sync
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: sync policy RSS feeds"
+          file_pattern: data/policy-feed.json
+
+  digest:
+    if: github.event.schedule == '0 1 * * *' || (github.event_name == 'workflow_dispatch' && (inputs.task == 'digest' || inputs.task == 'all'))
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install feedparser python-dotenv requests
+      - run: python3 scripts/sync_policy_feeds.py --sync --digest --notify
+        env:
+          POLICY_DIGEST_WECOM_USERS: ${{ secrets.POLICY_DIGEST_WECOM_USERS }}
+          POLICY_DIGEST_EMAIL_TO: ${{ secrets.POLICY_DIGEST_EMAIL_TO }}
+          POLICY_SMTP_HOST: ${{ secrets.POLICY_SMTP_HOST }}
+          POLICY_SMTP_PORT: ${{ secrets.POLICY_SMTP_PORT }}
+          POLICY_SMTP_USER: ${{ secrets.POLICY_SMTP_USER }}
+          POLICY_SMTP_PASSWORD: ${{ secrets.POLICY_SMTP_PASSWORD }}
+          POLICY_SMTP_FROM: ${{ secrets.POLICY_SMTP_FROM }}
+          WECOM_CORP_ID: ${{ secrets.WECOM_CORP_ID }}
+          WECOM_AGENT_ID: ${{ secrets.WECOM_AGENT_ID }}
+          WECOM_AGENT_SECRET: ${{ secrets.WECOM_AGENT_SECRET }}
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: policy daily digest"
+          file_pattern: |
+            data/policy-feed.json
+            data/policy-digest.json
+
+  weekly:
+    if: github.event.schedule == '0 2 * * 1' || (github.event_name == 'workflow_dispatch' && (inputs.task == 'weekly' || inputs.task == 'all'))
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install feedparser python-dotenv requests
+      - run: python3 scripts/sync_policy_feeds.py --sync --weekly --notify
+        env:
+          POLICY_DIGEST_WECOM_USERS: ${{ secrets.POLICY_DIGEST_WECOM_USERS }}
+          POLICY_DIGEST_EMAIL_TO: ${{ secrets.POLICY_DIGEST_EMAIL_TO }}
+          POLICY_SMTP_HOST: ${{ secrets.POLICY_SMTP_HOST }}
+          POLICY_SMTP_PORT: ${{ secrets.POLICY_SMTP_PORT }}
+          POLICY_SMTP_USER: ${{ secrets.POLICY_SMTP_USER }}
+          POLICY_SMTP_PASSWORD: ${{ secrets.POLICY_SMTP_PASSWORD }}
+          POLICY_SMTP_FROM: ${{ secrets.POLICY_SMTP_FROM }}
+          WECOM_CORP_ID: ${{ secrets.WECOM_CORP_ID }}
+          WECOM_AGENT_ID: ${{ secrets.WECOM_AGENT_ID }}
+          WECOM_AGENT_SECRET: ${{ secrets.WECOM_AGENT_SECRET }}
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: policy weekly review"
+          file_pattern: |
+            data/policy-feed.json
+            data/policy-weekly.json

@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>海外薪酬福利政策监控</title>
+  <style>
+    :root { --brand: #1677ff; --bg: #eef2f8; --card: #fff; --border: #e5eaf2; --text: #1f2937; --muted: #6b7280; }
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: "PingFang SC", -apple-system, sans-serif; background: var(--bg); color: var(--text); font-size: 14px; }
+    .wrap { max-width: 1100px; margin: 0 auto; padding: 20px 20px 48px; }
+    .topbar { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 16px; }
+    .topbar h1 { margin: 0; font-size: 22px; flex: 1; }
+    .btn { border: 1px solid var(--border); background: #fff; border-radius: 8px; padding: 8px 14px; cursor: pointer; font-size: 13px; }
+    .btn-primary { background: var(--brand); color: #fff; border-color: var(--brand); }
+    .meta { font-size: 12px; color: var(--muted); margin-bottom: 16px; }
+    .grid { display: grid; grid-template-columns: 1.4fr 1fr; gap: 16px; }
+    @media (max-width: 900px) { .grid { grid-template-columns: 1fr; } }
+    .panel { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 16px; }
+    .panel h2 { margin: 0 0 12px; font-size: 16px; }
+    .filters { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 12px; }
+    .filters select { border: 1px solid var(--border); border-radius: 8px; padding: 7px 10px; }
+    .feed-list { display: flex; flex-direction: column; gap: 10px; max-height: 70vh; overflow: auto; }
+    .feed-item { border: 1px solid #f1f5f9; border-radius: 10px; padding: 12px 14px; background: #fafbfc; }
+    .feed-item.new-item { border-color: #91caff; background: #f0f7ff; }
+    .feed-title a { color: #0f172a; text-decoration: none; font-weight: 600; }
+    .feed-title a:hover { color: var(--brand); }
+    .feed-meta { font-size: 12px; color: var(--muted); display: flex; gap: 8px; flex-wrap: wrap; margin-top: 6px; }
+    .tag { font-size: 11px; padding: 2px 8px; border-radius: 999px; background: #eef2ff; color: #4338ca; }
+    .tag.score-high { background: #fef3c7; color: #92400e; }
+    .feed-summary { margin-top: 8px; font-size: 13px; color: #475569; line-height: 1.5; }
+    .digest-box, .weekly-box { border: 1px dashed #dbeafe; background: #f8fbff; border-radius: 10px; padding: 12px; margin-bottom: 12px; white-space: pre-wrap; line-height: 1.55; font-size: 13px; }
+    .prompt-list { margin: 0; padding-left: 18px; color: #334155; }
+    .empty { color: var(--muted); text-align: center; padding: 20px 0; }
+    .status-dot { width: 8px; height: 8px; border-radius: 50%; background: #22c55e; display: inline-block; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="topbar">
+      <h1>海外薪酬福利政策资讯墙</h1>
+      <button class="btn btn-primary" onclick="loadAll(true)">立即刷新</button>
+    </div>
+    <div class="meta">
+      <span class="status-dot"></span>
+      <span id="statusText">加载中…</span>
+      · 网页每 5 分钟刷新 · GitHub Actions 每 6 小时同步 RSS
+    </div>
+    <div class="grid">
+      <section class="panel">
+        <h2>实时资讯流</h2>
+        <div class="filters">
+          <select id="filterRegion" onchange="renderFeed()">
+            <option value="">全部区域</option>
+            <option value="US">US</option>
+            <option value="CA">CA</option>
+            <option value="UK">UK</option>
+            <option value="EU">EU</option>
+          </select>
+          <select id="filterCategory" onchange="renderFeed()">
+            <option value="">全部类别</option>
+            <option value="leave">假期/劳动</option>
+            <option value="benefits">福利</option>
+            <option value="compensation">薪酬</option>
+            <option value="tax">税务</option>
+          </select>
+          <select id="filterScore" onchange="renderFeed()">
+            <option value="0">全部相关度</option>
+            <option value="3">≥3 分</option>
+            <option value="5">≥5 分</option>
+            <option value="8">≥8 分</option>
+          </select>
+        </div>
+        <div id="feedList" class="feed-list"><div class="empty">加载中…</div></div>
+      </section>
+      <div>
+        <section class="panel" style="margin-bottom:16px;">
+          <h2>每日早报 · Top 5</h2>
+          <div id="digestBox" class="digest-box">加载中…</div>
+          <div id="digestItems"></div>
+        </section>
+        <section class="panel">
+          <h2>每周复盘</h2>
+          <div id="weeklyBox" class="weekly-box">加载中…</div>
+          <ul id="weeklyPrompts" class="prompt-list"></ul>
+        </section>
+      </div>
+    </div>
+  </div>
+  <script>
+    const REFRESH_MS = 5 * 60 * 1000;
+    let feedItems = [];
+    let seenIds = new Set(JSON.parse(localStorage.getItem("hr_policy_seen_ids") || "[]"));
+
+    function apiBase() { return window.location.origin.replace(/\/$/, ""); }
+
+    async function fetchJson(path) {
+      const resp = await fetch(`${apiBase()}${path}`);
+      if (!resp.ok) throw new Error(`${path} HTTP ${resp.status}`);
+      return resp.json();
+    }
+
+    function fmtTime(iso) {
+      if (!iso) return "—";
+      try { return new Date(iso).toLocaleString(); } catch { return iso; }
+    }
+
+    function renderFeed() {
+      const region = document.getElementById("filterRegion").value;
+      const category = document.getElementById("filterCategory").value;
+      const minScore = parseInt(document.getElementById("filterScore").value || "0", 10);
+      let items = feedItems.slice();
+      if (region) items = items.filter(x => String(x.region || "").toUpperCase() === region);
+      if (category) items = items.filter(x => String(x.category || "").toLowerCase() === category);
+      if (minScore > 0) items = items.filter(x => Number(x.score || 0) >= minScore);
+      const box = document.getElementById("feedList");
+      if (!items.length) {
+        box.innerHTML = '<div class="empty">暂无条目。请运行 <code>python3 scripts/sync_policy_feeds.py --sync</code></div>';
+        return;
+      }
+      box.innerHTML = items.map(item => {
+        const isNew = !seenIds.has(item.id);
+        const score = Number(item.score || 0);
+        const kws = (item.matched_keywords || []).slice(0, 4).map(k => `<span class="tag">${k}</span>`).join("");
+        return `<article class="feed-item ${isNew ? "new-item" : ""}">
+          <div class="feed-title"><a href="${item.link || "#"}" target="_blank" rel="noopener">${item.title || "无标题"}</a></div>
+          <div class="feed-meta"><span class="tag ${score >= 5 ? "score-high" : ""}">${item.region || "?"} · ${score}分</span><span>${item.source_name || ""}</span><span>${fmtTime(item.published_at)}</span></div>
+          ${kws ? `<div style="margin-top:6px;">${kws}</div>` : ""}
+          ${item.summary ? `<div class="feed-summary">${item.summary}</div>` : ""}
+        </article>`;
+      }).join("");
+      items.slice(0, 30).forEach(x => seenIds.add(x.id));
+      localStorage.setItem("hr_policy_seen_ids", JSON.stringify([...seenIds].slice(-500)));
+    }
+
+    function renderDigest(data) {
+      const digest = data?.digest;
+      const box = document.getElementById("digestBox");
+      const itemsBox = document.getElementById("digestItems");
+      if (!digest) { box.textContent = "尚无早报。GitHub Actions 每日自动生成。"; itemsBox.innerHTML = ""; return; }
+      box.textContent = digest.summary_text || `日期 ${digest.date}`;
+      itemsBox.innerHTML = (digest.items || []).map((item, i) => `
+        <div class="feed-item" style="margin-top:8px;">
+          <div class="feed-title">${i + 1}. <a href="${item.link || "#"}" target="_blank" rel="noopener">${item.title || ""}</a></div>
+          <div class="feed-meta"><span class="tag">${item.region} · ${item.score}分</span></div>
+        </div>`).join("");
+    }
+
+    function renderWeekly(data) {
+      const review = data?.review;
+      const box = document.getElementById("weeklyBox");
+      const prompts = document.getElementById("weeklyPrompts");
+      if (!review) { box.textContent = "尚无周报。每周一自动生成。"; prompts.innerHTML = ""; return; }
+      box.textContent = review.summary_text || `周期 ${review.week_start} ~ ${review.week_end}`;
+      prompts.innerHTML = (review.action_prompts || []).map(p => `<li>${p}</li>`).join("");
+    }
+
+    async function loadAll(manual) {
+      const status = document.getElementById("statusText");
+      try {
+        const [feed, digest, weekly] = await Promise.all([
+          fetchJson("/api/policy-feed?limit=100"),
+          fetchJson("/api/policy-feed/digest"),
+          fetchJson("/api/policy-feed/weekly"),
+        ]);
+        feedItems = feed.items || [];
+        renderFeed(); renderDigest(digest); renderWeekly(weekly);
+        status.textContent = `${manual ? "已刷新 · " : ""}同步于 ${fmtTime(feed.synced_at)} · 共 ${feed.total || 0} 条`;
+      } catch (err) {
+        status.textContent = `加载失败：${err.message}（请先 bash start.sh 启动服务）`;
+        document.getElementById("feedList").innerHTML = `<div class="empty">${err.message}</div>`;
+      }
+    }
+
+    loadAll(false);
+    setInterval(() => loadAll(false), REFRESH_MS);
+  </script>
+</body>
+</html>
