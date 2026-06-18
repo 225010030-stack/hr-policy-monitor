@@ -1,79 +1,90 @@
 # hr-policy-monitor
 
-独立仓库：**海外薪酬福利政策 RSS 监控**（美洲 + 非美洲），与 FPP/工作提效项目完全分离。
+独立仓库：**海外薪酬福利政策 RSS 监控**。与 FPP / 工作提效 **完全分离**。
+
+> **当前阶段**：服务 + Bot API + GitHub Actions 已就绪；**尚未**接入旧操作台网页。  
+> 接入前清单：`docs/PRE_INTEGRATION_CHECKLIST.md`
 
 ## 功能
 
-| 能力 | 说明 |
+| 能力 | 状态 |
 |------|------|
-| 资讯墙 | 网页每 5 分钟刷新 |
-| RSS 同步 | GitHub Actions 每 6 小时，或本地脚本 |
-| 每日早报 | 昨日 Top 5（关键词打分）→ 企微/邮件 |
-| 每周复盘 | 周一汇总 + SOP 复盘提示 |
+| RSS 同步（Actions 每 6h） | ✅ |
+| 临时资讯墙 `web/index.html` | ✅ |
+| Bot 纯文本 API `/api/bot/*` | ✅ |
+| **Knot Bot webhook** `/api/webhook/knotbot` | ✅ |
+| 企微/邮件早报（Secrets） | 待配置 |
+| 新操作台嵌入 | 📋 见 `docs/WEB_INTEGRATION.md` |
 
-## 目录结构
+## 目录
 
 ```text
 hr-policy-monitor/
-├── app/              # FastAPI + 核心逻辑
-├── config/           # RSS 源 + 关键词权重
-├── data/             # 同步结果 JSON（Actions 会 commit）
-├── scripts/          # 命令行同步
-├── web/              # 资讯墙静态页
-└── .github/workflows/
+├── app/                 # FastAPI + RSS 逻辑 + bot 文本格式
+├── config/              # RSS 源、关键词
+├── data/                # Actions 写入的 JSON
+├── docs/                # 接入文档（Bot / 未来网页）
+├── deploy/              # 生产启动、Nginx、LaunchAgent
+├── integrations/        # Knot Client 工具示例
+├── scripts/             # sync、verify
+└── web/                 # 临时资讯墙（新网页做好前自用）
 ```
 
-## 本地使用
+## 快速开始
 
 ```bash
 cd "/Users/zhangwenjing/Desktop/hr-policy-monitor"
-
-# 安装依赖（首次）
 python3 -m pip install -r requirements.txt
-
-# 同步 RSS + 生成早报/周报
-python3 scripts/sync_policy_feeds.py --sync --digest --weekly
-
-# 启动网页（默认 http://127.0.0.1:18888）
+git pull
 bash start.sh
+bash scripts/verify_service.sh
 ```
 
-打开：**http://127.0.0.1:18888/**
+- 资讯墙：http://127.0.0.1:18888/
+- 接口发现：http://127.0.0.1:18888/api/meta
 
-## 推送到 GitHub
+## Knot Bot 接入（接网页前 · 最后一步）
+
+**逐屏文档**：[`docs/KNOT_BOT_接入步骤.md`](docs/KNOT_BOT_接入步骤.md)
+
+| 复制到 Knot 控制台 | 文件 |
+|--------------------|------|
+| Prompt | `integrations/PROMPT_政策监控助手.md` |
+| Client 工具对照 | `integrations/knot-client-tool.example.json` |
 
 ```bash
-cd "/Users/zhangwenjing/Desktop/hr-policy-monitor"
-git add .
-git commit -m "init: overseas payroll policy monitor"
-git remote add origin git@github.com:<你的用户名>/hr-policy-monitor.git
-git push -u origin main
+cp .env.example .env          # 填 KNOT_BOT_TOKEN=随机字符串
+bash start.sh
+export KNOT_BOT_TOKEN=你的token
+bash scripts/test_knot_webhook.sh
 ```
 
-推送后 Actions 会自动定时同步 `data/*.json`。
+## Bot 直连 API（可选）
 
-## 配置
+```bash
+curl -s "http://127.0.0.1:18888/api/bot/digest?format=text"
+```
 
-| 文件 | 用途 |
-|------|------|
-| `config/policy_sources.json` | 监控哪些 RSS（US/CA/UK/EU…） |
-| `config/policy_keywords.json` | leave/payroll/benefits 等打分词 |
-| `.env` | 企微/邮件推送（复制 `.env.example`） |
+详见 `docs/BOT_INTEGRATION.md`
 
-## 企微/邮件 Secrets（GitHub）
+## GitHub
 
-- `POLICY_DIGEST_WECOM_USERS`
-- `WECOM_CORP_ID` / `WECOM_AGENT_ID` / `WECOM_AGENT_SECRET`
-- `POLICY_DIGEST_EMAIL_TO` + `POLICY_SMTP_*`
+https://github.com/225010030-stack/hr-policy-monitor
 
-## API
+Actions：**Policy Feed Sync**（手动 Run workflow → `sync` / `all`）
 
-- `GET /api/health`
-- `GET /api/policy-feed?limit=50&region=US&min_score=5`
-- `GET /api/policy-feed/digest`
-- `GET /api/policy-feed/weekly`
-- `POST /api/policy-feed/sync`（可选 `X-Monitor-Token`）
+## 未来操作台
 
-## 与工作提效项目的关系
+**现在不改** `upload-docs.html`。新网页做好后按 `docs/WEB_INTEGRATION.md` + `deploy/nginx-snippet.conf` 对接。
 
-本仓库**独立运行**，不依赖 `bot-gateway` / `web-tool`。若要在 FPP 网页里嵌入，可用 iframe 或链接到本服务地址。
+## API 摘要
+
+| 方法 | 路径 | 说明 |
+|------|------|------|
+| GET | `/api/meta` | 接入发现 |
+| GET | `/api/policy-feed` | JSON 资讯列表 |
+| GET | `/api/policy-feed/digest` | JSON 早报 |
+| GET | `/api/bot/digest?format=text` | Bot 早报纯文本 |
+| GET | `/api/bot/weekly?format=text` | Bot 周报纯文本 |
+| GET | `/api/bot/feed?format=text` | Bot 资讯摘要 |
+| POST | `/api/webhook/knotbot` | **Knot Client 工具**（Body: `{"text":"政策早报"}`） |

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.hr.policy-monitor</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/bash</string>
+    <string>/Users/zhangwenjing/Desktop/hr-policy-monitor/deploy/start-production.sh</string>
+  </array>
+  <key>WorkingDirectory</key>
+  <string>/Users/zhangwenjing/Desktop/hr-policy-monitor</string>
+  <key>RunAtLoad</key>
+  <true/>
+  <key>KeepAlive</key>
+  <true/>
+  <key>StandardOutPath</key>
+  <string>/Users/zhangwenjing/Desktop/hr-policy-monitor/logs/launchd.out.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/zhangwenjing/Desktop/hr-policy-monitor/logs/launchd.err.log</string>
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>PORT</key>
+    <string>18888</string>
+  </dict>
+</dict>
+</plist>

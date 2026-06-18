@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "notes": "关键词匹配为「包含即命中」，不区分大小写。长关键词优先（按 key 长度降序）。",
+  "commands": {
+    "政策帮助": "policy_help",
+    "政策菜单": "policy_help",
+    "policy help": "policy_help",
+    "政策早报": "policy_digest",
+    "今日早报": "policy_digest",
+    "daily digest": "policy_digest",
+    "政策周报": "policy_weekly",
+    "本周周报": "policy_weekly",
+    "weekly review": "policy_weekly",
+    "美国政策": "policy_feed_us",
+    "us政策": "policy_feed_us",
+    "us leave": "policy_feed_us",
+    "美国leave": "policy_feed_us",
+    "加拿大政策": "policy_feed_ca",
+    "ca政策": "policy_feed_ca",
+    "canada payroll": "policy_feed_ca",
+    "英国政策": "policy_feed_uk",
+    "uk政策": "policy_feed_uk",
+    "hmrc": "policy_feed_uk",
+    "最新政策": "policy_feed_all",
+    "政策资讯": "policy_feed_all",
+    "政策列表": "policy_feed_all",
+    "policy feed": "policy_feed_all"
+  }
+}

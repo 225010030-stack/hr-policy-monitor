@@ -1,0 +1,31 @@
+{
+  "tool_name": "policy_monitor_webhook",
+  "description": "Knot Client 工具：薪酬福利政策 webhook（与 FPP bot-gateway 同契约）",
+  "method": "POST",
+  "url": "http://127.0.0.1:18888/api/webhook/knotbot",
+  "headers": {
+    "Content-Type": "application/json",
+    "X-Bot-Token": "REPLACE_WITH_KNOT_BOT_TOKEN"
+  },
+  "body_template": {
+    "text": "{{user_input}}"
+  },
+  "body_template_notes": "若平台变量为 message/query，替换 user_input",
+  "response_contract": {
+    "display_field": "message",
+    "ok_field": "ok",
+    "action_field": "action"
+  },
+  "test_commands": [
+    "政策帮助",
+    "政策早报",
+    "政策周报",
+    "美国政策",
+    "加拿大政策",
+    "英国政策",
+    "最新政策"
+  ],
+  "command_map_file": "config/knot-command-map.json",
+  "full_guide": "docs/KNOT_BOT_接入步骤.md",
+  "prompt_file": "integrations/PROMPT_政策监控助手.md"
+}
