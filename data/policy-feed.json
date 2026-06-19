@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-06-18T17:49:40",
-  "total": 118,
-  "new_count": 18,
+  "synced_at": "2026-06-19T00:13:18",
+  "total": 119,
+  "new_count": 1,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 14,
+      "added": 1,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 4,
+      "added": 0,
       "error": null
     },
     {
@@ -40,6 +40,29 @@
     }
   ],
   "items": [
+    {
+      "id": "c9321fe20cd2063c5d8a2087",
+      "title": "Accredited official statistics: HMRC tax receipts and National Insurance contributions for the UK",
+      "link": "https://www.gov.uk/government/statistics/hmrc-tax-and-nics-receipts-for-the-uk",
+      "summary": "Summary of HM Revenue and Customs' tax receipts, National Insurance contributions (NICs), and expenditure for the UK.",
+      "published_at": "2026-06-18T23:00:02",
+      "fetched_at": "2026-06-19T00:12:57",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
     {
       "id": "dee3217c4c7ce8474dc216ee",
       "title": "Promotional material: Crisis and Resilience Fund Toolkit",
