@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-06-19T16:20:09",
-  "total": 145,
-  "new_count": 5,
+  "synced_at": "2026-06-19T21:54:28",
+  "total": 146,
+  "new_count": 1,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 4,
+      "added": 1,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 1,
+      "added": 0,
       "error": null
     },
     {
@@ -40,6 +40,28 @@
     }
   ],
   "items": [
+    {
+      "id": "e96f16dd95ddc8ada6b1c986",
+      "title": "Official Statistics: HMRC statistics: pre-release access list",
+      "link": "https://www.gov.uk/government/statistics/hmrc-statistics-pre-release-access-list",
+      "summary": "HM Revenue and Customs' record of those who have pre-release access to Official Statistics.",
+      "published_at": "2026-06-19T17:30:03",
+      "fetched_at": "2026-06-19T21:54:07",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "d974aec4f3b081260ef2e119",
       "title": "Guidance: Import Control System 2: service availability and issues",
