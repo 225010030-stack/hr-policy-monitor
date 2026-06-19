@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-06-19T13:55:51",
-  "total": 140,
-  "new_count": 21,
+  "synced_at": "2026-06-19T16:20:09",
+  "total": 145,
+  "new_count": 5,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 9,
+      "added": 4,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 12,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,120 @@
     }
   ],
   "items": [
+    {
+      "id": "d974aec4f3b081260ef2e119",
+      "title": "Guidance: Import Control System 2: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/import-control-system-2-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the Import Control System 2 (ICS2) service.",
+      "published_at": "2026-06-19T16:08:15",
+      "fetched_at": "2026-06-19T16:19:49",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "dd3d1444ffdb66eb3b83efe3",
+      "title": "Supported Housing regulation: consultation",
+      "link": "https://www.gov.uk/government/consultations/supported-housing-regulation-consultation",
+      "summary": "Proposals for implementing measures in the Supported Housing (Regulatory Oversight) Act 2023 and changes to Housing Benefit Regulations.",
+      "published_at": "2026-06-19T15:09:51",
+      "fetched_at": "2026-06-19T16:19:49",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 21,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension",
+        "regulation"
+      ]
+    },
+    {
+      "id": "7d85ee3e9441bc457f6a437d",
+      "title": "Form: Initial registration as a reporting fund (CISC1)",
+      "link": "https://www.gov.uk/government/publications/collective-investment-schemes-initial-registration-as-a-reporting-fund-cisc1",
+      "summary": "Use form CISC1 to complete the initial application process to enter the reporting funds regime.",
+      "published_at": "2026-06-19T14:26:20",
+      "fetched_at": "2026-06-19T16:19:49",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "17bdfb29727301c5901db48e",
+      "title": "PAYE rules for labour supply chains that include umbrella companies from 6 April 2026",
+      "link": "https://www.gov.uk/guidance/paye-rules-for-labour-supply-chains-that-include-umbrella-companies-from-6-april-2026",
+      "summary": "What you need to know about the new rules if you're in a labour supply chain which includes an umbrella company, or any third person supplying labour.",
+      "published_at": "2026-06-19T14:03:14",
+      "fetched_at": "2026-06-19T16:19:49",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "d3ac585a0865adb75785bf3a",
+      "title": "Notice: Notices made under the Taxation (Cross-border Trade) Act 2018",
+      "link": "https://www.gov.uk/government/publications/notices-to-be-made-under-the-taxation-cross-border-trade-act-2018",
+      "summary": "Notices made which have the force of law under the Taxation (Cross-border Trade) Act 2018.",
+      "published_at": "2026-06-19T13:50:14",
+      "fetched_at": "2026-06-19T16:19:49",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "9b29549be8999b25bd70a543",
       "title": "Tax Credits Manual",
