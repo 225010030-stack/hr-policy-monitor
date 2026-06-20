@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-06-19T21:54:28",
-  "total": 146,
-  "new_count": 1,
+  "synced_at": "2026-06-20T10:21:11",
+  "total": 148,
+  "new_count": 2,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
       "fetched": 18,
-      "added": 0,
+      "added": 2,
       "error": null
     },
     {
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 1,
+      "added": 0,
       "error": null
     },
     {
@@ -40,6 +40,54 @@
     }
   ],
   "items": [
+    {
+      "id": "82fcb5f1490a6985d8ef37e6",
+      "title": "Agency Information Collection Activities; Comment Request on Escrow Funds and Other Similar Funds",
+      "link": "https://www.federalregister.gov/documents/2026/06/22/2026-12459/agency-information-collection-activities-comment-request-on-escrow-funds-and-other-similar-funds",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+      "published_at": "2026-06-22T04:00:00",
+      "fetched_at": "2026-06-20T10:20:46",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
+    {
+      "id": "2749cca4734bd8b07c80f3df",
+      "title": "Agency Information Collection Activities: Comment Request on Residence of Trusts and Estates-7701 (TD 8813-Final)",
+      "link": "https://www.federalregister.gov/documents/2026/06/22/2026-12458/agency-information-collection-activities-comment-request-on-residence-of-trusts-and-estates-7701-td",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+      "published_at": "2026-06-22T04:00:00",
+      "fetched_at": "2026-06-20T10:20:46",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
     {
       "id": "e96f16dd95ddc8ada6b1c986",
       "title": "Official Statistics: HMRC statistics: pre-release access list",
