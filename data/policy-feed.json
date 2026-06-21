@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-06-21T17:12:28",
-  "total": 148,
-  "new_count": 0,
+  "synced_at": "2026-06-21T22:38:40",
+  "total": 149,
+  "new_count": 1,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -28,7 +28,7 @@
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
@@ -86,6 +86,31 @@
       "matched_keywords": [
         "payroll",
         "withholding"
+      ]
+    },
+    {
+      "id": "895c366ee87790ba0eacca48",
+      "title": "Correspondence: Apprenticeship funding bands reviews",
+      "link": "https://www.gov.uk/government/publications/apprenticeship-funding-bands-reviews",
+      "summary": "A letter from the Minister for Skills for the Department for Work and Pensions to Skills England on the apprenticeship funding bands reviews.",
+      "published_at": "2026-06-21T21:30:05",
+      "fetched_at": "2026-06-21T22:38:20",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
       ]
     },
     {
