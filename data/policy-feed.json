@@ -1,12 +1,12 @@
 {
-  "synced_at": "2026-06-21T22:38:40",
-  "total": 149,
-  "new_count": 1,
+  "synced_at": "2026-06-22T17:57:40",
+  "total": 167,
+  "new_count": 18,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
-      "fetched": 16,
+      "fetched": 15,
       "added": 0,
       "error": null
     },
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 13,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 1,
+      "added": 5,
       "error": null
     },
     {
@@ -40,6 +40,422 @@
     }
   ],
   "items": [
+    {
+      "id": "c8724e8a9c8be8f53d411b0d",
+      "title": "Guidance: Excise movement and control system: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/excise-movement-and-control-system-emcs-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the excise movement and control system (EMCS) online service.",
+      "published_at": "2026-06-22T17:42:20",
+      "fetched_at": "2026-06-22T17:57:19",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "9ac73692596f0053eb8431a1",
+      "title": "Official Statistics: Welsh Income Tax Outturn Statistics: 2024 to 2025",
+      "link": "https://www.gov.uk/government/statistics/announcements/welsh-income-tax-outturn-statistics-2024-to-2025",
+      "summary": "Annual release of statistics relating to Income Tax from Welsh taxpayers' NSND Income Tax. Also includes comparable figures for those in the rest of the UK.",
+      "published_at": "2026-06-22T17:00:24",
+      "fetched_at": "2026-06-22T17:57:19",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "f9ca58a3f2e5cbd3d692f7e5",
+      "title": "Official Statistics: Scottish Income Tax Outturn Statistics: 2024 to 2025",
+      "link": "https://www.gov.uk/government/statistics/announcements/scottish-income-tax-outturn-statistics-2024-to-2025",
+      "summary": "Annual release of statistics relating to Income Tax from Scottish taxpayers' NSND Income Tax. Also includes comparable figures for those in the rest of the UK.",
+      "published_at": "2026-06-22T16:17:49",
+      "fetched_at": "2026-06-22T17:57:19",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "aec7cdc4981de650c80c81d9",
+      "title": "Guidance: Making Tax Digital for Income Tax: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/use-software-to-send-income-tax-updates-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the Making Tax Digital for Income Tax service.",
+      "published_at": "2026-06-22T15:53:48",
+      "fetched_at": "2026-06-22T17:57:19",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "6bd79b5eb09929b88b903303",
+      "title": "Official Statistics: Statistical commentary on Non-domiciled taxpayers in the UK",
+      "link": "https://www.gov.uk/government/statistics/announcements/statistical-commentary-on-non-domiciled-taxpayers-in-the-uk--2",
+      "summary": "This release contains information about people claiming non-domiciled status in the UK through their Self Assessment tax returns.",
+      "published_at": "2026-06-22T15:45:38",
+      "fetched_at": "2026-06-22T17:57:19",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "2ec377ff04a33851056cde88",
+      "title": "Research: Skills England Annual Skills Report and Sectoral Skills Needs Assessments 2026",
+      "link": "https://www.gov.uk/government/publications/skills-england-annual-skills-report-and-sectoral-skills-needs-assessments-2026",
+      "summary": "The 2026 Annual Skills Report highlights key challenges in the skills system - our Skills Needs Assessments outline skills demand and supply in priority sectors.",
+      "published_at": "2026-06-22T14:24:55",
+      "fetched_at": "2026-06-22T17:57:20",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "1c44058cd56e6f6534641ca6",
+      "title": "Professor Damien McElvenny has been reappointed to the Industrial Injuries Advisory Council (IIAC)",
+      "link": "https://www.gov.uk/government/news/professor-damien-mcelvenny-has-been-reappointed-to-the-industrial-injuries-advisory-council-iiac",
+      "summary": "On behalf of the Secretary of State for Work and Pensions, we are pleased to announce the reappointment of Professor Damien McElvenny to the Industrial Injuries Advisory Council for a further term of five-year from 1 December 2026.",
+      "published_at": "2026-06-22T14:18:39",
+      "fetched_at": "2026-06-22T17:57:20",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "8b696253479628ba446eb990",
+      "title": "Guidance: Detailed tax guidance for charities",
+      "link": "https://www.gov.uk/government/publications/charities-detailed-guidance-notes",
+      "summary": "How to register a charity for tax, charities' tax obligations, and the reliefs and exemptions available.",
+      "published_at": "2026-06-22T12:29:18",
+      "fetched_at": "2026-06-22T17:57:19",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "cc5a354719af199f80f9c417",
+      "title": "International Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/international-manual",
+      "summary": "International tax issues including the principles of double taxation relief and an introduction to double taxation agreements",
+      "published_at": "2026-06-22T12:18:48",
+      "fetched_at": "2026-06-22T17:57:19",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "495b39cdac2c87836bd93b1f",
+      "title": "HMRC email updates, videos and webinars for tax agents and advisers",
+      "link": "https://www.gov.uk/guidance/help-and-support-for-agents",
+      "summary": "Learn more about the support available to tax agents and advisers which will help you and your clients.",
+      "published_at": "2026-06-22T12:08:16",
+      "fetched_at": "2026-06-22T17:57:19",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "de6e67224b33e63264403271",
+      "title": "Statutory guidance: Special Directions made under section 30 of the Customs and Excise Management Act 1979",
+      "link": "https://www.gov.uk/government/publications/special-directions-made-under-section-30-of-the-customs-and-excise-management-act-1979",
+      "summary": "Special Directions made under section 30 of the Customs and Excise Management Act 1979 which have force of law under Customs Regulations.",
+      "published_at": "2026-06-22T11:12:25",
+      "fetched_at": "2026-06-22T17:57:19",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 12,
+      "matched_keywords": [
+        "payroll",
+        "regulation",
+        "statutory"
+      ]
+    },
+    {
+      "id": "102104439686ad54372028ba",
+      "title": "Research: Upcoming DWP research publications",
+      "link": "https://www.gov.uk/government/publications/list-of-upcoming-research-publications",
+      "summary": "This document provides details of upcoming Department for Work and Pensions (DWP) research publications.",
+      "published_at": "2026-06-22T10:58:27",
+      "fetched_at": "2026-06-22T17:57:20",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "2944cc03dab9ef510623904f",
+      "title": "Form: Inheritance Tax: gifts and other transfers of value (IHT403)",
+      "link": "https://www.gov.uk/government/publications/inheritance-tax-gifts-and-other-transfers-of-value-iht403",
+      "summary": "Use the IHT403 with form IHT400 if the deceased had given away or 'transferred' any assets, such as cash, property or land.",
+      "published_at": "2026-06-22T10:42:27",
+      "fetched_at": "2026-06-22T17:57:19",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "d2f87d010a90eb8075b61976",
+      "title": "Official Statistics: Employment Allowance take-up statistics: 2025 to 2026 tax year estimate",
+      "link": "https://www.gov.uk/government/statistics/announcements/employment-allowance-take-up-statistics-2025-to-2026-tax-year-estimate",
+      "summary": "An estimate of the take-up of the Employment Allowance in the 2025 to 2026 tax year, from HMRC's Real Time Information and Enterprise Tax Management Platform.",
+      "published_at": "2026-06-22T10:42:00",
+      "fetched_at": "2026-06-22T17:57:19",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "d03e607fb4742e3fe5d6c1bb",
+      "title": "Advance Tax Certainty Service",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/advance-tax-certainty-service",
+      "summary": "A guide to support both customers and HMRC colleagues with the operation of the Advance Tax Certainty Service.",
+      "published_at": "2026-06-22T10:29:10",
+      "fetched_at": "2026-06-22T17:57:19",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "a54ea509ccc7819eeb23dad9",
+      "title": "New deal for young people to end ‘degree by default’ culture and boost youth apprenticeships",
+      "link": "https://www.gov.uk/government/news/new-deal-for-young-people-to-end-degree-by-default-culture-and-boost-youth-apprenticeships",
+      "summary": "Government promises to deliver a “new deal for young people” with real opportunities to work and renewed social contract where hard work pays off",
+      "published_at": "2026-06-22T09:54:00",
+      "fetched_at": "2026-06-22T17:57:20",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "99ab5fb9c2db52c5762ae6b0",
+      "title": "Apply for a refund of National Insurance contributions",
+      "link": "https://www.gov.uk/guidance/apply-for-a-refund-of-national-insurance-contributions",
+      "summary": "If HMRC has sent you a letter about too much National Insurance being paid, you can apply for a refund.",
+      "published_at": "2026-06-22T09:52:42",
+      "fetched_at": "2026-06-22T17:57:19",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "45ea7a18bd271d9b289a7ba5",
+      "title": "Official Statistics: Benefit cap: number of households capped to February 2026",
+      "link": "https://www.gov.uk/government/statistics/announcements/benefit-cap-number-of-households-capped-to-february-2026",
+      "summary": "Statistics on households that have had their benefits capped between 15 April 2013 and February 2026.",
+      "published_at": "2026-06-22T08:59:05",
+      "fetched_at": "2026-06-22T17:57:20",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 22,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension",
+        "ei"
+      ]
+    },
     {
       "id": "82fcb5f1490a6985d8ef37e6",
       "title": "Agency Information Collection Activities; Comment Request on Escrow Funds and Other Similar Funds",
