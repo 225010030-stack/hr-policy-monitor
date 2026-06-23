@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-06-23T12:18:54",
-  "total": 187,
-  "new_count": 4,
+  "synced_at": "2026-06-23T19:25:44",
+  "total": 210,
+  "new_count": 23,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 4,
+      "added": 20,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 3,
       "error": null
     },
     {
@@ -40,6 +40,529 @@
     }
   ],
   "items": [
+    {
+      "id": "408a693227944f2bd0ec3046",
+      "title": "Policy paper: Summary of tax update 2026: simplification, modernisation and fairness",
+      "link": "https://www.gov.uk/government/publications/summary-of-tax-update-2026-simplification-modernisation-and-fairness",
+      "summary": "A summary of consultations, calls for evidence, announcements and other documents published as part of continuous administration and maintenance of the tax system.",
+      "published_at": "2026-06-23T16:19:41",
+      "fetched_at": "2026-06-23T19:25:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "da3327ddd3fd8973d08ad4e7",
+      "title": "Back to work schemes",
+      "link": "https://www.gov.uk/guidance/universal-credit-and-jobseekers-allowance-jsa-back-to-work-schemes",
+      "summary": "Back to work programmes to help Universal Credit, Jobseeker's Allowance and Employment and Support Allowance claimants move nearer to, or into, work.",
+      "published_at": "2026-06-23T16:19:15",
+      "fetched_at": "2026-06-23T19:25:23",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "a307815de6688de2f41579c7",
+      "title": "Guidance: Making Tax Digital for Income Tax: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/use-software-to-send-income-tax-updates-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the Making Tax Digital for Income Tax service.",
+      "published_at": "2026-06-23T15:16:24",
+      "fetched_at": "2026-06-23T19:25:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "c734368437bb83df8c1a1edc",
+      "title": "Apply for a one-off payment under the Successful Legacy Appeals Compensation Scheme",
+      "link": "https://www.gov.uk/guidance/apply-for-a-one-off-payment-under-the-successful-legacy-appeals-compensation-scheme",
+      "summary": "Guidance if you received a lower level of benefit after moving to Universal Credit, and this was due to a decision to end your old 'legacy' benefit, which was found to be incorrect.",
+      "published_at": "2026-06-23T15:07:21",
+      "fetched_at": "2026-06-23T19:25:23",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 22,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension",
+        "ei"
+      ]
+    },
+    {
+      "id": "235753846e3540eedcc00db3",
+      "title": "Guidance: Report Pillar 2 top-up taxes: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/report-pillar-2-top-up-taxes-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the Report Pillar 2 top-up taxes service.",
+      "published_at": "2026-06-23T14:50:13",
+      "fetched_at": "2026-06-23T19:25:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "3de77bb80ad1c5dac4171a28",
+      "title": "Guidance: Compliance checks: Corresponding with HMRC electronically — CC/FS83 DSC2",
+      "link": "https://www.gov.uk/government/publications/compliance-checks-corresponding-with-hmrc-electronically-ccfs83",
+      "summary": "This factsheet tells you about corresponding with HMRC electronically using email or Dropbox, including the risks involved.",
+      "published_at": "2026-06-23T14:35:20",
+      "fetched_at": "2026-06-23T19:25:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 9,
+      "matched_keywords": [
+        "payroll",
+        "compliance"
+      ]
+    },
+    {
+      "id": "b306e4106d5b14b934c4c86e",
+      "title": "Check genuine HMRC contact that uses more than one communication method",
+      "link": "https://www.gov.uk/guidance/check-genuine-hmrc-contact-that-uses-more-than-one-communication-method",
+      "summary": "Check recent contacts from HMRC to help you decide if a suspicious email, phone call, text or letter could be a scam.",
+      "published_at": "2026-06-23T13:58:40",
+      "fetched_at": "2026-06-23T19:25:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "8549cc9ede887aa371fbf187",
+      "title": "Policy paper: Directions under section 43E of the Taxes Management Act 1970 and regulation 65A(5) and (6) of the Income Tax (Pay As You Earn) Regulations 2003 and Regulation 189 of the Income Tax (Pay As You Earn) Regulations 2003",
+      "link": "https://www.gov.uk/government/publications/directions-under-section-43e-of-the-taxes-management-act-1970-and-regulation-65a5-and-6-of-the-income-tax-pay-as-you-earn-regulations-2003-and-r",
+      "summary": "Directions for employees who need to notify HMRC of deductible job expenses and claim Income Tax relief on them.",
+      "published_at": "2026-06-23T13:56:29",
+      "fetched_at": "2026-06-23T19:25:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 12,
+      "matched_keywords": [
+        "payroll",
+        "deductible",
+        "regulation"
+      ]
+    },
+    {
+      "id": "36eed1f60242af0ebacddaac",
+      "title": "Government backs high street with acceleration of cheap import reforms and crackdown on dodgy online sellers",
+      "link": "https://www.gov.uk/government/news/government-backs-high-street-with-acceleration-of-cheap-import-reforms-and-crackdown-on-dodgy-online-sellers",
+      "summary": "High street businesses are set to benefit from action to level the playing field as the government sets out tax and customs reforms.",
+      "published_at": "2026-06-23T13:50:00",
+      "fetched_at": "2026-06-23T19:25:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 13,
+      "matched_keywords": [
+        "benefit",
+        "payroll",
+        "cra"
+      ]
+    },
+    {
+      "id": "7d075c4461777460831f179d",
+      "title": "Policy paper: Capital Gains Tax relief on gifts of business assets",
+      "link": "https://www.gov.uk/government/publications/capital-gains-tax-relief-on-gifts-of-business-assets",
+      "summary": "This tax information and impact note is about reforms to UK law relating to Capital Gains Tax relief for gifts of business assets.",
+      "published_at": "2026-06-23T13:22:20",
+      "fetched_at": "2026-06-23T19:25:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "93876558a1544d4ef33f5d1a",
+      "title": "Introduction of Mandatory Registration for Customs Intermediaries",
+      "link": "https://www.gov.uk/government/consultations/introduction-of-mandatory-registration-for-customs-intermediaries",
+      "summary": "This consultation seeks views on new mandatory registration for customs intermediaries who submit customs declarations on behalf of traders.",
+      "published_at": "2026-06-23T13:19:01",
+      "fetched_at": "2026-06-23T19:25:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "fe23146e8e8c4042d5af7539",
+      "title": "Extending online marketplace liability to combat non-compliance",
+      "link": "https://www.gov.uk/government/consultations/extending-online-marketplace-liability-to-combat-non-compliance",
+      "summary": "A proposal to extend current online marketplace VAT liability rules to sales on OMPs by UK based businesses, when their goods are in the UK at the point of sale.",
+      "published_at": "2026-06-23T13:19:00",
+      "fetched_at": "2026-06-23T19:25:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 13,
+      "matched_keywords": [
+        "payroll",
+        "ei",
+        "compliance"
+      ]
+    },
+    {
+      "id": "7eacb46c5ef03833cc30a202",
+      "title": "Corporate report: Fiscal Events 2026 — factsheets",
+      "link": "https://www.gov.uk/government/publications/fiscal-events-2026-factsheets",
+      "summary": "This collection brings together factsheets on measures announced at Fiscal Events 2026, including planned reforms and consultations across the tax system.",
+      "published_at": "2026-06-23T13:19:00",
+      "fetched_at": "2026-06-23T19:25:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "24426a6045bb4e99c73678f9",
+      "title": "Customs Modernisation",
+      "link": "https://www.gov.uk/government/calls-for-evidence/customs-modernisation",
+      "summary": "We welcome views on the future of international trade and the impacts of digitalised and modernised practices on the UK customs regime.",
+      "published_at": "2026-06-23T13:18:47",
+      "fetched_at": "2026-06-23T19:25:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "e986c60f96b4434e024cbea0",
+      "title": "Voluntary National Insurance contributions: call for evidence",
+      "link": "https://www.gov.uk/government/calls-for-evidence/voluntary-national-insurance-contributions-call-for-evidence",
+      "summary": "A call for evidence seeking views on the design, operation and future direction of voluntary National Insurance contributions.",
+      "published_at": "2026-06-23T13:18:37",
+      "fetched_at": "2026-06-23T19:25:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "b5487838398e517aede0fd1a",
+      "title": "Proposed offence for reckless untrue statements — Direct taxes",
+      "link": "https://www.gov.uk/government/consultations/proposed-offence-for-reckless-untrue-statements-direct-taxes",
+      "summary": "Consultation on introducing a new criminal offence for making reckless untrue statements or declarations in direct tax.",
+      "published_at": "2026-06-23T13:18:33",
+      "fetched_at": "2026-06-23T19:25:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "32e6f97a304175aeb7df0010",
+      "title": "Tackling lower value tax debts",
+      "link": "https://www.gov.uk/government/consultations/tackling-lower-value-tax-debts",
+      "summary": "A consultation seeking views on proposals to extend existing powers to enforce lower value tax debts through directly deducted monthly instalments.",
+      "published_at": "2026-06-23T13:18:03",
+      "fetched_at": "2026-06-23T19:25:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "bff319991f39de347757d678",
+      "title": "Electronic Sales Suppression: Introduction of software standards",
+      "link": "https://www.gov.uk/government/consultations/electronic-sales-suppression-introduction-of-software-standards",
+      "summary": "HMRC is seeking views on proposed software standards to prevent electronic sales suppression and help ensure businesses report sales accurately.",
+      "published_at": "2026-06-23T13:18:00",
+      "fetched_at": "2026-06-23T19:25:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "8c85702bd4200e6ff711d463",
+      "title": "Modernising the distributions framework",
+      "link": "https://www.gov.uk/government/consultations/modernising-the-distributions-framework",
+      "summary": "This consultation seeks views on proposals to update the distributions framework.",
+      "published_at": "2026-06-23T13:18:00",
+      "fetched_at": "2026-06-23T19:25:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "c84f48eeaa6d0ff960833e28",
+      "title": "PAYE Settlement Agreements — call for evidence",
+      "link": "https://www.gov.uk/government/calls-for-evidence/paye-settlement-agreements-call-for-evidence",
+      "summary": "The government has published a call for evidence to explore how PAYE Settlement Agreements are used in practice.",
+      "published_at": "2026-06-23T13:18:00",
+      "fetched_at": "2026-06-23T19:25:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "cee10136c80372f1c2402200",
+      "title": "Timely Payments in income tax Self Assessment",
+      "link": "https://www.gov.uk/government/consultations/timely-payments-in-income-tax-self-assessment",
+      "summary": "This consultation seeks views on implementing more timely payment in Income Tax Self Assessment (ITSA), following the government’s announcement at Budget 2025.",
+      "published_at": "2026-06-23T13:18:00",
+      "fetched_at": "2026-06-23T19:25:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "aeaaa5acbe49757df72852c3",
+      "title": "VAT treatment of land for social housing",
+      "link": "https://www.gov.uk/government/consultations/vat-treatment-of-land-for-social-housing",
+      "summary": "Consultation on introducing a new VAT zero rate for land intended for the construction of social housing across the UK.",
+      "published_at": "2026-06-23T13:18:00",
+      "fetched_at": "2026-06-23T19:25:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "55705840987565a2348e7a8f",
+      "title": "Guidance: Advertise your vacancies",
+      "link": "https://www.gov.uk/government/publications/advertise-your-vacancies",
+      "summary": "Support for employers to help advertise vacancies.",
+      "published_at": "2026-06-23T12:44:55",
+      "fetched_at": "2026-06-23T19:25:23",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
     {
       "id": "98c63fca54fa9b8018a48740",
       "title": "Guidance: Making Tax Digital for Income Tax: service availability and issues",
