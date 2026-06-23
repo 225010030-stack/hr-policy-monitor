@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-06-23T11:44:13",
-  "total": 183,
-  "new_count": 16,
+  "synced_at": "2026-06-23T12:18:54",
+  "total": 187,
+  "new_count": 4,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
       "fetched": 16,
-      "added": 1,
+      "added": 0,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 10,
+      "added": 4,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 5,
+      "added": 0,
       "error": null
     },
     {
@@ -40,6 +40,95 @@
     }
   ],
   "items": [
+    {
+      "id": "98c63fca54fa9b8018a48740",
+      "title": "Guidance: Making Tax Digital for Income Tax: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/use-software-to-send-income-tax-updates-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the Making Tax Digital for Income Tax service.",
+      "published_at": "2026-06-23T12:11:29",
+      "fetched_at": "2026-06-23T12:18:34",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "612960a7fd3a75ab3e25073a",
+      "title": "Official Statistics: Non-domestic rating: challenges and changes, 2023 and 2026 rating lists, June 2026",
+      "link": "https://www.gov.uk/government/statistics/announcements/non-domestic-rating-challenges-and-changes-2023-and-2026-rating-lists-june-2026",
+      "summary": "Statistics on checks and challenges against the 2023 and 2026 local rating lists at 30 June 2026.",
+      "published_at": "2026-06-23T12:09:07",
+      "fetched_at": "2026-06-23T12:18:34",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "a2557c85f13c060f9ab80426",
+      "title": "Customs Declaration Service: service availability and issues",
+      "link": "https://www.gov.uk/guidance/customs-declaration-service-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the Customs Declaration Service.",
+      "published_at": "2026-06-23T12:05:11",
+      "fetched_at": "2026-06-23T12:18:34",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "1fa0807bc0e35ec878b96a30",
+      "title": "Check if a business is registered for money laundering supervision",
+      "link": "https://www.gov.uk/guidance/money-laundering-regulations-supervised-business-register",
+      "summary": "Find out if a business has registered with HMRC under the money laundering regulations and report them if they have not.",
+      "published_at": "2026-06-23T11:40:58",
+      "fetched_at": "2026-06-23T12:18:34",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 9,
+      "matched_keywords": [
+        "payroll",
+        "regulation"
+      ]
+    },
     {
       "id": "4d4f6a6fcfe76d171e30124d",
       "title": "Research: Skills England Annual Skills Report and Sectoral Skills Needs Assessments 2026",
