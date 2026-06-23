@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-06-22T23:06:33",
-  "total": 167,
-  "new_count": 0,
+  "synced_at": "2026-06-23T11:44:13",
+  "total": 183,
+  "new_count": 16,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
-      "fetched": 15,
-      "added": 0,
+      "fetched": 16,
+      "added": 1,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 10,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 5,
       "error": null
     },
     {
@@ -40,6 +40,376 @@
     }
   ],
   "items": [
+    {
+      "id": "4d4f6a6fcfe76d171e30124d",
+      "title": "Research: Skills England Annual Skills Report and Sectoral Skills Needs Assessments 2026",
+      "link": "https://www.gov.uk/government/publications/skills-england-annual-skills-report-and-sectoral-skills-needs-assessments-2026",
+      "summary": "The 2026 Annual Skills Report highlights key challenges in the skills system - our Skills Needs Assessments outline skills demand and supply in priority sectors.",
+      "published_at": "2026-06-23T11:20:00",
+      "fetched_at": "2026-06-23T11:43:52",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "a6cd6b33e001e69b5ecde423",
+      "title": "Official Statistics: Child Maintenance Service statistics: data to March 2026",
+      "link": "https://www.gov.uk/government/statistics/announcements/child-maintenance-service-statistics-data-to-march-2026",
+      "summary": "Quarterly statistics on the Child Maintenance Service to March 2026.",
+      "published_at": "2026-06-23T11:15:29",
+      "fetched_at": "2026-06-23T11:43:52",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "5d3a34d855f3d1ee3305a64e",
+      "title": "Guidance: Timms Review of Personal Independence Payment: run a workshop",
+      "link": "https://www.gov.uk/government/publications/timms-review-of-personal-independence-payment-run-a-workshop",
+      "summary": "This 'Workshop in a box' provides materials to run sessions that gather and share views for the Timms Review of Personal Independence Payment (PIP).",
+      "published_at": "2026-06-23T11:12:34",
+      "fetched_at": "2026-06-23T11:43:52",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "9329fce15279cf44d4796298",
+      "title": "Guidance: Preparing for Vaping Products Duty and the Vaping Duty Stamps Scheme",
+      "link": "https://www.gov.uk/government/publications/preparing-for-vaping-products-duty-and-the-vaping-duty-stamps-scheme",
+      "summary": "Find out why you need to prepare for 1 April 2026 if you manufacture, import or store vaping products in the UK.",
+      "published_at": "2026-06-23T10:56:10",
+      "fetched_at": "2026-06-23T11:43:52",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "315e798df5d4b101dcc09744",
+      "title": "Tax Gap 2024-25 estimated at 6.4%",
+      "link": "https://www.gov.uk/government/news/tax-gap-2024-25-estimated-at-64",
+      "summary": "HMRC publishes the estimated tax gap for the 2024 to 2025 tax year.",
+      "published_at": "2026-06-23T10:21:37",
+      "fetched_at": "2026-06-23T11:43:52",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "9b6e39e51d7b06fbd5ff972a",
+      "title": "How to report Pillar 2 Top-up Taxes",
+      "link": "https://www.gov.uk/guidance/how-to-report-pillar-2-top-up-taxes",
+      "summary": "Find out how to tell HMRC about your Pillar 2 Top-up Taxes (these are Multinational Top-up Tax and Domestic Top-up Tax).",
+      "published_at": "2026-06-23T09:59:21",
+      "fetched_at": "2026-06-23T11:43:52",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "48dd8704d5d148897147258b",
+      "title": "Guidance: Making Tax Digital for Income Tax: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/use-software-to-send-income-tax-updates-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the Making Tax Digital for Income Tax service.",
+      "published_at": "2026-06-23T08:57:07",
+      "fetched_at": "2026-06-23T11:43:52",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "0988c79ef239adff2f7be3d6",
+      "title": "Official Statistics: Measuring tax gaps 2026 edition: tax gap estimates for 2024 to 2025",
+      "link": "https://www.gov.uk/government/statistics/measuring-tax-gaps",
+      "summary": "HM Revenue and Customs (HMRC) statistics and methodological annexes relating to measuring tax gaps.",
+      "published_at": "2026-06-23T08:55:27",
+      "fetched_at": "2026-06-23T11:43:52",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "51afb68236fcebfa025894e1",
+      "title": "Official Statistics: Measuring tax gaps tables",
+      "link": "https://www.gov.uk/government/statistics/measuring-tax-gaps-tables",
+      "summary": "HM Revenue and Customs (HMRC) tables relating to measuring tax gaps.",
+      "published_at": "2026-06-23T08:52:54",
+      "fetched_at": "2026-06-23T11:43:52",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "55f3ff71a6d60775efe107ea",
+      "title": "Official Statistics: Quality report: Measuring tax gaps",
+      "link": "https://www.gov.uk/government/statistics/quality-report-measuring-tax-gaps",
+      "summary": "Quality report for statistics relating to measuring tax gaps.",
+      "published_at": "2026-06-23T08:51:19",
+      "fetched_at": "2026-06-23T11:43:52",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "e9531854d0635dfb9821708c",
+      "title": "Official Statistics: Pre-release access to DWP statistics",
+      "link": "https://www.gov.uk/government/statistics/pre-release-access-to-statistics-order-2008",
+      "summary": "Job titles of people with pre-release access to Department for Work and Pensions (DWP) statistics and the organisations they belong to.",
+      "published_at": "2026-06-23T08:30:03",
+      "fetched_at": "2026-06-23T11:43:52",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "1df80eed77e70a8e07b69404",
+      "title": "Official Statistics: Benefit cap: number of households capped to February 2026",
+      "link": "https://www.gov.uk/government/statistics/benefit-cap-number-of-households-capped-to-february-2026",
+      "summary": "Statistics on households that have had their benefits capped between 15 April 2013 and February 2026.",
+      "published_at": "2026-06-23T08:30:02",
+      "fetched_at": "2026-06-23T11:43:52",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 22,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension",
+        "ei"
+      ]
+    },
+    {
+      "id": "103b5527fbd0e7f9fbb9256e",
+      "title": "Guidance: Excise movement and control system: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/excise-movement-and-control-system-emcs-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the excise movement and control system (EMCS) online service.",
+      "published_at": "2026-06-23T06:52:49",
+      "fetched_at": "2026-06-23T11:43:52",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "1a888a85a015df91a0e777c9",
+      "title": "Guidance: Customs Declaration Service error codes",
+      "link": "https://www.gov.uk/government/publications/customs-declaration-service-error-codes",
+      "summary": "Look up Customs Declaration Service error codes.",
+      "published_at": "2026-06-23T06:46:22",
+      "fetched_at": "2026-06-23T11:43:52",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "919f2c0db256046f6974c5ca",
+      "title": "Guidance: Childcare service: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/tax-free-childcare-service-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the Childcare service.",
+      "published_at": "2026-06-23T06:07:24",
+      "fetched_at": "2026-06-23T11:43:52",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "0c4ec90aa196531d8ebfd1eb",
+      "title": "Agency Information Collection Activities; Comment Request on Form 8975 and Schedule A (Form 8975)",
+      "link": "https://www.federalregister.gov/documents/2026/06/23/2026-12545/agency-information-collection-activities-comment-request-on-form-8975-and-schedule-a-form-8975",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+      "published_at": "2026-06-23T04:00:00",
+      "fetched_at": "2026-06-23T11:43:50",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
     {
       "id": "c8724e8a9c8be8f53d411b0d",
       "title": "Guidance: Excise movement and control system: service availability and issues",
