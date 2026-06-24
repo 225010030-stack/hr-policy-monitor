@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-06-24T10:37:05",
-  "total": 233,
-  "new_count": 23,
+  "synced_at": "2026-06-24T11:33:46",
+  "total": 234,
+  "new_count": 1,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
       "fetched": 17,
-      "added": 1,
+      "added": 0,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 20,
+      "added": 0,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 2,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,32 @@
     }
   ],
   "items": [
+    {
+      "id": "cd80c044bcee46a32f317559",
+      "title": "Official Statistics: DWP Complaints statistics to March 2026",
+      "link": "https://www.gov.uk/government/statistics/announcements/dwp-complaints-statistics-to-march-2026",
+      "summary": "Quarterly release of Official Statistics in Development including DWP complaints received, closed and upheld by each business area, and categorisation of the reason for the complaint.",
+      "published_at": "2026-06-24T11:05:52",
+      "fetched_at": "2026-06-24T11:33:25",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 22,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension",
+        "ei"
+      ]
+    },
     {
       "id": "0b88e47ef4f4c54374dbca4c",
       "title": "Research: Upcoming DWP research publications",
