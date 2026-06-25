@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-06-24T18:22:34",
-  "total": 241,
-  "new_count": 7,
+  "synced_at": "2026-06-25T10:29:57",
+  "total": 257,
+  "new_count": 16,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 6,
+      "added": 9,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 1,
+      "added": 7,
       "error": null
     },
     {
@@ -40,6 +40,387 @@
     }
   ],
   "items": [
+    {
+      "id": "5ad5c2001ab9f2fda0a4cb6e",
+      "title": "Transfer a pension scheme member's savings",
+      "link": "https://www.gov.uk/guidance/pension-administrators-member-transfers",
+      "summary": "Moving an individual's pension fund from one scheme to another and guarding against pension liberation.",
+      "published_at": "2026-06-25T10:03:56",
+      "fetched_at": "2026-06-25T10:29:37",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "pension",
+        "payroll"
+      ]
+    },
+    {
+      "id": "d934b558d935f865b2e1acfe",
+      "title": "Guidance: Find out who has been granted a utility direction",
+      "link": "https://www.gov.uk/government/publications/find-out-who-has-been-granted-a-utility-direction",
+      "summary": "Check who's been granted a Climate Change Levy (CCL) utility direction for gas and electricity, so you can decide whether to charge CCL.",
+      "published_at": "2026-06-25T09:58:22",
+      "fetched_at": "2026-06-25T10:29:37",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "08fba9e223af094bb620cccd",
+      "title": "Need tax help? Gen Zs wish they had learnt basics about tax",
+      "link": "https://www.gov.uk/government/news/need-tax-help-gen-zs-wish-they-had-learnt-basics-about-tax",
+      "summary": "Summer jobseekers urged to use the HMRC app to demystify tax and money matters",
+      "published_at": "2026-06-25T09:39:56",
+      "fetched_at": "2026-06-25T10:29:37",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "2fbc9a9d0d796149af7c3867",
+      "title": "Bingo Duty",
+      "link": "https://www.gov.uk/guidance/bingo-duty",
+      "summary": "Find out if you should pay Bingo Duty on profits from games played in the UK, how to calculate your Bingo Duty, send returns and how to pay.",
+      "published_at": "2026-06-25T09:15:24",
+      "fetched_at": "2026-06-25T10:29:37",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "7a017c8e498c0802f209abcb",
+      "title": "Guidance: Request a pension scheme refund or reallocation",
+      "link": "https://www.gov.uk/government/publications/pension-schemes-refund-or-reallocation-request",
+      "summary": "Ask for a refund or reallocation of charges paid relating to returns and reports submitted using the Pension Schemes Online or managing pension schemes services.",
+      "published_at": "2026-06-25T09:04:55",
+      "fetched_at": "2026-06-25T10:29:37",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "pension",
+        "payroll"
+      ]
+    },
+    {
+      "id": "76b0c8c06b4242757b4c3908",
+      "title": "Guidance: Housing Benefit adjudication circulars 2026",
+      "link": "https://www.gov.uk/government/publications/housing-benefit-adjudication-circulars-2026",
+      "summary": "Adjudication circulars provide updates to the Housing Benefit guidance manual for local authority staff.",
+      "published_at": "2026-06-25T08:54:40",
+      "fetched_at": "2026-06-25T10:29:37",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "80db3034a19ae3d1bf28564f",
+      "title": "Policy paper: DWP action plan: State Pension age communications and complaints handling",
+      "link": "https://www.gov.uk/government/publications/dwp-action-plan-state-pension-age-communications-and-complaints-handling",
+      "summary": "How the Department for Work and Pensions will learn lessons from the Parliamentary and Health Service Ombudsman’s (PHSO) investigation into communications about women's State Pension age",
+      "published_at": "2026-06-25T08:46:38",
+      "fetched_at": "2026-06-25T10:29:37",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "06379abe102c61ba6cafb1fc",
+      "title": "Corporate report: Penalties for a failure to correct certain offshore tax non-compliance",
+      "link": "https://www.gov.uk/government/publications/penalties-for-a-failure-to-correct-certain-offshore-tax-non-compliance",
+      "summary": "The current list of people found liable to a penalty for failing to correct their offshore tax non-compliance during the required period.",
+      "published_at": "2026-06-25T08:30:09",
+      "fetched_at": "2026-06-25T10:29:37",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 13,
+      "matched_keywords": [
+        "payroll",
+        "ei",
+        "compliance"
+      ]
+    },
+    {
+      "id": "4a643a5f3da29e4cca353043",
+      "title": "Corporate report: People involved in transactions connected with VAT fraud",
+      "link": "https://www.gov.uk/government/publications/people-involved-in-transactions-connected-with-vat-fraud",
+      "summary": "A list of people penalised for their involvement in transactions connected with VAT fraud.",
+      "published_at": "2026-06-25T08:30:09",
+      "fetched_at": "2026-06-25T10:29:37",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "10e58c7b627799428f02f1cd",
+      "title": "Corporate report: Details of deliberate tax defaulters",
+      "link": "https://www.gov.uk/government/publications/publishing-details-of-deliberate-tax-defaulters-pddd",
+      "summary": "The current list of people who deliberately got their tax affairs wrong.",
+      "published_at": "2026-06-25T08:30:09",
+      "fetched_at": "2026-06-25T10:29:37",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "651132ec321ee49d8bd6d80d",
+      "title": "Guidance: DWP statistical work programme",
+      "link": "https://www.gov.uk/government/publications/dwp-statistical-work-programme",
+      "summary": "The statistical work programme outlines developments to releases of DWP Official Statistics.",
+      "published_at": "2026-06-25T08:30:08",
+      "fetched_at": "2026-06-25T10:29:37",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "d0800b5ae5b9731733023420",
+      "title": "Transparency data: DWP and CMG: spending over £500, May 2026",
+      "link": "https://www.gov.uk/government/publications/dwp-and-cmg-spending-over-500-may-2026",
+      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
+      "published_at": "2026-06-25T08:30:05",
+      "fetched_at": "2026-06-25T10:29:37",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "f9d47ac7efa2b20690a948b7",
+      "title": "Research: Journeys to Access to Work",
+      "link": "https://www.gov.uk/government/publications/journeys-to-access-to-work",
+      "summary": "This report summarises applicants’ and employers’ experiences of Access to Work, their perceptions of its impact and recommendations for improvement.",
+      "published_at": "2026-06-25T08:30:01",
+      "fetched_at": "2026-06-25T10:29:37",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 22,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension",
+        "ei"
+      ]
+    },
+    {
+      "id": "21efebd39c3996a701b26a34",
+      "title": "Research: Labour Market Evidence Programme: user consultation and scoping report",
+      "link": "https://www.gov.uk/government/publications/labour-market-evidence-programme-user-consultation-and-scoping-report",
+      "summary": "This report presents local governments' evidence needs on supporting people to enter and remain in employment, and proposes evidence reviews to address these.",
+      "published_at": "2026-06-25T08:30:01",
+      "fetched_at": "2026-06-25T10:29:37",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "2208a6cadd1a3b8d8f1b4246",
+      "title": "Policy paper: Pathways to priority occupations: supporting post-16 education and skills",
+      "link": "https://www.gov.uk/government/publications/pathways-to-priority-occupations-supporting-post-16-education-and-skills",
+      "summary": "A measure to monitor learners starting pathways - courses and subjects - that are more likely to lead to priority occupations in priority growth sectors.",
+      "published_at": "2026-06-25T08:30:00",
+      "fetched_at": "2026-06-25T10:29:37",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "7eaaa995e668edf70d815e52",
+      "title": "Guidance: Pension schemes newsletter 182 — June 2026",
+      "link": "https://www.gov.uk/government/publications/pension-schemes-newsletter-182-june-2026",
+      "summary": "Newsletter 182, published by HMRC in June 2026 to update stakeholders on the latest news for pension schemes.",
+      "published_at": "2026-06-25T08:00:49",
+      "fetched_at": "2026-06-25T10:29:37",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "pension",
+        "payroll"
+      ]
+    },
     {
       "id": "dc1f62e0ffb8850c9c0494ba",
       "title": "International Exchange of Information Manual",
