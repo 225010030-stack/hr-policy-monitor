@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-06-26T11:19:12",
-  "total": 296,
-  "new_count": 12,
+  "synced_at": "2026-06-26T11:35:12",
+  "total": 297,
+  "new_count": 1,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
       "fetched": 19,
-      "added": 2,
+      "added": 0,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 8,
+      "added": 1,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 2,
+      "added": 0,
       "error": null
     },
     {
@@ -40,6 +40,28 @@
     }
   ],
   "items": [
+    {
+      "id": "2733f6a402b5125c453b2dd4",
+      "title": "Guidance: External temporary storage facilities codes for Data Element 5/23 of the Customs Declaration Service",
+      "link": "https://www.gov.uk/government/publications/external-temporary-storage-facilities-codes-for-data-element-523-of-the-customs-declaration-service",
+      "summary": "Find the codes which can be used in Data Element 5/23 to identify the location where the goods may be examined for an external temporary storage facility (ETSF) (Appendix 16F).",
+      "published_at": "2026-06-26T11:19:59",
+      "fetched_at": "2026-06-26T11:34:51",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "d052ec510e3c27f775706629",
       "title": "Data Element 2/3: Documents and Other Reference Codes (National) of the Customs Declaration Service (CDS)",
