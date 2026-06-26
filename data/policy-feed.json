@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-06-26T11:35:12",
-  "total": 297,
-  "new_count": 1,
+  "synced_at": "2026-06-26T18:13:13",
+  "total": 308,
+  "new_count": 11,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 1,
+      "added": 10,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,253 @@
     }
   ],
   "items": [
+    {
+      "id": "389039561a1d76fcc6527f5d",
+      "title": "Economic Crime Supervision Handbook",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/economic-crime-supervision-handbook",
+      "summary": "The aim of the ECS handbook is to give you clear and comprehensive guidance on how to undertake your role within ECS. It will help you understand the legislation, how our policies work and how they should be applied. It will also explain how to apply the sanctions framework and the powers available for you to use under the MLR2017. Additionally, it may be used by external customers to understand how sanctions are applied.",
+      "published_at": "2026-06-26T15:20:21",
+      "fetched_at": "2026-06-26T18:12:53",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "aff539c7fe5d49bfe465d569",
+      "title": "Guidance: Check the statutory market values for oil",
+      "link": "https://www.gov.uk/government/publications/check-the-statutory-market-values-for-oil",
+      "summary": "Find statutory market values for disposal of category 1 oil from a UK field, which has not been sold at arm's length.",
+      "published_at": "2026-06-26T14:42:40",
+      "fetched_at": "2026-06-26T18:12:53",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 9,
+      "matched_keywords": [
+        "payroll",
+        "statutory"
+      ]
+    },
+    {
+      "id": "5605ca968c4c8f671c639259",
+      "title": "How to report Pillar 2 Top-up Taxes",
+      "link": "https://www.gov.uk/guidance/how-to-report-pillar-2-top-up-taxes",
+      "summary": "Find out how to tell HMRC about your Pillar 2 Top-up Taxes (these are Multinational Top-up Tax and Domestic Top-up Tax).",
+      "published_at": "2026-06-26T14:18:18",
+      "fetched_at": "2026-06-26T18:12:53",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "c5ececdfc960e58d4fa81f22",
+      "title": "Sign up your client for Making Tax Digital for Income Tax",
+      "link": "https://www.gov.uk/guidance/sign-up-your-client-for-making-tax-digital-for-income-tax",
+      "summary": "If you're an agent, use the online service to sign up your client for Making Tax Digital for Income Tax.",
+      "published_at": "2026-06-26T13:53:22",
+      "fetched_at": "2026-06-26T18:12:53",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "14194623e4604f5b6e80d648",
+      "title": "Sign up for Making Tax Digital for Income Tax",
+      "link": "https://www.gov.uk/guidance/sign-up-for-making-tax-digital-for-income-tax",
+      "summary": "If you're a sole trader or landlord, use the online service to sign up for Making Tax Digital for Income Tax.",
+      "published_at": "2026-06-26T13:53:20",
+      "fetched_at": "2026-06-26T18:12:53",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "141d1aad51a61709866244ca",
+      "title": "Penalties and interest on a late Stamp Duty Land Tax return",
+      "link": "https://www.gov.uk/guidance/penalties-and-interest-on-a-late-stamp-duty-land-tax-return",
+      "summary": "Find out about penalties and interest if you file your return late or make a late payment.",
+      "published_at": "2026-06-26T12:52:20",
+      "fetched_at": "2026-06-26T18:12:53",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "18c58e960451498f5066307f",
+      "title": "Apply for a refund of Stamp Duty Land Tax",
+      "link": "https://www.gov.uk/guidance/apply-for-a-refund-of-stamp-duty-land-tax",
+      "summary": "Find out how to apply to HMRC for a Stamp Duty Land Tax refund after you have sent your return.",
+      "published_at": "2026-06-26T12:51:14",
+      "fetched_at": "2026-06-26T18:12:53",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "602fbf76eb7557a75df2e907",
+      "title": "Tell HMRC about changes to your Stamp Duty Land Tax return",
+      "link": "https://www.gov.uk/guidance/tell-hmrc-about-changes-to-your-stamp-duty-land-tax-return",
+      "summary": "Find out when and how you can amend your return and what to do if you send a duplicate return.",
+      "published_at": "2026-06-26T12:50:52",
+      "fetched_at": "2026-06-26T18:12:53",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "8bc8167552a4b84b2ffef75f",
+      "title": "How to send a Stamp Duty Land Tax return",
+      "link": "https://www.gov.uk/guidance/how-to-send-a-stamp-duty-land-tax-return",
+      "summary": "Find out how to send a Stamp Duty Land Tax return.",
+      "published_at": "2026-06-26T12:48:29",
+      "fetched_at": "2026-06-26T18:12:53",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "ac693d423883d77f2ec00500",
+      "title": "Check if you need to send a Stamp Duty Land Tax return",
+      "link": "https://www.gov.uk/guidance/check-if-you-need-to-send-a-stamp-duty-land-tax-return",
+      "summary": "Find out if you need to tell HMRC when you buy property or land in England or Northern Ireland.",
+      "published_at": "2026-06-26T12:47:52",
+      "fetched_at": "2026-06-26T18:12:53",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "589a4b5e8d98b9fa34bd645d",
+      "title": "Statutory guidance: Access to Work MHSS provider guidance for contracts effective on or after 20 August 2024",
+      "link": "https://www.gov.uk/government/publications/access-to-work-mhss-provider-guidance-for-contracts-effective-on-or-after-20-august-2024",
+      "summary": "DWP provider guidance for the Access to Work Mental Health Support Service (MHSS) programme.",
+      "published_at": "2026-06-26T12:00:02",
+      "fetched_at": "2026-06-26T18:12:53",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 21,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension",
+        "statutory"
+      ]
+    },
     {
       "id": "2733f6a402b5125c453b2dd4",
       "title": "Guidance: External temporary storage facilities codes for Data Element 5/23 of the Customs Declaration Service",
