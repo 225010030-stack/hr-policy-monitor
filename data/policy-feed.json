@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-06-25T19:21:56",
-  "total": 284,
-  "new_count": 25,
+  "synced_at": "2026-06-26T11:19:12",
+  "total": 296,
+  "new_count": 12,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
-      "fetched": 17,
-      "added": 0,
+      "fetched": 19,
+      "added": 2,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 15,
+      "added": 8,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 10,
+      "added": 2,
       "error": null
     },
     {
@@ -40,6 +40,282 @@
     }
   ],
   "items": [
+    {
+      "id": "d052ec510e3c27f775706629",
+      "title": "Data Element 2/3: Documents and Other Reference Codes (National) of the Customs Declaration Service (CDS)",
+      "link": "https://www.gov.uk/guidance/data-element-23-documents-and-other-reference-codes-national-of-the-customs-declaration-service-cds",
+      "summary": "Find a list of codes for the relevant document codes, document status codes and details to be declared (for example, licences and certificates) in Data Element 2/3 (Appendix 5A).",
+      "published_at": "2026-06-26T10:42:34",
+      "fetched_at": "2026-06-26T11:18:51",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "774e62f48127b8be8d0902f5",
+      "title": "Notice: Vaping Products Duty and Vaping Duty Stamps: Force of Law Notice",
+      "link": "https://www.gov.uk/government/publications/vaping-products-duty-and-vaping-duty-stamps-force-of-law-notice",
+      "summary": "Notices made under Part 4 of the Finance Act 2026, The Vaping Products (Production, Duty Stamps and Commencement) Regulations 2026 and The Vaping Duty Stamps (Requirements, Reviews and Appeals) Regulations 2026, which have the force of law.",
+      "published_at": "2026-06-26T10:25:07",
+      "fetched_at": "2026-06-26T11:18:51",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 9,
+      "matched_keywords": [
+        "payroll",
+        "regulation"
+      ]
+    },
+    {
+      "id": "edea96d0417d7ebbc7d8a029",
+      "title": "Multinational Top-up Tax and Domestic Top-up Tax",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/multinational-top-up-tax-and-domestic-top-up-tax",
+      "summary": "This manual covers Multinational Top-up Tax (MTT) and Domestic Top-up Tax (DTT). MTT is the UK's implementation of the Income Inclusion Rule and Undertaxed Profits Rule. These are widely known as the GloBE rules, as set out in the OECD's Pillar Two Model Rules. DTT is the UK's implementation of a Qualifying Domestic Minimum Top-up Tax (QDMTT), which applies the Pillar Two rules to UK entities.",
+      "published_at": "2026-06-26T10:12:14",
+      "fetched_at": "2026-06-26T11:18:51",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "06fa5d5770e30a061074770e",
+      "title": "Decision: CIL Appeal 1889233  — 3 June 26 — Change of barn to a dwellinghouse",
+      "link": "https://www.gov.uk/government/publications/cil-appeal-1889233-3-june-26-change-of-barn-to-a-dwellinghouse",
+      "summary": "Decision on change of use from barn to a dwellinghouse and associated works (retrospective).",
+      "published_at": "2026-06-26T08:30:00",
+      "fetched_at": "2026-06-26T11:18:51",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "8e806fffcec44e4e2df09ef0",
+      "title": "UK measured against EU and non-EU partner countries, 2022 to 2024: accompanying tables",
+      "link": "https://www.gov.uk/government/statistical-data-sets/uk-measured-against-eu-and-non-eu-partner-countries-2022-to-2024-accompanying-tables",
+      "summary": "Supporting tables for UK trade asymmetries figures between the years of 2022 to 2024.",
+      "published_at": "2026-06-26T08:30:00",
+      "fetched_at": "2026-06-26T11:18:51",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "a8dc458f09e59fa5ddd7c1cb",
+      "title": "Official Statistics: Asymmetries in international trade in goods statistics: UK measured against EU and non-EU partner countries, 2022 to 2024",
+      "link": "https://www.gov.uk/government/statistics/asymmetries-in-international-trade-in-goods-statistics-uk-measured-against-eu-and-non-eu-partner-countries-2022-to-2024",
+      "summary": "This release is an asymmetry study covering trade in goods between the UK and its EU and non-EU partners by value (UK imports and UK exports) for the calendar years 2022 to 2024.",
+      "published_at": "2026-06-26T08:30:00",
+      "fetched_at": "2026-06-26T11:18:51",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "9c58223fa7a257a136b31b65",
+      "title": "Decision: CIL Appeal 1888338 — 14 May 26 —  Conversion to holiday lets",
+      "link": "https://www.gov.uk/government/publications/cil-appeal-1888338-14-may-26-conversion-to-holiday-lets",
+      "summary": "Decision on conversion of existing facilities building to a one bedroom holiday let and replacement of three buildings with one and two-bedroom holiday lets.",
+      "published_at": "2026-06-26T08:30:00",
+      "fetched_at": "2026-06-26T11:18:51",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 9,
+      "matched_keywords": [
+        "holiday",
+        "payroll"
+      ]
+    },
+    {
+      "id": "afe35ef03170d8e8cc32c5a9",
+      "title": "Research: List of upcoming releases of management information and ad hoc analyses",
+      "link": "https://www.gov.uk/government/publications/list-of-upcoming-releases-of-management-information-and-ad-hoc-analyses",
+      "summary": "List of upcoming releases of DWP management information and ad hoc analyses.",
+      "published_at": "2026-06-26T08:30:00",
+      "fetched_at": "2026-06-26T11:18:52",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "8eb48098ae172703f8dd29bb",
+      "title": "Guidance: Income Record Viewer for agents: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/income-record-viewer-for-agents-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the Income Record Viewer for agents service.",
+      "published_at": "2026-06-26T07:04:46",
+      "fetched_at": "2026-06-26T11:18:51",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "b3131bee0fbfa2e4aac1bc7f",
+      "title": "Open Meeting of the Taxpayer Advocacy Panel Joint Committee",
+      "link": "https://www.federalregister.gov/documents/2026/06/26/2026-12947/open-meeting-of-the-taxpayer-advocacy-panel-joint-committee",
+      "summary": "An open meeting of the Taxpayer Advocacy Panel's Joint Committee will be conducted. The Taxpayer Advocacy Panel is soliciting public comments, ideas, and suggestions to improve customer service at the Internal Revenue Service. This meeting will be held as a virtual video conference via the Microsoft Teams platform.",
+      "published_at": "2026-06-26T04:00:00",
+      "fetched_at": "2026-06-26T11:18:50",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
+    {
+      "id": "23388b44c74f80fe473cdc86",
+      "title": "Superfund Tax on Chemical Substances; Notice of Determinations To Add Substances to List of Taxable Substances",
+      "link": "https://www.federalregister.gov/documents/2026/06/26/2026-12868/superfund-tax-on-chemical-substances-notice-of-determinations-to-add-substances-to-list-of-taxable",
+      "summary": "This notice of determinations modifies the list of taxable substances to include the following two substances: chloro-isobutene- isoprene rubber ((C&lt;INF&gt;4&lt;/INF&gt;H&lt;INF&gt;8&lt;/INF&gt;)&lt;INF&gt;n&lt;/INF&gt;- (C&lt;INF&gt;5&lt;/INF&gt;H&lt;INF&gt;7.31&lt;/INF&gt;Cl&lt;INF&gt;0.69&lt;/INF&gt;)&lt;INF&gt;m&lt;/INF&gt;; n=97.75, m=2.25) and ethylene-propylene-dicyclopentadiene rubber ((C&lt;INF&gt;2&lt;/INF&gt;H&lt;INF&gt;4&lt;/INF&gt;)&lt;INF&gt;m&lt;/INF&gt;- (C&lt;INF&gt;3&lt;/INF",
+      "published_at": "2026-06-26T04:00:00",
+      "fetched_at": "2026-06-26T11:18:50",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
+    {
+      "id": "4833d4556bbc6f8c84d58a1d",
+      "title": "Thousands more out-of-work benefit claimants to get personalised support",
+      "link": "https://www.gov.uk/government/news/thousands-more-out-of-work-benefit-claimants-to-get-personalised-support",
+      "summary": "Up to 40,000 disabled people and people with health conditions will benefit from expanded access to personalised support, as the government rolls out Support Conversations across a further 27 Jobcentres taking the total number of sites to 33.",
+      "published_at": "2026-06-25T23:01:00",
+      "fetched_at": "2026-06-26T11:18:52",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
     {
       "id": "5fb9727ea91ccdec9c025aef",
       "title": "Software developers providing customs declaration software",
