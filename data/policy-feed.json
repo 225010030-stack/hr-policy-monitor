@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-06-29T14:40:48",
-  "total": 322,
-  "new_count": 14,
+  "synced_at": "2026-06-29T14:54:04",
+  "total": 324,
+  "new_count": 2,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 7,
+      "added": 2,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 7,
+      "added": 0,
       "error": null
     },
     {
@@ -40,6 +40,51 @@
     }
   ],
   "items": [
+    {
+      "id": "ac1ae174b33319cf18485b2f",
+      "title": "Claim personal allowances and tax refunds if you live abroad (R43)",
+      "link": "https://www.gov.uk/guidance/claim-personal-allowances-and-tax-refunds-if-you-live-abroad",
+      "summary": "How to claim a refund on tax and personal allowances on UK income if you're not resident in the UK on form R43.",
+      "published_at": "2026-06-29T14:39:22",
+      "fetched_at": "2026-06-29T14:53:43",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "8202bfeeffcc92d5dae823b7",
+      "title": "Debt Management and Banking Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/debt-management-and-banking",
+      "summary": "Some content of this manual is being considered for archiving. If there is content you use regularly, please email hmrcmanualsteam@hmrc.gov.uk to let us know as soon as possible. Our debt management and banking processes incorporates material covered in the Recovery Manual and the Banking Accounting Guide (BAAG)",
+      "published_at": "2026-06-29T14:34:38",
+      "fetched_at": "2026-06-29T14:53:43",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
     {
       "id": "5267df646c0793ba18d4a8fc",
       "title": "Guidance: Early years teacher degree apprenticeship: guidance for training providers",
