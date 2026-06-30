@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-06-29T19:54:03",
-  "total": 324,
-  "new_count": 0,
+  "synced_at": "2026-06-30T03:26:58",
+  "total": 326,
+  "new_count": 2,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,54 @@
     }
   ],
   "items": [
+    {
+      "id": "e1b6f1c4a8424e48f48aa3b0",
+      "title": "Apply to import multiple low value parcels on one declaration",
+      "link": "https://www.gov.uk/guidance/apply-to-import-multiple-low-value-parcels-on-one-declaration",
+      "summary": "You can use the bulk import reduced data set to declare one or more low value parcels in a single import declaration when you import goods into Great Britain.",
+      "published_at": "2026-06-29T23:01:03",
+      "fetched_at": "2026-06-30T03:26:37",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "fbc3473901bccf80acb7caa7",
+      "title": "Transparency data: DWP's special advisers' gifts, hospitality and meetings, July to September 2025",
+      "link": "https://www.gov.uk/government/publications/dwps-special-advisers-gifts-hospitality-and-meetings-july-to-september-2025",
+      "summary": "Data on gifts and hospitality received by special advisers, and meetings they attended with senior media figures.",
+      "published_at": "2026-06-29T19:52:51",
+      "fetched_at": "2026-06-30T03:26:38",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 22,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension",
+        "ei"
+      ]
+    },
     {
       "id": "ac1ae174b33319cf18485b2f",
       "title": "Claim personal allowances and tax refunds if you live abroad (R43)",
