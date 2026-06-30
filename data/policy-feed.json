@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-06-30T05:12:04",
-  "total": 326,
-  "new_count": 0,
+  "synced_at": "2026-06-30T09:30:28",
+  "total": 346,
+  "new_count": 20,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
-      "fetched": 18,
-      "added": 0,
+      "fetched": 20,
+      "added": 2,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 12,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 6,
       "error": null
     },
     {
@@ -40,6 +40,472 @@
     }
   ],
   "items": [
+    {
+      "id": "936219dc23c8b49f577c1134",
+      "title": "Correspondence: Edition 4: Making Tax Digital for Income Tax — software developer newsletter",
+      "link": "https://www.gov.uk/government/publications/edition-4-making-tax-digital-for-income-tax-software-developer-newsletter",
+      "summary": "HMRC's newsletter for software developers for Making Tax Digital for Income Tax.",
+      "published_at": "2026-06-30T08:46:12",
+      "fetched_at": "2026-06-30T09:30:08",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "98bc8c9a33bef9615889525f",
+      "title": "Accredited official statistics: Monthly property transactions completed in the UK with value of £40,000 or above",
+      "link": "https://www.gov.uk/government/statistics/monthly-property-transactions-completed-in-the-uk-with-value-40000-or-above",
+      "summary": "This series looks at monthly property transactions completed in the UK with value of £40,000 or above.",
+      "published_at": "2026-06-30T08:30:08",
+      "fetched_at": "2026-06-30T09:30:08",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "8a98ce92af1cb14bae5cdb02",
+      "title": "Guidance: Income-related benefits: estimates of take-up: release strategy",
+      "link": "https://www.gov.uk/government/publications/income-related-benefits-estimates-of-take-up-release-strategy",
+      "summary": "This release strategy acts as the formal notice of changes to future releases of the Income-related benefits: estimates of take-up publication.",
+      "published_at": "2026-06-30T08:30:08",
+      "fetched_at": "2026-06-30T09:30:08",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "c287c616f43aafa01f0c38cb",
+      "title": "Official Statistics: Child Maintenance Service statistics: data to March 2026",
+      "link": "https://www.gov.uk/government/statistics/child-maintenance-service-statistics-data-to-march-2026",
+      "summary": "Quarterly statistics on the Child Maintenance Service to March 2026.",
+      "published_at": "2026-06-30T08:30:08",
+      "fetched_at": "2026-06-30T09:30:08",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "0f805ab3b6a00abde6810433",
+      "title": "Guidance: Child Maintenance Service statistics: background information and methodology",
+      "link": "https://www.gov.uk/government/publications/child-maintenance-service-2012-scheme-experimental-statistics-background-information-and-methodology",
+      "summary": "This document provides information on the uses and users of the Child Maintenance Service statistics.",
+      "published_at": "2026-06-30T08:30:08",
+      "fetched_at": "2026-06-30T09:30:08",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "f05c7e03115367e0da23f9e6",
+      "title": "Official Statistics: Pre-release access to DWP statistics",
+      "link": "https://www.gov.uk/government/statistics/pre-release-access-to-statistics-order-2008",
+      "summary": "Job titles of people with pre-release access to Department for Work and Pensions (DWP) statistics and the organisations they belong to.",
+      "published_at": "2026-06-30T08:30:08",
+      "fetched_at": "2026-06-30T09:30:08",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "82bbac90dc5e86087787b5c6",
+      "title": "Official Statistics: DWP Complaints statistics to March 2026",
+      "link": "https://www.gov.uk/government/statistics/dwp-complaints-statistics-to-march-2026",
+      "summary": "Quarterly release of Official Statistics in Development including DWP complaints received, closed and upheld by each business area, and categorisation of the reason for the complaint.",
+      "published_at": "2026-06-30T08:30:08",
+      "fetched_at": "2026-06-30T09:30:08",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 22,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension",
+        "ei"
+      ]
+    },
+    {
+      "id": "90e5ea3d6bdb84c1621a21ce",
+      "title": "Policy paper: Service level agreement for operation of Welsh rates of Income Tax by HMRC",
+      "link": "https://www.gov.uk/government/publications/service-level-agreement-for-operation-of-welsh-rates-of-income-tax-by-hmrc",
+      "summary": "This service level agreement between HMRC and the Welsh Government sets out the requirements and performance measures for the operation of Welsh rates of Income Tax.",
+      "published_at": "2026-06-30T08:30:07",
+      "fetched_at": "2026-06-30T09:30:08",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "3e7b058db7352a7bd4208d7f",
+      "title": "Official Statistics: Employment Allowance take-up: 2025 to 2026 tax year estimate",
+      "link": "https://www.gov.uk/government/statistics/employment-allowance-take-up-2025-to-2026-tax-year-estimate",
+      "summary": "An estimate of the take-up of the Employment Allowance in the 2025 to 2026 tax year, from HMRC's Real Time Information and Enterprise Tax Management Platform.",
+      "published_at": "2026-06-30T08:30:07",
+      "fetched_at": "2026-06-30T09:30:08",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "a72d7406b19e1b6f95983d1b",
+      "title": "Policy paper: Service level agreement for Scottish Income Tax by HMRC",
+      "link": "https://www.gov.uk/government/publications/service-level-agreement-for-operation-of-scottish-income-tax-by-hmrc",
+      "summary": "This service level agreement between HMRC and the Scottish Government sets out the requirements and performance measures for Scottish Income Tax.",
+      "published_at": "2026-06-30T08:30:07",
+      "fetched_at": "2026-06-30T09:30:08",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "d656b04c0a536aaae701ff50",
+      "title": "Transparency data: HMRC: spending over £500, May 2026",
+      "link": "https://www.gov.uk/government/publications/hmrc-spending-over-500-may-2026",
+      "summary": "Spending by electronic purchasing card solution (ePCS) over £500.",
+      "published_at": "2026-06-30T08:30:07",
+      "fetched_at": "2026-06-30T09:30:08",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "daf99bb1b895cd9b310ccb99",
+      "title": "Transparency data: HMRC: spending over £25,000, May 2026",
+      "link": "https://www.gov.uk/government/publications/hmrc-spending-over-25000-may-2026",
+      "summary": "Reports on departmental spending over £25,000.",
+      "published_at": "2026-06-30T08:30:07",
+      "fetched_at": "2026-06-30T09:30:08",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "385fb9ec1f7f0d89293e1a4c",
+      "title": "Guidance: Youth Jobs Grant",
+      "link": "https://www.gov.uk/government/publications/youth-jobs-grant",
+      "summary": "Information for employers applying for grant funding to deliver the Youth Jobs Grant.",
+      "published_at": "2026-06-30T08:00:04",
+      "fetched_at": "2026-06-30T09:30:08",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "ad72db84a9d25297af49b6c9",
+      "title": "VAT Single Market",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/vat-single-market",
+      "summary": "Guidance on the rules that apply to intra-EC supplies and acquisitions of goods within the Single Market together with HMRC interpretation of those rulesThis manual will be archived 31 July 2026. A new VAT manual has been created VAT Northern Ireland and the EU (VATNIEU). Please email hmrcmanualsteam@hmrc.gov.uk if you have any feedback'.",
+      "published_at": "2026-06-30T07:38:35",
+      "fetched_at": "2026-06-30T09:30:08",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "072ce74963fb35fa154fe202",
+      "title": "Statutory guidance: Notices made under the Customs (Bulk Customs Declaration and Miscellaneous Amendments) (EU Exit) Regulations 2020",
+      "link": "https://www.gov.uk/government/publications/notices-to-be-made-under-the-customs-bulk-customs-declaration-and-miscellaneous-amendments-eu-exit-regulations-2020",
+      "summary": "Notices made under the Customs (Bulk Customs Declaration and Miscellaneous Amendments) (EU Exit) Regulations 2020 which have the force of law.",
+      "published_at": "2026-06-30T07:30:22",
+      "fetched_at": "2026-06-30T09:30:08",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 12,
+      "matched_keywords": [
+        "payroll",
+        "regulation",
+        "statutory"
+      ]
+    },
+    {
+      "id": "4316e32eca3b9ce48c584f3d",
+      "title": "Capital Gains Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual",
+      "summary": "HMRC is reviewing the CG Manual to ensure it provides HMRC’s interpretation of relevant legislation where there is more than one reasonable view of how rules work.Where material in the CG Manual isn’t providing an interpretation, that material is being removed. Where appropriate, material will be reproduced elsewhere and linked from the CG Manual.",
+      "published_at": "2026-06-30T07:16:40",
+      "fetched_at": "2026-06-30T09:30:08",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "76c631055af56e23dc11239a",
+      "title": "International treaty: Sweden: tax treaties",
+      "link": "https://www.gov.uk/government/publications/sweden-tax-treaties",
+      "summary": "Tax treaties and related documents between the UK and Sweden.",
+      "published_at": "2026-06-30T06:50:16",
+      "fetched_at": "2026-06-30T09:30:08",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "bd28e81c9690ecc901619eab",
+      "title": "Internal Revenue Service Advisory Council; Public Meeting",
+      "link": "https://www.federalregister.gov/documents/2026/06/30/2026-13168/internal-revenue-service-advisory-council-public-meeting",
+      "summary": "The Internal Revenue Service Advisory Council will hold a public meeting.",
+      "published_at": "2026-06-30T04:00:00",
+      "fetched_at": "2026-06-30T09:30:07",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
+    {
+      "id": "9d303b2faea92496ff8304d1",
+      "title": "Agency Information Collection Activities; Comment Request on Tax-Exempt Organization Complaint (Referral)",
+      "link": "https://www.federalregister.gov/documents/2026/06/30/2026-13097/agency-information-collection-activities-comment-request-on-tax-exempt-organization-complaint",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+      "published_at": "2026-06-30T04:00:00",
+      "fetched_at": "2026-06-30T09:30:07",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
+    {
+      "id": "0f679f58757a81c187a50337",
+      "title": "Economic Crime Supervision Handbook",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/economic-crime-supervision-handbook",
+      "summary": "The aim of the ECS handbook is to give you clear and comprehensive guidance on how to undertake your role within ECS. It will help you understand the legislation, how our policies work and how they should be applied. It will also explain how to apply the sanctions framework and the powers available for you to use under the MLR2017. Additionally, it may be used by external customers to understand how sanctions are applied.",
+      "published_at": "2026-06-30T00:00:00",
+      "fetched_at": "2026-06-30T09:30:08",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "e1b6f1c4a8424e48f48aa3b0",
       "title": "Apply to import multiple low value parcels on one declaration",
