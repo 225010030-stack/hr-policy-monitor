@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-06-30T09:30:28",
-  "total": 346,
-  "new_count": 20,
+  "synced_at": "2026-06-30T14:14:44",
+  "total": 359,
+  "new_count": 13,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
       "fetched": 20,
-      "added": 2,
+      "added": 0,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 12,
+      "added": 10,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 6,
+      "added": 3,
       "error": null
     },
     {
@@ -40,6 +40,302 @@
     }
   ],
   "items": [
+    {
+      "id": "c9e16ea1a15a873fa7c717a5",
+      "title": "Official Statistics: Use of Discretionary Housing Payments: financial year 2025 to 2026",
+      "link": "https://www.gov.uk/government/statistics/announcements/use-of-discretionary-housing-payments-financial-year-2025-to-2026",
+      "summary": "Analysis of local authorities' use of Discretionary Housing Payments (England and Wales) from April 2025 to March 2026, based on local authority financial year end returns.",
+      "published_at": "2026-06-30T13:21:39",
+      "fetched_at": "2026-06-30T14:14:24",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "8e6099046a3c13fe5099636b",
+      "title": "Guidance: List of approved professional organisations and learned societies (List 3)",
+      "link": "https://www.gov.uk/government/publications/professional-bodies-approved-for-tax-relief-list-3",
+      "summary": "Check this list of professional bodies to see if you can claim tax relief on your fees or subscriptions.",
+      "published_at": "2026-06-30T13:13:25",
+      "fetched_at": "2026-06-30T14:14:24",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "b03e1c88086c69bce0286f8c",
+      "title": "Guidance: Transfer files securely with HMRC: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/transfer-files-securely-with-hmrc-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the Transfer files securely with HMRC service.",
+      "published_at": "2026-06-30T13:03:55",
+      "fetched_at": "2026-06-30T14:14:24",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "7e67498c131ad8812048a4cd",
+      "title": "Transfer files securely with HMRC",
+      "link": "https://www.gov.uk/guidance/transfer-files-securely-with-hmrc",
+      "summary": "Register for or sign into the online service to transfer data to and from HMRC.",
+      "published_at": "2026-06-30T13:03:37",
+      "fetched_at": "2026-06-30T14:14:24",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "33e4a88bc1a76ef31bc04743",
+      "title": "Tell HMRC about beneficial owners at a disproportionate risk of harm",
+      "link": "https://www.gov.uk/guidance/tell-hmrc-about-beneficial-owners-at-a-disproportionate-risk-of-harm",
+      "summary": "Report beneficial owners in a registered trust who may be at disproportionate risk of harm.",
+      "published_at": "2026-06-30T13:00:04",
+      "fetched_at": "2026-06-30T14:14:24",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "9548063fdc3a2970bbe56a82",
+      "title": "Check if you need to register a trust",
+      "link": "https://www.gov.uk/guidance/check-if-you-need-to-register-a-trust",
+      "summary": "Find out if and when you need to register a trust on the Trust Registration Service.",
+      "published_at": "2026-06-30T13:00:04",
+      "fetched_at": "2026-06-30T14:14:24",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "1d32da4bede20ce77ed888f0",
+      "title": "Register a trust",
+      "link": "https://www.gov.uk/guidance/register-a-trust",
+      "summary": "How to register a trust on the Trust Registration Service.",
+      "published_at": "2026-06-30T13:00:04",
+      "fetched_at": "2026-06-30T14:14:24",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "ec38f199aa580a65145878c5",
+      "title": "Guidance: Youth Jobs Grant",
+      "link": "https://www.gov.uk/government/publications/youth-jobs-grant",
+      "summary": "Information for employers applying for grant funding to deliver the Youth Jobs Grant.",
+      "published_at": "2026-06-30T11:45:55",
+      "fetched_at": "2026-06-30T14:14:24",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "83dca17d7cc65c5c7fbf664f",
+      "title": "Further Resources and Support",
+      "link": "https://www.gov.uk/guidance/technical-handbook-on-bulk-import-reduced-data-set-birds/further-resources-and-support",
+      "summary": "Information on Further Resources and Support.",
+      "published_at": "2026-06-30T11:41:34",
+      "fetched_at": "2026-06-30T14:14:24",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "6322ddca9750ee353e5f3266",
+      "title": "Bulk Import Reduced Data Set BIRDS",
+      "link": "https://www.gov.uk/guidance/technical-handbook-on-bulk-import-reduced-data-set-birds",
+      "summary": "Information on the Technical Handbook on Bulk Import Reduced Data Set BIRDS",
+      "published_at": "2026-06-30T11:41:34",
+      "fetched_at": "2026-06-30T14:14:24",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "5b7003eb46fc06036bc6e165",
+      "title": "Eligibility Criteria for BIRDS",
+      "link": "https://www.gov.uk/guidance/technical-handbook-on-bulk-import-reduced-data-set-birds/eligibility-criteria-for-birds",
+      "summary": "Information on the Eligibility Criteria for BIRDS.",
+      "published_at": "2026-06-30T11:41:34",
+      "fetched_at": "2026-06-30T14:14:24",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "48dc441578ffbd7d61797574",
+      "title": "Check if you need to register for money laundering supervision if you're a trust or company service provider",
+      "link": "https://www.gov.uk/guidance/check-if-you-need-to-register-for-money-laundering-supervision-if-youre-a-trust-or-company-service-provider",
+      "summary": "Find out if you’re a trust or company service provider who needs to register for supervision with HMRC under the money laundering regulations.",
+      "published_at": "2026-06-30T11:22:09",
+      "fetched_at": "2026-06-30T14:14:24",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 9,
+      "matched_keywords": [
+        "payroll",
+        "regulation"
+      ]
+    },
+    {
+      "id": "67c3c3310ea1da4bd1f0e724",
+      "title": "Official Statistics: Child Maintenance Service statistics: data to March 2026",
+      "link": "https://www.gov.uk/government/statistics/child-maintenance-service-statistics-data-to-march-2026",
+      "summary": "Quarterly statistics on the Child Maintenance Service to March 2026.",
+      "published_at": "2026-06-30T09:48:49",
+      "fetched_at": "2026-06-30T14:14:24",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
     {
       "id": "936219dc23c8b49f577c1134",
       "title": "Correspondence: Edition 4: Making Tax Digital for Income Tax — software developer newsletter",
