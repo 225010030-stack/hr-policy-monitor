@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-07-01T05:46:31",
-  "total": 380,
-  "new_count": 0,
+  "synced_at": "2026-07-01T09:41:44",
+  "total": 401,
+  "new_count": 21,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
-      "fetched": 20,
-      "added": 0,
+      "fetched": 23,
+      "added": 3,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 16,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 2,
       "error": null
     },
     {
@@ -40,6 +40,485 @@
     }
   ],
   "items": [
+    {
+      "id": "6a5ff03ca32bb34d5c4695fd",
+      "title": "Accredited official statistics: UK overseas trade in goods statistics: May 2026",
+      "link": "https://www.gov.uk/government/statistics/announcements/uk-overseas-trade-in-goods-statistics-may-2026",
+      "summary": "This publication provides details of the overseas trade in goods statistics (OTS) of the UK. They are a comprehensive dataset covering the UK's trade in goods at country and product level. They provide both aggregated and detailed data for over 9,000 commodities and more than 200 partner countries.",
+      "published_at": "2026-07-01T09:27:43",
+      "fetched_at": "2026-07-01T09:41:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "6252f5faffc74a4093077dea",
+      "title": "Request your personal information from the Department for Work and Pensions",
+      "link": "https://www.gov.uk/guidance/request-your-personal-information-from-the-department-for-work-and-pensions",
+      "summary": "Find out how to ask for a copy of the information that is held about you. This is called the 'right of access' also known as a subject access request (SAR).",
+      "published_at": "2026-07-01T09:19:11",
+      "fetched_at": "2026-07-01T09:41:23",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "0ab1ebbf83b4c0079a8aafe1",
+      "title": "Business Income Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/business-income-manual",
+      "summary": "Supplementary guidance on how to check tax calculations or work out the trading profits of a business for Self Assessment tax return.",
+      "published_at": "2026-07-01T08:48:59",
+      "fetched_at": "2026-07-01T09:41:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "f4f59f025d282d70ce2883a4",
+      "title": "Decision: CIL Appeal 1889718  — 17 June 26 — application for extension",
+      "link": "https://www.gov.uk/government/publications/cil-appeal-1889718-17-june-26-application-for-extension",
+      "summary": "Householder application for single storey front extension to form a porch and part two storey, part first floor side and part two storey, part single storey rear extension (part retrospective).",
+      "published_at": "2026-07-01T08:30:01",
+      "fetched_at": "2026-07-01T09:41:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "ef38c8b9109f6864d85f9a66",
+      "title": "Decision: CIL Appeal 1888718  — 17 June 26 — Erection of a replacement dwelling",
+      "link": "https://www.gov.uk/government/publications/cil-appeal-1888718-17-june-26-erection-of-a-replacement-dwelling",
+      "summary": "Decision on erection of one replacement dwelling (part retrospective).",
+      "published_at": "2026-07-01T08:30:01",
+      "fetched_at": "2026-07-01T09:41:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "fff1fcd2520c750ddf70947d",
+      "title": "Accredited official statistics: UK charity tax relief statistics",
+      "link": "https://www.gov.uk/government/statistics/uk-charity-tax-relief-statistics",
+      "summary": "This is the annual update of UK charity tax relief statistics, including reliefs for charities and their donors.",
+      "published_at": "2026-07-01T08:30:00",
+      "fetched_at": "2026-07-01T09:41:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "e54d5af0aa2cbc211b7b3ac4",
+      "title": "Capital Gains Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual",
+      "summary": "HMRC is reviewing the CG Manual to ensure it provides HMRC’s interpretation of relevant legislation where there is more than one reasonable view of how rules work.Where material in the CG Manual isn’t providing an interpretation, that material is being removed. Where appropriate, material will be reproduced elsewhere and linked from the CG Manual.",
+      "published_at": "2026-07-01T08:10:44",
+      "fetched_at": "2026-07-01T09:41:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "6f9948e1640a1cd021ba5e1d",
+      "title": "Check the recognised overseas pension schemes notification list",
+      "link": "https://www.gov.uk/guidance/check-the-recognised-overseas-pension-schemes-notification-list",
+      "summary": "Find schemes that have told HMRC they meet the conditions to be a recognised overseas pension scheme (ROPS).",
+      "published_at": "2026-07-01T08:00:00",
+      "fetched_at": "2026-07-01T09:41:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "pension",
+        "payroll"
+      ]
+    },
+    {
+      "id": "0cb1416a5b4a13f975001275",
+      "title": "Guidance: List of Individual Savings Account (ISA) managers approved by HMRC",
+      "link": "https://www.gov.uk/government/publications/list-of-individual-savings-account-isa-managers-approved-by-hmrc",
+      "summary": "Find ISA managers approved by HMRC from October 2014.",
+      "published_at": "2026-07-01T08:00:00",
+      "fetched_at": "2026-07-01T09:41:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "bca2589bc55ead5ad6b10429",
+      "title": "Welfare reforms saving taxpayer £1 billion come into force",
+      "link": "https://www.gov.uk/government/news/welfare-reforms-saving-taxpayer-1-billion-come-into-force",
+      "summary": "Reforms to the Motability scheme come into force today (1 July 2026), saving taxpayers £1 billion by 2030 while protecting disabled people's access to cars, scooters and powered wheelchairs.",
+      "published_at": "2026-07-01T07:38:17",
+      "fetched_at": "2026-07-01T09:41:23",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "81d75a5cf8b00e94e3a2511d",
+      "title": "Check if a business is registered for money laundering supervision",
+      "link": "https://www.gov.uk/guidance/money-laundering-regulations-supervised-business-register",
+      "summary": "Find out if a business has registered with HMRC under the money laundering regulations and report them if they have not.",
+      "published_at": "2026-07-01T07:34:30",
+      "fetched_at": "2026-07-01T09:41:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 9,
+      "matched_keywords": [
+        "payroll",
+        "regulation"
+      ]
+    },
+    {
+      "id": "dabcd485694c2b2497515ef0",
+      "title": "Acquisition, improvement and alteration of assets",
+      "link": "https://www.gov.uk/guidance/capital-v-revenue-expenditure-toolkit/acquisition-improvement-and-alteration-of-assets",
+      "summary": "Provides checks to make and what risks and mitigations to consider, including explanations and examples for acquisition, improvement and alteration of assets.",
+      "published_at": "2026-07-01T06:36:00",
+      "fetched_at": "2026-07-01T09:41:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "76c5750465c22350527eb777",
+      "title": "Capital versus Revenue expenditure toolkit",
+      "link": "https://www.gov.uk/guidance/capital-v-revenue-expenditure-toolkit",
+      "summary": "Provides information on risks, mitigations and checks to make, to help and support Capital v Revenue expenditure.",
+      "published_at": "2026-07-01T06:36:00",
+      "fetched_at": "2026-07-01T09:41:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "e71e3d0afbe1960ec4d86cd9",
+      "title": "IT costs",
+      "link": "https://www.gov.uk/guidance/capital-v-revenue-expenditure-toolkit/it-costs",
+      "summary": "Provides checks to make and what risks and mitigations to consider, including explanations and examples for IT costs.",
+      "published_at": "2026-07-01T06:36:00",
+      "fetched_at": "2026-07-01T09:41:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "cd8e11b156521f5b696b667f",
+      "title": "Corporate intangible assets",
+      "link": "https://www.gov.uk/guidance/capital-v-revenue-expenditure-toolkit/corporate-intangible-assets",
+      "summary": "Provides checks to make and what risks and mitigations to consider, including explanations and examples for corporate intangible assets.",
+      "published_at": "2026-07-01T06:36:00",
+      "fetched_at": "2026-07-01T09:41:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "ef5d83a7e9cb3c381e6d5c39",
+      "title": "Legal and professional fees",
+      "link": "https://www.gov.uk/guidance/capital-v-revenue-expenditure-toolkit/legal-and-professional-fees",
+      "summary": "Provides checks to make and what risks and mitigations to consider, including explanations and examples for legal and professional fees.",
+      "published_at": "2026-07-01T06:36:00",
+      "fetched_at": "2026-07-01T09:41:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "21e9cedc7d719118bf262365",
+      "title": "General",
+      "link": "https://www.gov.uk/guidance/capital-v-revenue-expenditure-toolkit/general",
+      "summary": "Provides general checks to make and what risks and mitigations to consider, including explanations and examples.",
+      "published_at": "2026-07-01T06:36:00",
+      "fetched_at": "2026-07-01T09:41:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "830bd7f957321ac41c5ee854",
+      "title": "Financial costs",
+      "link": "https://www.gov.uk/guidance/capital-v-revenue-expenditure-toolkit/financial-costs",
+      "summary": "Provides checks to make and what risks and mitigations to consider, including explanations and examples for financial costs.",
+      "published_at": "2026-07-01T06:36:00",
+      "fetched_at": "2026-07-01T09:41:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "0c1dce0cb04626850a036b89",
+      "title": "Agency Information Collection Activities; Comment Request on Probable or Prospective Reserves Safe Harbor",
+      "link": "https://www.federalregister.gov/documents/2026/07/01/2026-13339/agency-information-collection-activities-comment-request-on-probable-or-prospective-reserves-safe",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+      "published_at": "2026-07-01T04:00:00",
+      "fetched_at": "2026-07-01T09:41:23",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
+    {
+      "id": "3dba123626c75c9879a04d4f",
+      "title": "Agency Information Collection Activities; Comment Request on Statement of Payments Received",
+      "link": "https://www.federalregister.gov/documents/2026/07/01/2026-13338/agency-information-collection-activities-comment-request-on-statement-of-payments-received",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+      "published_at": "2026-07-01T04:00:00",
+      "fetched_at": "2026-07-01T09:41:23",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 15,
+      "matched_keywords": [
+        "payroll",
+        "withholding",
+        "ei"
+      ]
+    },
+    {
+      "id": "48cba496946845548f276c8e",
+      "title": "Agency Information Collection Activities; Comment Request on Relief for Certain Spouses of Military Personnel",
+      "link": "https://www.federalregister.gov/documents/2026/07/01/2026-13292/agency-information-collection-activities-comment-request-on-relief-for-certain-spouses-of-military",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+      "published_at": "2026-07-01T04:00:00",
+      "fetched_at": "2026-07-01T09:41:23",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
     {
       "id": "57266878eace0106c1cd10d6",
       "title": "Guidance: CDS Declaration Completion Instructions for Exports",
