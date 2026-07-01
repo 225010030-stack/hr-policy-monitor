@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-07-01T09:41:44",
-  "total": 401,
-  "new_count": 21,
+  "synced_at": "2026-07-01T14:30:03",
+  "total": 425,
+  "new_count": 24,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
       "fetched": 23,
-      "added": 3,
+      "added": 0,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 16,
+      "added": 15,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 2,
+      "added": 9,
       "error": null
     },
     {
@@ -40,6 +40,567 @@
     }
   ],
   "items": [
+    {
+      "id": "0765012b03c594704468ebf6",
+      "title": "Check if you can get import duty relief on goods using Temporary Admission",
+      "link": "https://www.gov.uk/guidance/check-if-you-can-get-import-duty-relief-on-goods-using-temporary-admission",
+      "summary": "Find out if relief is available for goods using Temporary Admission and if your goods require you to be established inside or outside the UK.",
+      "published_at": "2026-07-01T14:01:11",
+      "fetched_at": "2026-07-01T14:29:43",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "d83e808d21a762896382e8df",
+      "title": "Pay tax on payments to foreign entertainers and sportspersons",
+      "link": "https://www.gov.uk/guidance/pay-tax-on-payments-to-foreign-performers",
+      "summary": "Withhold tax on payments to foreign entertainers and sportspersons when they exceed their personal allowance and how to make payments to HMRC.",
+      "published_at": "2026-07-01T13:57:02",
+      "fetched_at": "2026-07-01T14:29:43",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "8a1999023cda34ad63a31fc5",
+      "title": "Promotional material: Disability Confident promotional material and case studies",
+      "link": "https://www.gov.uk/government/publications/disability-confident-promotional-material",
+      "summary": "Promotional material that can used by Disability Confident employers to promote the scheme.",
+      "published_at": "2026-07-01T13:49:44",
+      "fetched_at": "2026-07-01T14:29:43",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "c24a47beab54d24d919a3006",
+      "title": "Renew your Disability Confident status",
+      "link": "https://www.gov.uk/guidance/renew-your-disability-confident-status",
+      "summary": "Guidance about how to renew your Disability Confident status.",
+      "published_at": "2026-07-01T13:49:22",
+      "fetched_at": "2026-07-01T14:29:43",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "6d41bc58e106fb09f018bf6d",
+      "title": "Make changes to your Disability Confident details",
+      "link": "https://www.gov.uk/guidance/report-changes-to-your-disability-confident-details",
+      "summary": "How to make a change to your registration details if you are a Disability Confident employer.",
+      "published_at": "2026-07-01T13:48:44",
+      "fetched_at": "2026-07-01T14:29:43",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "cf186c9d0c61c77581f850c4",
+      "title": "Guidance: Disability Confident: guidance for levels 1, 2 and 3",
+      "link": "https://www.gov.uk/government/publications/disability-confident-guidance-for-levels-1-2-and-3",
+      "summary": "This guidance explains what is needed to become Disability Confident Committed, or a Disability Confident Employer or Leader.",
+      "published_at": "2026-07-01T13:48:26",
+      "fetched_at": "2026-07-01T14:29:43",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "89c41d47806b0ad382dde220",
+      "title": "How to sign up to the Disability Confident employer scheme",
+      "link": "https://www.gov.uk/guidance/disability-confident-how-to-sign-up-to-the-employer-scheme",
+      "summary": "Guidance about signing up for the Disability Confident scheme, and how it can help your business.",
+      "published_at": "2026-07-01T13:48:13",
+      "fetched_at": "2026-07-01T14:29:43",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "4d812239a0ebfd1ff240e2c0",
+      "title": "Guidance: Employing disabled people: Disability Confident and CIPD manager’s guide",
+      "link": "https://www.gov.uk/government/publications/disability-confident-and-cipd-guide-for-line-managers-on-employing-people-with-a-disability-or-health-condition",
+      "summary": "A practical guide for line managers on recruiting, managing and developing people with a disability or health condition.",
+      "published_at": "2026-07-01T13:48:00",
+      "fetched_at": "2026-07-01T14:29:43",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "a91dc7c9b38dd271d5091f59",
+      "title": "International Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/international-manual",
+      "summary": "International tax issues including the principles of double taxation relief and an introduction to double taxation agreements",
+      "published_at": "2026-07-01T13:39:50",
+      "fetched_at": "2026-07-01T14:29:43",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "bd9653789ffe2bf60ec0d49c",
+      "title": "Check when you can expect a reply from HMRC",
+      "link": "https://www.gov.uk/guidance/check-when-you-can-expect-a-reply-from-hmrc",
+      "summary": "Find out when you can expect to receive a reply from HMRC to a query or request you've made.",
+      "published_at": "2026-07-01T13:37:55",
+      "fetched_at": "2026-07-01T14:29:43",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "b4a594c9174a36e5ddfd401a",
+      "title": "Self Assessment Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual",
+      "summary": "This manual contains guidance and processes for Self Assessment (SA)",
+      "published_at": "2026-07-01T13:20:15",
+      "fetched_at": "2026-07-01T14:29:43",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "5ef4b44efa85f0bc71da8123",
+      "title": "How employment related securities work if you're an employer",
+      "link": "https://www.gov.uk/guidance/how-employment-related-securities-work-if-youre-an-employer",
+      "summary": "Use employment related securities (ERS) to reward, retain or give incentives to your employees, including any tax advantages.",
+      "published_at": "2026-07-01T13:17:13",
+      "fetched_at": "2026-07-01T14:29:43",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "d0436e02ecf7dd24ed28a133",
+      "title": "Check genuine HMRC contact that uses more than one communication method",
+      "link": "https://www.gov.uk/guidance/check-genuine-hmrc-contact-that-uses-more-than-one-communication-method",
+      "summary": "Check recent contacts from HMRC to help you decide if a suspicious email, phone call, text or letter could be a scam.",
+      "published_at": "2026-07-01T13:17:11",
+      "fetched_at": "2026-07-01T14:29:43",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "37abceaec3fec1bef35dfb05",
+      "title": "Corporate report: DWP framework documents",
+      "link": "https://www.gov.uk/government/publications/dwp-framework-documents",
+      "summary": "Outlines the corporate relationship between DWP and its public bodies.",
+      "published_at": "2026-07-01T13:05:55",
+      "fetched_at": "2026-07-01T14:29:43",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "851bf1f1ce5da4dd8ca560dc",
+      "title": "Trusts, Settlements and Estates Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual",
+      "summary": "An introduction to trusts, their income and gains and how HM Revenue & Customs treats them for tax purposes.",
+      "published_at": "2026-07-01T13:05:52",
+      "fetched_at": "2026-07-01T14:29:43",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "ef7f418a691c169de2443ae3",
+      "title": "Research: Upcoming DWP research publications",
+      "link": "https://www.gov.uk/government/publications/list-of-upcoming-research-publications",
+      "summary": "This document provides details of upcoming Department for Work and Pensions (DWP) research publications.",
+      "published_at": "2026-07-01T13:01:04",
+      "fetched_at": "2026-07-01T14:29:43",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "5e7234a3f875de9a83d6574e",
+      "title": "Completing the CT600P page for creative industries reliefs",
+      "link": "https://www.gov.uk/guidance/completing-the-ct600p-page-for-creative-industries-reliefs",
+      "summary": "How to complete CT600P supplementary page for creative industries reliefs and what information you need to include.",
+      "published_at": "2026-07-01T11:58:02",
+      "fetched_at": "2026-07-01T14:29:43",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "ed94f5b57605f3ec4bdfdaa7",
+      "title": "Debt Management and Banking Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/debt-management-and-banking",
+      "summary": "Some content of this manual is being considered for archiving. If there is content you use regularly, please email hmrcmanualsteam@hmrc.gov.uk to let us know as soon as possible. Our debt management and banking processes incorporates material covered in the Recovery Manual and the Banking Accounting Guide (BAAG)",
+      "published_at": "2026-07-01T11:52:12",
+      "fetched_at": "2026-07-01T14:29:43",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "fdb54ce932fb8c765ab9e308",
+      "title": "Capital Gains Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual",
+      "summary": "HMRC is reviewing the CG Manual to ensure it provides HMRC’s interpretation of relevant legislation where there is more than one reasonable view of how rules work.Where material in the CG Manual isn’t providing an interpretation, that material is being removed. Where appropriate, material will be reproduced elsewhere and linked from the CG Manual.",
+      "published_at": "2026-07-01T11:45:45",
+      "fetched_at": "2026-07-01T14:29:43",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "943821639874a0fb7d1562d5",
+      "title": "Brighton’s first Youth Guarantee Jobs Fair sees hundreds of young people connect with local employers",
+      "link": "https://www.gov.uk/government/news/brightons-first-youth-guarantee-jobs-fair-sees-hundreds-of-young-people-connect-with-local-employers",
+      "summary": "More than 650 young people from across Brighton and the wider local area descended on the world-famous Brighton Centre to meet with some of the region's best-known employers yesterday (Tuesday 20th June).",
+      "published_at": "2026-07-01T10:33:00",
+      "fetched_at": "2026-07-01T14:29:43",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "b707e13b210aab466c92b9af",
+      "title": "Guidance: Data Element 2/3: Documents and Other Reference Codes (Union) of the Customs Declaration Service (CDS)",
+      "link": "https://www.gov.uk/government/publications/data-element-23-documents-and-other-reference-codes-union-of-the-customs-declaration-service-cds",
+      "summary": "Find the relevant document codes, document status codes and details to be declared such as licences and certificates (Appendix 5A).",
+      "published_at": "2026-07-01T10:26:51",
+      "fetched_at": "2026-07-01T14:29:43",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "1b8d902708c6db0a46e3aa4b",
+      "title": "Business Income Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/business-income-manual",
+      "summary": "Supplementary guidance on how to check tax calculations or work out the trading profits of a business for Self Assessment tax return.",
+      "published_at": "2026-07-01T10:09:29",
+      "fetched_at": "2026-07-01T14:29:43",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "3749b9d23cd24a1e0b00d701",
+      "title": "VAT Statutory Interest Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/vat-statutory-interest-manual",
+      "summary": "This guidance provides technical and procedural advice for staff in HMRC who may have to deal with VAT Statutory Interest claims",
+      "published_at": "2026-07-01T10:02:25",
+      "fetched_at": "2026-07-01T14:29:43",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 9,
+      "matched_keywords": [
+        "payroll",
+        "statutory"
+      ]
+    },
+    {
+      "id": "4157c549ab4512e21e6425c2",
+      "title": "Policy paper: Tax treatment for payments made under the Horizon Family Members Redress Scheme",
+      "link": "https://www.gov.uk/government/publications/tax-treatment-for-payments-made-under-the-horizon-family-members-redress-scheme",
+      "summary": "This measure introduces the tax treatment for payments made under the Horizon Family Members Redress Scheme.",
+      "published_at": "2026-07-01T09:46:36",
+      "fetched_at": "2026-07-01T14:29:43",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "6a5ff03ca32bb34d5c4695fd",
       "title": "Accredited official statistics: UK overseas trade in goods statistics: May 2026",
