@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-07-02T05:04:24",
-  "total": 433,
-  "new_count": 0,
+  "synced_at": "2026-07-02T08:52:42",
+  "total": 442,
+  "new_count": 9,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
-      "fetched": 21,
-      "added": 0,
+      "fetched": 23,
+      "added": 2,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 2,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 5,
       "error": null
     },
     {
@@ -40,6 +40,225 @@
     }
   ],
   "items": [
+    {
+      "id": "77aed2fd1f06765e7578e522",
+      "title": "Current DWP research being undertaken by external organisations",
+      "link": "https://www.gov.uk/guidance/current-dwp-research-in-the-field-undertaken-by-external-organisations",
+      "summary": "Check a list of live research being conducted by research organisations for the Department of Work and Pensions (DWP).",
+      "published_at": "2026-07-02T08:34:48",
+      "fetched_at": "2026-07-02T08:52:22",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 22,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension",
+        "ei"
+      ]
+    },
+    {
+      "id": "35521c445ef887c3ec0ee56e",
+      "title": "Accredited official statistics: Workplace pension participation and savings trends: 2009 to 2025",
+      "link": "https://www.gov.uk/government/statistics/announcements/workplace-pension-participation-and-savings-trends-2009-to-2025",
+      "summary": "These annual statistics include detailed breakdowns of the number of savers and the amount of savings.",
+      "published_at": "2026-07-02T08:30:33",
+      "fetched_at": "2026-07-02T08:52:22",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "70fe3900a2db7d531bef1d50",
+      "title": "Guidance: Access to Work provider memos",
+      "link": "https://www.gov.uk/government/publications/atwlr02-provider-memo-access-to-work",
+      "summary": "Access to Work provider memos.",
+      "published_at": "2026-07-02T08:30:06",
+      "fetched_at": "2026-07-02T08:52:22",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "fa377f93a239b0f9fcbdd658",
+      "title": "Policy paper: Get Britain Working: an update on the Jobs and Careers Service",
+      "link": "https://www.gov.uk/government/publications/get-britain-working-an-update-on-the-jobs-and-careers-service",
+      "summary": "A report to provide an update on the development of the Jobs and Careers Service, building on the Get Britain Working White Paper.",
+      "published_at": "2026-07-02T08:30:06",
+      "fetched_at": "2026-07-02T08:52:22",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "45c4fd9bf5011a60db64193e",
+      "title": "Official Statistics: List of upcoming DWP ad hoc statistical releases",
+      "link": "https://www.gov.uk/government/statistics/list-of-scheduled-upcoming-ad-hoc-statistical-releases",
+      "summary": "List of upcoming Department for Work and Pensions (DWP) ad hoc statistical releases.",
+      "published_at": "2026-07-02T08:30:05",
+      "fetched_at": "2026-07-02T08:52:22",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "18d543cd5ed1a950d404e430",
+      "title": "HMRC email updates, videos and webinars for VAT",
+      "link": "https://www.gov.uk/guidance/hmrc-email-updates-videos-and-webinars-for-vat",
+      "summary": "Learn more about VAT including accounting schemes, VAT Returns and keeping records.",
+      "published_at": "2026-07-02T07:55:32",
+      "fetched_at": "2026-07-02T08:52:22",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "8cb26985a5690a7435751783",
+      "title": "Self Assessment Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual",
+      "summary": "This manual contains guidance and processes for Self Assessment (SA)",
+      "published_at": "2026-07-02T07:50:06",
+      "fetched_at": "2026-07-02T08:52:22",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "2ccce746c6df30d4a182934f",
+      "title": "Agency Information Collection Activities; Requesting Comment Tax Information Security Guidelines for Federal, State, and Local Agencies",
+      "link": "https://www.federalregister.gov/documents/2026/07/02/2026-13412/agency-information-collection-activities-requesting-comment-tax-information-security-guidelines-for",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+      "published_at": "2026-07-02T04:00:00",
+      "fetched_at": "2026-07-02T08:52:21",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
+    {
+      "id": "15e5a184a79f57dfb5dc6f01",
+      "title": "Increase in Threshold for Requiring Information Reporting With Respect to Certain Payees; Extension and Modification of Limitation on Wagering Losses; Hearing",
+      "link": "https://www.federalregister.gov/documents/2026/07/02/2026-13370/increase-in-threshold-for-requiring-information-reporting-with-respect-to-certain-payees-extension",
+      "summary": "This document provides a notice of public hearing on the notice of proposed rulemaking (REG-113229-25) published in the Federal Register on April 17, 2026. The proposed regulations contain proposed amendments relating to the dollar thresholds in regulations governing information reporting for payments made in the course of a trade or business and the corresponding backup withholding regulations. The proposed regulations also contain proposed amendments to the regulations governing wagering losse",
+      "published_at": "2026-07-02T04:00:00",
+      "fetched_at": "2026-07-02T08:52:21",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 14,
+      "matched_keywords": [
+        "payroll",
+        "withholding",
+        "regulation"
+      ]
+    },
     {
       "id": "1252a82b77f706ffc1e3aeee",
       "title": "Councils supported to identify and support vulnerable teenagers",
