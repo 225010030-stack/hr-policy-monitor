@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-07-02T08:52:42",
-  "total": 442,
-  "new_count": 9,
+  "synced_at": "2026-07-02T13:54:25",
+  "total": 454,
+  "new_count": 12,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
       "fetched": 23,
-      "added": 2,
+      "added": 0,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 2,
+      "added": 10,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 5,
+      "added": 2,
       "error": null
     },
     {
@@ -40,6 +40,280 @@
     }
   ],
   "items": [
+    {
+      "id": "fa717337a44e0d63243ecd98",
+      "title": "Corporate report: HMRC Transformation Roadmap — Progress Update 2026",
+      "link": "https://www.gov.uk/government/publications/hmrc-transformation-roadmap-progress-update-2026",
+      "summary": "An update on the progress made on HMRC’s Transformation Roadmap.",
+      "published_at": "2026-07-02T13:11:34",
+      "fetched_at": "2026-07-02T13:54:04",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "1a7062f94372684d19151203",
+      "title": "Accredited official statistics: Inheritance Tax liabilities statistics",
+      "link": "https://www.gov.uk/government/statistics/announcements/inheritance-tax-liabilities-statistics--4",
+      "summary": "Annual update to the Inheritance Tax liabilities statistics. This publication contains information about Inheritance Tax (IHT) in the UK. It includes information on the estates and trusts that pay IHT, the use of tax reliefs and exemptions, and the asset composition of estates left on death, accrued back to the year in which the deceased passed away (i.e. became liable). This liabilities data is provided for estates passing on death in the 2023 to 2024 tax year.",
+      "published_at": "2026-07-02T12:49:54",
+      "fetched_at": "2026-07-02T13:54:04",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "4778fdf77c07ce55507921f5",
+      "title": "Self Assessment Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual",
+      "summary": "This manual contains guidance and processes for Self Assessment (SA)",
+      "published_at": "2026-07-02T11:28:15",
+      "fetched_at": "2026-07-02T13:54:04",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "c07c6a07da8ac035f30af2a9",
+      "title": "Guidance: Fulfilment House Due Diligence Scheme registered businesses list",
+      "link": "https://www.gov.uk/government/publications/fulfilment-house-due-diligence-scheme-registered-businesses-list",
+      "summary": "Check if the business that stores your goods in the UK is registered with the Fulfilment House Due Diligence Scheme if you’re a trader based outside of the UK.",
+      "published_at": "2026-07-02T10:58:29",
+      "fetched_at": "2026-07-02T13:54:04",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "a91c1038b5a7a837a7db8ba0",
+      "title": "Official Statistics: Department for Work and Pensions Complaints statistics to June 2026",
+      "link": "https://www.gov.uk/government/statistics/announcements/department-for-work-and-pensions-complaints-statistics-to-june-2026",
+      "summary": "Quarterly release of Official Statistics in Development including Department for Work and Pensions complaints received, closed and upheld by each business area, and categorisation of the reason for the complaint.",
+      "published_at": "2026-07-02T10:47:08",
+      "fetched_at": "2026-07-02T13:54:04",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 22,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension",
+        "ei"
+      ]
+    },
+    {
+      "id": "8fd3317b6c1f29813410c70b",
+      "title": "Official Statistics: Department for Work and Pensions Complaints statistics to September 2026",
+      "link": "https://www.gov.uk/government/statistics/announcements/department-for-work-and-pensions-complaints-statistics-to-september-2026",
+      "summary": "Quarterly release of Official Statistics in Development including DWP complaints received, closed and upheld by each business area, and categorisation of the reason for the complaint.",
+      "published_at": "2026-07-02T10:44:46",
+      "fetched_at": "2026-07-02T13:54:04",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 22,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension",
+        "ei"
+      ]
+    },
+    {
+      "id": "17137214ea11c7b122797f5f",
+      "title": "Guidance: Tax and National Insurance contributions for MPs and ministers",
+      "link": "https://www.gov.uk/government/publications/tax-and-national-insurance-contributions-for-mps-and-ministers",
+      "summary": "Find information about tax and National Insurance contributions for MPs and ministers.",
+      "published_at": "2026-07-02T09:52:35",
+      "fetched_at": "2026-07-02T13:54:04",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "bc9659cd21a7b84956db99d1",
+      "title": "International Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/international-manual",
+      "summary": "International tax issues including the principles of double taxation relief and an introduction to double taxation agreements",
+      "published_at": "2026-07-02T09:46:16",
+      "fetched_at": "2026-07-02T13:54:04",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "f73beda9e5f0053d234644d7",
+      "title": "Council Tax: practice notes",
+      "link": "https://www.gov.uk/guidance/council-tax-manual/council-tax-practice-notes",
+      "summary": "The Valuation Office Agency's (VOA) technical manual for assessing domestic property for Council Tax.",
+      "published_at": "2026-07-02T09:43:13",
+      "fetched_at": "2026-07-02T13:54:04",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "857b40c5e40e138a674b2fdc",
+      "title": "Council Tax Manual",
+      "link": "https://www.gov.uk/guidance/council-tax-manual",
+      "summary": "The Valuation Office Agency's (VOA) technical manual for assessing domestic property for Council Tax.",
+      "published_at": "2026-07-02T09:43:13",
+      "fetched_at": "2026-07-02T13:54:04",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "da43f1425a7956e659b46e2d",
+      "title": "Corporate report: Named tax avoidance schemes, promoters, enablers and suppliers",
+      "link": "https://www.gov.uk/government/publications/named-tax-avoidance-schemes-promoters-enablers-and-suppliers",
+      "summary": "Information about tax avoidance schemes, promoters, enablers and suppliers of these schemes.",
+      "published_at": "2026-07-02T09:41:38",
+      "fetched_at": "2026-07-02T13:54:04",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "40c89b77abf9794ec6402297",
+      "title": "Trust Registration Service Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/trust-registration-service-manual",
+      "summary": "The Trust Registration Service (TRS) is the Government's register of trusts; it is part of the Government's wider strategy to prevent money laundering and terrorist financing.The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 No. 621 came into force on 30 June 2026. This manual is being updated to reflect changes to which trusts must register with the Trust Registration Service. Non-UK trusts that acquired UK property before 6 October 2020 are not currently able to registe",
+      "published_at": "2026-07-02T09:29:28",
+      "fetched_at": "2026-07-02T13:54:04",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 13,
+      "matched_keywords": [
+        "payroll",
+        "ei",
+        "regulation"
+      ]
+    },
     {
       "id": "77aed2fd1f06765e7578e522",
       "title": "Current DWP research being undertaken by external organisations",
