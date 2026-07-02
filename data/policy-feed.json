@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-02T13:54:25",
-  "total": 454,
-  "new_count": 12,
+  "synced_at": "2026-07-02T19:21:02",
+  "total": 459,
+  "new_count": 5,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 10,
+      "added": 4,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 2,
+      "added": 1,
       "error": null
     },
     {
@@ -41,12 +41,128 @@
   ],
   "items": [
     {
+      "id": "b96c53e2836430e70ddbb361",
+      "title": "Official Statistics: Winter Fuel Payment statistics for winter 2025 to 2026",
+      "link": "https://www.gov.uk/government/statistics/announcements/winter-fuel-payment-statistics-for-winter-2025-to-2026",
+      "summary": "Annual statistics on the number of Winter Fuel Payments made in winter 2025 to 2026.",
+      "published_at": "2026-07-02T15:24:26",
+      "fetched_at": "2026-07-02T19:20:42",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "e9d5c4f043a9754dc3e7e73d",
+      "title": "Accredited official statistics: Insurance Premium Tax (IPT) Bulletin",
+      "link": "https://www.gov.uk/government/statistics/announcements/insurance-premium-tax-ipt-bulletin--5",
+      "summary": "Annual Insurance Premium Tax (IPT) receipts and declarations statistics. Updated with provisional data from May 2025 to May 2026.",
+      "published_at": "2026-07-02T15:20:29",
+      "fetched_at": "2026-07-02T19:20:42",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 13,
+      "matched_keywords": [
+        "payroll",
+        "ei",
+        "premium"
+      ]
+    },
+    {
+      "id": "b8bd9e8cb4dec2c5bb839fc7",
+      "title": "Check genuine HMRC contact that uses more than one communication method",
+      "link": "https://www.gov.uk/guidance/check-genuine-hmrc-contact-that-uses-more-than-one-communication-method",
+      "summary": "Check recent contacts from HMRC to help you decide if a suspicious email, phone call, text or letter could be a scam.",
+      "published_at": "2026-07-02T14:45:54",
+      "fetched_at": "2026-07-02T19:20:42",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "f9ba4d2f916ce982e3e53ce5",
+      "title": "5.6 million taxpayers check their pay in the HMRC app an average of 18 times a year",
+      "link": "https://www.gov.uk/government/news/56-million-taxpayers-check-their-pay-in-the-hmrc-app-an-average-of-18-times-a-year",
+      "summary": "HMRC publishes its Transformation Roadmap update.",
+      "published_at": "2026-07-02T14:24:00",
+      "fetched_at": "2026-07-02T19:20:42",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
       "id": "fa717337a44e0d63243ecd98",
       "title": "Corporate report: HMRC Transformation Roadmap — Progress Update 2026",
       "link": "https://www.gov.uk/government/publications/hmrc-transformation-roadmap-progress-update-2026",
       "summary": "An update on the progress made on HMRC’s Transformation Roadmap.",
       "published_at": "2026-07-02T13:11:34",
       "fetched_at": "2026-07-02T13:54:04",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "81082ab7c95b5be5dd4b89a4",
+      "title": "Corporate report: HMRC Transformation Roadmap — Progress Update 2026",
+      "link": "https://www.gov.uk/government/publications/hmrc-transformation-roadmap-progress-update-2026",
+      "summary": "An update on the progress made on HMRC’s Transformation Roadmap.",
+      "published_at": "2026-07-02T13:11:00",
+      "fetched_at": "2026-07-02T19:20:42",
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "region": "UK",
