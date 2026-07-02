@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-01T19:51:08",
-  "total": 432,
-  "new_count": 7,
+  "synced_at": "2026-07-02T03:20:59",
+  "total": 433,
+  "new_count": 1,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 6,
+      "added": 0,
       "error": null
     },
     {
@@ -40,6 +40,32 @@
     }
   ],
   "items": [
+    {
+      "id": "1252a82b77f706ffc1e3aeee",
+      "title": "Councils supported to identify and support vulnerable teenagers",
+      "link": "https://www.gov.uk/government/news/councils-supported-to-identify-and-support-vulnerable-teenagers",
+      "summary": "New data reveals 32,100 “Phantom NEETS” are being left to drift without help, with up to half of 16 and 17-year-olds unaccounted for in one area.",
+      "published_at": "2026-07-01T23:01:03",
+      "fetched_at": "2026-07-02T03:20:38",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 22,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension",
+        "ei"
+      ]
+    },
     {
       "id": "50c31888bdce1bb23a458453",
       "title": "Self Assessment Manual",
