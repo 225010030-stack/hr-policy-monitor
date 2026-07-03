@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-03T04:49:38",
-  "total": 463,
-  "new_count": 0,
+  "synced_at": "2026-07-03T08:58:59",
+  "total": 469,
+  "new_count": 6,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 6,
       "error": null
     },
     {
@@ -40,6 +40,138 @@
     }
   ],
   "items": [
+    {
+      "id": "1f6fad62d3789dc80a28fed9",
+      "title": "Investment gold coins (VAT Notice 701/21A)",
+      "link": "https://www.gov.uk/guidance/investment-gold-coins-and-vat-notice-70121a",
+      "summary": "List of gold coins considered as investment gold coins for VAT exemption as detailed in Group 15 to Schedule 9 of the VAT Act 1994 purposes.",
+      "published_at": "2026-07-03T08:57:12",
+      "fetched_at": "2026-07-03T08:58:39",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "03e10fd602abb8724088975d",
+      "title": "HMRC email updates, videos and webinars for employing people",
+      "link": "https://www.gov.uk/guidance/help-and-support-for-employing-people",
+      "summary": "Learn more about getting started as an employer or running a small business including registration, payroll, tax returns, tax bills and payments.",
+      "published_at": "2026-07-03T08:36:39",
+      "fetched_at": "2026-07-03T08:58:39",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "d774d2865d4039a5b3d7f247",
+      "title": "Research: Local reference rents, listed by BRMA and property size (June 2026)",
+      "link": "https://www.gov.uk/government/publications/local-reference-rents-listed-by-brma-and-property-size-june-2026",
+      "summary": "Local reference rent (LRR) levels by number of rooms and broad rental market areas (BRMA) for residential properties in England in June 2026.",
+      "published_at": "2026-07-03T08:30:02",
+      "fetched_at": "2026-07-03T08:58:39",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "7cc5ba5d35a03f02f2b3262c",
+      "title": "Accredited official statistics: Employee Share Scheme statistics",
+      "link": "https://www.gov.uk/government/statistics/employee-share-scheme-statistics",
+      "summary": "Statistics on the tax-advantaged Employee Share Schemes.",
+      "published_at": "2026-07-03T08:30:02",
+      "fetched_at": "2026-07-03T08:58:39",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "c984c5f7cb68b1b29e51b27d",
+      "title": "Business Income Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/business-income-manual",
+      "summary": "Supplementary guidance on how to check tax calculations or work out the trading profits of a business for Self Assessment tax return.",
+      "published_at": "2026-07-03T07:42:29",
+      "fetched_at": "2026-07-03T08:58:39",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "646e072cf76a87f288cbea18",
+      "title": "Residence and FIG Regime Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/residence-and-fig-regime-manual",
+      "summary": "This manual contains guidance for HMRC officers who have to consider the residence position of individuals and who have to consider any claim to the FIG regime.",
+      "published_at": "2026-07-03T00:00:00",
+      "fetched_at": "2026-07-03T08:58:39",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "941e7227faa09b9eddf41409",
       "title": "Keep Britain Working continues drive to stop people falling out of the workforce",
