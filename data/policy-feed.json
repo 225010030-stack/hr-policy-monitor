@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-03T08:58:59",
-  "total": 469,
-  "new_count": 6,
+  "synced_at": "2026-07-03T13:58:28",
+  "total": 484,
+  "new_count": 15,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 6,
+      "added": 14,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,343 @@
     }
   ],
   "items": [
+    {
+      "id": "49284ecfa83bab9a1675b8ff",
+      "title": "Self Assessment Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual",
+      "summary": "This manual contains guidance and processes for Self Assessment (SA)",
+      "published_at": "2026-07-03T13:09:54",
+      "fetched_at": "2026-07-03T13:58:08",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "4f261096dbd497b5bed25297",
+      "title": "Classifying toys and games for import and export",
+      "link": "https://www.gov.uk/guidance/classifying-toys-games-and-festive-articles-for-import-and-export",
+      "summary": "Get help to classify various toys and games for import and export.",
+      "published_at": "2026-07-03T13:08:10",
+      "fetched_at": "2026-07-03T13:58:08",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "e6f263a60e476520f8ad7471",
+      "title": "Choose the right software for Pillar 2 Top-up Taxes",
+      "link": "https://www.gov.uk/guidance/choose-the-right-software-for-pillar-2-top-up-taxes",
+      "summary": "Find out what commercial software is available to report Domestic Top-up Tax and Multinational Top-up Tax.",
+      "published_at": "2026-07-03T13:08:04",
+      "fetched_at": "2026-07-03T13:58:08",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "7cfbb4293b932b7a3b8e81b6",
+      "title": "BAE Systems tops the DWP's latest apprenticeships rankings as leading employers named",
+      "link": "https://www.gov.uk/government/news/bae-systems-tops-the-dwps-latest-apprenticeships-rankings-as-leading-employers-named",
+      "summary": "Top ranking apprenticeship employers have been revealed after the publication of the new leaderboard – with BAE Systems topping the list for 2026.",
+      "published_at": "2026-07-03T12:58:58",
+      "fetched_at": "2026-07-03T13:58:08",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "2a3d386c97f182ce470c78c8",
+      "title": "Guidance: External temporary storage facilities codes for Data Element 5/23 of the Customs Declaration Service",
+      "link": "https://www.gov.uk/government/publications/external-temporary-storage-facilities-codes-for-data-element-523-of-the-customs-declaration-service",
+      "summary": "Find the codes which can be used in Data Element 5/23 to identify the location where the goods may be examined for an external temporary storage facility (ETSF) (Appendix 16F).",
+      "published_at": "2026-07-03T12:42:53",
+      "fetched_at": "2026-07-03T13:58:08",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "60b69720ebcc6e45b7945814",
+      "title": "Find payroll software that is recognised by HMRC",
+      "link": "https://www.gov.uk/guidance/find-payroll-software-that-is-recognised-by-hmrc",
+      "summary": "Check for free and paid-for software recognised by HMRC that you can use to report PAYE information online.",
+      "published_at": "2026-07-03T12:33:17",
+      "fetched_at": "2026-07-03T13:58:08",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "c49659e9cdfaef758d6609eb",
+      "title": "Guidance: Agent services account if you’re not based in the UK: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/agent-services-account-if-you-are-not-based-in-the-uk-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the approval and set up of your agent services account if you are not based in the UK.",
+      "published_at": "2026-07-03T11:14:50",
+      "fetched_at": "2026-07-03T13:58:08",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "5119641a30aedb782a11c07c",
+      "title": "Guidance: Agent services account: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/agent-services-account-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the agent services account.",
+      "published_at": "2026-07-03T11:12:48",
+      "fetched_at": "2026-07-03T13:58:08",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "d478b06456e954919c7108a6",
+      "title": "Refunds of UK VAT for non-UK businesses (VAT Notice 723A)",
+      "link": "https://www.gov.uk/guidance/refunds-of-uk-vat-for-non-uk-businesses-or-eu-vat-for-uk-businesses",
+      "summary": "How to claim a VAT refund in the UK if you're established outside the UK.",
+      "published_at": "2026-07-03T11:08:22",
+      "fetched_at": "2026-07-03T13:58:08",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "3ebe0740e346a53c02fd2781",
+      "title": "Guidance: Internal temporary storage facilities (ITSFs) codes for Data Element 5/23 of the Customs Declaration Service",
+      "link": "https://www.gov.uk/government/publications/internal-temporary-storage-facilities-itsfs-codes-for-data-element-523-of-the-customs-declaration-service",
+      "summary": "Find a list of codes which can be used in Data Element 5/23 to identify the location where the goods may be examined for internal temporary storage facilities (Appendix 16D).",
+      "published_at": "2026-07-03T11:02:16",
+      "fetched_at": "2026-07-03T13:58:08",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "b9ce300cedeecf4a1a8d84e6",
+      "title": "Customs Declaration Service: service availability and issues",
+      "link": "https://www.gov.uk/guidance/customs-declaration-service-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the Customs Declaration Service.",
+      "published_at": "2026-07-03T10:57:31",
+      "fetched_at": "2026-07-03T13:58:08",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "c997ddaad018da5912d563ab",
+      "title": "Employment Income Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/employment-income-manual",
+      "summary": "A guide to the Income Tax (Earnings and Pensions) Act 2003.",
+      "published_at": "2026-07-03T10:20:34",
+      "fetched_at": "2026-07-03T13:58:08",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "pension",
+        "payroll"
+      ]
+    },
+    {
+      "id": "2945c7390bdf1c118e691124",
+      "title": "Soft Drinks Industry Levy returns and records (notice 2)",
+      "link": "https://www.gov.uk/guidance/submit-a-return-and-pay-the-soft-drinks-industry-levy-notice-2",
+      "summary": "What you need to include in your Soft Drinks Industry Levy return, how to correct an error in a previous return and what records to keep.",
+      "published_at": "2026-07-03T09:47:52",
+      "fetched_at": "2026-07-03T13:58:08",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "496b725bfe5088ab9505ab67",
+      "title": "Find out what types of Authorised Economic Operator status you can apply for",
+      "link": "https://www.gov.uk/guidance/authorised-economic-operator-certification",
+      "summary": "Check which Authorised Economic Operator status you could apply for and their benefits if your business has role in the international supply chain.",
+      "published_at": "2026-07-03T09:25:43",
+      "fetched_at": "2026-07-03T13:58:08",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "benefit",
+        "benefits",
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "2f27f6ecb85f0630d6564e54",
+      "title": "Guidance: Data Element 2/3: Documents and Other Reference Codes (Union) of the Customs Declaration Service (CDS)",
+      "link": "https://www.gov.uk/government/publications/data-element-23-documents-and-other-reference-codes-union-of-the-customs-declaration-service-cds",
+      "summary": "Find the relevant document codes, document status codes and details to be declared such as licences and certificates (Appendix 5A).",
+      "published_at": "2026-07-03T09:16:37",
+      "fetched_at": "2026-07-03T13:58:08",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "1f6fad62d3789dc80a28fed9",
       "title": "Investment gold coins (VAT Notice 701/21A)",
