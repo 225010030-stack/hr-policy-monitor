@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-03T13:58:28",
-  "total": 484,
-  "new_count": 15,
+  "synced_at": "2026-07-03T19:17:44",
+  "total": 486,
+  "new_count": 2,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 14,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,28 @@
     }
   ],
   "items": [
+    {
+      "id": "b1fd276728c817cffacc0b09",
+      "title": "Report a problem using the Customs Declaration Service",
+      "link": "https://www.gov.uk/guidance/report-a-problem-using-the-customs-declaration-service",
+      "summary": "Find out what to do if you experience a problem whilst submitting a declaration using the Customs Declaration Service.",
+      "published_at": "2026-07-03T15:03:20",
+      "fetched_at": "2026-07-03T19:17:24",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "49284ecfa83bab9a1675b8ff",
       "title": "Self Assessment Manual",
@@ -591,6 +613,31 @@
       "summary": "June 2026 update on implementing the independent review of employers' role in tackling health based economic inactivity and promoting healthy and inclusive workplaces.",
       "published_at": "2026-07-02T23:01:01",
       "fetched_at": "2026-07-03T02:43:29",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "32dd58137f8da9efb26edfdc",
+      "title": "Keep Britain Working continues drive to stop people falling out of the workforce",
+      "link": "https://www.gov.uk/government/news/keep-britain-working-continues-drive-to-stop-people-falling-out-of-the-workforce",
+      "summary": "Nearly 200 workplaces have signed up to be “Vanguards” preventing people dropping out of work due to ill-health, in a new milestone for the programme.",
+      "published_at": "2026-07-02T23:01:00",
+      "fetched_at": "2026-07-03T19:17:24",
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "region": "UK",
