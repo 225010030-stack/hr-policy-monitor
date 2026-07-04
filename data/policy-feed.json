@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-03T19:17:44",
-  "total": 486,
-  "new_count": 2,
+  "synced_at": "2026-07-04T02:39:43",
+  "total": 490,
+  "new_count": 4,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 1,
+      "added": 4,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 1,
+      "added": 0,
       "error": null
     },
     {
@@ -40,6 +40,94 @@
     }
   ],
   "items": [
+    {
+      "id": "9a2be832beac5d26812d5595",
+      "title": "Guidance: Appendix 2 C21e: Data Element 1/11: Additional Procedure Codes",
+      "link": "https://www.gov.uk/government/publications/appendix-2-c21e-data-element-111-additional-procedure-codes",
+      "summary": "This Appendix contains the specific completion rules instructions for each 3-digit Export Additional Procedure Code that can be used in Data Element 1/11 for Customs Clearance Requests (CCR).",
+      "published_at": "2026-07-03T23:15:05",
+      "fetched_at": "2026-07-04T02:39:22",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "3f04e5f3eb02ea045740cb92",
+      "title": "Guidance: CDS Declaration Completion Instructions for Imports",
+      "link": "https://www.gov.uk/government/publications/cds-uk-trade-tariff-volume-3-import-declaration-completion-guide",
+      "summary": "This guide provides detailed completion instructions for data elements when making an import declaration to the Customs Declaration Service (CDS).",
+      "published_at": "2026-07-03T23:15:05",
+      "fetched_at": "2026-07-04T02:39:22",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "23dcecc346b5236b44e7c0ec",
+      "title": "Guidance: Known error workarounds for the Customs Declaration Service (CDS)",
+      "link": "https://www.gov.uk/government/publications/known-error-workarounds-for-the-customs-declaration-service-cds",
+      "summary": "Check for workarounds to the declaration completion instructions for Customs Declaration Service known errors if you’re submitting a customs clearance request or customs declaration.",
+      "published_at": "2026-07-03T23:15:05",
+      "fetched_at": "2026-07-04T02:39:22",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "e3b6a2df8c6275a93e9a5f09",
+      "title": "Guidance: Appendix 2 C21i: DE 1/11: Additional Procedure Codes",
+      "link": "https://www.gov.uk/government/publications/appendix-2-c21i-de-111-additional-procedure-codes",
+      "summary": "This Appendix contains the specific completion rules instructions for each 3-digit Import Additional Procedure Code that can be used in Data Element (DE) 1/11 for Customs Clearance Requests (CCR) C21i.",
+      "published_at": "2026-07-03T23:15:05",
+      "fetched_at": "2026-07-04T02:39:22",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "b1fd276728c817cffacc0b09",
       "title": "Report a problem using the Customs Declaration Service",
