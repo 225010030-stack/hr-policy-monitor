@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-05T05:02:49",
-  "total": 490,
-  "new_count": 0,
+  "synced_at": "2026-07-05T08:49:53",
+  "total": 491,
+  "new_count": 1,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,28 @@
     }
   ],
   "items": [
+    {
+      "id": "631f87e1b044fd7b5862721d",
+      "title": "Customs Declaration Service: service availability and issues",
+      "link": "https://www.gov.uk/guidance/customs-declaration-service-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the Customs Declaration Service.",
+      "published_at": "2026-07-05T05:15:04",
+      "fetched_at": "2026-07-05T08:49:33",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "9a2be832beac5d26812d5595",
       "title": "Guidance: Appendix 2 C21e: Data Element 1/11: Additional Procedure Codes",
