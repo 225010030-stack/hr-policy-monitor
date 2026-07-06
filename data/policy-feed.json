@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-06T10:14:54",
+  "synced_at": "2026-07-06T15:26:17",
   "total": 500,
-  "new_count": 12,
+  "new_count": 8,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 10,
+      "added": 6,
       "error": null
     },
     {
@@ -40,6 +40,192 @@
     }
   ],
   "items": [
+    {
+      "id": "fe80bfe78fa7cca0e2787f1d",
+      "title": "Check if a letter you’ve received from HMRC is genuine",
+      "link": "https://www.gov.uk/guidance/check-if-a-letter-youve-received-from-hmrc-is-genuine",
+      "summary": "Check a list of recent letters from HMRC to help you decide if a letter you’ve received is a scam.",
+      "published_at": "2026-07-06T15:17:04",
+      "fetched_at": "2026-07-06T15:25:57",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "1c09c14a71c4d1273b1b113f",
+      "title": "Self Assessment Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual",
+      "summary": "This manual contains guidance and processes for Self Assessment (SA)",
+      "published_at": "2026-07-06T15:16:14",
+      "fetched_at": "2026-07-06T15:25:57",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "75c781a6f520c008e8d0849c",
+      "title": "Official Statistics: Workplace pension participation and savings trends: 2009 to 2025",
+      "link": "https://www.gov.uk/government/statistics/announcements/workplace-pension-participation-and-savings-trends-2009-to-2025",
+      "summary": "These annual statistics include detailed breakdowns of the number of savers and the amount of savings.",
+      "published_at": "2026-07-06T13:47:48",
+      "fetched_at": "2026-07-06T15:25:57",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "2c30bc16b6d20143ad7d6123",
+      "title": "Statutory guidance: Reference Document for The Customs (Northern Ireland) (EU Exit) Regulations 2020",
+      "link": "https://www.gov.uk/government/publications/reference-document-for-the-customs-northern-ireland-eu-exit-regulations-2020",
+      "summary": "The Reference Document for The Customs (Northern Ireland) (EU Exit) Regulations 2020 sets out the necessary steps businesses who import goods into Northern Ireland will need to take.",
+      "published_at": "2026-07-06T13:34:12",
+      "fetched_at": "2026-07-06T15:25:57",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 12,
+      "matched_keywords": [
+        "payroll",
+        "regulation",
+        "statutory"
+      ]
+    },
+    {
+      "id": "3765fcad7dd62efbd5f634d7",
+      "title": "Research: Skills England annual skills report and Sectoral Skills Needs Assessments 2026",
+      "link": "https://www.gov.uk/government/publications/skills-england-annual-skills-report-and-sectoral-skills-needs-assessments-2026",
+      "summary": "The 2026 annual skills report highlights key challenges in the skills system. Our Skills Needs Assessments outline skills demand and supply in priority sectors.",
+      "published_at": "2026-07-06T11:55:48",
+      "fetched_at": "2026-07-06T15:25:57",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "23844137abb5035551b66345",
+      "title": "Notice: Notices made under The Customs (Export) (EU Exit) Regulations 2019",
+      "link": "https://www.gov.uk/government/publications/notices-to-be-made-under-the-customs-export-eu-exit-regulations-2019",
+      "summary": "Notices made under The Customs (Export) (EU Exit) Regulations 2019 which have force of law.",
+      "published_at": "2026-07-06T11:28:57",
+      "fetched_at": "2026-07-06T15:25:57",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 9,
+      "matched_keywords": [
+        "payroll",
+        "regulation"
+      ]
+    },
+    {
+      "id": "8b186e6412c2ede05d1be191",
+      "title": "Stamp Taxes on Shares Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/stamp-taxes-shares-manual",
+      "summary": "Guidance on Stamp Taxes on Shares and other Securities - Stamp Duty and Stamp Duty Reserve Tax (SDRT)",
+      "published_at": "2026-07-06T10:32:53",
+      "fetched_at": "2026-07-06T15:25:57",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "94eb3f3a77eac5d42107475a",
+      "title": "Software developers providing customs declaration software",
+      "link": "https://www.gov.uk/guidance/list-of-software-developers-providing-customs-declaration-support",
+      "summary": "Check a list of software developers who can provide Customs Declaration Service software.",
+      "published_at": "2026-07-06T10:28:08",
+      "fetched_at": "2026-07-06T15:25:57",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "75e36e02111202d02cdf2dc4",
       "title": "Apply for a customs comprehensive guarantee to cover customs debts",
@@ -11446,201 +11632,6 @@
       "link": "https://www.federalregister.gov/documents/2026/06/02/2026-10985/agency-information-collection-activities-comment-request-on-information-regarding-request-for-refund",
       "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
       "published_at": "2026-06-02T04:00:00",
-      "fetched_at": "2026-06-18T10:34:58",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "payroll",
-        "withholding"
-      ]
-    },
-    {
-      "id": "5b27049cbec052e97ff25e72",
-      "title": "Agency Information Collection Activities; Comment Request on Form 8857-Request for Innocent Spouse Relief",
-      "link": "https://www.federalregister.gov/documents/2026/06/02/2026-10973/agency-information-collection-activities-comment-request-on-form-8857-request-for-innocent-spouse",
-      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
-      "published_at": "2026-06-02T04:00:00",
-      "fetched_at": "2026-06-18T10:34:58",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "payroll",
-        "withholding"
-      ]
-    },
-    {
-      "id": "73d6402d5faae3ba59ebd283",
-      "title": "Estate Tax Closing Letter User Fee Update",
-      "link": "https://www.federalregister.gov/documents/2026/06/02/2026-10963/estate-tax-closing-letter-user-fee-update",
-      "summary": "This document contains proposed regulations amending the current regulations to increase the amount of the user fee imposed on authorized persons requesting the issuance of an estate tax closing letter. The Independent Offices Appropriations Act of 1952 authorizes charging user fees in appropriate circumstances. The proposed regulations would affect persons who request an estate tax closing letter.",
-      "published_at": "2026-06-02T04:00:00",
-      "fetched_at": "2026-06-18T10:34:58",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 14,
-      "matched_keywords": [
-        "payroll",
-        "withholding",
-        "regulation"
-      ]
-    },
-    {
-      "id": "cc6ccd8dc7df95cf2c3ceebb",
-      "title": "Credit for Renewable Electricity Production and Publication of Inflation Adjustment Factor and Reference Price for Calendar Year 2026",
-      "link": "https://www.federalregister.gov/documents/2026/06/01/2026-10906/credit-for-renewable-electricity-production-and-publication-of-inflation-adjustment-factor-and",
-      "summary": "The 2026 inflation adjustment factor and reference price are used in determining the availability of the credit for renewable electricity production under section 45 (section 45 credit).",
-      "published_at": "2026-06-01T04:00:00",
-      "fetched_at": "2026-06-18T10:34:58",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "payroll",
-        "withholding"
-      ]
-    },
-    {
-      "id": "9b4aab90cda07d34e404764d",
-      "title": "Income of Foreign Governments and of International Organizations",
-      "link": "https://www.federalregister.gov/documents/2026/06/01/2026-10841/income-of-foreign-governments-and-of-international-organizations",
-      "summary": "This document contains proposed regulations regarding the applicability dates of proposed rules relating to the taxation of the income of foreign governments from investment in the United States. This document also withdraws a portion of the proposed regulations published on December 15, 2025, relating to applicability dates.",
-      "published_at": "2026-06-01T04:00:00",
-      "fetched_at": "2026-06-18T10:34:58",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "payroll",
-        "withholding",
-        "ei",
-        "regulation"
-      ]
-    },
-    {
-      "id": "34bad1ef8e306925c8bf4e79",
-      "title": "Open Meeting of the Taxpayer Advocacy Panel Joint Committee",
-      "link": "https://www.federalregister.gov/documents/2026/05/28/2026-10572/open-meeting-of-the-taxpayer-advocacy-panel-joint-committee",
-      "summary": "An open meeting of the Taxpayer Advocacy Panel's Joint Committee will be conducted. The Taxpayer Advocacy Panel is soliciting public comments, ideas, and suggestions to improve customer service at the Internal Revenue Service. This meeting will be held as a virtual video conference via the Microsoft Teams platform.",
-      "published_at": "2026-05-28T04:00:00",
-      "fetched_at": "2026-06-18T10:34:58",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "payroll",
-        "withholding"
-      ]
-    },
-    {
-      "id": "173ebb7c3deb56e28a01f4ce",
-      "title": "Agency Information Collection Activities; Comment Request on Clean Vehicle Credits",
-      "link": "https://www.federalregister.gov/documents/2026/05/22/2026-10279/agency-information-collection-activities-comment-request-on-clean-vehicle-credits",
-      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
-      "published_at": "2026-05-22T04:00:00",
-      "fetched_at": "2026-06-18T10:34:58",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "payroll",
-        "withholding"
-      ]
-    },
-    {
-      "id": "2ee369cccc48debd6228da5d",
-      "title": "Electronic Tax Administration Advisory Committee; Public Meeting",
-      "link": "https://www.federalregister.gov/documents/2026/05/21/2026-10219/electronic-tax-administration-advisory-committee-public-meeting",
-      "summary": "The Electronic Tax Administration Advisory Committee will hold a public meeting.",
-      "published_at": "2026-05-21T04:00:00",
-      "fetched_at": "2026-06-18T10:34:58",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "payroll",
-        "withholding"
-      ]
-    },
-    {
-      "id": "f9c7d56b314a958732e79a5c",
-      "title": "Art Advisory Panel-Notice of Closed Meeting",
-      "link": "https://www.federalregister.gov/documents/2026/05/21/2026-10127/art-advisory-panel-notice-of-closed-meeting",
-      "summary": "Closed meeting of the Art Advisory Panel will be held virtually via Microsoft Teams. The entire meeting will be closed.",
-      "published_at": "2026-05-21T04:00:00",
       "fetched_at": "2026-06-18T10:34:58",
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
