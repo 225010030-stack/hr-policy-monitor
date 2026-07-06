@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-06T06:13:38",
-  "total": 492,
-  "new_count": 0,
+  "synced_at": "2026-07-06T10:14:54",
+  "total": 500,
+  "new_count": 12,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 10,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 2,
       "error": null
     },
     {
@@ -40,6 +40,278 @@
     }
   ],
   "items": [
+    {
+      "id": "75e36e02111202d02cdf2dc4",
+      "title": "Apply for a customs comprehensive guarantee to cover customs debts",
+      "link": "https://www.gov.uk/guidance/apply-for-a-customs-comprehensive-guarantee-to-cover-customs-debts",
+      "summary": "Use a customs comprehensive guarantee to cover Customs Duty, excise duty and import VAT when you regularly import goods or use common and Union transit.",
+      "published_at": "2026-07-06T09:27:51",
+      "fetched_at": "2026-07-06T10:14:34",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "b1ee9a5bf7ad2e0003567e07",
+      "title": "Using an EORI number from an EU country for goods moving in and out of Northern Ireland",
+      "link": "https://www.gov.uk/guidance/using-an-eori-number-from-an-eu-country-for-goods-moving-in-and-out-of-northern-ireland",
+      "summary": "Find out how to use an EORI number from an EU country to move goods in and out of Northern Ireland if you’re a business established in the EU.",
+      "published_at": "2026-07-06T09:27:30",
+      "fetched_at": "2026-07-06T10:14:34",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "a4479aa5cef85e7155b731b5",
+      "title": "Subscribe to the Customs Declaration Service",
+      "link": "https://www.gov.uk/guidance/get-access-to-the-customs-declaration-service",
+      "summary": "How to subscribe or check if you have access to the Customs Declaration Service.",
+      "published_at": "2026-07-06T09:27:20",
+      "fetched_at": "2026-07-06T10:14:34",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "0e19b5d13f383b1d68a7dbd2",
+      "title": "Trading and moving goods in and out of Northern Ireland",
+      "link": "https://www.gov.uk/guidance/trading-and-moving-goods-in-and-out-of-northern-ireland",
+      "summary": "How to prepare if you trade and move goods in and out of Northern Ireland.",
+      "published_at": "2026-07-06T09:27:14",
+      "fetched_at": "2026-07-06T10:14:34",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "4e8de3e30ee85d8c539a37b0",
+      "title": "Apply to claim a repayment or remission of import duty, or reclaim state aid used on ‘at risk’ goods brought into Northern Ireland",
+      "link": "https://www.gov.uk/guidance/apply-to-claim-a-repayment-or-remission-of-import-duty-on-at-risk-goods-brought-into-northern-ireland",
+      "summary": "Check if you can apply for a repayment or remission of EU import duty paid, or reclaim state aid used (also known as 'replenishment of state aid') on goods brought into Northern Ireland, through the Duty Reimbursement Scheme.",
+      "published_at": "2026-07-06T09:00:01",
+      "fetched_at": "2026-07-06T10:14:34",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "204223395b7792f6122fb71e",
+      "title": "Impact assessment: EU EORI and Goods vehicle movement service",
+      "link": "https://www.gov.uk/government/publications/eu-eori-and-goods-vehicle-movement-service",
+      "summary": "Screening Equality Impact Assessment for European Union Economic Operator Registration and Identification (EORI) and Goods vehicle movement service.",
+      "published_at": "2026-07-06T08:30:04",
+      "fetched_at": "2026-07-06T10:14:34",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "4fbb76b1a1c0fa622609144d",
+      "title": "Transparency data: DWP: workforce management information May 2026",
+      "link": "https://www.gov.uk/government/publications/dwp-workforce-management-information-may-2026",
+      "summary": "Report on departmental staff numbers and costs.",
+      "published_at": "2026-07-06T08:17:26",
+      "fetched_at": "2026-07-06T10:14:34",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "99817f2d610d1263b7b6a78c",
+      "title": "Official Statistics: Schedule of updates and announcements for HMRC's statistics",
+      "link": "https://www.gov.uk/government/statistics/schedule-of-updates-and-announcements-for-hmrcs-statistics",
+      "summary": "Publication plan for HMRC National and Official Statistics. Any changes to the schedule will be detailed in the announcements.",
+      "published_at": "2026-07-06T08:00:11",
+      "fetched_at": "2026-07-06T10:14:34",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "713d9a5c6942ccc76ccdcfe4",
+      "title": "Apply for site approval of an Office of Exchange or Extra-Territorial Office of Exchange",
+      "link": "https://www.gov.uk/guidance/apply-for-site-approval-of-an-office-of-exchange-or-extra-territorial-office-of-exchange",
+      "summary": "Get your site approved for customs purposes if you're a designated operator exporting postal goods from Great Britain.",
+      "published_at": "2026-07-06T08:00:10",
+      "fetched_at": "2026-07-06T10:14:34",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "6e7c94038f2e33ff095351f0",
+      "title": "Apply to be an approved operator of an Extra-Territorial Office of Exchange",
+      "link": "https://www.gov.uk/guidance/apply-to-be-an-approved-operator-of-an-extra-territorial-office-of-exchange",
+      "summary": "Apply to become an approved operator if you're a non-UK designated operator running an Extra-Territorial Office of Exchange in Great Britain.",
+      "published_at": "2026-07-06T08:00:10",
+      "fetched_at": "2026-07-06T10:14:34",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "a910469f895c6434c26ca350",
+      "title": "Official Statistics: Universal Credit claimants statistics on the two child limit policy, April 2026",
+      "link": "https://www.gov.uk/government/statistics/announcements/universal-credit-claimants-statistics-on-the-two-child-limit-policy-april-2026",
+      "summary": "Universal Credit statistics on the two child limit policy, April 2026, including those likely to benefit from the removal of the policy.",
+      "published_at": "2026-07-06T07:24:33",
+      "fetched_at": "2026-07-06T10:14:34",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "a3edb927801d47bdcef540e4",
+      "title": "Capital Gains Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual",
+      "summary": "HMRC is reviewing the CG Manual to ensure it provides HMRC’s interpretation of relevant legislation where there is more than one reasonable view of how rules work.Where material in the CG Manual isn’t providing an interpretation, that material is being removed. Where appropriate, material will be reproduced elsewhere and linked from the CG Manual.",
+      "published_at": "2026-07-06T06:57:44",
+      "fetched_at": "2026-07-06T10:14:34",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
     {
       "id": "1119f127e44cfce458611699",
       "title": "Supported housing residents to keep more of what they earn under new rules",
@@ -11369,104 +11641,6 @@
       "link": "https://www.federalregister.gov/documents/2026/05/21/2026-10127/art-advisory-panel-notice-of-closed-meeting",
       "summary": "Closed meeting of the Art Advisory Panel will be held virtually via Microsoft Teams. The entire meeting will be closed.",
       "published_at": "2026-05-21T04:00:00",
-      "fetched_at": "2026-06-18T10:34:58",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "payroll",
-        "withholding"
-      ]
-    },
-    {
-      "id": "11ca0c0c9bab562235217b6f",
-      "title": "Returns Relating to Sales or Exchanges of Certain Partnership Interests",
-      "link": "https://www.federalregister.gov/documents/2026/05/20/2026-10116/returns-relating-to-sales-or-exchanges-of-certain-partnership-interests",
-      "summary": "This document contains final regulations modifying information reporting obligations with respect to sales or exchanges of certain interests in partnerships owning inventory or unrealized receivables.",
-      "published_at": "2026-05-20T04:00:00",
-      "fetched_at": "2026-06-18T10:34:58",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "payroll",
-        "withholding",
-        "ei",
-        "regulation"
-      ]
-    },
-    {
-      "id": "be7bb209cfd27c7ee9eedcc7",
-      "title": "Agency Information Collection Activities; Comment Request on Pre-Filing Registration for Elective Payment and Transfer Elections",
-      "link": "https://www.federalregister.gov/documents/2026/05/20/2026-10104/agency-information-collection-activities-comment-request-on-pre-filing-registration-for-elective",
-      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
-      "published_at": "2026-05-20T04:00:00",
-      "fetched_at": "2026-06-18T10:34:58",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "payroll",
-        "withholding"
-      ]
-    },
-    {
-      "id": "dd771856d31264e28980e01d",
-      "title": "Electronic Furnishing of Payee Statements Regarding Digital Asset Sales by Brokers; Hearing",
-      "link": "https://www.federalregister.gov/documents/2026/05/18/2026-09941/electronic-furnishing-of-payee-statements-regarding-digital-asset-sales-by-brokers-hearing",
-      "summary": "This document provides a notice of public hearing on the notice of proposed rules for electronic furnishing of payee statements by brokers with respect to digital asset sales.",
-      "published_at": "2026-05-18T04:00:00",
-      "fetched_at": "2026-06-18T10:34:58",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "payroll",
-        "withholding"
-      ]
-    },
-    {
-      "id": "ed00e3457956a60ae663781e",
-      "title": "Superfund Tax on Chemical Substances; Request To Modify List of Taxable Substances; Notice of Filing for Methyl Methacrylate-ethyl Methacrylate-methacrylic Acid Copolymer in a Styrene Solution (x=75.76, y=8.46, z=1, s=168.4); Hearing",
-      "link": "https://www.federalregister.gov/documents/2026/05/18/2026-09916/superfund-tax-on-chemical-substances-request-to-modify-list-of-taxable-substances-notice-of-filing",
-      "summary": "This document provides a notice of public hearing on the notice of filing published in the Federal Register on Wednesday, January 14, 2026. This notice of filing announced that a petition has been filed requesting that methyl methacrylate-ethyl methacrylate- methacrylic acid copolymer in a styrene solution ((C&lt;INF&gt;5&lt;/INF&gt;H&lt;INF&gt;8&lt;/INF&gt;O&lt;INF&gt;2&lt;/INF&gt;)&lt;INF&gt;x&lt;/INF&gt;- (C&lt;INF&gt;6&lt;/INF&gt;H&lt;INF&gt;10&lt;/INF&gt;O&lt;INF&gt;2&lt;/INF&gt;)&lt;INF&gt",
-      "published_at": "2026-05-18T04:00:00",
       "fetched_at": "2026-06-18T10:34:58",
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
