@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-07-07T14:27:24",
+  "synced_at": "2026-07-07T19:51:50",
   "total": 500,
-  "new_count": 10,
+  "new_count": 5,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
       "fetched": 16,
-      "added": 1,
+      "added": 2,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 9,
+      "added": 1,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 2,
       "error": null
     },
     {
@@ -40,6 +40,53 @@
     }
   ],
   "items": [
+    {
+      "id": "7746708839952858befd4f6e",
+      "title": "Official Statistics: Income-related benefits: estimates of take-up : financial year ending 2025",
+      "link": "https://www.gov.uk/government/statistics/announcements/income-related-benefits-estimates-of-take-up-financial-year-ending-2025",
+      "summary": "Estimates of take-up of income-related benefits for Great Britain for the financial year ending 2025.",
+      "published_at": "2026-07-07T15:35:18",
+      "fetched_at": "2026-07-07T19:51:29",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "1d0976d82825a7bed93bb961",
+      "title": "Form: Tell HMRC that Inheritance Tax is due on the 10 year anniversary of a trust — IHT100d",
+      "link": "https://www.gov.uk/government/publications/inheritance-tax-non-interest-in-possession-settlements-principal-charge-ten-year-anniversary-iht100d",
+      "summary": "Use this form to tell us about the assets in the trust on the 10 year anniversary.",
+      "published_at": "2026-07-07T14:42:17",
+      "fetched_at": "2026-07-07T19:51:29",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "106cfd560847f42d06f8fe3d",
       "title": "Self Assessment Manual",
@@ -1599,6 +1646,31 @@
       "summary": "Nearly 200 workplaces have signed up to be “Vanguards” preventing people dropping out of work due to ill-health, in a new milestone for the programme.",
       "published_at": "2026-07-02T23:01:00",
       "fetched_at": "2026-07-03T19:17:24",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "59c22aa188f27c225df03f8a",
+      "title": "Correspondence: Keep Britain Working review update: June 2026",
+      "link": "https://www.gov.uk/government/publications/keep-britain-working-review-update-june-2026",
+      "summary": "June 2026 update on implementing the independent review of employers' role in tackling health based economic inactivity and promoting healthy and inclusive workplaces.",
+      "published_at": "2026-07-02T23:01:00",
+      "fetched_at": "2026-07-07T19:51:29",
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "region": "UK",
@@ -11525,82 +11597,6 @@
       "summary": "The rules employers and training providers must follow to get funding for training and assessing apprentices in England.",
       "published_at": "2026-06-15T16:30:06",
       "fetched_at": "2026-06-18T10:35:01",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "fc2ac82b8b7b93e39cc67c84",
-      "title": "LinkedIn and government join forces to help jobseekers build their careers",
-      "link": "https://www.gov.uk/government/news/linkedin-and-government-join-forces-to-help-jobseekers-build-their-careers",
-      "summary": "Thousands of jobseekers could be supported into a new career as the government joins forces with LinkedIn to bolster careers advice.",
-      "published_at": "2026-06-15T16:12:00",
-      "fetched_at": "2026-06-18T02:56:55",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 22,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension",
-        "ei"
-      ]
-    },
-    {
-      "id": "9c2b399d8453ce14d03aa2fb",
-      "title": "Independent report: Pensions 2050: evidence and future priorities – interim report",
-      "link": "https://www.gov.uk/government/publications/pensions-2050-evidence-and-future-priorities-interim-report",
-      "summary": "An interim report of the second Pensions Commission, setting out the challenges that the UK's pensions system is facing out to 2050.",
-      "published_at": "2026-06-15T09:55:08",
-      "fetched_at": "2026-06-18T02:56:55",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "7d984c0975869ab14032e791",
-      "title": "Guidance: Apprenticeship funding rules and assessment plan guidance, 2026 to 2027",
-      "link": "https://www.gov.uk/government/publications/apprenticeship-funding-rules-and-assessment-plan-guidance-2026-to-2027",
-      "summary": "The rules employers and training providers must follow to get funding for training and assessing apprentices in England.",
-      "published_at": "2026-06-15T08:30:06",
-      "fetched_at": "2026-06-18T02:56:55",
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "region": "UK",
