@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-06T19:52:36",
+  "synced_at": "2026-07-07T02:51:22",
   "total": 500,
-  "new_count": 0,
+  "new_count": 1,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -28,7 +28,7 @@
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,31 @@
     }
   ],
   "items": [
+    {
+      "id": "4ca9670a877992a37fed6fac",
+      "title": "Views sought to transform benefit paid to carers",
+      "link": "https://www.gov.uk/government/news/views-sought-to-transform-benefit-paid-to-carers",
+      "summary": "Opening today (Tuesday 7 July 2026) the six-week call for evidence will gather views on: modernising the earnings limit to reduce the impact of the current cliff edge, improving predictability for carers with varying incomes, and better supporting those with work and caring responsibilities.",
+      "published_at": "2026-07-06T23:01:01",
+      "fetched_at": "2026-07-07T02:51:01",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
     {
       "id": "fe80bfe78fa7cca0e2787f1d",
       "title": "Check if a letter you’ve received from HMRC is genuine",
@@ -11624,30 +11649,6 @@
         "payroll",
         "withholding",
         "regulation"
-      ]
-    },
-    {
-      "id": "5b1cc58ec07064f52c4093b3",
-      "title": "Agency Information Collection Activities: Comment Request on Information Regarding Request for Refund of Social Security Tax Erroneously Withheld on Wages Recovered by a Nonresident Alien on an F, J, or M Type Visa",
-      "link": "https://www.federalregister.gov/documents/2026/06/02/2026-10985/agency-information-collection-activities-comment-request-on-information-regarding-request-for-refund",
-      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
-      "published_at": "2026-06-02T04:00:00",
-      "fetched_at": "2026-06-18T10:34:58",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "payroll",
-        "withholding"
       ]
     }
   ]
