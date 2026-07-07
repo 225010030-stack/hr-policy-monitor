@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-07-07T04:59:43",
+  "synced_at": "2026-07-07T09:37:07",
   "total": 500,
-  "new_count": 0,
+  "new_count": 6,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
-      "fetched": 15,
-      "added": 0,
+      "fetched": 16,
+      "added": 1,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 3,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 2,
       "error": null
     },
     {
@@ -41,12 +41,155 @@
   ],
   "items": [
     {
+      "id": "ebc063f6c071383b11bab4bb",
+      "title": "Trusts, Settlements and Estates Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual",
+      "summary": "An introduction to trusts, their income and gains and how HM Revenue & Customs treats them for tax purposes.",
+      "published_at": "2026-07-07T09:02:22",
+      "fetched_at": "2026-07-07T09:36:46",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "7ea6f28502c8bd401539b17d",
+      "title": "Carer's Allowance: call for evidence",
+      "link": "https://www.gov.uk/government/calls-for-evidence/carers-allowance-call-for-evidence",
+      "summary": "This call for evidence is being administered by the Department for Work and Pensions (DWP) to gather information and views to build on the Department’s existing evidence. What we hear will help shape future thinking about how Carer’s Allowance can be modernised.",
+      "published_at": "2026-07-07T08:31:00",
+      "fetched_at": "2026-07-07T09:36:47",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 22,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension",
+        "ei"
+      ]
+    },
+    {
+      "id": "3b3b1baa902a79285e1f0c8f",
+      "title": "How your State Pension is taxed",
+      "link": "https://www.gov.uk/guidance/how-your-state-pension-is-taxed",
+      "summary": "Understand how tax on your State Pension is worked out when you have other income.",
+      "published_at": "2026-07-07T08:01:33",
+      "fetched_at": "2026-07-07T09:36:46",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "pension",
+        "payroll"
+      ]
+    },
+    {
+      "id": "b240b5bec0aa359f67f026ce",
+      "title": "Agency Information Collection Activities; Comment Request on Information Return for Publicly Offered Original Issue Discount Instruments",
+      "link": "https://www.federalregister.gov/documents/2026/07/07/2026-13683/agency-information-collection-activities-comment-request-on-information-return-for-publicly-offered",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+      "published_at": "2026-07-07T04:00:00",
+      "fetched_at": "2026-07-07T09:36:46",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
+    {
+      "id": "2a707e34c33c57b7e3397a2c",
+      "title": "Employee Tax Advantaged Share Scheme User Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/employee-tax-advantaged-share-scheme-user-manual",
+      "summary": "Guidance relating to tax advantaged share schemes.",
+      "published_at": "2026-07-07T00:00:00",
+      "fetched_at": "2026-07-07T09:36:46",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
       "id": "4ca9670a877992a37fed6fac",
       "title": "Views sought to transform benefit paid to carers",
       "link": "https://www.gov.uk/government/news/views-sought-to-transform-benefit-paid-to-carers",
       "summary": "Opening today (Tuesday 7 July 2026) the six-week call for evidence will gather views on: modernising the earnings limit to reduce the impact of the current cliff edge, improving predictability for carers with varying incomes, and better supporting those with work and caring responsibilities.",
       "published_at": "2026-07-06T23:01:01",
       "fetched_at": "2026-07-07T02:51:01",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "3f42f93dda573ec27ef5cfcf",
+      "title": "Views sought to transform benefit paid to carers",
+      "link": "https://www.gov.uk/government/news/views-sought-to-transform-benefit-paid-to-carers",
+      "summary": "Opening today (Tuesday 7 July 2026) the six-week call for evidence will gather views on: modernising the earnings limit to reduce the impact of the current cliff edge, improving predictability for carers with varying incomes, and better supporting those with work and caring responsibilities.",
+      "published_at": "2026-07-06T23:01:00",
+      "fetched_at": "2026-07-07T09:36:47",
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "region": "UK",
@@ -11501,154 +11644,6 @@
       "matched_keywords": [
         "payroll",
         "withholding"
-      ]
-    },
-    {
-      "id": "a7ef647d4aca8bd732636347",
-      "title": "Agency Information Collection Activities; Comment Request on IRS E-File Provider Participation and Compliance Collections",
-      "link": "https://www.federalregister.gov/documents/2026/06/08/2026-11408/agency-information-collection-activities-comment-request-on-irs-e-file-provider-participation-and",
-      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
-      "published_at": "2026-06-08T04:00:00",
-      "fetched_at": "2026-06-18T10:34:58",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 14,
-      "matched_keywords": [
-        "payroll",
-        "withholding",
-        "compliance"
-      ]
-    },
-    {
-      "id": "4d44047b8d8ae593b3c32578",
-      "title": "Trump Accounts; Hearing",
-      "link": "https://www.federalregister.gov/documents/2026/06/05/2026-11343/trump-accounts-hearing",
-      "summary": "This document provides a notice of public hearing on the notice of proposed rulemaking (REG-117270-25) published in the Federal Register on March 9, 2026. The proposed regulations provide guidance on making an election to open a Trump account and reserve additional sections for further guidance on Trump accounts.",
-      "published_at": "2026-06-05T04:00:00",
-      "fetched_at": "2026-06-18T10:34:58",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 14,
-      "matched_keywords": [
-        "payroll",
-        "withholding",
-        "regulation"
-      ]
-    },
-    {
-      "id": "df12c14576872c31a216f9a5",
-      "title": "Agency Information Collection Activities; Comment Request on TD 9981, Requirements for Type I and Type III Supporting Organizations",
-      "link": "https://www.federalregister.gov/documents/2026/06/04/2026-11166/agency-information-collection-activities-comment-request-on-td-9981-requirements-for-type-i-and-type",
-      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
-      "published_at": "2026-06-04T04:00:00",
-      "fetched_at": "2026-06-18T10:34:58",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "payroll",
-        "withholding"
-      ]
-    },
-    {
-      "id": "d08aa51ab82c03437d23334b",
-      "title": "Agency Information Collection Activities; Comment Request on Application for Extension of Time To File Information Returns",
-      "link": "https://www.federalregister.gov/documents/2026/06/04/2026-11153/agency-information-collection-activities-comment-request-on-application-for-extension-of-time-to",
-      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
-      "published_at": "2026-06-04T04:00:00",
-      "fetched_at": "2026-06-18T10:34:58",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "payroll",
-        "withholding"
-      ]
-    },
-    {
-      "id": "edb216274b7bec05b2c7ff7c",
-      "title": "Federal Independent Dispute Resolution Operations",
-      "link": "https://www.federalregister.gov/documents/2026/06/04/2026-11140/federal-independent-dispute-resolution-operations",
-      "summary": "This document sets forth these final rules related to certain provisions of the No Surprises Act regarding the Federal independent dispute resolution (IDR) process, which was established as part of the Consolidated Appropriations Act, 2021 (CAA). These rules finalize new requirements relating to the disclosure of information that group health plans and health insurance issuers offering group or individual health insurance coverage must include along with the initial payment or notice of denial o",
-      "published_at": "2026-06-04T04:00:00",
-      "fetched_at": "2026-06-18T10:34:58",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 15,
-      "matched_keywords": [
-        "health plan",
-        "payroll",
-        "withholding"
-      ]
-    },
-    {
-      "id": "f91db35ee18b47b03f197402",
-      "title": "Guidance on Tax-Exempt Refunding Bonds; Hearing",
-      "link": "https://www.federalregister.gov/documents/2026/06/03/2026-11102/guidance-on-tax-exempt-refunding-bonds-hearing",
-      "summary": "This document contains proposed regulations that would update certain arbitrage rules and definitions applicable to tax-exempt and other tax-advantaged bonds by clarifying the time and manner for requesting refunds of overpayment of rebate to the United States, the special transition rule for transferred proceeds, the limitation on allocations to expenditures, and the IRS address for filing defeasance notices. These proposed regulations would also revise the provision addressing certain perpetua",
-      "published_at": "2026-06-03T04:00:00",
-      "fetched_at": "2026-06-18T10:34:58",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 14,
-      "matched_keywords": [
-        "payroll",
-        "withholding",
-        "regulation"
       ]
     }
   ]
