@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-08T04:20:42",
+  "synced_at": "2026-07-08T08:24:24",
   "total": 500,
-  "new_count": 2,
+  "new_count": 8,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 4,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 2,
       "error": null
     },
     {
@@ -40,6 +40,147 @@
     }
   ],
   "items": [
+    {
+      "id": "5f188adf9d56a3ec96df17da",
+      "title": "COTAX Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/cotax-manual",
+      "summary": "All aspects of company taxation including appeals, enquiries, payments and penalties",
+      "published_at": "2026-07-08T08:20:07",
+      "fetched_at": "2026-07-08T08:24:04",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "22bd15aab985878104851c8e",
+      "title": "Research: Local Implementation and Evaluation of Work and Health Active Labour Market Programmes",
+      "link": "https://www.gov.uk/government/publications/local-implementation-and-evaluation-of-work-and-health-active-labour-market-programmes",
+      "summary": "This report provides insights for local government on what enables the effective, design, delivery and evaluation of health and work programmes.",
+      "published_at": "2026-07-08T08:15:06",
+      "fetched_at": "2026-07-08T08:24:04",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "7ffa44ec45ba213bbe49f860",
+      "title": "Employment Income Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/employment-income-manual",
+      "summary": "A guide to the Income Tax (Earnings and Pensions) Act 2003.",
+      "published_at": "2026-07-08T08:14:49",
+      "fetched_at": "2026-07-08T08:24:04",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "pension",
+        "payroll"
+      ]
+    },
+    {
+      "id": "acdfe38bcb2728527ec8bf87",
+      "title": "Research: Labour Market Evidence Programme: user consultation and scoping report",
+      "link": "https://www.gov.uk/government/publications/labour-market-evidence-programme-user-consultation-and-scoping-report",
+      "summary": "This report presents local governments' evidence needs on supporting people to enter and remain in employment, and proposes evidence reviews to address these.",
+      "published_at": "2026-07-08T08:14:30",
+      "fetched_at": "2026-07-08T08:24:04",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "9873f2a306cd7fb2225bc36e",
+      "title": "Software developers providing entry summary declaration support",
+      "link": "https://www.gov.uk/guidance/software-developers-providing-entry-summary-declaration-support",
+      "summary": "Find software developers that can help with entry summary declarations including safety and security declarations for imports.",
+      "published_at": "2026-07-08T08:01:26",
+      "fetched_at": "2026-07-08T08:24:04",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "fc0c992e215d683e69c7371d",
+      "title": "Anti-money laundering guidance for supervised businesses",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/anti-money-laundering-guidance-for-supervised-businesses",
+      "summary": "This guidance includes changes inThe Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 made byThe Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (SI 2026/621), which came into force on 30 June 2026.This guidance is written with the purpose of assisting relevant persons (businesses) to better understand their obligations under the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regu",
+      "published_at": "2026-07-08T00:00:00",
+      "fetched_at": "2026-07-08T08:24:04",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 13,
+      "matched_keywords": [
+        "payroll",
+        "ei",
+        "regulation"
+      ]
+    },
     {
       "id": "e80a3e6e5663e6487bac2044",
       "title": "Apply for a certificate of coverage to pay UK National Insurance whilst working in a country with a social security agreement (CA9107)",
@@ -11445,157 +11586,6 @@
       "score": 6,
       "matched_keywords": [
         "payroll"
-      ]
-    },
-    {
-      "id": "af714e1e1f1cabf09f542baf",
-      "title": "Guidance: Adult skills fund: funding rules",
-      "link": "https://www.gov.uk/government/publications/adult-skills-fund-funding-rules",
-      "summary": "Sets out the rules that apply to Department for Work and Pensions (DWP) funded adult skills fund (ASF) provision for the funding year.",
-      "published_at": "2026-06-16T13:28:28",
-      "fetched_at": "2026-06-18T02:56:55",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "0a91a4224ef6a2e11ee6aad0",
-      "title": "Research: List of upcoming releases of management information and ad hoc analyses",
-      "link": "https://www.gov.uk/government/publications/list-of-upcoming-releases-of-management-information-and-ad-hoc-analyses",
-      "summary": "List of upcoming releases of DWP management information and ad hoc analyses.",
-      "published_at": "2026-06-16T08:45:04",
-      "fetched_at": "2026-06-18T02:56:55",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "a0e23a3f3ec042fdc848b2be",
-      "title": "Guidance: Family Resources Survey: release strategy",
-      "link": "https://www.gov.uk/government/publications/family-resources-survey-release-strategy",
-      "summary": "This release strategy acts as the formal notice of changes to future releases of the Family Resources Survey (FRS) publication.",
-      "published_at": "2026-06-16T08:30:04",
-      "fetched_at": "2026-06-18T02:56:55",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "48a28bed3f9c43a46a4718a9",
-      "title": "Research: Health Transformation Programme Management Information to April 2026",
-      "link": "https://www.gov.uk/government/publications/health-transformation-programme-management-information-to-april-2026",
-      "summary": "Management Information relating to the Health Transformation Programme.",
-      "published_at": "2026-06-16T08:30:03",
-      "fetched_at": "2026-06-18T02:56:55",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "6a08f32b0546cb55a57e008f",
-      "title": "Accredited official statistics: Personal Independence Payment statistics to April 2026",
-      "link": "https://www.gov.uk/government/statistics/personal-independence-payment-statistics-to-april-2026",
-      "summary": "Quarterly statistics including numbers of claims with entitlement, new claim registrations, decisions and awards made.",
-      "published_at": "2026-06-16T08:30:00",
-      "fetched_at": "2026-06-18T02:56:55",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "78d630749efa02a11a64240a",
-      "title": "Automatic enrolment: alternative quality requirements for workplace schemes (DB, Hybrid and CDC)",
-      "link": "https://www.gov.uk/government/calls-for-evidence/automatic-enrolment-alternative-quality-requirements-for-workplace-schemes-db-hybrid-and-cdc",
-      "summary": "This call for evidence seeks views on whether the alternative benefit quality requirements for UK defined benefit (DB), hybrid, and Collective Defined Contribution (CDC) pension schemes are operating as intended. It invites employers, employee representatives, and other pension industry professionals to submit their feedback.",
-      "published_at": "2026-06-16T07:01:03",
-      "fetched_at": "2026-06-18T10:35:01",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 22,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension",
-        "ei"
       ]
     }
   ]
