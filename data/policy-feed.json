@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-08T13:59:03",
+  "synced_at": "2026-07-08T19:21:37",
   "total": 500,
-  "new_count": 26,
+  "new_count": 7,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 20,
+      "added": 5,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 4,
+      "added": 0,
       "error": null
     },
     {
@@ -40,6 +40,117 @@
     }
   ],
   "items": [
+    {
+      "id": "9077977faff4d9ed10957580",
+      "title": "Official Statistics: Preliminary estimate of the VAT gap (tax year 2024 to 2025)",
+      "link": "https://www.gov.uk/government/statistics/announcements/preliminary-estimate-of-the-vat-gap-tax-year-2023-to-2024",
+      "summary": "HMRC will publish the preliminary VAT gap estimate for 2024 to 2025 on Thursday 26 November 2025 at 3pm. These statistics are published following the Chancellor's statement to Parliament",
+      "published_at": "2026-07-08T16:08:06",
+      "fetched_at": "2026-07-08T19:21:17",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "5152c53102e365ffb4e54435",
+      "title": "Guidance: Pension Schemes: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/pension-schemes-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the online services for pension schemes.",
+      "published_at": "2026-07-08T14:41:45",
+      "fetched_at": "2026-07-08T19:21:17",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "pension",
+        "payroll"
+      ]
+    },
+    {
+      "id": "d7d02f5d29074bb0e3042546",
+      "title": "Check genuine HMRC contact that uses more than one communication method",
+      "link": "https://www.gov.uk/guidance/check-genuine-hmrc-contact-that-uses-more-than-one-communication-method",
+      "summary": "Check recent contacts from HMRC to help you decide if a suspicious email, phone call, text or letter could be a scam.",
+      "published_at": "2026-07-08T14:38:25",
+      "fetched_at": "2026-07-08T19:21:17",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "a0b22d46cd8e3212ed010c54",
+      "title": "Policy paper: Capital Goods Scheme simplification",
+      "link": "https://www.gov.uk/government/publications/capital-goods-scheme-simplification",
+      "summary": "This tax information and impact note is for VAT registered businesses that incur VAT on capital expenditure.",
+      "published_at": "2026-07-08T14:20:19",
+      "fetched_at": "2026-07-08T19:21:17",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "8b5f0882bd8b36ed4d5d257d",
+      "title": "Submit your Soft Drinks Industry Levy return",
+      "link": "https://www.gov.uk/guidance/submit-your-soft-drinks-industry-levy-return",
+      "summary": "Use this online service to submit a return.",
+      "published_at": "2026-07-08T13:58:02",
+      "fetched_at": "2026-07-08T19:21:17",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "fe2dad72eb7db4746931b19e",
       "title": "Guidance: Child Benefit: service availability and issues",
@@ -11460,118 +11571,6 @@
         "benefit",
         "benefits",
         "pension"
-      ]
-    },
-    {
-      "id": "c914371e960bf5751ab8cbc5",
-      "title": "Policy paper: Increase to Approved Mileage Allowance Payments (AMAPs) and self employed simplified mileage rates",
-      "link": "https://www.gov.uk/government/publications/increase-to-approved-mileage-allowance-payments-amaps-and-self-employed-simplified-mileage-rates",
-      "summary": "This measure is about increasing Approved Mileage Allowance Payments (AMAPs) and self employed simplified mileage rates.",
-      "published_at": "2026-06-17T13:32:05",
-      "fetched_at": "2026-06-18T02:56:55",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "c0bc2928e55e78ab34ece77b",
-      "title": "Check if a letter you’ve received from HMRC is genuine",
-      "link": "https://www.gov.uk/guidance/check-if-a-letter-youve-received-from-hmrc-is-genuine",
-      "summary": "Check a list of recent letters from HMRC to help you decide if a letter you’ve received is a scam.",
-      "published_at": "2026-06-17T13:23:56",
-      "fetched_at": "2026-06-18T02:56:55",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "eed07a0eb21d6c5740de7051",
-      "title": "Enquiry Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/enquiry-manual",
-      "summary": "How HM Revenue & Customs carries out tax enquiry work",
-      "published_at": "2026-06-17T13:14:04",
-      "fetched_at": "2026-06-18T02:56:55",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "f31efd77a728d789fc0cd418",
-      "title": "Policy paper: 12 month Vehicle Excise Duty (VED) holiday for heavy goods vehicles (HGVs)",
-      "link": "https://www.gov.uk/government/publications/12-month-vehicle-excise-duty-ved-holiday-for-heavy-goods-vehicles-hgvs",
-      "summary": "This measure is about the 12 month Vehicle Excise Duty (VED) reduction for certain heavy goods vehicles (HGVs).",
-      "published_at": "2026-06-17T13:11:21",
-      "fetched_at": "2026-06-18T02:56:55",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 9,
-      "matched_keywords": [
-        "holiday",
-        "payroll"
-      ]
-    },
-    {
-      "id": "2a01a99d1b755e93bffe3b42",
-      "title": "Choose the right software for Pillar 2 Top-up Taxes",
-      "link": "https://www.gov.uk/guidance/choose-the-right-software-for-pillar-2-top-up-taxes",
-      "summary": "Find out what commercial software is available to report Domestic Top-up Tax and Multinational Top-up Tax.",
-      "published_at": "2026-06-17T12:43:37",
-      "fetched_at": "2026-06-18T02:56:55",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
       ]
     }
   ]
