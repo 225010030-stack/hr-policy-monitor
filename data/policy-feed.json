@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-08T19:21:37",
+  "synced_at": "2026-07-09T02:43:59",
   "total": 500,
-  "new_count": 7,
+  "new_count": 4,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 5,
+      "added": 1,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,54 @@
     }
   ],
   "items": [
+    {
+      "id": "4d08bfb9dd1e37bd15385ebc",
+      "title": "First comprehensive review into PIP finds it is “not fit for purpose”",
+      "link": "https://www.gov.uk/government/news/first-comprehensive-review-into-pip-finds-it-is-not-fit-for-purpose",
+      "summary": "Personal Independence Payment is no longer fit for purpose and is failing to keep pace with how disability, health and work have changed over the past decade, the Timms Review has found.",
+      "published_at": "2026-07-08T23:01:03",
+      "fetched_at": "2026-07-09T02:43:39",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "9afb575be5543f8f683aaa6d",
+      "title": "Guidance: Joint and several liability — taxation of coronavirus support payments — CJAS/FS1",
+      "link": "https://www.gov.uk/government/publications/joint-and-several-liability-taxation-of-coronavirus-support-payments-cjasfs1",
+      "summary": "This factsheet gives information about whether you may be jointly and severally liable for the Income Tax liability of a company that has received coronavirus (COVID-19) support payments from one of the HMRC administered schemes.",
+      "published_at": "2026-07-08T22:59:09",
+      "fetched_at": "2026-07-09T02:43:38",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
     {
       "id": "9077977faff4d9ed10957580",
       "title": "Official Statistics: Preliminary estimate of the VAT gap (tax year 2024 to 2025)",
@@ -11524,53 +11572,6 @@
       "score": 6,
       "matched_keywords": [
         "payroll"
-      ]
-    },
-    {
-      "id": "04c35550f9d99594d4ba6645",
-      "title": "Policy paper: Increase in the rate of the Electricity Generator Levy",
-      "link": "https://www.gov.uk/government/publications/increase-in-the-rate-of-the-electricity-generator-levy",
-      "summary": "This measure details a change to the rate of the Electricity Generator Levy.",
-      "published_at": "2026-06-17T13:54:48",
-      "fetched_at": "2026-06-18T02:56:55",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "c6b158cf5b2975cb6b0f178a",
-      "title": "Guidance: Timms Review of Personal Independence Payment: run a workshop",
-      "link": "https://www.gov.uk/government/publications/timms-review-of-personal-independence-payment-run-a-workshop",
-      "summary": "This 'Workshop in a box' provides materials to run sessions that gather and share views for the Timms Review of Personal Independence Payment (PIP).",
-      "published_at": "2026-06-17T13:52:10",
-      "fetched_at": "2026-06-18T02:56:55",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
       ]
     }
   ]
