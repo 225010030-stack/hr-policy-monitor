@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-10T04:59:46",
+  "synced_at": "2026-07-10T09:31:03",
   "total": 500,
-  "new_count": 1,
+  "new_count": 6,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 5,
       "error": null
     },
     {
@@ -40,6 +40,119 @@
     }
   ],
   "items": [
+    {
+      "id": "3858245312bc3bce052c65d6",
+      "title": "Accredited official statistics: Benefits in Kind statistics: July 2026",
+      "link": "https://www.gov.uk/government/statistics/announcements/benefits-in-kind-statistics-july-2026",
+      "summary": "These statistics provide information about the company cars provided as benefits in kind to employees by employers.",
+      "published_at": "2026-07-10T09:22:36",
+      "fetched_at": "2026-07-10T09:30:43",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 14,
+      "matched_keywords": [
+        "benefit",
+        "benefits",
+        "payroll"
+      ]
+    },
+    {
+      "id": "3c0ad35f537806d622d9d895",
+      "title": "Customs CDS Volume 3 Tariff, Step-by-Step Guide",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/customs-cds-volume-3-tariff-step-by-step-guide",
+      "summary": "This manual provides a Step-by-Step Guide to navigating the UK Trade Tariff, Volume 3 for CDS. It provides guidance on: Where to find content within the CDS Volume 3 Tariff, The order in which the CDS Volume 3 Tariff should be used when making a CDS declaration, and AStep-by-Step Guide on completing the required information on a customs declaration for CDS. Section CDSSG04000 provides a detailed guide to navigating the CDS Declaration Completion Guidance on GOV.UK. Section CDSSG05000 provides a ",
+      "published_at": "2026-07-10T09:14:42",
+      "fetched_at": "2026-07-10T09:30:43",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "6b4b0e2818f6a8dd2e47444b",
+      "title": "Guidance: Country codes for the Customs Declaration Service",
+      "link": "https://www.gov.uk/government/publications/country-codes-for-the-customs-declaration-service",
+      "summary": "Find codes to use in the Customs Declaration Service (Appendix 13).",
+      "published_at": "2026-07-10T09:00:08",
+      "fetched_at": "2026-07-10T09:30:43",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "92dd58b4c3dded3e55d589a6",
+      "title": "Guidance: Currency codes for Data Element 4/10 of the Customs Declaration Service",
+      "link": "https://www.gov.uk/government/publications/currency-codes-for-data-element-410-of-the-customs-declaration-service",
+      "summary": "Find the currency codes to be used with Data Element (DE) 4/10 of the Customs Declaration Service (Appendix 11).",
+      "published_at": "2026-07-10T09:00:08",
+      "fetched_at": "2026-07-10T09:30:43",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "b62ba3dbcb870c426d7c2698",
+      "title": "Guidance: Child Benefit: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/child-benefit-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the Child Benefit online service.",
+      "published_at": "2026-07-10T07:27:53",
+      "fetched_at": "2026-07-10T09:30:43",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "benefit",
+        "payroll"
+      ]
+    },
     {
       "id": "731e0f5117c12625538b7816",
       "title": "Customs Declaration Service: service availability and issues",
@@ -11461,125 +11574,6 @@
       "matched_keywords": [
         "payroll",
         "withholding"
-      ]
-    },
-    {
-      "id": "2749cca4734bd8b07c80f3df",
-      "title": "Agency Information Collection Activities: Comment Request on Residence of Trusts and Estates-7701 (TD 8813-Final)",
-      "link": "https://www.federalregister.gov/documents/2026/06/22/2026-12458/agency-information-collection-activities-comment-request-on-residence-of-trusts-and-estates-7701-td",
-      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
-      "published_at": "2026-06-22T04:00:00",
-      "fetched_at": "2026-06-20T10:20:46",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "payroll",
-        "withholding"
-      ]
-    },
-    {
-      "id": "895c366ee87790ba0eacca48",
-      "title": "Correspondence: Apprenticeship funding bands reviews",
-      "link": "https://www.gov.uk/government/publications/apprenticeship-funding-bands-reviews",
-      "summary": "A letter from the Minister for Skills for the Department for Work and Pensions to Skills England on the apprenticeship funding bands reviews.",
-      "published_at": "2026-06-21T21:30:05",
-      "fetched_at": "2026-06-21T22:38:20",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "e96f16dd95ddc8ada6b1c986",
-      "title": "Official Statistics: HMRC statistics: pre-release access list",
-      "link": "https://www.gov.uk/government/statistics/hmrc-statistics-pre-release-access-list",
-      "summary": "HM Revenue and Customs' record of those who have pre-release access to Official Statistics.",
-      "published_at": "2026-06-19T17:30:03",
-      "fetched_at": "2026-06-19T21:54:07",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "d974aec4f3b081260ef2e119",
-      "title": "Guidance: Import Control System 2: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/import-control-system-2-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the Import Control System 2 (ICS2) service.",
-      "published_at": "2026-06-19T16:08:15",
-      "fetched_at": "2026-06-19T16:19:49",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "dd3d1444ffdb66eb3b83efe3",
-      "title": "Supported Housing regulation: consultation",
-      "link": "https://www.gov.uk/government/consultations/supported-housing-regulation-consultation",
-      "summary": "Proposals for implementing measures in the Supported Housing (Regulatory Oversight) Act 2023 and changes to Housing Benefit Regulations.",
-      "published_at": "2026-06-19T15:09:51",
-      "fetched_at": "2026-06-19T16:19:49",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 21,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension",
-        "regulation"
       ]
     }
   ]
