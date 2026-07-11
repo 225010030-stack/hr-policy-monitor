@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-07-11T04:18:50",
+  "synced_at": "2026-07-11T07:51:46",
   "total": 500,
-  "new_count": 3,
+  "new_count": 5,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
-      "fetched": 20,
-      "added": 3,
+      "fetched": 22,
+      "added": 5,
       "error": null
     },
     {
@@ -40,6 +40,54 @@
     }
   ],
   "items": [
+    {
+      "id": "7760bbddedf472b8d12da6f6",
+      "title": "Agency Information Collection Activities; Comment Request on Forms 3520 and 3520-A",
+      "link": "https://www.federalregister.gov/documents/2026/07/13/2026-14005/agency-information-collection-activities-comment-request-on-forms-3520-and-3520-a",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+      "published_at": "2026-07-13T04:00:00",
+      "fetched_at": "2026-07-11T07:51:25",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
+    {
+      "id": "f0fd46756cb5ba2c1d9cc738",
+      "title": "Agency Information Collection Activities; Comment Request on U.S. Information Returns and Related Forms, Schedules, Attachments, and Published Guidance",
+      "link": "https://www.federalregister.gov/documents/2026/07/13/2026-13997/agency-information-collection-activities-comment-request-on-us-information-returns-and-related-forms",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+      "published_at": "2026-07-13T04:00:00",
+      "fetched_at": "2026-07-11T07:51:25",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
     {
       "id": "2c12249357847ef52b5b5e7e",
       "title": "Self Assessment Manual",
@@ -11512,50 +11560,6 @@
       "link": "https://www.gov.uk/government/publications/excise-movement-and-control-system-emcs-service-availability-and-issues",
       "summary": "Check the availability and any issues affecting the excise movement and control system (EMCS) online service.",
       "published_at": "2026-06-22T17:42:20",
-      "fetched_at": "2026-06-22T17:57:19",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "9ac73692596f0053eb8431a1",
-      "title": "Official Statistics: Welsh Income Tax Outturn Statistics: 2024 to 2025",
-      "link": "https://www.gov.uk/government/statistics/announcements/welsh-income-tax-outturn-statistics-2024-to-2025",
-      "summary": "Annual release of statistics relating to Income Tax from Welsh taxpayers' NSND Income Tax. Also includes comparable figures for those in the rest of the UK.",
-      "published_at": "2026-06-22T17:00:24",
-      "fetched_at": "2026-06-22T17:57:19",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "f9ca58a3f2e5cbd3d692f7e5",
-      "title": "Official Statistics: Scottish Income Tax Outturn Statistics: 2024 to 2025",
-      "link": "https://www.gov.uk/government/statistics/announcements/scottish-income-tax-outturn-statistics-2024-to-2025",
-      "summary": "Annual release of statistics relating to Income Tax from Scottish taxpayers' NSND Income Tax. Also includes comparable figures for those in the rest of the UK.",
-      "published_at": "2026-06-22T16:17:49",
       "fetched_at": "2026-06-22T17:57:19",
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
