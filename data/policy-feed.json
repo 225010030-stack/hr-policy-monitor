@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-12T04:29:53",
+  "synced_at": "2026-07-12T08:13:19",
   "total": 500,
-  "new_count": 2,
+  "new_count": 3,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
@@ -86,6 +86,28 @@
       "matched_keywords": [
         "payroll",
         "withholding"
+      ]
+    },
+    {
+      "id": "35d31c72397704609f9ad2fa",
+      "title": "Apply for an Advance Valuation Ruling",
+      "link": "https://www.gov.uk/guidance/apply-for-an-advance-valuation-ruling",
+      "summary": "Get an Advance Valuation Ruling to give you legal confirmation of the correct method to use when valuing your goods and making an import declaration.",
+      "published_at": "2026-07-12T08:00:07",
+      "fetched_at": "2026-07-12T08:12:58",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
       ]
     },
     {
@@ -11552,28 +11574,6 @@
       "matched_keywords": [
         "payroll",
         "withholding"
-      ]
-    },
-    {
-      "id": "c8724e8a9c8be8f53d411b0d",
-      "title": "Guidance: Excise movement and control system: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/excise-movement-and-control-system-emcs-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the excise movement and control system (EMCS) online service.",
-      "published_at": "2026-06-22T17:42:20",
-      "fetched_at": "2026-06-22T17:57:19",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
       ]
     }
   ]
