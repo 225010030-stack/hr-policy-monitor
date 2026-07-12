@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-07-12T02:31:04",
+  "synced_at": "2026-07-12T04:29:53",
   "total": 500,
-  "new_count": 3,
+  "new_count": 2,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
-      "fetched": 22,
-      "added": 3,
+      "fetched": 21,
+      "added": 2,
       "error": null
     },
     {
