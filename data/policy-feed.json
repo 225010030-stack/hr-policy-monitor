@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-12T19:01:58",
+  "synced_at": "2026-07-13T04:35:47",
   "total": 500,
-  "new_count": 2,
+  "new_count": 3,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
@@ -86,6 +86,28 @@
       "matched_keywords": [
         "payroll",
         "withholding"
+      ]
+    },
+    {
+      "id": "be413cc9b8756f383c622b7f",
+      "title": "How to report Pillar 2 Top-up Taxes",
+      "link": "https://www.gov.uk/guidance/how-to-report-pillar-2-top-up-taxes",
+      "summary": "Find out how to tell HMRC about your Pillar 2 Top-up Taxes (these are Multinational Top-up Tax and Domestic Top-up Tax).",
+      "published_at": "2026-07-12T23:05:03",
+      "fetched_at": "2026-07-13T04:35:27",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
       ]
     },
     {
@@ -11550,30 +11572,6 @@
       "score": 6,
       "matched_keywords": [
         "payroll"
-      ]
-    },
-    {
-      "id": "0c4ec90aa196531d8ebfd1eb",
-      "title": "Agency Information Collection Activities; Comment Request on Form 8975 and Schedule A (Form 8975)",
-      "link": "https://www.federalregister.gov/documents/2026/06/23/2026-12545/agency-information-collection-activities-comment-request-on-form-8975-and-schedule-a-form-8975",
-      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
-      "published_at": "2026-06-23T04:00:00",
-      "fetched_at": "2026-06-23T11:43:50",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "payroll",
-        "withholding"
       ]
     }
   ]
