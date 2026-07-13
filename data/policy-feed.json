@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-13T14:30:01",
+  "synced_at": "2026-07-13T19:20:29",
   "total": 500,
-  "new_count": 33,
+  "new_count": 6,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 20,
+      "added": 3,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 10,
+      "added": 0,
       "error": null
     },
     {
@@ -40,6 +40,72 @@
     }
   ],
   "items": [
+    {
+      "id": "d5e10a28cb976ca1e749af93",
+      "title": "Choose the right software for Making Tax Digital for Income Tax",
+      "link": "https://www.gov.uk/guidance/choose-the-right-software-for-making-tax-digital-for-income-tax",
+      "summary": "Find out what software you will need to report self-employment and property income to HMRC.",
+      "published_at": "2026-07-13T16:25:55",
+      "fetched_at": "2026-07-13T19:20:09",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "898473f75d57f7806c1c6226",
+      "title": "Specialist Investigations Operational Guidance",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/specialist-investigations-operational-guidance",
+      "summary": "This manual brings together the operational guidance relevant to all teams across Specialist Investigations",
+      "published_at": "2026-07-13T16:20:42",
+      "fetched_at": "2026-07-13T19:20:09",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "911a460cd7f06bfb75d834c1",
+      "title": "Guidance: Appendix 1: DE 1/10: Requested and Previous Procedure Codes",
+      "link": "https://www.gov.uk/government/publications/appendix-1-de-110-requested-and-previous-procedure-codes",
+      "summary": "This appendix contains the specific completion rules instructions for each 4-digit Requested and Previous Procedure Code that can be used in Data Element (DE) 1/10 for exports.",
+      "published_at": "2026-07-13T14:42:53",
+      "fetched_at": "2026-07-13T19:20:09",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "512e799221b7f4f517420290",
       "title": "Guidance: Self Assessment commercial software suppliers",
@@ -11526,76 +11592,6 @@
         "benefit",
         "benefits",
         "pension"
-      ]
-    },
-    {
-      "id": "a307815de6688de2f41579c7",
-      "title": "Guidance: Making Tax Digital for Income Tax: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/use-software-to-send-income-tax-updates-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the Making Tax Digital for Income Tax service.",
-      "published_at": "2026-06-23T15:16:24",
-      "fetched_at": "2026-06-23T19:25:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "c734368437bb83df8c1a1edc",
-      "title": "Apply for a one-off payment under the Successful Legacy Appeals Compensation Scheme",
-      "link": "https://www.gov.uk/guidance/apply-for-a-one-off-payment-under-the-successful-legacy-appeals-compensation-scheme",
-      "summary": "Guidance if you received a lower level of benefit after moving to Universal Credit, and this was due to a decision to end your old 'legacy' benefit, which was found to be incorrect.",
-      "published_at": "2026-06-23T15:07:21",
-      "fetched_at": "2026-06-23T19:25:23",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 22,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension",
-        "ei"
-      ]
-    },
-    {
-      "id": "235753846e3540eedcc00db3",
-      "title": "Guidance: Report Pillar 2 top-up taxes: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/report-pillar-2-top-up-taxes-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the Report Pillar 2 top-up taxes service.",
-      "published_at": "2026-06-23T14:50:13",
-      "fetched_at": "2026-06-23T19:25:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
       ]
     }
   ]
