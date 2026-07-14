@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-13T19:20:29",
+  "synced_at": "2026-07-14T02:12:02",
   "total": 500,
-  "new_count": 6,
+  "new_count": 4,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 3,
+      "added": 0,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,32 @@
     }
   ],
   "items": [
+    {
+      "id": "d62b7ab6bd74c3848be1c558",
+      "title": "£60 million fund launched to transform employment support",
+      "link": "https://www.gov.uk/government/news/60-million-fund-launched-to-transform-employment-support",
+      "summary": "Businesses, charities and innovators are being invited to compete for a share of up to £60 million to transform how disabled people and those with health conditions are supported into work, the Government has announced today [14th July].",
+      "published_at": "2026-07-13T23:01:02",
+      "fetched_at": "2026-07-14T02:11:42",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 22,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension",
+        "ei"
+      ]
+    },
     {
       "id": "d5e10a28cb976ca1e749af93",
       "title": "Choose the right software for Making Tax Digital for Income Tax",
@@ -11567,31 +11593,6 @@
       "score": 6,
       "matched_keywords": [
         "payroll"
-      ]
-    },
-    {
-      "id": "da3327ddd3fd8973d08ad4e7",
-      "title": "Back to work schemes",
-      "link": "https://www.gov.uk/guidance/universal-credit-and-jobseekers-allowance-jsa-back-to-work-schemes",
-      "summary": "Back to work programmes to help Universal Credit, Jobseeker's Allowance and Employment and Support Allowance claimants move nearer to, or into, work.",
-      "published_at": "2026-06-23T16:19:15",
-      "fetched_at": "2026-06-23T19:25:23",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
       ]
     }
   ]
