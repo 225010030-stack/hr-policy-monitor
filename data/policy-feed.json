@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-07-14T07:59:26",
+  "synced_at": "2026-07-14T13:28:43",
   "total": 500,
-  "new_count": 6,
+  "new_count": 22,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
       "fetched": 21,
-      "added": 3,
+      "added": 4,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 2,
+      "added": 11,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 1,
+      "added": 7,
       "error": null
     },
     {
@@ -41,12 +41,433 @@
   ],
   "items": [
     {
+      "id": "24a5e77f5a6c8c5a6a4120f9",
+      "title": "Check if a business is registered for money laundering supervision",
+      "link": "https://www.gov.uk/guidance/money-laundering-regulations-supervised-business-register",
+      "summary": "Find out if a business has registered with HMRC under the money laundering regulations and report them if they have not.",
+      "published_at": "2026-07-14T12:49:32",
+      "fetched_at": "2026-07-14T13:28:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 9,
+      "matched_keywords": [
+        "payroll",
+        "regulation"
+      ]
+    },
+    {
+      "id": "102e1815df8813eb132ecefc",
+      "title": "Software developers providing entry summary declaration support",
+      "link": "https://www.gov.uk/guidance/software-developers-providing-entry-summary-declaration-support",
+      "summary": "Find software developers that can help with entry summary declarations including safety and security declarations for imports.",
+      "published_at": "2026-07-14T12:15:14",
+      "fetched_at": "2026-07-14T13:28:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "41da45b6e59a423d348741fe",
+      "title": "Guidance: Approved offshore reporting funds",
+      "link": "https://www.gov.uk/government/publications/approved-offshore-reporting-funds",
+      "summary": "Find a list of offshore funds that have applied for and been approved as reporting funds.",
+      "published_at": "2026-07-14T11:19:29",
+      "fetched_at": "2026-07-14T13:28:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "38fb3caabc730702a8aafb76",
+      "title": "Corporate Intangibles Research and Development Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/corporate-intangibles-research-and-development-manual",
+      "summary": "Corporation Tax and the taxation of intangible assets, remediation of contaminated land, vaccines research relief and tax credits for research & development.",
+      "published_at": "2026-07-14T11:18:48",
+      "fetched_at": "2026-07-14T13:28:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "d3e05930853dd42c9e18be85",
+      "title": "DWP Reappoints Chair of Nest",
+      "link": "https://www.gov.uk/government/news/dwp-reappoints-chair-of-nest",
+      "summary": "Brendan McCafferty has been reappointed as Chair of Nest, effective from 31 January 2027. He has served as Chair since February 2022 and will continue in post for a further two years beyond his initial five-year term.",
+      "published_at": "2026-07-14T10:53:37",
+      "fetched_at": "2026-07-14T13:28:23",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "77e527333274392e5608e409",
+      "title": "Policy paper: Unpaid carers action plan: recognise, refer, reach",
+      "link": "https://www.gov.uk/government/publications/unpaid-carers-action-plan-recognise-refer-reach",
+      "summary": "This action plan aims to improve the lives of unpaid carers in England.",
+      "published_at": "2026-07-14T10:42:29",
+      "fetched_at": "2026-07-14T13:28:23",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "6f0d88344050ca99b84ebac4",
+      "title": "The Value for Money Framework: Consultation",
+      "link": "https://www.gov.uk/government/consultations/the-value-for-money-framework-consultation",
+      "summary": "The Value for Money Framework will place investment outcomes, service quality and overall value at the centre of workplace pension provision.",
+      "published_at": "2026-07-14T10:37:58",
+      "fetched_at": "2026-07-14T13:28:23",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "5ae3f5f1ddc3afc7e80e4bd1",
+      "title": "Policy paper: Workplace pensions: an updated roadmap",
+      "link": "https://www.gov.uk/government/publications/workplace-pensions-an-updated-roadmap",
+      "summary": "An updated roadmap setting out the government’s plan to implement reforms across workplace pensions.",
+      "published_at": "2026-07-14T10:09:30",
+      "fetched_at": "2026-07-14T13:28:23",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "717f008c69934a7034a7db04",
+      "title": "Venture Capital Schemes Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/venture-capital-schemes-manual",
+      "summary": "A definition of the different types of venture capital schemes and how they work",
+      "published_at": "2026-07-14T09:05:23",
+      "fetched_at": "2026-07-14T13:28:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "94c00ae0f8514ef84605cbae",
+      "title": "Impact assessment: Child Benefit information for Self Assessment tax return",
+      "link": "https://www.gov.uk/government/publications/child-benefit-information-for-self-assessment-tax-return",
+      "summary": "Screening Equality Impact Assessment for High Income Child Benefit Charge (HICBC) Prepopulation of Self-assessment with Child Benefit Data.",
+      "published_at": "2026-07-14T08:55:22",
+      "fetched_at": "2026-07-14T13:28:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "benefit",
+        "payroll"
+      ]
+    },
+    {
+      "id": "c5b843dc2b2503985659c5bf",
+      "title": "Guidance: Country-by-country: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/country-by-country-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the country-by-country service.",
+      "published_at": "2026-07-14T08:51:32",
+      "fetched_at": "2026-07-14T13:28:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "9eee15b67f306e40af0c2e04",
+      "title": "Guidance: Check if a business holds Authorised Economic Operator status",
+      "link": "https://www.gov.uk/government/publications/check-if-a-business-holds-authorised-economic-operator-status",
+      "summary": "Use this list to see if a business holds Authorised Economic Operator status with HMRC.",
+      "published_at": "2026-07-14T08:46:54",
+      "fetched_at": "2026-07-14T13:28:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "92536cb1ddcf1d341a9d3f73",
+      "title": "Guidance: Digital platform reporting: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/digital-platform-reporting-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the digital platform reporting service.",
+      "published_at": "2026-07-14T08:42:36",
+      "fetched_at": "2026-07-14T13:28:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "b3a9034f5b64cfcbb8efada0",
+      "title": "Guidance: Cross-border arrangement reporting: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/cross-border-arrangement-reporting-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the disclose cross-border tax arrangements service.",
+      "published_at": "2026-07-14T08:30:29",
+      "fetched_at": "2026-07-14T13:28:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "274385d9d2068f763fa4550e",
+      "title": "Trusts, Settlements and Estates Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual",
+      "summary": "An introduction to trusts, their income and gains and how HM Revenue & Customs treats them for tax purposes.",
+      "published_at": "2026-07-14T08:26:40",
+      "fetched_at": "2026-07-14T13:28:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "5dab195f662d4193186476d8",
+      "title": "Correspondence: Bringing together the administration of pensioner Housing Benefit and Pension Credit",
+      "link": "https://www.gov.uk/government/publications/bringing-together-the-administration-of-pensioner-housing-benefit-and-pension-credit",
+      "summary": "A joined-up service enabling eligible customers to claim Housing Benefit and Pension Credit together from autumn 2026.",
+      "published_at": "2026-07-14T08:17:00",
+      "fetched_at": "2026-07-14T13:28:23",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "6608261a620c6d958f790397",
+      "title": "The Occupational and Personal Pension Schemes (General Levy) Regulations review 2026",
+      "link": "https://www.gov.uk/government/consultations/the-occupational-and-personal-pension-schemes-general-levy-regulations-review-2026",
+      "summary": "Consultation on proposed changes to the General Levy on occupational and personal pension schemes for the period from April 2027 to March 2030.",
+      "published_at": "2026-07-14T08:00:16",
+      "fetched_at": "2026-07-14T13:28:23",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 21,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension",
+        "regulation"
+      ]
+    },
+    {
       "id": "055014332f7f9e91081e8d44",
       "title": "Millions of unpaid carers to get recognition and earlier support",
       "link": "https://www.gov.uk/government/news/millions-of-unpaid-carers-to-get-recognition-and-earlier-support",
       "summary": "First ever cross-Government action plan to support unpaid carers published",
       "published_at": "2026-07-14T07:45:06",
       "fetched_at": "2026-07-14T07:59:05",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "dd11f55b5589249399eed9df",
+      "title": "Millions of unpaid carers to get recognition and earlier support",
+      "link": "https://www.gov.uk/government/news/millions-of-unpaid-carers-to-get-recognition-and-earlier-support",
+      "summary": "First ever cross-government action plan to support unpaid carers published.",
+      "published_at": "2026-07-14T07:45:00",
+      "fetched_at": "2026-07-14T13:28:23",
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "region": "UK",
@@ -11189,408 +11610,6 @@
       "matched_keywords": [
         "payroll",
         "ei"
-      ]
-    },
-    {
-      "id": "f68ae2a2bb27fd08ac4c1eed",
-      "title": "Roles and responsibilities",
-      "link": "https://www.gov.uk/guidance/international-events/roles-and-responsibilities",
-      "summary": "This section sets out the roles of key parties involved in the movement of goods.",
-      "published_at": "2026-06-24T09:47:56",
-      "fetched_at": "2026-06-24T10:36:44",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "bf3e5ee0fd3cfe3c3c61aef5",
-      "title": "Commodity-specific requirements",
-      "link": "https://www.gov.uk/guidance/international-events/commodity-specific-requirements",
-      "summary": "This section outlines special customs and regulatory requirements for specific types of goods frequently transported for international events.",
-      "published_at": "2026-06-24T09:47:56",
-      "fetched_at": "2026-06-24T10:36:44",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "7b640b189e2820bedfa1e08d",
-      "title": "Customs Import Duty reliefs",
-      "link": "https://www.gov.uk/guidance/international-events/customs-import-duty-reliefs",
-      "summary": "This section explains customs duty reliefs for goods imported into Great Britain for events. It covers the main types of reliefs, eligibility, and claiming procedures including documentation, prior approval, and restrictions",
-      "published_at": "2026-06-24T09:47:56",
-      "fetched_at": "2026-06-24T10:36:44",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "f5e02f1792fbf932484aebf1",
-      "title": "Additional Procedure Codes for claiming reliefs when using the Customs Declaration Service",
-      "link": "https://www.gov.uk/guidance/international-events/additional-procedure-codes-for-claiming-reliefs-when-using-the-customs-declaration-service",
-      "summary": "Reliefs from import duties are available for selected imports into the UK. This section provides the ones most likely to be used however this may change depending on your individual circumstances.",
-      "published_at": "2026-06-24T09:47:56",
-      "fetched_at": "2026-06-24T10:36:44",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "0cd5d5049d5def7fed141467",
-      "title": "UK legislation",
-      "link": "https://www.gov.uk/guidance/international-events/uk-legislation",
-      "summary": "This section sets out the statutory framework and legislation governing duties and customs process.",
-      "published_at": "2026-06-24T09:47:56",
-      "fetched_at": "2026-06-24T10:36:44",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 9,
-      "matched_keywords": [
-        "payroll",
-        "statutory"
-      ]
-    },
-    {
-      "id": "f9242cc31a417ca31010a110",
-      "title": "Exporting goods to other countries from the UK for international events",
-      "link": "https://www.gov.uk/guidance/international-events/exporting-goods-to-other-countries-from-the-uk-for-international-events",
-      "summary": "This section outlines the procedures and obligations for exporting goods from the United Kingdom for use at international events. It covers temporary and permanent exports, required documentation, customs procedures, and compliance with UK regulations.",
-      "published_at": "2026-06-24T09:47:56",
-      "fetched_at": "2026-06-24T10:36:44",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 12,
-      "matched_keywords": [
-        "payroll",
-        "compliance",
-        "regulation"
-      ]
-    },
-    {
-      "id": "b3c67a15ba6180bb5fb0e0d8",
-      "title": "Compliance checklists and templates",
-      "link": "https://www.gov.uk/guidance/international-events/compliance-checklists-and-templates",
-      "summary": "This section includes a checklist for completing the C108 form with supporting documentation, steps for presenting goods at Great British borders, and requirements for retaining endorsed copies for audit.",
-      "published_at": "2026-06-24T09:47:56",
-      "fetched_at": "2026-06-24T10:36:44",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 9,
-      "matched_keywords": [
-        "payroll",
-        "compliance"
-      ]
-    },
-    {
-      "id": "f28fee36edf84e70eee67c2f",
-      "title": "Definitions",
-      "link": "https://www.gov.uk/guidance/international-events/definitions",
-      "summary": "This section outlines the various definitions of processes involved in moving goods for international events.",
-      "published_at": "2026-06-24T09:47:56",
-      "fetched_at": "2026-06-24T10:36:44",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "8be47400370a989e081ae86a",
-      "title": "Importing goods to Great Britain for international events — passengers with accompanied baggage",
-      "link": "https://www.gov.uk/guidance/international-events/importing-goods-to-great-britain-for-international-events-passengers-with-accompanied-baggage",
-      "summary": "This section sets out the customs procedures to be followed by participants arriving in Great Britain with goods.",
-      "published_at": "2026-06-24T09:47:56",
-      "fetched_at": "2026-06-24T10:36:44",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "4f83c7eec9c16a64d72f0f9a",
-      "title": "Contacts",
-      "link": "https://www.gov.uk/guidance/international-events/contacts",
-      "summary": "This section provides information on the various points of contact which have been provided to offer support.",
-      "published_at": "2026-06-24T09:47:56",
-      "fetched_at": "2026-06-24T10:36:44",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "2dbcf6bdac5302ed1684009b",
-      "title": "Summary of customs procedures for event equipment",
-      "link": "https://www.gov.uk/guidance/international-events/summary-of-customs-procedures-for-event-equipment",
-      "summary": "This section provides a table of different types of equipment commonly imported or exported for international events such as sports competitions, concerts, exhibitions, and conferences, along with the corresponding customs procedures typically used for each category.",
-      "published_at": "2026-06-24T09:47:56",
-      "fetched_at": "2026-06-24T10:36:44",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "a7a03b3c646449d57baf22c2",
-      "title": "VAT treatment",
-      "link": "https://www.gov.uk/guidance/international-events/vat-treatment",
-      "summary": "VAT treatment depends on supply conditions, including evidence of export, and whether Temporary Admission (TA) or other reliefs apply.",
-      "published_at": "2026-06-24T09:47:56",
-      "fetched_at": "2026-06-24T10:36:44",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "e66b571ed5a8ae93c8bf30d1",
-      "title": "Customs checklist",
-      "link": "https://www.gov.uk/guidance/international-events/customs-checklist",
-      "summary": "This checklist outlines the essential steps for managing import and export formalities effectively into the UK.",
-      "published_at": "2026-06-24T09:47:56",
-      "fetched_at": "2026-06-24T10:36:44",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "63f3f1b00093d574961791d0",
-      "title": "International events",
-      "link": "https://www.gov.uk/guidance/international-events",
-      "summary": "This handbook provides essential information for managing import and export procedures for international events. It outlines the key documents required and offers guidance on accompanied baggage, reliefs, licenses, and special procedures such as temporary admission.",
-      "published_at": "2026-06-24T09:47:55",
-      "fetched_at": "2026-06-24T10:36:44",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "a4e8050213f3519c81a84a21",
-      "title": "Introduction",
-      "link": "https://www.gov.uk/guidance/international-events/-introduction",
-      "summary": "This section provides information for managing import and export procedures for international events.",
-      "published_at": "2026-06-24T09:47:55",
-      "fetched_at": "2026-06-24T10:36:44",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "e8a1713a6e73544202135c3b",
-      "title": "Statutory guidance: Income belonging to others  — statutory return (IBO-01)",
-      "link": "https://www.gov.uk/government/publications/income-belonging-to-others-statutory-return-ibo-01",
-      "summary": "Use this template to send your IBO-01 return to HMRC if you receive a statutory notice for income belonging to others.",
-      "published_at": "2026-06-24T08:32:28",
-      "fetched_at": "2026-06-24T10:36:44",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 13,
-      "matched_keywords": [
-        "payroll",
-        "ei",
-        "statutory"
-      ]
-    },
-    {
-      "id": "17ffecc7e0b59d03566596a8",
-      "title": "Guidance: Agent services account: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/agent-services-account-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the agent services account.",
-      "published_at": "2026-06-24T07:42:12",
-      "fetched_at": "2026-06-24T10:36:44",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "23cfc5b8ae10b07ee5c390ba",
-      "title": "Guidance: Agent services account if you’re not based in the UK: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/agent-services-account-if-you-are-not-based-in-the-uk-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the approval and set up of your agent services account if you are not based in the UK.",
-      "published_at": "2026-06-24T07:38:47",
-      "fetched_at": "2026-06-24T10:36:44",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
       ]
     }
   ]
