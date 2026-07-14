@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-14T13:28:43",
+  "synced_at": "2026-07-14T19:15:59",
   "total": 500,
-  "new_count": 22,
+  "new_count": 9,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 11,
+      "added": 3,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 7,
+      "added": 2,
       "error": null
     },
     {
@@ -40,6 +40,123 @@
     }
   ],
   "items": [
+    {
+      "id": "a841e909129e2690718ff660",
+      "title": "Register to complete origin declarations under the UK-India Free Trade Agreement",
+      "link": "https://www.gov.uk/guidance/register-to-complete-origin-declarations-under-the-uk-india-free-trade-agreement",
+      "summary": "Register with HMRC if you're planning to complete origin declarations for exports under the UK-India Free Trade Agreement.",
+      "published_at": "2026-07-14T15:55:50",
+      "fetched_at": "2026-07-14T19:15:38",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "3915ea330b3e403d093fe6eb",
+      "title": "Transparency data: Ministerial Group for Digital Inclusion: terms of reference",
+      "link": "https://www.gov.uk/government/publications/ministerial-group-for-digital-inclusion-terms-of-reference",
+      "summary": "Terms of reference for Ministerial Group for Digital Inclusion.",
+      "published_at": "2026-07-14T15:43:35",
+      "fetched_at": "2026-07-14T19:15:39",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "1931b04e258e5effad7d2953",
+      "title": "Transparency data: Ministerial Group for Digital Inclusion: meeting summaries",
+      "link": "https://www.gov.uk/government/publications/ministerial-group-for-digital-inclusion-meeting-summaries",
+      "summary": "Summary of minutes of the meetings for the Ministerial Group for Digital Inclusion.",
+      "published_at": "2026-07-14T15:43:31",
+      "fetched_at": "2026-07-14T19:15:39",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "7e4e6d66efe7f71822605bd4",
+      "title": "Form: Request transfer of a VAT registration number",
+      "link": "https://www.gov.uk/government/publications/vat-request-for-transfer-of-a-registration-number-vat68",
+      "summary": "You can ask HMRC to transfer the VAT registration of a company that's changing ownership by completing VAT registration and form VAT68.",
+      "published_at": "2026-07-14T13:58:26",
+      "fetched_at": "2026-07-14T19:15:38",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "7e027205778fd6343d649b9a",
+      "title": "Guidance: Gains on foreign life insurance policies (Self Assessment helpsheet HS321)",
+      "link": "https://www.gov.uk/government/publications/gains-on-foreign-life-insurance-policies-hs321-self-assessment-helpsheet",
+      "summary": "Find out how to calculate gains on foreign life insurance policies and make entries on your tax return.",
+      "published_at": "2026-07-14T13:34:47",
+      "fetched_at": "2026-07-14T19:15:38",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
     {
       "id": "24a5e77f5a6c8c5a6a4120f9",
       "title": "Check if a business is registered for money laundering supervision",
@@ -11488,128 +11605,6 @@
       "score": 6,
       "matched_keywords": [
         "payroll"
-      ]
-    },
-    {
-      "id": "fd41bc86d432eab7ed96b464",
-      "title": "Guidance: DWP Direct Deduction and Disqualification from Driving Orders: Code of Practice",
-      "link": "https://www.gov.uk/government/publications/dwp-direct-deduction-and-disqualification-from-driving-orders-code-of-practice",
-      "summary": "The Code of Practice for the Debt Recovery powers for the Public Authorities (Fraud, Error and Recovery) Act 2025.",
-      "published_at": "2026-06-24T12:20:46",
-      "fetched_at": "2026-06-24T18:22:14",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "cd80c044bcee46a32f317559",
-      "title": "Official Statistics: DWP Complaints statistics to March 2026",
-      "link": "https://www.gov.uk/government/statistics/announcements/dwp-complaints-statistics-to-march-2026",
-      "summary": "Quarterly release of Official Statistics in Development including DWP complaints received, closed and upheld by each business area, and categorisation of the reason for the complaint.",
-      "published_at": "2026-06-24T11:05:52",
-      "fetched_at": "2026-06-24T11:33:25",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 22,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension",
-        "ei"
-      ]
-    },
-    {
-      "id": "0b88e47ef4f4c54374dbca4c",
-      "title": "Research: Upcoming DWP research publications",
-      "link": "https://www.gov.uk/government/publications/list-of-upcoming-research-publications",
-      "summary": "This document provides details of upcoming Department for Work and Pensions (DWP) research publications.",
-      "published_at": "2026-06-24T10:24:08",
-      "fetched_at": "2026-06-24T10:36:44",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "650125687ca080e95228791a",
-      "title": "Declarations and freight movements",
-      "link": "https://www.gov.uk/guidance/international-events/declarations-and-freight-movements",
-      "summary": "This section explains the different ways goods can be declared to UK customs when being moved for international events.",
-      "published_at": "2026-06-24T09:47:56",
-      "fetched_at": "2026-06-24T10:36:44",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "887d5f957cfe5e6bc9ec2196",
-      "title": "Special procedures and reliefs for event goods",
-      "link": "https://www.gov.uk/guidance/international-events/special-procedures-and-reliefs-for-event-goods",
-      "summary": "This section provides guidance on how to handle goods being moved into the UK for international events, focusing on customs special procedures and reliefs, and where the goods are not being carried with the participant.",
-      "published_at": "2026-06-24T09:47:56",
-      "fetched_at": "2026-06-24T10:36:44",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
       ]
     }
   ]
