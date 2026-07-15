@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-15T04:10:35",
+  "synced_at": "2026-07-15T08:04:23",
   "total": 500,
-  "new_count": 4,
+  "new_count": 5,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,29 @@
     }
   ],
   "items": [
+    {
+      "id": "d1aa606499e75ddbddd25463",
+      "title": "Check the recognised overseas pension schemes notification list",
+      "link": "https://www.gov.uk/guidance/check-the-recognised-overseas-pension-schemes-notification-list",
+      "summary": "Find schemes that have told HMRC they meet the conditions to be a recognised overseas pension scheme (ROPS).",
+      "published_at": "2026-07-15T08:00:03",
+      "fetched_at": "2026-07-15T08:04:03",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "pension",
+        "payroll"
+      ]
+    },
     {
       "id": "b4786ff09b1dfdde7960df30",
       "title": "100,000 people closer to work thanks to Government support",
@@ -11587,28 +11610,6 @@
       "matched_keywords": [
         "payroll",
         "regulation"
-      ]
-    },
-    {
-      "id": "67659fb9de148c3e13f9143b",
-      "title": "Accredited official statistics: Monthly property transactions completed in the UK with the value of £40,000 or above",
-      "link": "https://www.gov.uk/government/statistics/announcements/monthly-property-transactions-completed-in-the-uk-with-the-value-of-40000-or-above--27",
-      "summary": "This series looks at monthly property transactions completed in the UK with value of £40,000 or above.",
-      "published_at": "2026-06-24T13:31:39",
-      "fetched_at": "2026-06-24T18:22:14",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
       ]
     }
   ]
