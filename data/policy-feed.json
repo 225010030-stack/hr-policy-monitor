@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-14T19:15:59",
+  "synced_at": "2026-07-15T02:10:14",
   "total": 500,
-  "new_count": 9,
+  "new_count": 5,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 3,
+      "added": 0,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 2,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,32 @@
     }
   ],
   "items": [
+    {
+      "id": "b4786ff09b1dfdde7960df30",
+      "title": "100,000 people closer to work thanks to Government support",
+      "link": "https://www.gov.uk/government/news/100000-people-closer-to-work-thanks-to-government-support",
+      "summary": "Around 100,000 disabled people and those with health conditions are closer to work thanks to a voluntary Government programme being delivered in every Jobcentre across the country, according to new figures.",
+      "published_at": "2026-07-14T23:01:07",
+      "fetched_at": "2026-07-15T02:09:54",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 22,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension",
+        "ei"
+      ]
+    },
     {
       "id": "a841e909129e2690718ff660",
       "title": "Register to complete origin declarations under the UK-India Free Trade Agreement",
@@ -11569,28 +11595,6 @@
       "link": "https://www.gov.uk/government/statistics/announcements/monthly-property-transactions-completed-in-the-uk-with-the-value-of-40000-or-above--27",
       "summary": "This series looks at monthly property transactions completed in the UK with value of £40,000 or above.",
       "published_at": "2026-06-24T13:31:39",
-      "fetched_at": "2026-06-24T18:22:14",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "f5261ba38d4e071b273ce607",
-      "title": "Guidance: Payroll technical specifications: National Insurance",
-      "link": "https://www.gov.uk/government/publications/payroll-technical-specifications-national-insurance",
-      "summary": "National Insurance guidance for software developers working with payroll software.",
-      "published_at": "2026-06-24T12:23:01",
       "fetched_at": "2026-06-24T18:22:14",
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
