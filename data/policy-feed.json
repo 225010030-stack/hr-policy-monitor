@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-15T19:06:40",
+  "synced_at": "2026-07-16T02:23:22",
   "total": 500,
-  "new_count": 13,
+  "new_count": 5,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 7,
+      "added": 0,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 2,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,31 @@
     }
   ],
   "items": [
+    {
+      "id": "daa887d36546a707eee02d1f",
+      "title": "Young people in Port Talbot in line for up to £5m boost in jobs",
+      "link": "https://www.gov.uk/government/news/young-people-in-port-talbot-in-line-for-up-to-5m-boost-in-jobs",
+      "summary": "Welsh Secretary today announces a new skills initiative in Port Talbot designed to help local young people into careers in well-paid local job opportunities.",
+      "published_at": "2026-07-15T23:05:01",
+      "fetched_at": "2026-07-16T02:23:01",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
     {
       "id": "4d354fb540cfd0b040496c9b",
       "title": "Corporate report: HMRC's response to report on managing insider risk",
@@ -11588,32 +11613,6 @@
         "benefit",
         "benefits",
         "pension"
-      ]
-    },
-    {
-      "id": "211f40522976db0eaa994202",
-      "title": "Research: The Universal Credit Survey 2025",
-      "link": "https://www.gov.uk/government/publications/the-universal-credit-survey-2025",
-      "summary": "A report exploring Universal Credit (UC) customers’ knowledge, understanding, attitudes and barriers to work, and how their understanding of UC incentives shapes their views on working and progression.",
-      "published_at": "2026-06-25T15:00:02",
-      "fetched_at": "2026-06-25T19:21:36",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 22,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension",
-        "ei"
       ]
     }
   ]
