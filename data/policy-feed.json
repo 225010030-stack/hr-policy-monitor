@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-16T04:14:29",
+  "synced_at": "2026-07-16T08:08:56",
   "total": 500,
-  "new_count": 4,
+  "new_count": 14,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 10,
       "error": null
     },
     {
@@ -40,6 +40,226 @@
     }
   ],
   "items": [
+    {
+      "id": "7cbe5990b35afaca157a6de9",
+      "title": "Work out the date you’ll need to register for Carbon Border Adjustment Mechanism (CBAM)",
+      "link": "https://www.gov.uk/guidance/work-out-the-date-youll-need-to-register-for-carbon-border-adjustment-mechanism-cbam",
+      "summary": "Find out if you need to register for CBAM and work out the date you need to do this by.",
+      "published_at": "2026-07-16T07:58:56",
+      "fetched_at": "2026-07-16T08:08:35",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "a18acf2a0038897ae61fae30",
+      "title": "Imported Carbon Border Adjustment (CBAM) goods that may not contribute towards the registration threshold",
+      "link": "https://www.gov.uk/guidance/imported-carbon-border-adjustment-cbam-goods-that-may-not-contribute-towards-the-registration-threshold",
+      "summary": "Find out which imported CBAM goods may not contribute towards the registration threshold of £50,000.",
+      "published_at": "2026-07-16T07:58:10",
+      "fetched_at": "2026-07-16T08:08:35",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "7cfa5fe78c19d227e5152887",
+      "title": "Check if you’re classed as the importer for Carbon Border Adjustment Mechanism (CBAM)",
+      "link": "https://www.gov.uk/guidance/check-if-youre-classed-as-the-importer-for-carbon-border-adjustment-mechanism-cbam",
+      "summary": "Find out if you’re classed as the importer when checking if you’ll need to register for the Carbon Border Adjustment Mechanism (CBAM).",
+      "published_at": "2026-07-16T07:57:16",
+      "fetched_at": "2026-07-16T08:08:35",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "b88e3e86088c846c323a6596",
+      "title": "Guidance: Check which goods are in scope of Carbon Border Adjustment Mechanism (CBAM)",
+      "link": "https://www.gov.uk/government/publications/check-which-goods-are-in-scope-of-carbon-border-adjustment-mechanism-cbam",
+      "summary": "Find out whether Carbon Border Adjustment Mechanism (CBAM) goods imported into the UK from the aluminium, cement, fertiliser, hydrogen, iron and steel sectors are in scope of the CBAM tax.",
+      "published_at": "2026-07-16T07:56:24",
+      "fetched_at": "2026-07-16T08:08:35",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "1e7a137b6fefedc980453804",
+      "title": "Keeping records for Carbon Border Adjustment Mechanism (CBAM)",
+      "link": "https://www.gov.uk/guidance/keeping-records-for-carbon-border-adjustment-mechanism-cbam",
+      "summary": "Find out which records you must keep if you're the importer of CBAM goods.",
+      "published_at": "2026-07-16T07:54:32",
+      "fetched_at": "2026-07-16T08:08:35",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "b0bc2234008330822a6a8294",
+      "title": "Work out your Carbon Price Relief",
+      "link": "https://www.gov.uk/guidance/work-out-your-carbon-price-relief",
+      "summary": "Find out how to work out your Carbon Price Relief for the Carbon Border Adjustment Mechanism (CBAM).",
+      "published_at": "2026-07-16T07:53:46",
+      "fetched_at": "2026-07-16T08:08:35",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "a4d50b8627b03fc411d8ca01",
+      "title": "What you need to work out Carbon Price Relief",
+      "link": "https://www.gov.uk/guidance/what-you-need-to-work-out-carbon-price-relief",
+      "summary": "Find out what you need to work out the Carbon Price Relief you might claim for Carbon Border Adjustment Mechanism (CBAM) goods.",
+      "published_at": "2026-07-16T07:52:52",
+      "fetched_at": "2026-07-16T08:08:35",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "b97949b5910c72ac05ce789c",
+      "title": "Get a carbon pricing verification form",
+      "link": "https://www.gov.uk/guidance/get-a-carbon-pricing-verification-form",
+      "summary": "Find out how to get a completed carbon pricing verification form to claim relief on Carbon Border Adjustment Mechanism (CBAM) goods subject to a qualifying carbon pricing scheme.",
+      "published_at": "2026-07-16T07:52:10",
+      "fetched_at": "2026-07-16T08:08:35",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "ae2cb09f083c36053e89e593",
+      "title": "Check if your goods have been subject to a qualifying carbon pricing scheme",
+      "link": "https://www.gov.uk/guidance/check-if-your-goods-have-been-subject-to-a-qualifying-carbon-pricing-scheme",
+      "summary": "Find out if embodied emissions in your Carbon Border Adjustment Mechanism (CBAM) goods have been subject to a qualifying carbon pricing scheme.",
+      "published_at": "2026-07-16T07:51:10",
+      "fetched_at": "2026-07-16T08:08:35",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "280e8dc1ae8258f477737c95",
+      "title": "Report suspicious activity happening in an HMRC online account",
+      "link": "https://www.gov.uk/guidance/report-suspicious-activity-happening-in-an-hmrc-online-account",
+      "summary": "Find out how to report suspicious activity happening in an online account and keep your personal information safe from identity fraud.",
+      "published_at": "2026-07-16T07:00:00",
+      "fetched_at": "2026-07-16T08:08:35",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "daa887d36546a707eee02d1f",
       "title": "Young people in Port Talbot in line for up to £5m boost in jobs",
@@ -11372,247 +11592,6 @@
       "matched_keywords": [
         "payroll",
         "withholding"
-      ]
-    },
-    {
-      "id": "4833d4556bbc6f8c84d58a1d",
-      "title": "Thousands more out-of-work benefit claimants to get personalised support",
-      "link": "https://www.gov.uk/government/news/thousands-more-out-of-work-benefit-claimants-to-get-personalised-support",
-      "summary": "Up to 40,000 disabled people and people with health conditions will benefit from expanded access to personalised support, as the government rolls out Support Conversations across a further 27 Jobcentres taking the total number of sites to 33.",
-      "published_at": "2026-06-25T23:01:00",
-      "fetched_at": "2026-06-26T11:18:52",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "5fb9727ea91ccdec9c025aef",
-      "title": "Software developers providing customs declaration software",
-      "link": "https://www.gov.uk/guidance/list-of-software-developers-providing-customs-declaration-support",
-      "summary": "Check a list of software developers who can provide Customs Declaration Service software.",
-      "published_at": "2026-06-25T15:13:12",
-      "fetched_at": "2026-06-25T19:21:35",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "bc69af44810b636ce2513ebe",
-      "title": "Research: Local Implementation and Evaluation of Work and Health Active Labour Market Programmes",
-      "link": "https://www.gov.uk/government/publications/local-implementation-and-evaluation-of-work-and-health-active-labour-market-programmes",
-      "summary": "This report provides insights for local government on what enables the effective, design, delivery and evaluation of health and work programmes.",
-      "published_at": "2026-06-25T15:00:07",
-      "fetched_at": "2026-06-25T19:21:36",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "2ff206a5ff274749894af840",
-      "title": "Research: Evaluation of Additional Work Coach Support",
-      "link": "https://www.gov.uk/government/publications/evaluation-of-additional-work-coach-support",
-      "summary": "Findings from a mixed-methods study on the customer experience and impacts of extra Jobcentre Plus support for disabled people and those with health conditions.",
-      "published_at": "2026-06-25T15:00:04",
-      "fetched_at": "2026-06-25T19:21:36",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "64865b755d706f9643965e3b",
-      "title": "Transparency data: DWP senior officials' business expenses and hospitality and meetings, January to March 2026",
-      "link": "https://www.gov.uk/government/publications/dwp-senior-officials-business-expenses-and-hospitality-and-meetings-january-to-march-2026",
-      "summary": "Data on senior officials' business travel and hospitality and meetings with external organisations.",
-      "published_at": "2026-06-25T15:00:03",
-      "fetched_at": "2026-06-25T19:21:36",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "732890528ad9fb380e3d2ec7",
-      "title": "Transparency data: HMRC: senior officials’ business expenses, hospitality and meetings, January to March 2026",
-      "link": "https://www.gov.uk/government/publications/hmrc-senior-officials-business-expenses-hospitality-and-meetings-january-to-march-2026",
-      "summary": "Data on senior officials’ (SCS2+) business expenses, hospitality, and meetings with external individuals and organisations.",
-      "published_at": "2026-06-25T15:00:02",
-      "fetched_at": "2026-06-25T19:21:35",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "4298bc1e10b353cceb5f3f89",
-      "title": "Transparency data: HMRC: business appointment rules advice, January to March 2026",
-      "link": "https://www.gov.uk/government/publications/hmrc-business-appointment-rules-advice-january-to-march-2026",
-      "summary": "Summaries of advice given under the business appointment rules to applicants at SCS2 and SCS1 level and equivalents.",
-      "published_at": "2026-06-25T15:00:02",
-      "fetched_at": "2026-06-25T19:21:35",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "68ce24c844a8c2bbcf75903e",
-      "title": "Research: Intensive Personalised Employment Support (IPES) Programme Evaluation",
-      "link": "https://www.gov.uk/government/publications/intensive-personalised-employment-support-ipes-programme-evaluation",
-      "summary": "This report provides findings from a mixed-method evaluation of the Intensive Personalised Employment Support programme, incorporating a quantitative and qualitative strand.",
-      "published_at": "2026-06-25T15:00:02",
-      "fetched_at": "2026-06-25T19:21:36",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "01de07a9e17a6c05e273bb76",
-      "title": "Research: Individual Placement and Support in Primary Care (IPSPC) Evaluation report",
-      "link": "https://www.gov.uk/government/publications/individual-placement-and-support-in-primary-care-ipspc-evaluation-report",
-      "summary": "This report presents findings from an independent evaluation of the Individual Placement and Support in Primary Care (IPSPC) programme, incorporating a qualitative and quantitative strand.",
-      "published_at": "2026-06-25T15:00:02",
-      "fetched_at": "2026-06-25T19:21:36",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "7a11dc7e77eed684cc595d2b",
-      "title": "Research: Get Britain Working Trailblazers: Theories of Change and System Mapping",
-      "link": "https://www.gov.uk/government/publications/get-britain-working-trailblazers-theories-of-change-and-system-mapping",
-      "summary": "This report sets out the first phase evaluation of the Get Britain Working Trailblazer programme, which involved developing Theory of Change models and system maps to describe how Trailblazer areas intend to address the aims of the programme.",
-      "published_at": "2026-06-25T15:00:02",
-      "fetched_at": "2026-06-25T19:21:36",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
       ]
     }
   ]
