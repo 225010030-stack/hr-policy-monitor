@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-07-16T13:44:55",
+  "synced_at": "2026-07-16T19:05:55",
   "total": 500,
-  "new_count": 27,
+  "new_count": 26,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
       "fetched": 21,
-      "added": 4,
+      "added": 6,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 14,
+      "added": 20,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 9,
+      "added": 0,
       "error": null
     },
     {
@@ -40,6 +40,452 @@
     }
   ],
   "items": [
+    {
+      "id": "fd73bd3e3d6faacee9bcea39",
+      "title": "The Individual Savings Account (Amendment) Regulations 2026",
+      "link": "https://www.gov.uk/government/consultations/the-individual-savings-account-amendment-regulations-2026",
+      "summary": "A technical consultation on draft legislation to set the annual Cash ISA subscription limit for investors below the age of 65 at £12,000 from 6th April 2027.",
+      "published_at": "2026-07-16T14:54:46",
+      "fetched_at": "2026-07-16T19:05:35",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 9,
+      "matched_keywords": [
+        "payroll",
+        "regulation"
+      ]
+    },
+    {
+      "id": "40e663040294978731c830bd",
+      "title": "Addasu eich incwm o hunangyflogaeth ac eiddo",
+      "link": "https://www.gov.uk/guidance/defnyddio-r-cynllun-troi-treth-yn-ddigidol-ar-gyfer-treth-incwm/addasu-eich-incwm-o-hunangyflogaeth-ac-eiddo",
+      "summary": "Sut a phryd i wneud addasiadau cyn cyflwyno’ch Ffurflen Dreth.",
+      "published_at": "2026-07-16T14:15:00",
+      "fetched_at": "2026-07-16T19:05:35",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "bfdd86e193055125323abfb5",
+      "title": "Help a chymorth",
+      "link": "https://www.gov.uk/guidance/defnyddio-r-cynllun-troi-treth-yn-ddigidol-ar-gyfer-treth-incwm/help-a-chymorth",
+      "summary": "Dewch o hyd i help, gan gynnwys help gan CThEF, os oes ei angen arnoch.",
+      "published_at": "2026-07-16T14:15:00",
+      "fetched_at": "2026-07-16T19:05:35",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "9af1b6c66e1fd4cbd73f359f",
+      "title": "Os bydd eich amgylchiadau’n newid",
+      "link": "https://www.gov.uk/guidance/defnyddio-r-cynllun-troi-treth-yn-ddigidol-ar-gyfer-treth-incwm/os-bydd-eich-amgylchiadau-n-newid",
+      "summary": "Dysgwch beth sydd angen i chi wneud er mwyn cadw eich manylion yn gyfredol a phryd mae angen i chi roi gwybod i CThEF am newid.",
+      "published_at": "2026-07-16T14:15:00",
+      "fetched_at": "2026-07-16T19:05:35",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "ba186fef49a2fa715f9e88d9",
+      "title": "Creu cofnodion digidol",
+      "link": "https://www.gov.uk/guidance/defnyddio-r-cynllun-troi-treth-yn-ddigidol-ar-gyfer-treth-incwm/creu-cofnodion-digidol",
+      "summary": "Sut i greu a chadw cofnodion digidol o’ch incwm a threuliau o hunangyflogaeth ac eiddo ar gyfer y cynllun Troi Treth yn Ddigidol ar gyfer Treth Incwm.",
+      "published_at": "2026-07-16T14:15:00",
+      "fetched_at": "2026-07-16T19:05:35",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "4efead441acefe57ae39c09c",
+      "title": "Cyflwyno’ch Ffurflen Dreth",
+      "link": "https://www.gov.uk/guidance/defnyddio-r-cynllun-troi-treth-yn-ddigidol-ar-gyfer-treth-incwm/cyflwyno-ch-ffurflen-dreth",
+      "summary": "Sut i lenwi, cyflwyno a gwneud newidiadau i’ch Ffurflen Dreth gan ddefnyddio’ch meddalwedd Troi Treth yn Ddigidol ar gyfer Treth Incwm.",
+      "published_at": "2026-07-16T14:15:00",
+      "fetched_at": "2026-07-16T19:05:35",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "d62651a3e91e6caee730cc81",
+      "title": "Ychwanegu neu ddod ag ffynonellau incwm i ben",
+      "link": "https://www.gov.uk/guidance/defnyddio-r-cynllun-troi-treth-yn-ddigidol-ar-gyfer-treth-incwm/ychwanegu-neu-ddod-ag-ffynonellau-incwm-i-ben",
+      "summary": "Dysgwch sut i ychwanegu neu ddod â ffynonellau incwm i ben ar gyfer Troi Treth yn Ddigidol ar gyfer Treth Incwm.",
+      "published_at": "2026-07-16T14:15:00",
+      "fetched_at": "2026-07-16T19:05:35",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "eb39ae6abc0d6b59b07a5d35",
+      "title": "Defnyddio’r cynllun Troi Treth yn Ddigidol ar gyfer Treth Incwm",
+      "link": "https://www.gov.uk/guidance/defnyddio-r-cynllun-troi-treth-yn-ddigidol-ar-gyfer-treth-incwm",
+      "summary": "Arweiniad ar gyfer unig fasnachwyr, landlordiaid ac asiantau ynghylch sut i ddefnyddio ffordd newydd CThEF o wneud Hunanasesiad.",
+      "published_at": "2026-07-16T14:15:00",
+      "fetched_at": "2026-07-16T19:05:35",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "c3996c99a35d80beb18338fa",
+      "title": "Submit your tax return",
+      "link": "https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/submit-your-tax-return",
+      "summary": "How to complete, submit and make changes to your tax return using your Making Tax Digital for Income Tax software.",
+      "published_at": "2026-07-16T14:14:41",
+      "fetched_at": "2026-07-16T19:05:35",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "e0cfa359b5167cdc69f45e3c",
+      "title": "Add or cease income sources",
+      "link": "https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/add-or-cease-income-sources",
+      "summary": "Find out how to add or cease income sources for Making Tax Digital for Income Tax.",
+      "published_at": "2026-07-16T14:14:41",
+      "fetched_at": "2026-07-16T19:05:35",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "51a2cb86172cdee3ff3c6985",
+      "title": "Adjust your self-employment and property income",
+      "link": "https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/adjust-your-self-employment-and-property-income",
+      "summary": "How and when to make adjustments before you submit your tax return.",
+      "published_at": "2026-07-16T14:14:41",
+      "fetched_at": "2026-07-16T19:05:35",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "e40895568b19b1a2086d0105",
+      "title": "If your circumstances change",
+      "link": "https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/if-your-circumstances-change",
+      "summary": "Find out what you need to do to keep your details up to date and when you need to tell HMRC about a change.",
+      "published_at": "2026-07-16T14:14:41",
+      "fetched_at": "2026-07-16T19:05:35",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "af6649addb49d654125d738a",
+      "title": "Help and support",
+      "link": "https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/help-and-support",
+      "summary": "Find help, including from HMRC, if you need it.",
+      "published_at": "2026-07-16T14:14:41",
+      "fetched_at": "2026-07-16T19:05:35",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "1e9a776f06b88fc4615e71f1",
+      "title": "Create digital records",
+      "link": "https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/create-digital-records",
+      "summary": "How to create and store digital records of your self-employment and property income and expenses for Making Tax Digital for Income Tax.",
+      "published_at": "2026-07-16T14:14:40",
+      "fetched_at": "2026-07-16T19:05:35",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "7d9d7e552332916aa581ac03",
+      "title": "Use Making Tax Digital for Income Tax",
+      "link": "https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax",
+      "summary": "Guidance for sole traders, landlords, and agents about how to use HMRC's new way to do Self Assessment.",
+      "published_at": "2026-07-16T14:14:40",
+      "fetched_at": "2026-07-16T19:05:35",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "8ba6db33bb1b679542127f50",
+      "title": "Guidance: VAT Government Information and National Health Trusts (GIANT): service availability and issues",
+      "link": "https://www.gov.uk/government/publications/vat-government-information-and-national-health-trusts-giant-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the VAT GIANT online service.",
+      "published_at": "2026-07-16T14:05:03",
+      "fetched_at": "2026-07-16T19:05:35",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "058337ec32a558aff24fb6b9",
+      "title": "PAYE Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/paye-manual",
+      "summary": "Guidance for staff working through PAYE processes for individuals and employers. HMRC is currently reviewing this guidance. If you have any comments or feedback, please email: hmrcmanualsteam@hmrc.gov.uk",
+      "published_at": "2026-07-16T13:51:02",
+      "fetched_at": "2026-07-16T19:05:35",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "7b7aff811411e748ec110be1",
+      "title": "Work out your qualifying income for Making Tax Digital for Income Tax",
+      "link": "https://www.gov.uk/guidance/work-out-your-qualifying-income-for-making-tax-digital-for-income-tax",
+      "summary": "Find out what counts as qualifying income from self-employment and property when using Making Tax Digital for Income Tax.",
+      "published_at": "2026-07-16T13:45:42",
+      "fetched_at": "2026-07-16T19:05:35",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "ba1b8c617641b75c3236165f",
+      "title": "Sign up your client for Making Tax Digital for Income Tax",
+      "link": "https://www.gov.uk/guidance/sign-up-your-client-for-making-tax-digital-for-income-tax",
+      "summary": "If you're an agent, use the online service to sign up your client for Making Tax Digital for Income Tax.",
+      "published_at": "2026-07-16T13:45:33",
+      "fetched_at": "2026-07-16T19:05:35",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "7a267680f21acbd7eb627ad5",
+      "title": "Sign up for Making Tax Digital for Income Tax",
+      "link": "https://www.gov.uk/guidance/sign-up-for-making-tax-digital-for-income-tax",
+      "summary": "If you're a sole trader or landlord, use the online service to sign up for Making Tax Digital for Income Tax.",
+      "published_at": "2026-07-16T13:43:47",
+      "fetched_at": "2026-07-16T19:05:35",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "0b3cca012cc70aee0e9e11bc",
       "title": "Statistics at DWP",
@@ -11143,476 +11589,6 @@
       "matched_keywords": [
         "payroll",
         "withholding"
-      ]
-    },
-    {
-      "id": "9d303b2faea92496ff8304d1",
-      "title": "Agency Information Collection Activities; Comment Request on Tax-Exempt Organization Complaint (Referral)",
-      "link": "https://www.federalregister.gov/documents/2026/06/30/2026-13097/agency-information-collection-activities-comment-request-on-tax-exempt-organization-complaint",
-      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
-      "published_at": "2026-06-30T04:00:00",
-      "fetched_at": "2026-06-30T09:30:07",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "payroll",
-        "withholding"
-      ]
-    },
-    {
-      "id": "0f679f58757a81c187a50337",
-      "title": "Economic Crime Supervision Handbook",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/economic-crime-supervision-handbook",
-      "summary": "The aim of the ECS handbook is to give you clear and comprehensive guidance on how to undertake your role within ECS. It will help you understand the legislation, how our policies work and how they should be applied. It will also explain how to apply the sanctions framework and the powers available for you to use under the MLR2017. Additionally, it may be used by external customers to understand how sanctions are applied.",
-      "published_at": "2026-06-30T00:00:00",
-      "fetched_at": "2026-06-30T09:30:08",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "e1b6f1c4a8424e48f48aa3b0",
-      "title": "Apply to import multiple low value parcels on one declaration",
-      "link": "https://www.gov.uk/guidance/apply-to-import-multiple-low-value-parcels-on-one-declaration",
-      "summary": "You can use the bulk import reduced data set to declare one or more low value parcels in a single import declaration when you import goods into Great Britain.",
-      "published_at": "2026-06-29T23:01:03",
-      "fetched_at": "2026-06-30T03:26:37",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "fbc3473901bccf80acb7caa7",
-      "title": "Transparency data: DWP's special advisers' gifts, hospitality and meetings, July to September 2025",
-      "link": "https://www.gov.uk/government/publications/dwps-special-advisers-gifts-hospitality-and-meetings-july-to-september-2025",
-      "summary": "Data on gifts and hospitality received by special advisers, and meetings they attended with senior media figures.",
-      "published_at": "2026-06-29T19:52:51",
-      "fetched_at": "2026-06-30T03:26:38",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 22,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension",
-        "ei"
-      ]
-    },
-    {
-      "id": "ac1ae174b33319cf18485b2f",
-      "title": "Claim personal allowances and tax refunds if you live abroad (R43)",
-      "link": "https://www.gov.uk/guidance/claim-personal-allowances-and-tax-refunds-if-you-live-abroad",
-      "summary": "How to claim a refund on tax and personal allowances on UK income if you're not resident in the UK on form R43.",
-      "published_at": "2026-06-29T14:39:22",
-      "fetched_at": "2026-06-29T14:53:43",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "8202bfeeffcc92d5dae823b7",
-      "title": "Debt Management and Banking Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/debt-management-and-banking",
-      "summary": "Some content of this manual is being considered for archiving. If there is content you use regularly, please email hmrcmanualsteam@hmrc.gov.uk to let us know as soon as possible. Our debt management and banking processes incorporates material covered in the Recovery Manual and the Banking Accounting Guide (BAAG)",
-      "published_at": "2026-06-29T14:34:38",
-      "fetched_at": "2026-06-29T14:53:43",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "5267df646c0793ba18d4a8fc",
-      "title": "Guidance: Early years teacher degree apprenticeship: guidance for training providers",
-      "link": "https://www.gov.uk/government/publications/early-years-teacher-degree-apprenticeship-guidance-for-training-providers",
-      "summary": "How to provide the early years teacher degree apprenticeship (EYTDA).",
-      "published_at": "2026-06-29T14:24:30",
-      "fetched_at": "2026-06-29T14:40:28",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "e6e448a1285134b6f0854203",
-      "title": "Energy firm named after £500,000 Russia sanctions settlement",
-      "link": "https://www.gov.uk/government/news/energy-firm-named-after-500000-russia-sanctions-settlement",
-      "summary": "An energy services firm has paid more than £500,000 to HM Revenue and Customs (HMRC) for breaching Russia sanctions regulations.",
-      "published_at": "2026-06-29T11:00:09",
-      "fetched_at": "2026-06-29T14:40:28",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 9,
-      "matched_keywords": [
-        "payroll",
-        "regulation"
-      ]
-    },
-    {
-      "id": "67556991323c16a36f95a7b1",
-      "title": "Notice: Notice to exporters 2026/15: firm named after Russia sanctions breach settlement",
-      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202615-firm-named-after-russia-sanctions-breach-settlement",
-      "summary": "HM Revenue and Customs (HMRC) names firm after receiving breach settlement related to Russia sanctions.",
-      "published_at": "2026-06-29T10:55:05",
-      "fetched_at": "2026-06-29T14:40:28",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "cd525c266daca8515f533a4b",
-      "title": "Guidance: Special Category codes for non-domestic properties",
-      "link": "https://www.gov.uk/government/publications/special-category-codes-for-non-domestic-properties",
-      "summary": "A list of all Special Category (SCat) codes for each type of non-domestic property.",
-      "published_at": "2026-06-29T10:49:42",
-      "fetched_at": "2026-06-29T14:40:28",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "ef2259c7b57e7ef0111ea986",
-      "title": "Guidance: Rebated Oils Enquiry Services: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/rebated-oils-enquiry-services-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the Rebated Oils Enquiry Services online service.",
-      "published_at": "2026-06-29T09:09:47",
-      "fetched_at": "2026-06-29T14:40:28",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "36416540146d2c63acefa31a",
-      "title": "Guidance: Tied Oils Enquiry Service: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/tied-oils-enquiry-service-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the Tied Oils Enquiry Service online service.",
-      "published_at": "2026-06-29T09:05:55",
-      "fetched_at": "2026-06-29T14:40:28",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "75373200d646f0cec32972bb",
-      "title": "Funding for businesses who give youngsters a chance as Government ramps up youth jobs drive",
-      "link": "https://www.gov.uk/government/news/funding-for-businesses-who-give-youngsters-a-chance-as-government-ramps-up-youth-jobs-drive",
-      "summary": "Businesses who take on jobless youngsters will be offered thousands of pounds in the latest boost to youth employment support.",
-      "published_at": "2026-06-29T08:24:00",
-      "fetched_at": "2026-06-29T14:40:28",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "2b693effff637e72b2b42883",
-      "title": "Guidance: List of approved professional organisations and learned societies (List 3)",
-      "link": "https://www.gov.uk/government/publications/professional-bodies-approved-for-tax-relief-list-3",
-      "summary": "Check this list of professional bodies to see if you can claim tax relief on your fees or subscriptions.",
-      "published_at": "2026-06-29T08:09:49",
-      "fetched_at": "2026-06-29T14:40:28",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "681f1b716ef58fdf49cafb97",
-      "title": "Health assessments to be recorded as standard in major transparency drive",
-      "link": "https://www.gov.uk/government/news/health-assessments-to-be-recorded-as-standard-in-major-transparency-drive",
-      "summary": "All face-to-face and telephone health assessments for disability and sickness benefits will be audio recorded as standard from today to improve transparency in the benefit system.",
-      "published_at": "2026-06-29T07:42:01",
-      "fetched_at": "2026-06-29T14:40:28",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "43437bc35e898f211277be11",
-      "title": "Taxpayers urged to get ahead of July Self Assessment payment deadline",
-      "link": "https://www.gov.uk/government/news/taxpayers-urged-to-get-ahead-of-july-self-assessment-payment-deadline",
-      "summary": "One month to go until the second Payments on Account deadline on 31 July for Self Assessment customers.",
-      "published_at": "2026-06-28T23:01:02",
-      "fetched_at": "2026-06-29T14:40:28",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "8056a2fdfa8b8221bd34346b",
-      "title": "Help to find work for Universal Credit claimants aged 16 to 24",
-      "link": "https://www.gov.uk/guidance/help-to-find-work-for-universal-credit-claimants-aged-16-to-24",
-      "summary": "Extra support is available for people aged 16 to 24 on Universal Credit, including jobs, training and apprenticeships through the Youth Guarantee Journey.",
-      "published_at": "2026-06-28T23:01:02",
-      "fetched_at": "2026-06-29T14:40:28",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "8a85e28613168781af233b41",
-      "title": "Guidance: Employment and Support Allowance: the Work Capability Assessment: detailed guide",
-      "link": "https://www.gov.uk/government/publications/esa214-a-guide-to-employment-and-support-allowance-the-work-capability-assessment",
-      "summary": "A detailed guide to the assessment carried out to determine the capability for work or work related activity of ESA claimants (ESA214).",
-      "published_at": "2026-06-28T23:01:02",
-      "fetched_at": "2026-06-29T14:40:28",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "78526172a81b85183e6d0beb",
-      "title": "Guidance: Health assessments: audio recordings",
-      "link": "https://www.gov.uk/government/publications/health-assessments-audio-recordings",
-      "summary": "Information on audio recordings at telephone and face-to-face health assessments.",
-      "published_at": "2026-06-28T23:01:02",
-      "fetched_at": "2026-06-29T14:40:28",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "73c5a42addbd9868feb6f8d7",
-      "title": "New Style Employment and Support Allowance",
-      "link": "https://www.gov.uk/guidance/new-style-employment-and-support-allowance",
-      "summary": "You may be able to claim New Style Employment and Support Allowance with, or instead of Universal Credit, depending on your National Insurance record.",
-      "published_at": "2026-06-28T23:01:02",
-      "fetched_at": "2026-06-29T14:40:28",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
       ]
     }
   ]
