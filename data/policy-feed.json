@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-17T04:13:43",
+  "synced_at": "2026-07-17T08:06:00",
   "total": 500,
-  "new_count": 8,
+  "new_count": 10,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 2,
       "error": null
     },
     {
@@ -40,6 +40,53 @@
     }
   ],
   "items": [
+    {
+      "id": "5aab140cc44121f6804f2264",
+      "title": "Accredited official statistics: HMRC tax receipts and National Insurance contributions for the UK",
+      "link": "https://www.gov.uk/government/statistics/announcements/hmrc-tax-receipts-and-national-insurance-contributions-for-the-uk--160",
+      "summary": "This publication includes historical receipts on a monthly and annual basis for all taxes administered by HMRC, as well as expenditure relating to tax credits, Child Benefit and Tax-Free Childcare. The bulletin also includes analysis and commentary on year-to-date receipts.",
+      "published_at": "2026-07-17T05:56:21",
+      "fetched_at": "2026-07-17T08:05:39",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 14,
+      "matched_keywords": [
+        "benefit",
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "ebac455a5f764d2a5942b6ad",
+      "title": "Accredited official statistics: HMRC tax receipts and National Insurance contributions for the UK",
+      "link": "https://www.gov.uk/government/statistics/announcements/hmrc-tax-receipts-and-national-insurance-contributions-for-the-uk--148",
+      "summary": "Summary of HM Revenue and Customs' tax receipts, National Insurance contributions (NICs), and expenditure for the UK.",
+      "published_at": "2026-07-17T05:49:06",
+      "fetched_at": "2026-07-17T08:05:39",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
     {
       "id": "69f1a3107e87eb15b6ba7d06",
       "title": "Guidance: Joint and several liability — penalties charged for facilitating avoidance or evasion — JAS/FS3",
@@ -11542,51 +11589,6 @@
         "payroll",
         "regulation",
         "statutory"
-      ]
-    },
-    {
-      "id": "4316e32eca3b9ce48c584f3d",
-      "title": "Capital Gains Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual",
-      "summary": "HMRC is reviewing the CG Manual to ensure it provides HMRC’s interpretation of relevant legislation where there is more than one reasonable view of how rules work.Where material in the CG Manual isn’t providing an interpretation, that material is being removed. Where appropriate, material will be reproduced elsewhere and linked from the CG Manual.",
-      "published_at": "2026-06-30T07:16:40",
-      "fetched_at": "2026-06-30T09:30:08",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "76c631055af56e23dc11239a",
-      "title": "International treaty: Sweden: tax treaties",
-      "link": "https://www.gov.uk/government/publications/sweden-tax-treaties",
-      "summary": "Tax treaties and related documents between the UK and Sweden.",
-      "published_at": "2026-06-30T06:50:16",
-      "fetched_at": "2026-06-30T09:30:08",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
       ]
     }
   ]
