@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-07-16T19:05:55",
+  "synced_at": "2026-07-17T02:26:27",
   "total": 500,
-  "new_count": 26,
+  "new_count": 8,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
       "fetched": 21,
-      "added": 6,
+      "added": 7,
       "error": null
     },
     {
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 20,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,28 @@
     }
   ],
   "items": [
+    {
+      "id": "69f1a3107e87eb15b6ba7d06",
+      "title": "Guidance: Joint and several liability — penalties charged for facilitating avoidance or evasion — JAS/FS3",
+      "link": "https://www.gov.uk/government/publications/joint-and-several-liability-penalties-charged-for-facilitating-avoidance-or-evasion-jasfs3",
+      "summary": "This factsheet gives information about whether you may be jointly and severally liable for the relevant tax liability of a company that has been charged penalties for facilitating avoidance or evasion.",
+      "published_at": "2026-07-16T22:59:05",
+      "fetched_at": "2026-07-17T02:26:07",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "fd73bd3e3d6faacee9bcea39",
       "title": "The Individual Savings Account (Amendment) Regulations 2026",
@@ -11565,30 +11587,6 @@
       "score": 6,
       "matched_keywords": [
         "payroll"
-      ]
-    },
-    {
-      "id": "bd28e81c9690ecc901619eab",
-      "title": "Internal Revenue Service Advisory Council; Public Meeting",
-      "link": "https://www.federalregister.gov/documents/2026/06/30/2026-13168/internal-revenue-service-advisory-council-public-meeting",
-      "summary": "The Internal Revenue Service Advisory Council will hold a public meeting.",
-      "published_at": "2026-06-30T04:00:00",
-      "fetched_at": "2026-06-30T09:30:07",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "payroll",
-        "withholding"
       ]
     }
   ]
