@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-07-17T13:22:22",
+  "synced_at": "2026-07-17T19:03:38",
   "total": 500,
-  "new_count": 20,
+  "new_count": 17,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
       "fetched": 22,
-      "added": 9,
+      "added": 8,
       "error": null
     },
     {
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 9,
+      "added": 7,
       "error": null
     },
     {
@@ -40,6 +40,212 @@
     }
   ],
   "items": [
+    {
+      "id": "42de29d2bb0a9cbc5509ea11",
+      "title": "Carer's Allowance: call for evidence",
+      "link": "https://www.gov.uk/government/calls-for-evidence/carers-allowance-call-for-evidence",
+      "summary": "This call for evidence is being administered by the Department for Work and Pensions (DWP) to gather information and views to build on the Department’s existing evidence. What we hear will help shape future thinking about how Carer’s Allowance can be modernised.",
+      "published_at": "2026-07-17T15:26:01",
+      "fetched_at": "2026-07-17T19:03:18",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 22,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension",
+        "ei"
+      ]
+    },
+    {
+      "id": "f2ed53bbb2e35f7198cc3274",
+      "title": "Transparency data: HMRC major projects: appointment letters for Senior Responsible Owners",
+      "link": "https://www.gov.uk/government/publications/hmrc-major-projects-appointment-letters-for-senior-responsible-owners",
+      "summary": "HMRC appointment letters and briefing pack for Government Major Projects Portfolio (GMPP) Senior Responsible Owners (SROs).",
+      "published_at": "2026-07-17T15:15:05",
+      "fetched_at": "2026-07-17T19:03:18",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "3045f3b698a699f5379fd153",
+      "title": "Submitting annual returns of statistical information for ISA managers",
+      "link": "https://www.gov.uk/guidance/annual-returns-of-isa-statistical-information-to-hmrc",
+      "summary": "Find out when and how to make an annual return of Individual Savings Accounts (ISA) statistical information.",
+      "published_at": "2026-07-17T14:48:54",
+      "fetched_at": "2026-07-17T19:03:18",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "91e376659441b3f730c9cdd0",
+      "title": "Official Statistics: Statistical commentary on Non-domiciled taxpayers in the UK",
+      "link": "https://www.gov.uk/government/statistics/announcements/statistical-commentary-on-non-domiciled-taxpayers-in-the-uk--2",
+      "summary": "This release contains information about people claiming non-domiciled status in the UK through their Self Assessment tax returns.",
+      "published_at": "2026-07-17T14:27:40",
+      "fetched_at": "2026-07-17T19:03:18",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "4e33eb3979b3ddced76263af",
+      "title": "Guidance: List of community amateur sports clubs (CASC) registered with HMRC",
+      "link": "https://www.gov.uk/government/publications/community-amateur-sports-clubs-casc-registered-with-hmrc--2",
+      "summary": "Check which sports clubs are registered with HMRC as community amateur sports clubs.",
+      "published_at": "2026-07-17T13:39:30",
+      "fetched_at": "2026-07-17T19:03:18",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "deed8f448774d9a211ac0d36",
+      "title": "Appeals reviews and tribunals guidance",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/appeals-reviews-and-tribunals-guidance",
+      "summary": "Appeals, Reviews and Tribunals Guidance",
+      "published_at": "2026-07-17T13:39:02",
+      "fetched_at": "2026-07-17T19:03:18",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "0ba3d4eba90a6a4793e2d79a",
+      "title": "Guidance: Advice for decision making: staff guide",
+      "link": "https://www.gov.uk/government/publications/advice-for-decision-making-staff-guide",
+      "summary": "Advice for DWP decision makers on Universal Credit, PIP and contribution-based JSA and ESA for people who are eligible for Universal Credit.",
+      "published_at": "2026-07-17T13:37:33",
+      "fetched_at": "2026-07-17T19:03:18",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "fd7b226e308d8d3f3b4e1ab7",
+      "title": "Find out about the loan charge settlement scheme",
+      "link": "https://www.gov.uk/guidance/find-out-about-the-loan-charge-settlement-scheme",
+      "summary": "Find out about settling your outstanding disguised remuneration loan charge liability under the loan charge settlement scheme.",
+      "published_at": "2026-07-17T13:30:00",
+      "fetched_at": "2026-07-17T19:03:18",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "bec10c5200c878fd3446374e",
+      "title": "The loan charge",
+      "link": "https://www.gov.uk/guidance/the-loan-charge",
+      "summary": "Find out if the loan charge applies to your disguised remuneration loans, and how to settle your loan charge liability.",
+      "published_at": "2026-07-17T13:28:00",
+      "fetched_at": "2026-07-17T19:03:18",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "7e421d3597a801d4289a0eb4",
       "title": "Policy paper: Revenue and Customs brief 9 (2025): VAT liability of the supply of temporary medical staff (locum doctors)",
@@ -11375,214 +11581,6 @@
       "score": 6,
       "matched_keywords": [
         "payroll"
-      ]
-    },
-    {
-      "id": "ec38f199aa580a65145878c5",
-      "title": "Guidance: Youth Jobs Grant",
-      "link": "https://www.gov.uk/government/publications/youth-jobs-grant",
-      "summary": "Information for employers applying for grant funding to deliver the Youth Jobs Grant.",
-      "published_at": "2026-06-30T11:45:55",
-      "fetched_at": "2026-06-30T14:14:24",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "83dca17d7cc65c5c7fbf664f",
-      "title": "Further Resources and Support",
-      "link": "https://www.gov.uk/guidance/technical-handbook-on-bulk-import-reduced-data-set-birds/further-resources-and-support",
-      "summary": "Information on Further Resources and Support.",
-      "published_at": "2026-06-30T11:41:34",
-      "fetched_at": "2026-06-30T14:14:24",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "6322ddca9750ee353e5f3266",
-      "title": "Bulk Import Reduced Data Set BIRDS",
-      "link": "https://www.gov.uk/guidance/technical-handbook-on-bulk-import-reduced-data-set-birds",
-      "summary": "Information on the Technical Handbook on Bulk Import Reduced Data Set BIRDS",
-      "published_at": "2026-06-30T11:41:34",
-      "fetched_at": "2026-06-30T14:14:24",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "5b7003eb46fc06036bc6e165",
-      "title": "Eligibility Criteria for BIRDS",
-      "link": "https://www.gov.uk/guidance/technical-handbook-on-bulk-import-reduced-data-set-birds/eligibility-criteria-for-birds",
-      "summary": "Information on the Eligibility Criteria for BIRDS.",
-      "published_at": "2026-06-30T11:41:34",
-      "fetched_at": "2026-06-30T14:14:24",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "48dc441578ffbd7d61797574",
-      "title": "Check if you need to register for money laundering supervision if you're a trust or company service provider",
-      "link": "https://www.gov.uk/guidance/check-if-you-need-to-register-for-money-laundering-supervision-if-youre-a-trust-or-company-service-provider",
-      "summary": "Find out if you’re a trust or company service provider who needs to register for supervision with HMRC under the money laundering regulations.",
-      "published_at": "2026-06-30T11:22:09",
-      "fetched_at": "2026-06-30T14:14:24",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 9,
-      "matched_keywords": [
-        "payroll",
-        "regulation"
-      ]
-    },
-    {
-      "id": "67c3c3310ea1da4bd1f0e724",
-      "title": "Official Statistics: Child Maintenance Service statistics: data to March 2026",
-      "link": "https://www.gov.uk/government/statistics/child-maintenance-service-statistics-data-to-march-2026",
-      "summary": "Quarterly statistics on the Child Maintenance Service to March 2026.",
-      "published_at": "2026-06-30T09:48:49",
-      "fetched_at": "2026-06-30T14:14:24",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "936219dc23c8b49f577c1134",
-      "title": "Correspondence: Edition 4: Making Tax Digital for Income Tax — software developer newsletter",
-      "link": "https://www.gov.uk/government/publications/edition-4-making-tax-digital-for-income-tax-software-developer-newsletter",
-      "summary": "HMRC's newsletter for software developers for Making Tax Digital for Income Tax.",
-      "published_at": "2026-06-30T08:46:12",
-      "fetched_at": "2026-06-30T09:30:08",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "98bc8c9a33bef9615889525f",
-      "title": "Accredited official statistics: Monthly property transactions completed in the UK with value of £40,000 or above",
-      "link": "https://www.gov.uk/government/statistics/monthly-property-transactions-completed-in-the-uk-with-value-40000-or-above",
-      "summary": "This series looks at monthly property transactions completed in the UK with value of £40,000 or above.",
-      "published_at": "2026-06-30T08:30:08",
-      "fetched_at": "2026-06-30T09:30:08",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "8a98ce92af1cb14bae5cdb02",
-      "title": "Guidance: Income-related benefits: estimates of take-up: release strategy",
-      "link": "https://www.gov.uk/government/publications/income-related-benefits-estimates-of-take-up-release-strategy",
-      "summary": "This release strategy acts as the formal notice of changes to future releases of the Income-related benefits: estimates of take-up publication.",
-      "published_at": "2026-06-30T08:30:08",
-      "fetched_at": "2026-06-30T09:30:08",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
       ]
     }
   ]
