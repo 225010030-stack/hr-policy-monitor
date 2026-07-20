@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-20T14:00:34",
+  "synced_at": "2026-07-20T19:41:10",
   "total": 500,
-  "new_count": 20,
+  "new_count": 11,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 10,
+      "added": 0,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 2,
+      "added": 3,
       "error": null
     },
     {
@@ -40,6 +40,81 @@
     }
   ],
   "items": [
+    {
+      "id": "c94a6fcff6789e66adc117b4",
+      "title": "Guidance: Decision makers’ guide: Vols 13 and 14: State Pension Credit: staff guide",
+      "link": "https://www.gov.uk/government/publications/decision-makers-guide-vols-13-and-14-state-pension-credit-staff-guide",
+      "summary": "Guidance for DWP decision makers on decision making and appeals.",
+      "published_at": "2026-07-20T15:39:55",
+      "fetched_at": "2026-07-20T19:40:50",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "efef2726b95c357d5b2bb41f",
+      "title": "Official Statistics: Get Britain Working: Labour Market Insights July 2026 (Official Statistics in Development)",
+      "link": "https://www.gov.uk/government/statistics/announcements/get-britain-working-labour-market-insights-july-2026-official-statistics-in-development",
+      "summary": "A quarterly publication series of labour market official statistics in development.",
+      "published_at": "2026-07-20T14:41:32",
+      "fetched_at": "2026-07-20T19:40:50",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "f46974eaf07e9400fcafb059",
+      "title": "Pension reform",
+      "link": "https://www.gov.uk/government/speeches/pension-reform",
+      "summary": "Minister for Pensions delivered a speech at Mansion House on the 13th July.",
+      "published_at": "2026-07-20T13:59:31",
+      "fetched_at": "2026-07-20T19:40:50",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
     {
       "id": "10588a1ece71e730d8e44f5c",
       "title": "Insolvency (VAT Notice 700/56)",
@@ -11496,73 +11571,6 @@
       "link": "https://www.gov.uk/government/publications/cds-birds-declarations-and-customs-clearance-request-completion-instructions",
       "summary": "These Data Element Completion instructions relate to Customs Declaration Service (CDS) Customs Clearance Requests ((CCR) inventory releases previously referred to as C21s) for import purposes only.",
       "published_at": "2026-06-30T23:15:04",
-      "fetched_at": "2026-07-01T03:35:20",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "7d5f57cac59fd6549bc0117e",
-      "title": "Customs simplified procedures Aggregation Rules for CDS",
-      "link": "https://www.gov.uk/guidance/customs-simplified-procedures-aggregation-rules-for-cds",
-      "summary": "Find out about the customs simplified procedure aggregation rules for the Customs Declaration Service (CDS).",
-      "published_at": "2026-06-30T23:15:04",
-      "fetched_at": "2026-07-01T03:35:20",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "5359a76c6736d852ec38fd70",
-      "title": "Notice: Notice IPT1: Insurance Premium Tax",
-      "link": "https://www.gov.uk/government/publications/notice-ipt-1-insurance-premium-tax",
-      "summary": "This notice gives guidance on Insurance Premium Tax (IPT), what it is, who it applies to and how to pay it.",
-      "published_at": "2026-06-30T23:05:03",
-      "fetched_at": "2026-07-01T03:35:20",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 9,
-      "matched_keywords": [
-        "payroll",
-        "premium"
-      ]
-    },
-    {
-      "id": "f7c15e40e284b7fde5c3c050",
-      "title": "How to move parcels from Great Britain to Northern Ireland for express operators",
-      "link": "https://www.gov.uk/guidance/how-to-move-parcels-from-great-britain-to-northern-ireland-for-express-operators",
-      "summary": "Find out how to send parcels from Great Britain to Northern Ireland if you're a courier or an express operator.",
-      "published_at": "2026-06-30T23:01:00",
       "fetched_at": "2026-07-01T03:35:20",
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
