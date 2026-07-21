@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-20T19:41:10",
+  "synced_at": "2026-07-21T02:27:13",
   "total": 500,
-  "new_count": 11,
+  "new_count": 9,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 3,
+      "added": 0,
       "error": null
     },
     {
@@ -40,6 +40,29 @@
     }
   ],
   "items": [
+    {
+      "id": "a16536fc310d727c33725a56",
+      "title": "Guidance: Compliance checks: penalties for inaccuracies in returns or documents — CC/FS7A",
+      "link": "https://www.gov.uk/government/publications/compliance-checks-penalties-for-inaccuracies-in-returns-or-documents-ccfs7a",
+      "summary": "This factsheet tells you about penalties for inaccuracies in a return or other document.",
+      "published_at": "2026-07-20T23:30:04",
+      "fetched_at": "2026-07-21T02:26:52",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 9,
+      "matched_keywords": [
+        "payroll",
+        "compliance"
+      ]
+    },
     {
       "id": "c94a6fcff6789e66adc117b4",
       "title": "Guidance: Decision makers’ guide: Vols 13 and 14: State Pension Credit: staff guide",
@@ -11548,28 +11571,6 @@
       "title": "Guidance: Appendix 2: DE 1/11: Additional Procedure Codes of the Customs Declaration Service (CDS)",
       "link": "https://www.gov.uk/government/publications/appendix-2-de-111-additional-procedure-codes-of-the-customs-declaration-service-cds",
       "summary": "Find out the completion rules instructions for each 3-digit Union and National Additional Procedure Code that can be used in Data Element (DE) 1/11 for Imports.",
-      "published_at": "2026-06-30T23:15:04",
-      "fetched_at": "2026-07-01T03:35:20",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "46975205b06fb273e17d2900",
-      "title": "Guidance: CDS BIRDS Declarations and Customs Clearance Request completion instructions",
-      "link": "https://www.gov.uk/government/publications/cds-birds-declarations-and-customs-clearance-request-completion-instructions",
-      "summary": "These Data Element Completion instructions relate to Customs Declaration Service (CDS) Customs Clearance Requests ((CCR) inventory releases previously referred to as C21s) for import purposes only.",
       "published_at": "2026-06-30T23:15:04",
       "fetched_at": "2026-07-01T03:35:20",
       "source_id": "uk_hmrc",
