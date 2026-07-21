@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-21T04:20:30",
+  "synced_at": "2026-07-21T08:24:21",
   "total": 500,
-  "new_count": 8,
+  "new_count": 11,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 3,
       "error": null
     },
     {
@@ -40,6 +40,74 @@
     }
   ],
   "items": [
+    {
+      "id": "1d9879480009fea9f688ad9f",
+      "title": "Apply for a refund of Class 1 National Insurance contributions",
+      "link": "https://www.gov.uk/guidance/apply-for-refund-of-class-1-national-insurance-contributions",
+      "summary": "If you've been sent a letter from HMRC, apply for a refund of Class 1 National Insurance contributions using form CA4361.",
+      "published_at": "2026-07-21T07:49:16",
+      "fetched_at": "2026-07-21T08:24:00",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "cae4d9db02a614574c5d513f",
+      "title": "Accredited official statistics: HMRC tax receipts and National Insurance contributions for the UK",
+      "link": "https://www.gov.uk/government/statistics/hmrc-tax-and-nics-receipts-for-the-uk",
+      "summary": "Summary of HM Revenue and Customs' tax receipts, National Insurance contributions (NICs), and expenditure for the UK.",
+      "published_at": "2026-07-21T06:00:03",
+      "fetched_at": "2026-07-21T08:24:00",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "25e0e92d5016827430ac3bd2",
+      "title": "Accredited official statistics: Earnings and employment from Pay As You Earn Real Time Information, UK: July 2026",
+      "link": "https://www.gov.uk/government/statistics/earnings-and-employment-from-pay-as-you-earn-real-time-information-uk-july-2026",
+      "summary": "Monthly estimates of payrolled employees and their pay from HM Revenue and Customs’ (HMRC’s) Pay As You Earn (PAYE) Real Time Information (RTI) data. This is a joint release between HMRC and the Office for National Statistics (ONS).",
+      "published_at": "2026-07-21T06:00:03",
+      "fetched_at": "2026-07-21T08:24:00",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
     {
       "id": "a16536fc310d727c33725a56",
       "title": "Guidance: Compliance checks: penalties for inaccuracies in returns or documents — CC/FS7A",
@@ -11503,74 +11571,6 @@
       "title": "Guidance: CDS Declaration Completion Instructions for Imports",
       "link": "https://www.gov.uk/government/publications/cds-uk-trade-tariff-volume-3-import-declaration-completion-guide",
       "summary": "This guide provides detailed completion instructions for data elements when making an import declaration to the Customs Declaration Service (CDS).",
-      "published_at": "2026-06-30T23:15:04",
-      "fetched_at": "2026-07-01T03:35:20",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "1b17ead5dce6309540eb38c9",
-      "title": "Statutory guidance: Reference Document for The Customs (Northern Ireland) (EU Exit) Regulations 2020",
-      "link": "https://www.gov.uk/government/publications/reference-document-for-the-customs-northern-ireland-eu-exit-regulations-2020",
-      "summary": "The Reference Document for The Customs (Northern Ireland) (EU Exit) Regulations 2020 sets out the necessary steps businesses who import goods into Northern Ireland will need to take.",
-      "published_at": "2026-06-30T23:15:04",
-      "fetched_at": "2026-07-01T03:35:20",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 12,
-      "matched_keywords": [
-        "payroll",
-        "regulation",
-        "statutory"
-      ]
-    },
-    {
-      "id": "b44523f0d6c6a76bc6a7d6e4",
-      "title": "Guidance: CDS Customs Clearance Request Completion Instructions for Inventory Exports",
-      "link": "https://www.gov.uk/government/publications/uk-trade-tariff-cds-volume-3-c21-customs-clearance-request-completion-guide-inventory-exports",
-      "summary": "This Data Element Completion Guide relates to Customs Declaration Service (CDS) Customs Clearance Requests ((CCR) inventory releases previously referred to as C21s) for export purposes only.",
-      "published_at": "2026-06-30T23:15:04",
-      "fetched_at": "2026-07-01T03:35:20",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "a9fe5d8001be005bfe179296",
-      "title": "Guidance: Appendix 2: DE 1/11: Additional Procedure Codes of the Customs Declaration Service (CDS)",
-      "link": "https://www.gov.uk/government/publications/appendix-2-de-111-additional-procedure-codes-of-the-customs-declaration-service-cds",
-      "summary": "Find out the completion rules instructions for each 3-digit Union and National Additional Procedure Code that can be used in Data Element (DE) 1/11 for Imports.",
       "published_at": "2026-06-30T23:15:04",
       "fetched_at": "2026-07-01T03:35:20",
       "source_id": "uk_hmrc",
