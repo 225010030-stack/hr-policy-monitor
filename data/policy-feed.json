@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-07-21T13:43:25",
+  "synced_at": "2026-07-21T19:17:37",
   "total": 500,
-  "new_count": 15,
+  "new_count": 13,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
       "fetched": 22,
-      "added": 8,
+      "added": 11,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 6,
+      "added": 2,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 1,
+      "added": 0,
       "error": null
     },
     {
@@ -40,6 +40,51 @@
     }
   ],
   "items": [
+    {
+      "id": "cd8e9f7ca527f0dac5655e0c",
+      "title": "Check if you need to register as a digital platform operator",
+      "link": "https://www.gov.uk/guidance/check-if-you-need-to-register-as-a-digital-platform-operator",
+      "summary": "If you’re in the UK and run a digital platform that lets users sell goods or services, check if you need to tell HMRC about sellers on your platform.",
+      "published_at": "2026-07-21T16:00:11",
+      "fetched_at": "2026-07-21T19:17:16",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "cfc8ee206b01b202a17c279a",
+      "title": "Say ‘I do’ to getting your side hustle tax right",
+      "link": "https://www.gov.uk/government/news/say-i-do-to-getting-your-side-hustle-tax-right",
+      "summary": "HMRC is reminding people earning money from side hustles to check if they need to register for Self Assessment and declare their income",
+      "published_at": "2026-07-21T13:54:45",
+      "fetched_at": "2026-07-21T19:17:16",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
     {
       "id": "6905a07da38cea87921a92be",
       "title": "Tax Credits Manual",
@@ -11525,50 +11570,6 @@
       "title": "Corporate intangible assets",
       "link": "https://www.gov.uk/guidance/capital-v-revenue-expenditure-toolkit/corporate-intangible-assets",
       "summary": "Provides checks to make and what risks and mitigations to consider, including explanations and examples for corporate intangible assets.",
-      "published_at": "2026-07-01T06:36:00",
-      "fetched_at": "2026-07-01T09:41:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "ef5d83a7e9cb3c381e6d5c39",
-      "title": "Legal and professional fees",
-      "link": "https://www.gov.uk/guidance/capital-v-revenue-expenditure-toolkit/legal-and-professional-fees",
-      "summary": "Provides checks to make and what risks and mitigations to consider, including explanations and examples for legal and professional fees.",
-      "published_at": "2026-07-01T06:36:00",
-      "fetched_at": "2026-07-01T09:41:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "21e9cedc7d719118bf262365",
-      "title": "General",
-      "link": "https://www.gov.uk/guidance/capital-v-revenue-expenditure-toolkit/general",
-      "summary": "Provides general checks to make and what risks and mitigations to consider, including explanations and examples.",
       "published_at": "2026-07-01T06:36:00",
       "fetched_at": "2026-07-01T09:41:23",
       "source_id": "uk_hmrc",
