@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-21T08:24:21",
+  "synced_at": "2026-07-21T13:43:25",
   "total": 500,
-  "new_count": 11,
+  "new_count": 15,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 3,
+      "added": 6,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,165 @@
     }
   ],
   "items": [
+    {
+      "id": "6905a07da38cea87921a92be",
+      "title": "Tax Credits Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/tax-credits-manual",
+      "summary": "How HM Revenue and Customs handles Child Tax Credit and Working Tax Credit cases",
+      "published_at": "2026-07-21T13:21:35",
+      "fetched_at": "2026-07-21T13:43:05",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "cb49a785ef2006cfe081abd8",
+      "title": "Customs Modernisation",
+      "link": "https://www.gov.uk/government/calls-for-evidence/customs-modernisation",
+      "summary": "We welcome views on the future of international trade and the impacts of digitalised and modernised practices on the UK customs regime.",
+      "published_at": "2026-07-21T12:05:20",
+      "fetched_at": "2026-07-21T13:43:05",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "ac824e2c9a3bb06e9c269520",
+      "title": "Guidance: Basic PAYE Tools user guide",
+      "link": "https://www.gov.uk/government/publications/basic-paye-tools-user-guide",
+      "summary": "Get step by step help to run your payroll and change payroll details using Basic PAYE Tools.",
+      "published_at": "2026-07-21T10:38:53",
+      "fetched_at": "2026-07-21T13:43:05",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "f7a2da3ede8c36dcf232209a",
+      "title": "Form: DWP information leaflets: how to order them",
+      "link": "https://www.gov.uk/government/publications/dwp-information-leaflets-how-to-order-them",
+      "summary": "Guidance and order form for advisers and intermediaries who need to order DWP information leaflets and reply envelopes.",
+      "published_at": "2026-07-21T10:16:02",
+      "fetched_at": "2026-07-21T13:43:05",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "dcace036cfc29954145a0c09",
+      "title": "Accredited official statistics: Air Passenger Duty Bulletin",
+      "link": "https://www.gov.uk/government/statistics/announcements/air-passenger-duty-bulletin--5",
+      "summary": "Annual Air Passenger Duty (APD) chargeable passengers, declarations and receipts statistics. Updated with provisional data from May 2025 to July 2026.",
+      "published_at": "2026-07-21T09:36:08",
+      "fetched_at": "2026-07-21T13:43:05",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "d6ad90b01564c36d8672f132",
+      "title": "FOI release: Number of live Corporate Criminal Offences investigations",
+      "link": "https://www.gov.uk/government/publications/number-of-live-corporate-criminal-offences-investigations",
+      "summary": "The Corporate Criminal Offences (CCO) were introduced by Part 3 of the Criminal Finances Act 2017.",
+      "published_at": "2026-07-21T08:30:09",
+      "fetched_at": "2026-07-21T13:43:05",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "0fa03b4b8adced20f7ce27fe",
+      "title": "Form: Double Taxation: UK Real Estate Investment Trusts (Form UK-REIT DT-Individual)",
+      "link": "https://www.gov.uk/government/publications/double-taxation-uk-real-estate-investment-trusts-form-uk-reit-dt-individual",
+      "summary": "Use form UK-REIT DT-Individual to claim repayment of United Kingdom income tax deducted from property income dividends paid by UK Real Estate Investment Trusts.",
+      "published_at": "2026-07-21T08:28:23",
+      "fetched_at": "2026-07-21T13:43:05",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
     {
       "id": "1d9879480009fea9f688ad9f",
       "title": "Apply for a refund of Class 1 National Insurance contributions",
@@ -11412,167 +11571,6 @@
       "summary": "Provides general checks to make and what risks and mitigations to consider, including explanations and examples.",
       "published_at": "2026-07-01T06:36:00",
       "fetched_at": "2026-07-01T09:41:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "830bd7f957321ac41c5ee854",
-      "title": "Financial costs",
-      "link": "https://www.gov.uk/guidance/capital-v-revenue-expenditure-toolkit/financial-costs",
-      "summary": "Provides checks to make and what risks and mitigations to consider, including explanations and examples for financial costs.",
-      "published_at": "2026-07-01T06:36:00",
-      "fetched_at": "2026-07-01T09:41:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "0c1dce0cb04626850a036b89",
-      "title": "Agency Information Collection Activities; Comment Request on Probable or Prospective Reserves Safe Harbor",
-      "link": "https://www.federalregister.gov/documents/2026/07/01/2026-13339/agency-information-collection-activities-comment-request-on-probable-or-prospective-reserves-safe",
-      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
-      "published_at": "2026-07-01T04:00:00",
-      "fetched_at": "2026-07-01T09:41:23",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "payroll",
-        "withholding"
-      ]
-    },
-    {
-      "id": "3dba123626c75c9879a04d4f",
-      "title": "Agency Information Collection Activities; Comment Request on Statement of Payments Received",
-      "link": "https://www.federalregister.gov/documents/2026/07/01/2026-13338/agency-information-collection-activities-comment-request-on-statement-of-payments-received",
-      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
-      "published_at": "2026-07-01T04:00:00",
-      "fetched_at": "2026-07-01T09:41:23",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 15,
-      "matched_keywords": [
-        "payroll",
-        "withholding",
-        "ei"
-      ]
-    },
-    {
-      "id": "48cba496946845548f276c8e",
-      "title": "Agency Information Collection Activities; Comment Request on Relief for Certain Spouses of Military Personnel",
-      "link": "https://www.federalregister.gov/documents/2026/07/01/2026-13292/agency-information-collection-activities-comment-request-on-relief-for-certain-spouses-of-military",
-      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
-      "published_at": "2026-07-01T04:00:00",
-      "fetched_at": "2026-07-01T09:41:23",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "payroll",
-        "withholding"
-      ]
-    },
-    {
-      "id": "57266878eace0106c1cd10d6",
-      "title": "Guidance: CDS Declaration Completion Instructions for Exports",
-      "link": "https://www.gov.uk/government/publications/uk-trade-tariff-cds-volume-3-export-declaration-completion-guide",
-      "summary": "This guide provides detailed completion instructions for data elements when making a written export declaration to the Customs Declaration Service (CDS).",
-      "published_at": "2026-06-30T23:15:04",
-      "fetched_at": "2026-07-01T03:35:20",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "7a7e3bbaf00c4f0d41eb0d6f",
-      "title": "Guidance: Appendix 1: DE 1/10: Requested and Previous Procedure Codes of the Customs Declaration Service (CDS)",
-      "link": "https://www.gov.uk/government/publications/appendix-1-de-110-requested-and-previous-procedure-codes-of-the-customs-declaration-service-cds",
-      "summary": "Find out the completion rules and instructions for each 4-digit Requested and Previous Procedure Code that can be used in Data Element (DE) 1/10 for Imports.",
-      "published_at": "2026-06-30T23:15:04",
-      "fetched_at": "2026-07-01T03:35:20",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "84d2823f5292ecc7e20a08d0",
-      "title": "Guidance: CDS Declaration Completion Instructions for Imports",
-      "link": "https://www.gov.uk/government/publications/cds-uk-trade-tariff-volume-3-import-declaration-completion-guide",
-      "summary": "This guide provides detailed completion instructions for data elements when making an import declaration to the Customs Declaration Service (CDS).",
-      "published_at": "2026-06-30T23:15:04",
-      "fetched_at": "2026-07-01T03:35:20",
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "region": "UK",
