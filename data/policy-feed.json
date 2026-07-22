@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-22T13:46:16",
+  "synced_at": "2026-07-22T19:13:15",
   "total": 500,
-  "new_count": 27,
+  "new_count": 13,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 16,
+      "added": 2,
       "error": null
     },
     {
@@ -40,6 +40,50 @@
     }
   ],
   "items": [
+    {
+      "id": "cd214151d7ba3ef0f4f303db",
+      "title": "Group and divisional registration (VAT Notice 700/2)",
+      "link": "https://www.gov.uk/guidance/group-and-divisional-registration-vat-notice-7002",
+      "summary": "Find out about group and divisional VAT registration and the forms you should use to apply.",
+      "published_at": "2026-07-22T14:45:03",
+      "fetched_at": "2026-07-22T19:12:55",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "60a211d2b1a63a13ec1fc54d",
+      "title": "Check genuine HMRC contact that uses more than one communication method",
+      "link": "https://www.gov.uk/guidance/check-genuine-hmrc-contact-that-uses-more-than-one-communication-method",
+      "summary": "Check recent contacts from HMRC to help you decide if a suspicious email, phone call, text or letter could be a scam.",
+      "published_at": "2026-07-22T13:58:46",
+      "fetched_at": "2026-07-22T19:12:55",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "3bf8d3782730205106902cd4",
       "title": "Official Statistics: Non-domestic rating: challenges and changes, 2023 and 2026 rating lists, June 2026",
@@ -11534,50 +11578,6 @@
         "benefit",
         "benefits",
         "pension"
-      ]
-    },
-    {
-      "id": "b707e13b210aab466c92b9af",
-      "title": "Guidance: Data Element 2/3: Documents and Other Reference Codes (Union) of the Customs Declaration Service (CDS)",
-      "link": "https://www.gov.uk/government/publications/data-element-23-documents-and-other-reference-codes-union-of-the-customs-declaration-service-cds",
-      "summary": "Find the relevant document codes, document status codes and details to be declared such as licences and certificates (Appendix 5A).",
-      "published_at": "2026-07-01T10:26:51",
-      "fetched_at": "2026-07-01T14:29:43",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "1b8d902708c6db0a46e3aa4b",
-      "title": "Business Income Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/business-income-manual",
-      "summary": "Supplementary guidance on how to check tax calculations or work out the trading profits of a business for Self Assessment tax return.",
-      "published_at": "2026-07-01T10:09:29",
-      "fetched_at": "2026-07-01T14:29:43",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
       ]
     }
   ]
