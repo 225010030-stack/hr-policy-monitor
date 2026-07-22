@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-21T19:17:37",
+  "synced_at": "2026-07-22T02:25:19",
   "total": 500,
-  "new_count": 13,
+  "new_count": 12,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 2,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,29 @@
     }
   ],
   "items": [
+    {
+      "id": "88af49939afd9384337a16c4",
+      "title": "Guidance: Compliance checks: The Human Rights Act and penalties for an incorrect declaration relating to privileged material — CC/FS85",
+      "link": "https://www.gov.uk/government/publications/compliance-checks-the-human-rights-act-and-penalties-for-an-incorrect-declaration-relating-to-privileged-material-ccfs85",
+      "summary": "This factsheet tells you about the Human Rights Act and penalties for an incorrect declaration relating to privileged material.",
+      "published_at": "2026-07-21T23:30:05",
+      "fetched_at": "2026-07-22T02:24:59",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 9,
+      "matched_keywords": [
+        "payroll",
+        "compliance"
+      ]
+    },
     {
       "id": "cd8e9f7ca527f0dac5655e0c",
       "title": "Check if you need to register as a digital platform operator",
@@ -11548,28 +11571,6 @@
       "title": "IT costs",
       "link": "https://www.gov.uk/guidance/capital-v-revenue-expenditure-toolkit/it-costs",
       "summary": "Provides checks to make and what risks and mitigations to consider, including explanations and examples for IT costs.",
-      "published_at": "2026-07-01T06:36:00",
-      "fetched_at": "2026-07-01T09:41:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "cd8e11b156521f5b696b667f",
-      "title": "Corporate intangible assets",
-      "link": "https://www.gov.uk/guidance/capital-v-revenue-expenditure-toolkit/corporate-intangible-assets",
-      "summary": "Provides checks to make and what risks and mitigations to consider, including explanations and examples for corporate intangible assets.",
       "published_at": "2026-07-01T06:36:00",
       "fetched_at": "2026-07-01T09:41:23",
       "source_id": "uk_hmrc",
