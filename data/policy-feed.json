@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-07-23T08:25:42",
+  "synced_at": "2026-07-23T13:51:05",
   "total": 500,
-  "new_count": 10,
+  "new_count": 17,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
       "fetched": 21,
-      "added": 10,
+      "added": 9,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 6,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 2,
       "error": null
     },
     {
@@ -40,6 +40,195 @@
     }
   ],
   "items": [
+    {
+      "id": "d643c93fee53206a1e25aeaf",
+      "title": "Official Statistics: Plastic Packaging Tax (PPT) statistical publication",
+      "link": "https://www.gov.uk/government/statistics/announcements/plastic-packaging-tax-ppt-statistical-publication--3",
+      "summary": "Plastic Packaging Tax (PPT) statistics including registered population, tonnages of declared plastic packaging and receipts data for the financial year 2025 to 2026.",
+      "published_at": "2026-07-23T13:15:55",
+      "fetched_at": "2026-07-23T13:50:44",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "906fadc77b7a2ed8e599af72",
+      "title": "Guidance: Apprenticeship funding: legal agreement for training providers",
+      "link": "https://www.gov.uk/government/publications/apprenticeship-funding-legal-agreement-for-training-providers",
+      "summary": "Training provider agreement with the Department for Education (DfE) to pay training providers to carry out apprenticeship training.",
+      "published_at": "2026-07-23T13:04:19",
+      "fetched_at": "2026-07-23T13:50:45",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "5aa3331f4ddda6c492e61e3d",
+      "title": "Accredited official statistics: Hydrocarbon Oils Bulletin",
+      "link": "https://www.gov.uk/government/statistics/announcements/hydrocarbon-oils-bulletin--18",
+      "summary": "Updated with receipts and quantities data up to and including June 2026.",
+      "published_at": "2026-07-23T12:30:25",
+      "fetched_at": "2026-07-23T13:50:44",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "9f8571b418e2dcca636967be",
+      "title": "Capital Gains Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual",
+      "summary": "HMRC is reviewing the CG Manual to ensure it provides HMRC’s interpretation of relevant legislation where there is more than one reasonable view of how rules work.Where material in the CG Manual isn’t providing an interpretation, that material is being removed. Where appropriate, material will be reproduced elsewhere and linked from the CG Manual.",
+      "published_at": "2026-07-23T11:24:20",
+      "fetched_at": "2026-07-23T13:50:44",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "46ff5f1f9898daec107491e4",
+      "title": "Policy paper: Changes to reporting of benefits in kind from April 2027",
+      "link": "https://www.gov.uk/government/publications/changes-to-reporting-of-benefits-in-kind-from-april-2027",
+      "summary": "This measure is about the changes to the reporting of certain benefits in kind from April 2027.",
+      "published_at": "2026-07-23T10:28:01",
+      "fetched_at": "2026-07-23T13:50:44",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 14,
+      "matched_keywords": [
+        "benefit",
+        "benefits",
+        "payroll"
+      ]
+    },
+    {
+      "id": "34e5e9c32f321bfecb2983d7",
+      "title": "Check if a letter you’ve received from HMRC is genuine",
+      "link": "https://www.gov.uk/guidance/check-if-a-letter-youve-received-from-hmrc-is-genuine",
+      "summary": "Check a list of recent letters from HMRC to help you decide if a letter you’ve received is a scam.",
+      "published_at": "2026-07-23T09:43:03",
+      "fetched_at": "2026-07-23T13:50:44",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "5acc772f45c5844d5743b3c3",
+      "title": "Deadline approaches for first Making Tax Digital quarterly update",
+      "link": "https://www.gov.uk/government/news/deadline-approaches-for-first-making-tax-digital-quarterly-update",
+      "summary": "Making Tax Digital for Income Tax customers have 2 weeks to submit their first quarterly update.",
+      "published_at": "2026-07-23T09:30:00",
+      "fetched_at": "2026-07-23T13:50:44",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "9314c226110156acffd918a4",
+      "title": "Research: List of upcoming releases of management information and ad hoc analyses",
+      "link": "https://www.gov.uk/government/publications/list-of-upcoming-releases-of-management-information-and-ad-hoc-analyses",
+      "summary": "List of upcoming releases of DWP management information and ad hoc analyses.",
+      "published_at": "2026-07-23T08:30:04",
+      "fetched_at": "2026-07-23T13:50:45",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
     {
       "id": "45f8f4ec512145b115e9eb46",
       "title": "Quarterly Publication of Individuals, Who Have Chosen To Expatriate",
@@ -11392,191 +11581,6 @@
       "score": 6,
       "matched_keywords": [
         "payroll"
-      ]
-    },
-    {
-      "id": "5ef4b44efa85f0bc71da8123",
-      "title": "How employment related securities work if you're an employer",
-      "link": "https://www.gov.uk/guidance/how-employment-related-securities-work-if-youre-an-employer",
-      "summary": "Use employment related securities (ERS) to reward, retain or give incentives to your employees, including any tax advantages.",
-      "published_at": "2026-07-01T13:17:13",
-      "fetched_at": "2026-07-01T14:29:43",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "d0436e02ecf7dd24ed28a133",
-      "title": "Check genuine HMRC contact that uses more than one communication method",
-      "link": "https://www.gov.uk/guidance/check-genuine-hmrc-contact-that-uses-more-than-one-communication-method",
-      "summary": "Check recent contacts from HMRC to help you decide if a suspicious email, phone call, text or letter could be a scam.",
-      "published_at": "2026-07-01T13:17:11",
-      "fetched_at": "2026-07-01T14:29:43",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "37abceaec3fec1bef35dfb05",
-      "title": "Corporate report: DWP framework documents",
-      "link": "https://www.gov.uk/government/publications/dwp-framework-documents",
-      "summary": "Outlines the corporate relationship between DWP and its public bodies.",
-      "published_at": "2026-07-01T13:05:55",
-      "fetched_at": "2026-07-01T14:29:43",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "851bf1f1ce5da4dd8ca560dc",
-      "title": "Trusts, Settlements and Estates Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual",
-      "summary": "An introduction to trusts, their income and gains and how HM Revenue & Customs treats them for tax purposes.",
-      "published_at": "2026-07-01T13:05:52",
-      "fetched_at": "2026-07-01T14:29:43",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "ef7f418a691c169de2443ae3",
-      "title": "Research: Upcoming DWP research publications",
-      "link": "https://www.gov.uk/government/publications/list-of-upcoming-research-publications",
-      "summary": "This document provides details of upcoming Department for Work and Pensions (DWP) research publications.",
-      "published_at": "2026-07-01T13:01:04",
-      "fetched_at": "2026-07-01T14:29:43",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "5e7234a3f875de9a83d6574e",
-      "title": "Completing the CT600P page for creative industries reliefs",
-      "link": "https://www.gov.uk/guidance/completing-the-ct600p-page-for-creative-industries-reliefs",
-      "summary": "How to complete CT600P supplementary page for creative industries reliefs and what information you need to include.",
-      "published_at": "2026-07-01T11:58:02",
-      "fetched_at": "2026-07-01T14:29:43",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "ed94f5b57605f3ec4bdfdaa7",
-      "title": "Debt Management and Banking Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/debt-management-and-banking",
-      "summary": "Some content of this manual is being considered for archiving. If there is content you use regularly, please email hmrcmanualsteam@hmrc.gov.uk to let us know as soon as possible. Our debt management and banking processes incorporates material covered in the Recovery Manual and the Banking Accounting Guide (BAAG)",
-      "published_at": "2026-07-01T11:52:12",
-      "fetched_at": "2026-07-01T14:29:43",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "fdb54ce932fb8c765ab9e308",
-      "title": "Capital Gains Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual",
-      "summary": "HMRC is reviewing the CG Manual to ensure it provides HMRC’s interpretation of relevant legislation where there is more than one reasonable view of how rules work.Where material in the CG Manual isn’t providing an interpretation, that material is being removed. Where appropriate, material will be reproduced elsewhere and linked from the CG Manual.",
-      "published_at": "2026-07-01T11:45:45",
-      "fetched_at": "2026-07-01T14:29:43",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
       ]
     }
   ]
