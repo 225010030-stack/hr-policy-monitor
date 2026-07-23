@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-07-23T04:21:11",
+  "synced_at": "2026-07-23T08:25:42",
   "total": 500,
-  "new_count": 9,
+  "new_count": 10,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
-      "fetched": 20,
-      "added": 9,
+      "fetched": 21,
+      "added": 10,
       "error": null
     },
     {
@@ -40,6 +40,30 @@
     }
   ],
   "items": [
+    {
+      "id": "45f8f4ec512145b115e9eb46",
+      "title": "Quarterly Publication of Individuals, Who Have Chosen To Expatriate",
+      "link": "https://www.federalregister.gov/documents/2026/07/23/2026-14841/quarterly-publication-of-individuals-who-have-chosen-to-expatriate",
+      "summary": "",
+      "published_at": "2026-07-23T04:00:00",
+      "fetched_at": "2026-07-23T08:25:20",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
     {
       "id": "cd214151d7ba3ef0f4f303db",
       "title": "Group and divisional registration (VAT Notice 700/2)",
@@ -11553,31 +11577,6 @@
       "matched_keywords": [
         "payroll",
         "ei"
-      ]
-    },
-    {
-      "id": "943821639874a0fb7d1562d5",
-      "title": "Brighton’s first Youth Guarantee Jobs Fair sees hundreds of young people connect with local employers",
-      "link": "https://www.gov.uk/government/news/brightons-first-youth-guarantee-jobs-fair-sees-hundreds-of-young-people-connect-with-local-employers",
-      "summary": "More than 650 young people from across Brighton and the wider local area descended on the world-famous Brighton Centre to meet with some of the region's best-known employers yesterday (Tuesday 20th June).",
-      "published_at": "2026-07-01T10:33:00",
-      "fetched_at": "2026-07-01T14:29:43",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
       ]
     }
   ]
