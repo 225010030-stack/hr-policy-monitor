@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-23T13:51:05",
+  "synced_at": "2026-07-23T19:11:49",
   "total": 500,
-  "new_count": 17,
+  "new_count": 14,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 6,
+      "added": 2,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 2,
+      "added": 3,
       "error": null
     },
     {
@@ -40,6 +40,125 @@
     }
   ],
   "items": [
+    {
+      "id": "b59c196630bb965326e6ecb9",
+      "title": "Check genuine HMRC contact that uses more than one communication method",
+      "link": "https://www.gov.uk/guidance/check-genuine-hmrc-contact-that-uses-more-than-one-communication-method",
+      "summary": "Check recent contacts from HMRC to help you decide if a suspicious email, phone call, text or letter could be a scam.",
+      "published_at": "2026-07-23T15:25:05",
+      "fetched_at": "2026-07-23T19:11:29",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "3f02627c2ff0d972c1410b1f",
+      "title": "Guidance: Disability Confident: guidance for levels 1, 2 and 3",
+      "link": "https://www.gov.uk/government/publications/disability-confident-guidance-for-levels-1-2-and-3",
+      "summary": "This guidance explains what is needed to become Disability Confident Committed, or a Disability Confident Employer or Leader.",
+      "published_at": "2026-07-23T14:36:30",
+      "fetched_at": "2026-07-23T19:11:29",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "45cfa8d9897a7a90a3a1a4cf",
+      "title": "Promotional material: Disability Confident promotional material and case studies",
+      "link": "https://www.gov.uk/government/publications/disability-confident-promotional-material",
+      "summary": "Promotional material that can used by Disability Confident employers to promote the scheme.",
+      "published_at": "2026-07-23T14:31:34",
+      "fetched_at": "2026-07-23T19:11:29",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "516ef392326e6c83e4d84dc5",
+      "title": "How to sign up to the Disability Confident employer scheme",
+      "link": "https://www.gov.uk/guidance/disability-confident-how-to-sign-up-to-the-employer-scheme",
+      "summary": "Guidance about signing up for the Disability Confident scheme, and how it can help your business.",
+      "published_at": "2026-07-23T14:31:20",
+      "fetched_at": "2026-07-23T19:11:29",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "54918e9ac8aac480c121acb7",
+      "title": "VAT Construction",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/vat-construction",
+      "summary": "Guidance providing additional information on the treatment of buildings and construction as far as the zero and reduced rates of VAT are concerned.",
+      "published_at": "2026-07-23T14:16:27",
+      "fetched_at": "2026-07-23T19:11:29",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "d643c93fee53206a1e25aeaf",
       "title": "Official Statistics: Plastic Packaging Tax (PPT) statistical publication",
@@ -11464,123 +11583,6 @@
         "benefit",
         "benefits",
         "pension"
-      ]
-    },
-    {
-      "id": "89c41d47806b0ad382dde220",
-      "title": "How to sign up to the Disability Confident employer scheme",
-      "link": "https://www.gov.uk/guidance/disability-confident-how-to-sign-up-to-the-employer-scheme",
-      "summary": "Guidance about signing up for the Disability Confident scheme, and how it can help your business.",
-      "published_at": "2026-07-01T13:48:13",
-      "fetched_at": "2026-07-01T14:29:43",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "4d812239a0ebfd1ff240e2c0",
-      "title": "Guidance: Employing disabled people: Disability Confident and CIPD manager’s guide",
-      "link": "https://www.gov.uk/government/publications/disability-confident-and-cipd-guide-for-line-managers-on-employing-people-with-a-disability-or-health-condition",
-      "summary": "A practical guide for line managers on recruiting, managing and developing people with a disability or health condition.",
-      "published_at": "2026-07-01T13:48:00",
-      "fetched_at": "2026-07-01T14:29:43",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "a91dc7c9b38dd271d5091f59",
-      "title": "International Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/international-manual",
-      "summary": "International tax issues including the principles of double taxation relief and an introduction to double taxation agreements",
-      "published_at": "2026-07-01T13:39:50",
-      "fetched_at": "2026-07-01T14:29:43",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "bd9653789ffe2bf60ec0d49c",
-      "title": "Check when you can expect a reply from HMRC",
-      "link": "https://www.gov.uk/guidance/check-when-you-can-expect-a-reply-from-hmrc",
-      "summary": "Find out when you can expect to receive a reply from HMRC to a query or request you've made.",
-      "published_at": "2026-07-01T13:37:55",
-      "fetched_at": "2026-07-01T14:29:43",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "b4a594c9174a36e5ddfd401a",
-      "title": "Self Assessment Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual",
-      "summary": "This manual contains guidance and processes for Self Assessment (SA)",
-      "published_at": "2026-07-01T13:20:15",
-      "fetched_at": "2026-07-01T14:29:43",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
       ]
     }
   ]
