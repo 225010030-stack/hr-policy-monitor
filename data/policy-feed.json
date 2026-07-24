@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-23T19:11:49",
+  "synced_at": "2026-07-24T02:27:12",
   "total": 500,
-  "new_count": 14,
+  "new_count": 12,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 2,
+      "added": 3,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 3,
+      "added": 0,
       "error": null
     },
     {
@@ -40,6 +40,74 @@
     }
   ],
   "items": [
+    {
+      "id": "9b524dbd6145f64d8ac096d3",
+      "title": "Guidance: Additions and deductions for Data Element 4/9 of the Customs Declaration Service",
+      "link": "https://www.gov.uk/government/publications/additions-and-deductions-for-data-element-49-of-the-customs-declaration-service",
+      "summary": "Find codes for the additions or deductions to the item price or amount being declared in the Customs Declaration Service (Appendix 10).",
+      "published_at": "2026-07-23T23:15:11",
+      "fetched_at": "2026-07-24T02:26:51",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "b0bab3a4ca9f12f4c7c58304",
+      "title": "Guidance: Place of loading codes for Data Element 5/21 of the Customs Declaration Service",
+      "link": "https://www.gov.uk/government/publications/place-of-loading-codes-for-data-element-521-of-the-customs-declaration-service",
+      "summary": "Find details of the relevant foreign airport zones, percentages of air freight costs to be included in the customs value, and the airport codes to be declared in Data Element 5/21 as the place (airport) of loading (Appendix 15A and Appendix 15B).",
+      "published_at": "2026-07-23T23:15:11",
+      "fetched_at": "2026-07-24T02:26:51",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "65d76d14ededbb26ccd2137c",
+      "title": "Guidance: Package type codes for Data Element 6/9 of the Customs Declaration Service",
+      "link": "https://www.gov.uk/government/publications/package-type-codes-for-data-element-69-of-the-customs-declaration-service",
+      "summary": "Find package type codes for Data Element 6/9 (Appendix 18).",
+      "published_at": "2026-07-23T23:15:11",
+      "fetched_at": "2026-07-24T02:26:51",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "b59c196630bb965326e6ecb9",
       "title": "Check genuine HMRC contact that uses more than one communication method",
@@ -11491,81 +11559,6 @@
       "link": "https://www.gov.uk/government/publications/disability-confident-promotional-material",
       "summary": "Promotional material that can used by Disability Confident employers to promote the scheme.",
       "published_at": "2026-07-01T13:49:44",
-      "fetched_at": "2026-07-01T14:29:43",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "c24a47beab54d24d919a3006",
-      "title": "Renew your Disability Confident status",
-      "link": "https://www.gov.uk/guidance/renew-your-disability-confident-status",
-      "summary": "Guidance about how to renew your Disability Confident status.",
-      "published_at": "2026-07-01T13:49:22",
-      "fetched_at": "2026-07-01T14:29:43",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "6d41bc58e106fb09f018bf6d",
-      "title": "Make changes to your Disability Confident details",
-      "link": "https://www.gov.uk/guidance/report-changes-to-your-disability-confident-details",
-      "summary": "How to make a change to your registration details if you are a Disability Confident employer.",
-      "published_at": "2026-07-01T13:48:44",
-      "fetched_at": "2026-07-01T14:29:43",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "cf186c9d0c61c77581f850c4",
-      "title": "Guidance: Disability Confident: guidance for levels 1, 2 and 3",
-      "link": "https://www.gov.uk/government/publications/disability-confident-guidance-for-levels-1-2-and-3",
-      "summary": "This guidance explains what is needed to become Disability Confident Committed, or a Disability Confident Employer or Leader.",
-      "published_at": "2026-07-01T13:48:26",
       "fetched_at": "2026-07-01T14:29:43",
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
