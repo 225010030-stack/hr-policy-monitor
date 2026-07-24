@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-07-24T08:23:45",
+  "synced_at": "2026-07-24T13:38:49",
   "total": 500,
-  "new_count": 11,
+  "new_count": 18,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
       "fetched": 21,
-      "added": 9,
+      "added": 8,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 2,
+      "added": 9,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,234 @@
     }
   ],
   "items": [
+    {
+      "id": "d7547a41470704233f86031a",
+      "title": "Guidance: Check the statutory market values for oil",
+      "link": "https://www.gov.uk/government/publications/check-the-statutory-market-values-for-oil",
+      "summary": "Find statutory market values for disposal of category 1 oil from a UK field, which has not been sold at arm's length.",
+      "published_at": "2026-07-24T13:08:48",
+      "fetched_at": "2026-07-24T13:38:28",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 9,
+      "matched_keywords": [
+        "payroll",
+        "statutory"
+      ]
+    },
+    {
+      "id": "3739d236522cbd929a1551f3",
+      "title": "Authorising an agent to deal with your tax affairs",
+      "link": "https://www.gov.uk/guidance/authorising-an-agent-to-deal-with-your-tax-affairs",
+      "summary": "Check what a paid agent can do on your behalf. How you authorise the agent depends on the tax, and you may need to use paper form 64-8 or an online service.",
+      "published_at": "2026-07-24T11:45:18",
+      "fetched_at": "2026-07-24T13:38:28",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "8e62269bca1c4561640a8654",
+      "title": "International Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/international-manual",
+      "summary": "International tax issues including the principles of double taxation relief and an introduction to double taxation agreements",
+      "published_at": "2026-07-24T11:04:29",
+      "fetched_at": "2026-07-24T13:38:28",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "f44d972537602ff5c21d2c91",
+      "title": "Research: Upcoming DWP research publications",
+      "link": "https://www.gov.uk/government/publications/list-of-upcoming-research-publications",
+      "summary": "This document provides details of upcoming Department for Work and Pensions (DWP) research publications.",
+      "published_at": "2026-07-24T11:01:37",
+      "fetched_at": "2026-07-24T13:38:29",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "ae3204a0ad626d3ca36a5ab6",
+      "title": "Capital Gains Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual",
+      "summary": "HMRC is reviewing the CG Manual to ensure it provides HMRC’s interpretation of relevant legislation where there is more than one reasonable view of how rules work.Where material in the CG Manual isn’t providing an interpretation, that material is being removed. Where appropriate, material will be reproduced elsewhere and linked from the CG Manual.",
+      "published_at": "2026-07-24T10:03:08",
+      "fetched_at": "2026-07-24T13:38:28",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "2edbee093197275aab385b7b",
+      "title": "Register your employment related securities scheme",
+      "link": "https://www.gov.uk/guidance/tell-hmrc-about-your-employment-related-securities",
+      "summary": "When and how to tell HMRC about new employment related securities (ERS) schemes.",
+      "published_at": "2026-07-24T09:43:44",
+      "fetched_at": "2026-07-24T13:38:28",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "9949d2380185acbdfdb19fc5",
+      "title": "Compliance Handbook",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/compliance-handbook",
+      "summary": "The aim of the Compliance Handbook is to help users understand and apply HMRC's penalties and compliance powers, as set out by legislation.",
+      "published_at": "2026-07-24T09:07:07",
+      "fetched_at": "2026-07-24T13:38:28",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 9,
+      "matched_keywords": [
+        "payroll",
+        "compliance"
+      ]
+    },
+    {
+      "id": "c7f6aabeb6f3f810d3ad73da",
+      "title": "Notice: Vaping Products Duty and Vaping Duty Stamps: Force of Law Notice",
+      "link": "https://www.gov.uk/government/publications/vaping-products-duty-and-vaping-duty-stamps-force-of-law-notice",
+      "summary": "Notices made under Part 4 of the Finance Act 2026, The Vaping Products (Production, Duty Stamps and Commencement) Regulations 2026 and The Vaping Duty Stamps (Requirements, Reviews and Appeals) Regulations 2026, which have the force of law.",
+      "published_at": "2026-07-24T09:06:52",
+      "fetched_at": "2026-07-24T13:38:28",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 9,
+      "matched_keywords": [
+        "payroll",
+        "regulation"
+      ]
+    },
+    {
+      "id": "7fe3798ea69da36f414c269d",
+      "title": "Check if a business is registered for money laundering supervision",
+      "link": "https://www.gov.uk/guidance/money-laundering-regulations-supervised-business-register",
+      "summary": "Find out if a business has registered with HMRC under the money laundering regulations and report them if they have not.",
+      "published_at": "2026-07-24T08:50:41",
+      "fetched_at": "2026-07-24T13:38:28",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 9,
+      "matched_keywords": [
+        "payroll",
+        "regulation"
+      ]
+    },
+    {
+      "id": "c86b9333fc25ef16326431ef",
+      "title": "Decision: CIL Appeal 1889294 — 22 May 26 — Demolition and construction",
+      "link": "https://www.gov.uk/government/publications/cil-appeal-1889294-22-may-26-demolition-and-construction",
+      "summary": "Demolition of existing buildings and construction of seven dwellings with associated parking.",
+      "published_at": "2026-07-24T08:30:00",
+      "fetched_at": "2026-07-24T13:38:28",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "2f1faf79e45ed2b008cd4fc2",
       "title": "Guidance: Public service pensions remedy newsletter — July 2026",
@@ -11333,238 +11561,6 @@
       "summary": "This manual contains guidance and processes for Self Assessment (SA)",
       "published_at": "2026-07-02T07:50:06",
       "fetched_at": "2026-07-02T08:52:22",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "2ccce746c6df30d4a182934f",
-      "title": "Agency Information Collection Activities; Requesting Comment Tax Information Security Guidelines for Federal, State, and Local Agencies",
-      "link": "https://www.federalregister.gov/documents/2026/07/02/2026-13412/agency-information-collection-activities-requesting-comment-tax-information-security-guidelines-for",
-      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
-      "published_at": "2026-07-02T04:00:00",
-      "fetched_at": "2026-07-02T08:52:21",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "payroll",
-        "withholding"
-      ]
-    },
-    {
-      "id": "15e5a184a79f57dfb5dc6f01",
-      "title": "Increase in Threshold for Requiring Information Reporting With Respect to Certain Payees; Extension and Modification of Limitation on Wagering Losses; Hearing",
-      "link": "https://www.federalregister.gov/documents/2026/07/02/2026-13370/increase-in-threshold-for-requiring-information-reporting-with-respect-to-certain-payees-extension",
-      "summary": "This document provides a notice of public hearing on the notice of proposed rulemaking (REG-113229-25) published in the Federal Register on April 17, 2026. The proposed regulations contain proposed amendments relating to the dollar thresholds in regulations governing information reporting for payments made in the course of a trade or business and the corresponding backup withholding regulations. The proposed regulations also contain proposed amendments to the regulations governing wagering losse",
-      "published_at": "2026-07-02T04:00:00",
-      "fetched_at": "2026-07-02T08:52:21",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 14,
-      "matched_keywords": [
-        "payroll",
-        "withholding",
-        "regulation"
-      ]
-    },
-    {
-      "id": "1252a82b77f706ffc1e3aeee",
-      "title": "Councils supported to identify and support vulnerable teenagers",
-      "link": "https://www.gov.uk/government/news/councils-supported-to-identify-and-support-vulnerable-teenagers",
-      "summary": "New data reveals 32,100 “Phantom NEETS” are being left to drift without help, with up to half of 16 and 17-year-olds unaccounted for in one area.",
-      "published_at": "2026-07-01T23:01:03",
-      "fetched_at": "2026-07-02T03:20:38",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 22,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension",
-        "ei"
-      ]
-    },
-    {
-      "id": "50c31888bdce1bb23a458453",
-      "title": "Self Assessment Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual",
-      "summary": "This manual contains guidance and processes for Self Assessment (SA)",
-      "published_at": "2026-07-01T15:32:31",
-      "fetched_at": "2026-07-01T19:50:47",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "8c55ea3057c0a10d94efbf0d",
-      "title": "Guidance: Early years teacher degree apprenticeship: guidance for employers",
-      "link": "https://www.gov.uk/government/publications/early-years-teacher-degree-apprenticeship-guidance-for-employers",
-      "summary": "How employers in the early years sector can effectively deliver the early years teacher degree apprenticeship (EYTDA).",
-      "published_at": "2026-07-01T15:25:29",
-      "fetched_at": "2026-07-01T19:50:48",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "9b67e2dfbcd3c0c5dcab4027",
-      "title": "Valuation Office - Capital Gains and other taxes manual",
-      "link": "https://www.gov.uk/guidance/capital-gains-and-other-taxes-manual",
-      "summary": "The Valuation Office Agency's (VOA) technical manual used to assess Capital Gains and other taxes.",
-      "published_at": "2026-07-01T14:58:29",
-      "fetched_at": "2026-07-01T19:50:47",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "7ce0c87fdf1478501edfb985",
-      "title": "Section 8",
-      "link": "https://www.gov.uk/guidance/capital-gains-and-other-taxes-manual/section-8",
-      "summary": "The Valuation Office's technical manual used to assess Capital Gains and other taxes.",
-      "published_at": "2026-07-01T14:58:29",
-      "fetched_at": "2026-07-01T19:50:47",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "727d895a81f7f3089d684580",
-      "title": "Guidance: Agent services account if you’re not based in the UK: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/agent-services-account-if-you-are-not-based-in-the-uk-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the approval and set up of your agent services account if you are not based in the UK.",
-      "published_at": "2026-07-01T14:38:03",
-      "fetched_at": "2026-07-01T19:50:47",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "df42d9126008cc6fdf323a7f",
-      "title": "Guidance: Agent services account: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/agent-services-account-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the agent services account.",
-      "published_at": "2026-07-01T14:34:42",
-      "fetched_at": "2026-07-01T19:50:47",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "1d12de7843f872feefff676f",
-      "title": "Apply to import goods temporarily to the UK",
-      "link": "https://www.gov.uk/guidance/apply-to-import-goods-temporarily-to-the-uk-or-eu",
-      "summary": "Apply for Temporary Admission to import goods to the UK, or move goods from Great Britain to Northern Ireland, and use them temporarily before re-exporting them.",
-      "published_at": "2026-07-01T14:29:04",
-      "fetched_at": "2026-07-01T19:50:47",
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "region": "UK",
