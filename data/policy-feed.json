@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-07-24T02:27:12",
+  "synced_at": "2026-07-24T04:20:44",
   "total": 500,
-  "new_count": 12,
+  "new_count": 8,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
-      "fetched": 21,
-      "added": 9,
+      "fetched": 20,
+      "added": 8,
       "error": null
     },
     {
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 3,
+      "added": 0,
       "error": null
     },
     {
