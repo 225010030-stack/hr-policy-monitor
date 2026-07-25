@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-07-25T04:17:10",
+  "synced_at": "2026-07-25T08:02:59",
   "total": 500,
-  "new_count": 9,
+  "new_count": 13,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
-      "fetched": 20,
-      "added": 9,
+      "fetched": 24,
+      "added": 13,
       "error": null
     },
     {
@@ -40,6 +40,103 @@
     }
   ],
   "items": [
+    {
+      "id": "8fe28019ec90e3a9328a8109",
+      "title": "Agency Information Collection Activities: Comment Request on the Burden Related to the Disclosure of Returns and Return Information in Connection With Written Contracts or Agreements for the Acquisition of Property or Services for Tax Administration Purposes",
+      "link": "https://www.federalregister.gov/documents/2026/07/27/2026-15082/agency-information-collection-activities-comment-request-on-the-burden-related-to-the-disclosure-of",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+      "published_at": "2026-07-27T04:00:00",
+      "fetched_at": "2026-07-25T08:02:37",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
+    {
+      "id": "6094da69d793fb89dd975f47",
+      "title": "Agency Information Collection Activities: Comment Request on the Burden Related to the Requirements for Completing and Submitting Form 8655",
+      "link": "https://www.federalregister.gov/documents/2026/07/27/2026-15081/agency-information-collection-activities-comment-request-on-the-burden-related-to-the-requirements",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+      "published_at": "2026-07-27T04:00:00",
+      "fetched_at": "2026-07-25T08:02:37",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
+    {
+      "id": "29d8096560536e0993388126",
+      "title": "Agency Information Collection Activities; Comment Request on Employee Plans Compliance Resolution System",
+      "link": "https://www.federalregister.gov/documents/2026/07/27/2026-15067/agency-information-collection-activities-comment-request-on-employee-plans-compliance-resolution",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+      "published_at": "2026-07-27T04:00:00",
+      "fetched_at": "2026-07-25T08:02:37",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 14,
+      "matched_keywords": [
+        "payroll",
+        "withholding",
+        "compliance"
+      ]
+    },
+    {
+      "id": "857a66cbe50dec1c9fc68636",
+      "title": "Open Meeting of the Taxpayer Advocacy Panel Joint Committee",
+      "link": "https://www.federalregister.gov/documents/2026/07/27/2026-15051/open-meeting-of-the-taxpayer-advocacy-panel-joint-committee",
+      "summary": "An open meeting of the Taxpayer Advocacy Panel's Joint Committee will be conducted. The Taxpayer Advocacy Panel is soliciting public comments, ideas, and suggestions to improve customer service at the Internal Revenue Service. This meeting will be held as a virtual video conference via the Microsoft Teams platform.",
+      "published_at": "2026-07-27T04:00:00",
+      "fetched_at": "2026-07-25T08:02:37",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
     {
       "id": "72ac6e1ba05b9df3f8f70f61",
       "title": "Official Statistics: Tax-Free Childcare Statistics, June 2026",
@@ -11468,100 +11565,6 @@
       "score": 6,
       "matched_keywords": [
         "payroll"
-      ]
-    },
-    {
-      "id": "857b40c5e40e138a674b2fdc",
-      "title": "Council Tax Manual",
-      "link": "https://www.gov.uk/guidance/council-tax-manual",
-      "summary": "The Valuation Office Agency's (VOA) technical manual for assessing domestic property for Council Tax.",
-      "published_at": "2026-07-02T09:43:13",
-      "fetched_at": "2026-07-02T13:54:04",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "da43f1425a7956e659b46e2d",
-      "title": "Corporate report: Named tax avoidance schemes, promoters, enablers and suppliers",
-      "link": "https://www.gov.uk/government/publications/named-tax-avoidance-schemes-promoters-enablers-and-suppliers",
-      "summary": "Information about tax avoidance schemes, promoters, enablers and suppliers of these schemes.",
-      "published_at": "2026-07-02T09:41:38",
-      "fetched_at": "2026-07-02T13:54:04",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "40c89b77abf9794ec6402297",
-      "title": "Trust Registration Service Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/trust-registration-service-manual",
-      "summary": "The Trust Registration Service (TRS) is the Government's register of trusts; it is part of the Government's wider strategy to prevent money laundering and terrorist financing.The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 No. 621 came into force on 30 June 2026. This manual is being updated to reflect changes to which trusts must register with the Trust Registration Service. Non-UK trusts that acquired UK property before 6 October 2020 are not currently able to registe",
-      "published_at": "2026-07-02T09:29:28",
-      "fetched_at": "2026-07-02T13:54:04",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 13,
-      "matched_keywords": [
-        "payroll",
-        "ei",
-        "regulation"
-      ]
-    },
-    {
-      "id": "77aed2fd1f06765e7578e522",
-      "title": "Current DWP research being undertaken by external organisations",
-      "link": "https://www.gov.uk/guidance/current-dwp-research-in-the-field-undertaken-by-external-organisations",
-      "summary": "Check a list of live research being conducted by research organisations for the Department of Work and Pensions (DWP).",
-      "published_at": "2026-07-02T08:34:48",
-      "fetched_at": "2026-07-02T08:52:22",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 22,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension",
-        "ei"
       ]
     }
   ]
