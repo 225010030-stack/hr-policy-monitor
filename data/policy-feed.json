@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-24T19:21:09",
+  "synced_at": "2026-07-25T02:25:41",
   "total": 500,
-  "new_count": 15,
+  "new_count": 11,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 5,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,28 @@
     }
   ],
   "items": [
+    {
+      "id": "72ac6e1ba05b9df3f8f70f61",
+      "title": "Official Statistics: Tax-Free Childcare Statistics, June 2026",
+      "link": "https://www.gov.uk/government/statistics/announcements/tax-free-childcare-statistics-june-2026",
+      "summary": "Tax-Free Childcare Statistics provide information on the numbers of families and children with open and used Tax-Free Childcare accounts and the amounts spent on government top-up. The publication also includes the numbers of open and used Tax-Free Childcare accounts for disabled children by age of child and account use by region.",
+      "published_at": "2026-07-24T22:42:17",
+      "fetched_at": "2026-07-25T02:25:20",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "79037830bbf637fce06919c6",
       "title": "HMRC videos and webinars for Making Tax Digital for Income Tax",
@@ -11540,31 +11562,6 @@
         "benefits",
         "pension",
         "ei"
-      ]
-    },
-    {
-      "id": "35521c445ef887c3ec0ee56e",
-      "title": "Accredited official statistics: Workplace pension participation and savings trends: 2009 to 2025",
-      "link": "https://www.gov.uk/government/statistics/announcements/workplace-pension-participation-and-savings-trends-2009-to-2025",
-      "summary": "These annual statistics include detailed breakdowns of the number of savers and the amount of savings.",
-      "published_at": "2026-07-02T08:30:33",
-      "fetched_at": "2026-07-02T08:52:22",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
       ]
     }
   ]
