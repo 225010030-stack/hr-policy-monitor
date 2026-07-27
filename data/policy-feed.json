@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-27T05:34:35",
+  "synced_at": "2026-07-27T09:46:26",
   "total": 500,
-  "new_count": 7,
+  "new_count": 10,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 3,
       "error": null
     },
     {
@@ -40,6 +40,72 @@
     }
   ],
   "items": [
+    {
+      "id": "bbfb6410f479b878cd2913d9",
+      "title": "Transparency data: HMRC: workforce management information, June 2026",
+      "link": "https://www.gov.uk/government/publications/hmrc-workforce-management-information-june-2026",
+      "summary": "Reports on departmental staff numbers and costs.",
+      "published_at": "2026-07-27T08:30:04",
+      "fetched_at": "2026-07-27T09:46:05",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "60e508f3644fc8ad0c16e7c2",
+      "title": "Transparency data: HMRC officials' meetings with tobacco stakeholders, April to June 2026",
+      "link": "https://www.gov.uk/government/publications/hmrc-officials-meetings-with-tobacco-stakeholders-april-to-june-2026",
+      "summary": "Details of HMRC officials' meetings with tobacco stakeholders.",
+      "published_at": "2026-07-27T08:30:04",
+      "fetched_at": "2026-07-27T09:46:05",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "977d5903e0b2d4ad7847d194",
+      "title": "Promotional material: Help to avoid errors  in claims for plant and machinery allowances — GfC5",
+      "link": "https://www.gov.uk/government/publications/help-to-avoid-errors-in-claims-for-plant-and-machinery-allowances-gfc5",
+      "summary": "Find out about common areas of error when claiming capital allowances on plant or machinery. We want to share information to help you manage the risk of an incorrect claim.",
+      "published_at": "2026-07-27T07:17:10",
+      "fetched_at": "2026-07-27T09:46:05",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "8fe28019ec90e3a9328a8109",
       "title": "Agency Information Collection Activities: Comment Request on the Burden Related to the Disclosure of Returns and Return Information in Connection With Written Contracts or Agreements for the Acquisition of Property or Services for Tax Administration Purposes",
@@ -11499,72 +11565,6 @@
         "benefits",
         "pension",
         "ei"
-      ]
-    },
-    {
-      "id": "17137214ea11c7b122797f5f",
-      "title": "Guidance: Tax and National Insurance contributions for MPs and ministers",
-      "link": "https://www.gov.uk/government/publications/tax-and-national-insurance-contributions-for-mps-and-ministers",
-      "summary": "Find information about tax and National Insurance contributions for MPs and ministers.",
-      "published_at": "2026-07-02T09:52:35",
-      "fetched_at": "2026-07-02T13:54:04",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "bc9659cd21a7b84956db99d1",
-      "title": "International Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/international-manual",
-      "summary": "International tax issues including the principles of double taxation relief and an introduction to double taxation agreements",
-      "published_at": "2026-07-02T09:46:16",
-      "fetched_at": "2026-07-02T13:54:04",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "f73beda9e5f0053d234644d7",
-      "title": "Council Tax: practice notes",
-      "link": "https://www.gov.uk/guidance/council-tax-manual/council-tax-practice-notes",
-      "summary": "The Valuation Office Agency's (VOA) technical manual for assessing domestic property for Council Tax.",
-      "published_at": "2026-07-02T09:43:13",
-      "fetched_at": "2026-07-02T13:54:04",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
       ]
     }
   ]
