@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-07-28T04:16:07",
+  "synced_at": "2026-07-28T08:29:41",
   "total": 500,
-  "new_count": 7,
+  "new_count": 9,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
-      "fetched": 22,
-      "added": 7,
+      "fetched": 23,
+      "added": 8,
       "error": null
     },
     {
@@ -28,7 +28,7 @@
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,55 @@
     }
   ],
   "items": [
+    {
+      "id": "67a7a6dda8d2d203a7cbc91c",
+      "title": "Official Statistics: Move to Universal Credit, July 2022 to end June 2026",
+      "link": "https://www.gov.uk/government/statistics/announcements/move-to-universal-credit-july-2022-to-end-june-2026",
+      "summary": "These official statistics under development cover the number of people who have been sent managed migration notices inviting them to claim Universal Credit.",
+      "published_at": "2026-07-28T07:39:43",
+      "fetched_at": "2026-07-28T08:29:21",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "8f1958d8453222dad5e6cd24",
+      "title": "Agency Information Collection Activities; Requesting Comment Notice of Application for Reward for Original Information",
+      "link": "https://www.federalregister.gov/documents/2026/07/28/2026-15198/agency-information-collection-activities-requesting-comment-notice-of-application-for-reward-for",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+      "published_at": "2026-07-28T04:00:00",
+      "fetched_at": "2026-07-28T08:29:20",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
     {
       "id": "147adcffd2a19c1ac0ec2aaa",
       "title": "Report a problem using the Customs Declaration Service",
@@ -11495,56 +11544,6 @@
       "title": "Correspondence: Keep Britain Working review update: March 2026",
       "link": "https://www.gov.uk/government/publications/keep-britain-working-review-update-march-2026",
       "summary": "An update on the implementation of the independent review of the role of employers in tackling health based economic inactivity and promoting healthy and inclusive workplaces.",
-      "published_at": "2026-07-02T23:01:01",
-      "fetched_at": "2026-07-03T02:43:29",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "9fe028c8681b7a3d25696fcc",
-      "title": "Guidance: Keep Britain Working Vanguard Phase Terms of Reference",
-      "link": "https://www.gov.uk/government/publications/keep-britain-working-vanguard-phase-terms-of-reference",
-      "summary": "Terms of Reference relating to the implementation of the Keep Britain Working independent review.",
-      "published_at": "2026-07-02T23:01:01",
-      "fetched_at": "2026-07-03T02:43:29",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "7f271cea3891e7ff819a4065",
-      "title": "Correspondence: Keep Britain Working review update: June 2026",
-      "link": "https://www.gov.uk/government/publications/keep-britain-working-review-update-june-2026",
-      "summary": "June 2026 update on implementing the independent review of employers' role in tackling health based economic inactivity and promoting healthy and inclusive workplaces.",
       "published_at": "2026-07-02T23:01:01",
       "fetched_at": "2026-07-03T02:43:29",
       "source_id": "uk_dwp",
