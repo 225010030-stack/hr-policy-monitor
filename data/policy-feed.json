@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-28T14:00:19",
+  "synced_at": "2026-07-28T19:18:56",
   "total": 500,
-  "new_count": 14,
+  "new_count": 9,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 6,
+      "added": 0,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 1,
+      "added": 2,
       "error": null
     },
     {
@@ -40,6 +40,56 @@
     }
   ],
   "items": [
+    {
+      "id": "cd1e3e84d586e160029d79f7",
+      "title": "Research: Perceptions of the Department for Work and Pensions: wave 3 (October to November 2025)",
+      "link": "https://www.gov.uk/government/publications/perceptions-of-the-department-for-work-and-pensions-wave-3-october-to-november-2025",
+      "summary": "Quantitative research with the general public and the Department for Work and Pensions’ customers (fieldwork October to November 2025)",
+      "published_at": "2026-07-28T15:44:23",
+      "fetched_at": "2026-07-28T19:18:36",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "63467fd746707397f27bf927",
+      "title": "Government invests in young people with more opportunities close to home",
+      "link": "https://www.gov.uk/government/news/government-invests-in-young-people-with-more-opportunities-close-to-home",
+      "summary": "Thousands more young people will be able to gain the skills, qualifications and experience they need for future careers, as the government today rolls out a major package to break down barriers stopping access to technical education, training, and apprenticeships.",
+      "published_at": "2026-07-28T15:00:02",
+      "fetched_at": "2026-07-28T19:18:36",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
     {
       "id": "99f9de9ff8c8516f912fa926",
       "title": "Accredited official statistics: Monthly property transactions completed in the UK with the value of £40,000 or above",
@@ -11517,50 +11567,6 @@
         "benefits",
         "payroll",
         "ei"
-      ]
-    },
-    {
-      "id": "2f27f6ecb85f0630d6564e54",
-      "title": "Guidance: Data Element 2/3: Documents and Other Reference Codes (Union) of the Customs Declaration Service (CDS)",
-      "link": "https://www.gov.uk/government/publications/data-element-23-documents-and-other-reference-codes-union-of-the-customs-declaration-service-cds",
-      "summary": "Find the relevant document codes, document status codes and details to be declared such as licences and certificates (Appendix 5A).",
-      "published_at": "2026-07-03T09:16:37",
-      "fetched_at": "2026-07-03T13:58:08",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "1f6fad62d3789dc80a28fed9",
-      "title": "Investment gold coins (VAT Notice 701/21A)",
-      "link": "https://www.gov.uk/guidance/investment-gold-coins-and-vat-notice-70121a",
-      "summary": "List of gold coins considered as investment gold coins for VAT exemption as detailed in Group 15 to Schedule 9 of the VAT Act 1994 purposes.",
-      "published_at": "2026-07-03T08:57:12",
-      "fetched_at": "2026-07-03T08:58:39",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
       ]
     }
   ]
