@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-07-28T08:29:41",
+  "synced_at": "2026-07-28T14:00:19",
   "total": 500,
-  "new_count": 9,
+  "new_count": 14,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
       "fetched": 23,
-      "added": 8,
+      "added": 7,
       "error": null
     },
     {
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 6,
       "error": null
     },
     {
@@ -40,6 +40,165 @@
     }
   ],
   "items": [
+    {
+      "id": "99f9de9ff8c8516f912fa926",
+      "title": "Accredited official statistics: Monthly property transactions completed in the UK with the value of £40,000 or above",
+      "link": "https://www.gov.uk/government/statistics/announcements/monthly-property-transactions-completed-in-the-uk-with-the-value-of-40000-or-above--28",
+      "summary": "This series looks at monthly property transactions completed in the UK with value of £40,000 or above.",
+      "published_at": "2026-07-28T13:23:27",
+      "fetched_at": "2026-07-28T13:59:58",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "22d648184e6b7e7344accb1f",
+      "title": "Wine guidance",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/wine-manual",
+      "summary": "This page has been archived.",
+      "published_at": "2026-07-28T11:00:57",
+      "fetched_at": "2026-07-28T13:59:58",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "db67dfc128436c552cf1e280",
+      "title": "Guidance: Universal Credit for the self-employed",
+      "link": "https://www.gov.uk/government/publications/universal-credit-for-the-self-employed",
+      "summary": "How Universal Credit works if you are self-employed and how to report your self-employed income and expenses to Universal Credit every month.",
+      "published_at": "2026-07-28T10:52:39",
+      "fetched_at": "2026-07-28T13:59:59",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "bff3ef85961981d9d440ccf6",
+      "title": "Accredited official statistics: Hydrocarbon Oils Bulletin",
+      "link": "https://www.gov.uk/government/statistics/announcements/hydrocarbon-oils-bulletin--18",
+      "summary": "Updated with receipts and quantities data up to and including June 2026.",
+      "published_at": "2026-07-28T10:46:32",
+      "fetched_at": "2026-07-28T13:59:58",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "c30984ba0a8eca8956eb806b",
+      "title": "Amend a VAT group",
+      "link": "https://www.gov.uk/guidance/amend-a-vat-group",
+      "summary": "Use form VAT50/51 to amend or remove an existing VAT group.",
+      "published_at": "2026-07-28T09:37:41",
+      "fetched_at": "2026-07-28T13:59:58",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "e51ea0f5079109bb3adbb82a",
+      "title": "Enquiry Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/enquiry-manual",
+      "summary": "How HM Revenue & Customs carries out tax enquiry work",
+      "published_at": "2026-07-28T09:14:35",
+      "fetched_at": "2026-07-28T13:59:58",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "937e19c6f0a2f6368ce7fbe3",
+      "title": "HMRC urges customers not to ignore Simple Assessment letters",
+      "link": "https://www.gov.uk/government/news/hmrc-urges-customers-not-to-ignore-simple-assessment-letters",
+      "summary": "HMRC is urging customers who receive a Simple Assessment letter this summer to check it carefully and pay any tax owed by the deadline.",
+      "published_at": "2026-07-28T08:55:21",
+      "fetched_at": "2026-07-28T13:59:58",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
     {
       "id": "67a7a6dda8d2d203a7cbc91c",
       "title": "Official Statistics: Move to Universal Credit, July 2022 to end June 2026",
@@ -11402,166 +11561,6 @@
       "score": 6,
       "matched_keywords": [
         "payroll"
-      ]
-    },
-    {
-      "id": "03e10fd602abb8724088975d",
-      "title": "HMRC email updates, videos and webinars for employing people",
-      "link": "https://www.gov.uk/guidance/help-and-support-for-employing-people",
-      "summary": "Learn more about getting started as an employer or running a small business including registration, payroll, tax returns, tax bills and payments.",
-      "published_at": "2026-07-03T08:36:39",
-      "fetched_at": "2026-07-03T08:58:39",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "d774d2865d4039a5b3d7f247",
-      "title": "Research: Local reference rents, listed by BRMA and property size (June 2026)",
-      "link": "https://www.gov.uk/government/publications/local-reference-rents-listed-by-brma-and-property-size-june-2026",
-      "summary": "Local reference rent (LRR) levels by number of rooms and broad rental market areas (BRMA) for residential properties in England in June 2026.",
-      "published_at": "2026-07-03T08:30:02",
-      "fetched_at": "2026-07-03T08:58:39",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "7cc5ba5d35a03f02f2b3262c",
-      "title": "Accredited official statistics: Employee Share Scheme statistics",
-      "link": "https://www.gov.uk/government/statistics/employee-share-scheme-statistics",
-      "summary": "Statistics on the tax-advantaged Employee Share Schemes.",
-      "published_at": "2026-07-03T08:30:02",
-      "fetched_at": "2026-07-03T08:58:39",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "c984c5f7cb68b1b29e51b27d",
-      "title": "Business Income Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/business-income-manual",
-      "summary": "Supplementary guidance on how to check tax calculations or work out the trading profits of a business for Self Assessment tax return.",
-      "published_at": "2026-07-03T07:42:29",
-      "fetched_at": "2026-07-03T08:58:39",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "646e072cf76a87f288cbea18",
-      "title": "Residence and FIG Regime Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/residence-and-fig-regime-manual",
-      "summary": "This manual contains guidance for HMRC officers who have to consider the residence position of individuals and who have to consider any claim to the FIG regime.",
-      "published_at": "2026-07-03T00:00:00",
-      "fetched_at": "2026-07-03T08:58:39",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "941e7227faa09b9eddf41409",
-      "title": "Keep Britain Working continues drive to stop people falling out of the workforce",
-      "link": "https://www.gov.uk/government/news/keep-britain-working-continues-drive-to-stop-people-falling-out-of-the-workforce",
-      "summary": "Nearly 200 workplaces have signed up to be “Vanguards” preventing people dropping out of work due to ill-health, in a new milestone for the programme.",
-      "published_at": "2026-07-02T23:01:01",
-      "fetched_at": "2026-07-03T02:43:29",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "1f1639dcc6785ff8af98f394",
-      "title": "Correspondence: Keep Britain Working review update: March 2026",
-      "link": "https://www.gov.uk/government/publications/keep-britain-working-review-update-march-2026",
-      "summary": "An update on the implementation of the independent review of the role of employers in tackling health based economic inactivity and promoting healthy and inclusive workplaces.",
-      "published_at": "2026-07-02T23:01:01",
-      "fetched_at": "2026-07-03T02:43:29",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
       ]
     }
   ]
