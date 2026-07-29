@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-29T04:17:49",
+  "synced_at": "2026-07-29T08:36:03",
   "total": 500,
-  "new_count": 7,
+  "new_count": 14,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 2,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 5,
       "error": null
     },
     {
@@ -40,6 +40,175 @@
     }
   ],
   "items": [
+    {
+      "id": "7d6b6276c046f32a3f7e42d1",
+      "title": "Official Statistics: Housing Benefit statistics on speed of processing for 2025 to 2026",
+      "link": "https://www.gov.uk/government/statistics/housing-benefit-statistics-on-speed-of-processing-for-2025-to-2026",
+      "summary": "Statistics on the average number of days to process a new Housing Benefit claim or a change in circumstance of an existing claim.",
+      "published_at": "2026-07-29T08:30:02",
+      "fetched_at": "2026-07-29T08:35:43",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "4a5c07f2c0ad1c0abfa10ca5",
+      "title": "VAT Registration",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/vat-registration-manual",
+      "summary": "Guidance about how to determine whether someone must, or may voluntarily, register for VAT; the entity to be registered; and changes to the details held on the VAT Register.",
+      "published_at": "2026-07-29T08:02:31",
+      "fetched_at": "2026-07-29T08:35:43",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "5d41599929e0967efc852b3d",
+      "title": "Guidance: Decision makers’ guide: Vols 8 and 9: Employment and Support Allowance: staff guide",
+      "link": "https://www.gov.uk/government/publications/decision-makers-guide-vols-8-and-9-employment-and-support-allowance-staff-guide",
+      "summary": "Guidance for DWP decision makers on decision making and appeals.",
+      "published_at": "2026-07-29T07:42:32",
+      "fetched_at": "2026-07-29T08:35:43",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "6d2a7d2fa24dbe5955a49ec8",
+      "title": "Guidance: Decision makers’ guide: Vols 4, 5, 6 and 7: Jobseeker's Allowance and Income Support: staff guide",
+      "link": "https://www.gov.uk/government/publications/decision-makers-guide-vols-4-5-6-and-7-jobseekers-allowance-and-income-support-staff-guide",
+      "summary": "Guidance for DWP decision makers on decision making and appeals.",
+      "published_at": "2026-07-29T07:42:29",
+      "fetched_at": "2026-07-29T08:35:43",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "40a55f26fb8fa17406e0a4c6",
+      "title": "Guidance: Decision makers’ guide: Vol 1: Decision making and appeals: staff guide",
+      "link": "https://www.gov.uk/government/publications/decision-makers-guide-vol-1-decision-making-and-appeals-staff-guide",
+      "summary": "Guidance for DWP decision makers on decision making and appeals.",
+      "published_at": "2026-07-29T07:42:24",
+      "fetched_at": "2026-07-29T08:35:43",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "dbdb31c5aae9e0c5448a8870",
+      "title": "Guidance: Advice for decision making: staff guide",
+      "link": "https://www.gov.uk/government/publications/advice-for-decision-making-staff-guide",
+      "summary": "Advice for DWP decision makers on Universal Credit, PIP and contribution-based JSA and ESA for people who are eligible for Universal Credit.",
+      "published_at": "2026-07-29T07:30:54",
+      "fetched_at": "2026-07-29T08:35:43",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "158edc6fe92acac53bd3db08",
+      "title": "Soft Drinks Industry Levy credit for exported drinks (notice 4)",
+      "link": "https://www.gov.uk/guidance/soft-drinks-industry-levy-credit-for-exported-lost-or-destroyed-drinks-notice-4",
+      "summary": "Find out if you can claim a Soft Drinks Industry Levy credit for exported drinks, and what evidence you need to get and keep.",
+      "published_at": "2026-07-29T07:29:29",
+      "fetched_at": "2026-07-29T08:35:43",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "5520e849f07cd5499aec1fb7",
       "title": "Capital Goods Scheme (VAT Notice 706/2)",
@@ -11395,161 +11564,6 @@
       "link": "https://www.gov.uk/guidance/find-payroll-software-that-is-recognised-by-hmrc",
       "summary": "Check for free and paid-for software recognised by HMRC that you can use to report PAYE information online.",
       "published_at": "2026-07-03T12:33:17",
-      "fetched_at": "2026-07-03T13:58:08",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "c49659e9cdfaef758d6609eb",
-      "title": "Guidance: Agent services account if you’re not based in the UK: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/agent-services-account-if-you-are-not-based-in-the-uk-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the approval and set up of your agent services account if you are not based in the UK.",
-      "published_at": "2026-07-03T11:14:50",
-      "fetched_at": "2026-07-03T13:58:08",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "5119641a30aedb782a11c07c",
-      "title": "Guidance: Agent services account: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/agent-services-account-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the agent services account.",
-      "published_at": "2026-07-03T11:12:48",
-      "fetched_at": "2026-07-03T13:58:08",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "d478b06456e954919c7108a6",
-      "title": "Refunds of UK VAT for non-UK businesses (VAT Notice 723A)",
-      "link": "https://www.gov.uk/guidance/refunds-of-uk-vat-for-non-uk-businesses-or-eu-vat-for-uk-businesses",
-      "summary": "How to claim a VAT refund in the UK if you're established outside the UK.",
-      "published_at": "2026-07-03T11:08:22",
-      "fetched_at": "2026-07-03T13:58:08",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "3ebe0740e346a53c02fd2781",
-      "title": "Guidance: Internal temporary storage facilities (ITSFs) codes for Data Element 5/23 of the Customs Declaration Service",
-      "link": "https://www.gov.uk/government/publications/internal-temporary-storage-facilities-itsfs-codes-for-data-element-523-of-the-customs-declaration-service",
-      "summary": "Find a list of codes which can be used in Data Element 5/23 to identify the location where the goods may be examined for internal temporary storage facilities (Appendix 16D).",
-      "published_at": "2026-07-03T11:02:16",
-      "fetched_at": "2026-07-03T13:58:08",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "b9ce300cedeecf4a1a8d84e6",
-      "title": "Customs Declaration Service: service availability and issues",
-      "link": "https://www.gov.uk/guidance/customs-declaration-service-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the Customs Declaration Service.",
-      "published_at": "2026-07-03T10:57:31",
-      "fetched_at": "2026-07-03T13:58:08",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "c997ddaad018da5912d563ab",
-      "title": "Employment Income Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/employment-income-manual",
-      "summary": "A guide to the Income Tax (Earnings and Pensions) Act 2003.",
-      "published_at": "2026-07-03T10:20:34",
-      "fetched_at": "2026-07-03T13:58:08",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "pension",
-        "payroll"
-      ]
-    },
-    {
-      "id": "2945c7390bdf1c118e691124",
-      "title": "Soft Drinks Industry Levy returns and records (notice 2)",
-      "link": "https://www.gov.uk/guidance/submit-a-return-and-pay-the-soft-drinks-industry-levy-notice-2",
-      "summary": "What you need to include in your Soft Drinks Industry Levy return, how to correct an error in a previous return and what records to keep.",
-      "published_at": "2026-07-03T09:47:52",
       "fetched_at": "2026-07-03T13:58:08",
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
