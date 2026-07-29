@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-28T19:18:56",
+  "synced_at": "2026-07-29T02:24:40",
   "total": 500,
-  "new_count": 9,
+  "new_count": 8,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 2,
+      "added": 0,
       "error": null
     },
     {
@@ -40,6 +40,28 @@
     }
   ],
   "items": [
+    {
+      "id": "5520e849f07cd5499aec1fb7",
+      "title": "Capital Goods Scheme (VAT Notice 706/2)",
+      "link": "https://www.gov.uk/guidance/capital-goods-scheme-notice-7062",
+      "summary": "Find out how the VAT Capital Goods Scheme (CGS) works, the items covered by the scheme, the rules and how adjustments and disposals are affected.",
+      "published_at": "2026-07-28T23:30:00",
+      "fetched_at": "2026-07-29T02:24:20",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "cd1e3e84d586e160029d79f7",
       "title": "Research: Perceptions of the Department for Work and Pensions: wave 3 (October to November 2025)",
@@ -11542,31 +11564,6 @@
       "score": 6,
       "matched_keywords": [
         "payroll"
-      ]
-    },
-    {
-      "id": "496b725bfe5088ab9505ab67",
-      "title": "Find out what types of Authorised Economic Operator status you can apply for",
-      "link": "https://www.gov.uk/guidance/authorised-economic-operator-certification",
-      "summary": "Check which Authorised Economic Operator status you could apply for and their benefits if your business has role in the international supply chain.",
-      "published_at": "2026-07-03T09:25:43",
-      "fetched_at": "2026-07-03T13:58:08",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "benefit",
-        "benefits",
-        "payroll",
-        "ei"
       ]
     }
   ]
