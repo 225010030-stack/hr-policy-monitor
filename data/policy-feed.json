@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-30T04:11:27",
+  "synced_at": "2026-07-30T08:21:52",
   "total": 500,
-  "new_count": 7,
+  "new_count": 12,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 4,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,120 @@
     }
   ],
   "items": [
+    {
+      "id": "1164da61b52c0eff6c1622b7",
+      "title": "Guidance: Pension schemes newsletter 183 — July 2026",
+      "link": "https://www.gov.uk/government/publications/pension-schemes-newsletter-183-july-2026",
+      "summary": "Newsletter 183, published by HMRC in July 2026 to update stakeholders on the latest news for pension schemes.",
+      "published_at": "2026-07-30T08:00:04",
+      "fetched_at": "2026-07-30T08:21:31",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "pension",
+        "payroll"
+      ]
+    },
+    {
+      "id": "e236e66ca572a14ac7f75f5a",
+      "title": "Guidance: WorkWell",
+      "link": "https://www.gov.uk/government/publications/workwell",
+      "summary": "Information on WorkWell for local systems partnerships.",
+      "published_at": "2026-07-30T07:24:00",
+      "fetched_at": "2026-07-30T08:21:32",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "65be87ec760819731d650e1d",
+      "title": "Guidance: Valuation scales 2026",
+      "link": "https://www.gov.uk/government/publications/valuation-scales-2026",
+      "summary": "Find the 2026 valuation scales that the Valuation Office uses to value different parts of business properties depending on it's floor level and how it's used.",
+      "published_at": "2026-07-30T07:15:17",
+      "fetched_at": "2026-07-30T08:21:31",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "6eb15290a23d4a47d39ee232",
+      "title": "Guidance: List of approved professional organisations and learned societies (List 3)",
+      "link": "https://www.gov.uk/government/publications/professional-bodies-approved-for-tax-relief-list-3",
+      "summary": "Check this list of professional bodies to see if you can claim tax relief on your fees or subscriptions.",
+      "published_at": "2026-07-30T06:41:18",
+      "fetched_at": "2026-07-30T08:21:31",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "da60dd724d625383a6060bb8",
+      "title": "Notice: Notice to exporters 2026/17: compound settlement for breaches of export control",
+      "link": "https://www.gov.uk/government/publications/notice-to-exporters-202617-compound-settlement-for-breaches-of-export-control",
+      "summary": "HM Revenue and Customs (HMRC) has concluded a compound settlement with a UK exporter.",
+      "published_at": "2026-07-30T06:30:00",
+      "fetched_at": "2026-07-30T08:21:31",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "31e41c2ace0e45f4d30ad7d2",
       "title": "Guidance: Appendix 1: DE 1/10: Requested and Previous Procedure Codes of the Customs Declaration Service (CDS)",
@@ -11466,125 +11580,6 @@
       "summary": "Opening today (Tuesday 7 July 2026) the six-week call for evidence will gather views on: modernising the earnings limit to reduce the impact of the current cliff edge, improving predictability for carers with varying incomes, and better supporting those with work and caring responsibilities.",
       "published_at": "2026-07-06T23:01:00",
       "fetched_at": "2026-07-07T09:36:47",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "fe80bfe78fa7cca0e2787f1d",
-      "title": "Check if a letter you’ve received from HMRC is genuine",
-      "link": "https://www.gov.uk/guidance/check-if-a-letter-youve-received-from-hmrc-is-genuine",
-      "summary": "Check a list of recent letters from HMRC to help you decide if a letter you’ve received is a scam.",
-      "published_at": "2026-07-06T15:17:04",
-      "fetched_at": "2026-07-06T15:25:57",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "1c09c14a71c4d1273b1b113f",
-      "title": "Self Assessment Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual",
-      "summary": "This manual contains guidance and processes for Self Assessment (SA)",
-      "published_at": "2026-07-06T15:16:14",
-      "fetched_at": "2026-07-06T15:25:57",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "75c781a6f520c008e8d0849c",
-      "title": "Official Statistics: Workplace pension participation and savings trends: 2009 to 2025",
-      "link": "https://www.gov.uk/government/statistics/announcements/workplace-pension-participation-and-savings-trends-2009-to-2025",
-      "summary": "These annual statistics include detailed breakdowns of the number of savers and the amount of savings.",
-      "published_at": "2026-07-06T13:47:48",
-      "fetched_at": "2026-07-06T15:25:57",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "2c30bc16b6d20143ad7d6123",
-      "title": "Statutory guidance: Reference Document for The Customs (Northern Ireland) (EU Exit) Regulations 2020",
-      "link": "https://www.gov.uk/government/publications/reference-document-for-the-customs-northern-ireland-eu-exit-regulations-2020",
-      "summary": "The Reference Document for The Customs (Northern Ireland) (EU Exit) Regulations 2020 sets out the necessary steps businesses who import goods into Northern Ireland will need to take.",
-      "published_at": "2026-07-06T13:34:12",
-      "fetched_at": "2026-07-06T15:25:57",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 12,
-      "matched_keywords": [
-        "payroll",
-        "regulation",
-        "statutory"
-      ]
-    },
-    {
-      "id": "3765fcad7dd62efbd5f634d7",
-      "title": "Research: Skills England annual skills report and Sectoral Skills Needs Assessments 2026",
-      "link": "https://www.gov.uk/government/publications/skills-england-annual-skills-report-and-sectoral-skills-needs-assessments-2026",
-      "summary": "The 2026 annual skills report highlights key challenges in the skills system. Our Skills Needs Assessments outline skills demand and supply in priority sectors.",
-      "published_at": "2026-07-06T11:55:48",
-      "fetched_at": "2026-07-06T15:25:57",
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "region": "UK",
