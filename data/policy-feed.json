@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-07-31T04:29:25",
+  "synced_at": "2026-07-31T08:45:44",
   "total": 500,
-  "new_count": 6,
+  "new_count": 14,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 8,
       "error": null
     },
     {
@@ -40,6 +40,188 @@
     }
   ],
   "items": [
+    {
+      "id": "e8de65ac6b6473fde3ff799b",
+      "title": "Compliance Handbook",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/compliance-handbook",
+      "summary": "The aim of the Compliance Handbook is to help users understand and apply HMRC's penalties and compliance powers, as set out by legislation.",
+      "published_at": "2026-07-31T08:43:26",
+      "fetched_at": "2026-07-31T08:45:24",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 9,
+      "matched_keywords": [
+        "payroll",
+        "compliance"
+      ]
+    },
+    {
+      "id": "783f4753f5327e5f465d9d2d",
+      "title": "Accredited official statistics: Hydrocarbon Oils Bulletin",
+      "link": "https://www.gov.uk/government/statistics/hydrocarbon-oils-bulletin",
+      "summary": "Bi-annual statistics on receipts and clearances of each oil type and duty rates in place in the UK as administered by HM Revenue and Customs.",
+      "published_at": "2026-07-31T08:30:05",
+      "fetched_at": "2026-07-31T08:45:24",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "23e44fef46b7adbe8c524653",
+      "title": "Accredited official statistics: Monthly property transactions completed in the UK with value of £40,000 or above",
+      "link": "https://www.gov.uk/government/statistics/monthly-property-transactions-completed-in-the-uk-with-value-40000-or-above",
+      "summary": "This series looks at monthly property transactions completed in the UK with value of £40,000 or above.",
+      "published_at": "2026-07-31T08:30:05",
+      "fetched_at": "2026-07-31T08:45:24",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "86fa17fac74af62e35822a12",
+      "title": "Decision: CIL Appeal 1891560 — 6 July 26 — Replacing eighth-floor structure",
+      "link": "https://www.gov.uk/government/publications/cil-appeal-1891560-6-july-26-replacing-eighth-floor-structure",
+      "summary": "Replacement of an eighth-floor structure and extension. Use of part basement, ground and nine upper floors as student accommodation (Sui Generis) and two retail units (Class E) at ground level and external alterations.",
+      "published_at": "2026-07-31T08:30:05",
+      "fetched_at": "2026-07-31T08:45:24",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "609b150ad900fbf588d94f33",
+      "title": "Accredited official statistics: Insurance Premium Tax (IPT) Bulletin",
+      "link": "https://www.gov.uk/government/statistics/insurance-premium-tax-ipt-bulletin",
+      "summary": "Annual statistics on historical receipts and liabilities for all Insurance Premium Tax (IPT) rates administered by HM Revenue and Customs.",
+      "published_at": "2026-07-31T08:30:04",
+      "fetched_at": "2026-07-31T08:45:24",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 13,
+      "matched_keywords": [
+        "payroll",
+        "ei",
+        "premium"
+      ]
+    },
+    {
+      "id": "7b3b0dc2237d76f904414cf2",
+      "title": "Guidance: Recognised stock exchanges — designated countries",
+      "link": "https://www.gov.uk/government/publications/recognised-stock-exchanges-section-1005-income-tax-act-2007",
+      "summary": "Find out if a stock exchange is a recognised stock exchange for the purposes of section 1005 Income Tax Act 2007.",
+      "published_at": "2026-07-31T08:17:53",
+      "fetched_at": "2026-07-31T08:45:24",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "46d8aa2aef693cf0eb3c182c",
+      "title": "Capital Gains Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual",
+      "summary": "HMRC is reviewing the CG Manual to ensure it provides HMRC’s interpretation of relevant legislation where there is more than one reasonable view of how rules work.Where material in the CG Manual isn’t providing an interpretation, that material is being removed. Where appropriate, material will be reproduced elsewhere and linked from the CG Manual.",
+      "published_at": "2026-07-31T07:38:59",
+      "fetched_at": "2026-07-31T08:45:24",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "9d2271534821c0d2e3a364ec",
+      "title": "Guidance: Report Pillar 2 top-up taxes: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/report-pillar-2-top-up-taxes-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the Report Pillar 2 top-up taxes service.",
+      "published_at": "2026-07-31T07:21:32",
+      "fetched_at": "2026-07-31T08:45:24",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "0393cd403ff5c312b88d9150",
       "title": "Venture Capital Schemes Manual",
@@ -11408,185 +11590,6 @@
       "link": "https://www.gov.uk/guidance/help-and-support-for-self-assessment",
       "summary": "Learn more about getting started with Self Assessment including registration, tax returns, tax bills and payments.",
       "published_at": "2026-07-08T11:48:19",
-      "fetched_at": "2026-07-08T13:58:43",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "e3db2e4c0c9130e5ddf17622",
-      "title": "Guidance: Economic Crime Levy: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/economic-crime-levy-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the Economic Crime Levy services.",
-      "published_at": "2026-07-08T11:40:52",
-      "fetched_at": "2026-07-08T13:58:43",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "8ad4f3fc4d170c333af86892",
-      "title": "Check if a letter you’ve received from HMRC is genuine",
-      "link": "https://www.gov.uk/guidance/check-if-a-letter-youve-received-from-hmrc-is-genuine",
-      "summary": "Check a list of recent letters from HMRC to help you decide if a letter you’ve received is a scam.",
-      "published_at": "2026-07-08T11:29:02",
-      "fetched_at": "2026-07-08T13:58:43",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "4b1cb6c03a939202f967a25b",
-      "title": "Guidance: VAT Import One Stop Shop Scheme: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/vat-import-one-stop-shop-scheme-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the VAT Import One Stop Shop (IOSS) Scheme online service.",
-      "published_at": "2026-07-08T11:17:49",
-      "fetched_at": "2026-07-08T13:58:43",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "7ee132ea694c86047be911f6",
-      "title": "Guidance: One Stop Shop Union scheme: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/one-stop-shop-union-scheme-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the One Stop Shop (OSS) Union scheme online service.",
-      "published_at": "2026-07-08T11:15:20",
-      "fetched_at": "2026-07-08T13:58:43",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "b4a7426c3564a74ba51e009c",
-      "title": "Guidance: Construction Industry Scheme: CIS 340",
-      "link": "https://www.gov.uk/government/publications/construction-industry-scheme-cis-340",
-      "summary": "Use this guidance and the examples included to help you if you are a contractor or subcontractor within the Construction Industry Scheme.",
-      "published_at": "2026-07-08T11:06:19",
-      "fetched_at": "2026-07-08T13:58:43",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "704c42ae76479477d20ce60a",
-      "title": "Anti-money laundering guidance for supervised businesses",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/anti-money-laundering-guidance-for-supervised-businesses",
-      "summary": "This guidance includes changes inThe Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 made byThe Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (SI 2026/621), which came into force on 30 June 2026.This guidance is written with the purpose of assisting relevant persons (businesses) to better understand their obligations under the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regu",
-      "published_at": "2026-07-08T10:54:16",
-      "fetched_at": "2026-07-08T13:58:43",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 13,
-      "matched_keywords": [
-        "payroll",
-        "ei",
-        "regulation"
-      ]
-    },
-    {
-      "id": "c918918dfa9eaef5a497307c",
-      "title": "Corporate report: Annual outputs for tackling tobacco smuggling",
-      "link": "https://www.gov.uk/government/publications/annual-outputs-for-tacking-tobacco-smuggling",
-      "summary": "Get information on the outputs of the tobacco strategy, case studies, criminal investigations, civil penalties and high profile multi-agency events.",
-      "published_at": "2026-07-08T10:38:49",
-      "fetched_at": "2026-07-08T13:58:43",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "a61362afeb380ea3d8d3a41e",
-      "title": "Soft Drinks Industry Levy returns and records (notice 2)",
-      "link": "https://www.gov.uk/guidance/submit-a-return-and-pay-the-soft-drinks-industry-levy-notice-2",
-      "summary": "What you need to include in your Soft Drinks Industry Levy return, how to correct an error in a previous return and what records to keep.",
-      "published_at": "2026-07-08T10:18:03",
       "fetched_at": "2026-07-08T13:58:43",
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
