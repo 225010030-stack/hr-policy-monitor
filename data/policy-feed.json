@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-07-31T13:58:59",
+  "synced_at": "2026-07-31T19:20:38",
   "total": 500,
-  "new_count": 26,
+  "new_count": 27,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
       "fetched": 21,
-      "added": 6,
+      "added": 7,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 10,
+      "added": 20,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 10,
+      "added": 0,
       "error": null
     },
     {
@@ -40,6 +40,455 @@
     }
   ],
   "items": [
+    {
+      "id": "141242b0e3288090c18742d8",
+      "title": "Disclosing VAT and other indirect tax avoidance schemes (VAT Notice 799)",
+      "link": "https://www.gov.uk/guidance/disclosing-vat-and-other-indirect-tax-avoidance-schemes-vat-notice-799",
+      "summary": "Find out the rules from 1 January 2018 if you promote or use arrangements that are meant to give someone a VAT or other indirect tax saving or a tax deferral.",
+      "published_at": "2026-07-31T16:00:04",
+      "fetched_at": "2026-07-31T19:20:18",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "392100644ce165d5a6bd6cf3",
+      "title": "Disclosure of VAT avoidance schemes (VAT Notice 700/8)",
+      "link": "https://www.gov.uk/guidance/disclosure-of-vat-avoidance-schemes-vat-notice-7008",
+      "summary": "Find out the rules on disclosing arrangements and transactions that provide a VAT advantage.",
+      "published_at": "2026-07-31T16:00:04",
+      "fetched_at": "2026-07-31T19:20:18",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "5359aaaa19691e123f0c30de",
+      "title": "Disclosure of tax avoidance schemes",
+      "link": "https://www.gov.uk/guidance/disclosure-of-tax-avoidance-schemes-overview",
+      "summary": "Find out the rules for disclosure of VAT, indirect and direct taxes, Apprenticeship Levy and National Insurance contributions avoidance schemes and penalties for non-disclosure.",
+      "published_at": "2026-07-31T16:00:04",
+      "fetched_at": "2026-07-31T19:20:18",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "25a0955472aea4edafb02ea0",
+      "title": "Forms to disclose tax avoidance schemes",
+      "link": "https://www.gov.uk/guidance/forms-to-disclose-tax-avoidance-schemes",
+      "summary": "Find out which form to use in different circumstances.",
+      "published_at": "2026-07-31T16:00:04",
+      "fetched_at": "2026-07-31T19:20:18",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "c4d949f39aa8d103893fdc6a",
+      "title": "Guidance: Disclosure of tax avoidance schemes: guidance",
+      "link": "https://www.gov.uk/government/publications/disclosure-of-tax-avoidance-schemes-guidance",
+      "summary": "This guidance will help you work out if you need to tell HMRC that you use or promote a tax avoidance scheme.",
+      "published_at": "2026-07-31T16:00:04",
+      "fetched_at": "2026-07-31T19:20:18",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "3b1f5fa375504ab2c207ab28",
+      "title": "Form: Tell HMRC your Inheritance Tax scheme reference number",
+      "link": "https://www.gov.uk/government/publications/tax-avoidance-schemes-disclosure-of-inheritance-tax-scheme-reference-number-aag4iht",
+      "summary": "Use form AAG4(IHT) to tell HMRC of a scheme reference number given to you for an Inheritance Tax avoidance scheme you have used.",
+      "published_at": "2026-07-31T16:00:04",
+      "fetched_at": "2026-07-31T19:20:18",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "1ef3fae5e8e4e4c39ee467db",
+      "title": "Form: Tell HMRC your Stamp Duty Land Tax scheme reference number",
+      "link": "https://www.gov.uk/government/publications/tax-avoidance-schemes-stamp-duty-land-tax-scheme-reference-number-aag4-sdlt",
+      "summary": "Use form AAG4(SDLT) to tell HMRC of a scheme reference number given to you for a Stamp Duty Land Tax (SDLT) avoidance scheme you have used.",
+      "published_at": "2026-07-31T16:00:04",
+      "fetched_at": "2026-07-31T19:20:18",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "0bf52c85b08f823280693ad3",
+      "title": "Form: Tax avoidance schemes: notification by scheme promoter (AAG1)",
+      "link": "https://www.gov.uk/government/publications/tax-avoidance-schemes-notification-by-scheme-promoter-aag1",
+      "summary": "Tell HMRC if you're a promoter of notifiable arrangements to disclose an avoidance scheme.",
+      "published_at": "2026-07-31T16:00:04",
+      "fetched_at": "2026-07-31T19:20:18",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "78c4c91674e9bf12334b6902",
+      "title": "Form: Tax avoidance schemes: disclosure by scheme user where offshore promoter doesn't notify (AAG2)",
+      "link": "https://www.gov.uk/government/publications/tax-avoidance-schemes-disclosure-by-scheme-user-where-offshore-promoter-does-not-notify-aag2",
+      "summary": "Use form AAG2 if you use a notifiable arrangement but the offshore promoter has not told HMRC about the avoidance scheme.",
+      "published_at": "2026-07-31T16:00:04",
+      "fetched_at": "2026-07-31T19:20:18",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "e803092f2da2b3e9740652a9",
+      "title": "Form: Tax avoidance schemes: notification by scheme user where no promoter, or promoted by lawyer who can't make full notification (AAG3)",
+      "link": "https://www.gov.uk/government/publications/tax-avoidance-schemes-notification-by-scheme-user-where-no-promoter-or-promoted-by-lawyer-unable-to-make-full-notification-aag3",
+      "summary": "Tell HMRC if you're a user of a scheme that has no promoter or is promoted by a lawyer who can't make a full notification.",
+      "published_at": "2026-07-31T16:00:04",
+      "fetched_at": "2026-07-31T19:20:18",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "c9938f2c3f9d6ec6ee6f82b6",
+      "title": "Form: Tell HMRC your tax avoidance scheme reference number",
+      "link": "https://www.gov.uk/government/publications/tax-avoidance-schemes-notification-of-scheme-reference-number-by-scheme-user-aag4",
+      "summary": "Use form AAG4 to tell HMRC of a scheme reference number given to you for a tax avoidance scheme you have used.",
+      "published_at": "2026-07-31T16:00:04",
+      "fetched_at": "2026-07-31T19:20:18",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "3a0d786020ac829e758152fc",
+      "title": "Form: Tell HMRC your ATED tax avoidance scheme reference number",
+      "link": "https://www.gov.uk/government/publications/tax-avoidance-schemes-disclosure-of-ated-scheme-reference-number-aag4ated",
+      "summary": "Use form AAG4(ATED) to tell HMRC of a scheme reference number given to you for an Annual Tax on Enveloped Dwellings (ATED) avoidance scheme you have used.",
+      "published_at": "2026-07-31T16:00:04",
+      "fetched_at": "2026-07-31T19:20:18",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "aa125b43d7939bf224edfcab",
+      "title": "Form: Tax avoidance schemes: disclosure of details about employees in relation to avoidance schemes (AAG8)",
+      "link": "https://www.gov.uk/government/publications/tax-avoidance-schemes-disclosure-of-details-about-employees-in-relation-to-avoidance-schemes-aag8",
+      "summary": "Use form AAG8 if you're an employer to provide an end of year notification in relation to avoidance schemes.",
+      "published_at": "2026-07-31T16:00:04",
+      "fetched_at": "2026-07-31T19:20:18",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "b8ac3ed2ada5d976eb02497d",
+      "title": "Mandatory payrolling of benefits in kind and expenses – interim guidance and legislation",
+      "link": "https://www.gov.uk/guidance/draft-guidance-and-legislation-to-aid-preparation-for-reporting-benefits-in-kind-in-real-time",
+      "summary": "Draft interim guidance and legislation to aid preparation for reporting benefits in kind (BiKs) and expenses in real time, through payroll software, from April 2027.",
+      "published_at": "2026-07-31T15:37:25",
+      "fetched_at": "2026-07-31T19:20:18",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 14,
+      "matched_keywords": [
+        "benefit",
+        "benefits",
+        "payroll"
+      ]
+    },
+    {
+      "id": "c6ff0a534a0ac91294ddef36",
+      "title": "Annex 3 – additional benefits in kind fields likely to be required on Full Payment Submission returns",
+      "link": "https://www.gov.uk/guidance/draft-guidance-and-legislation-to-aid-preparation-for-reporting-benefits-in-kind-in-real-time/annex-3-additional-benefits-in-kind-fields-likely-to-be-required-on-full-payment-submission-returns",
+      "summary": "Information about the additional benefits in kind (BiKs) fields likely to be required on Full Payment Submission (FPS) returns.",
+      "published_at": "2026-07-31T15:37:25",
+      "fetched_at": "2026-07-31T19:20:18",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 14,
+      "matched_keywords": [
+        "benefit",
+        "benefits",
+        "payroll"
+      ]
+    },
+    {
+      "id": "e28043a788f53a6ed9024563",
+      "title": "Check genuine HMRC contact that uses more than one communication method",
+      "link": "https://www.gov.uk/guidance/check-genuine-hmrc-contact-that-uses-more-than-one-communication-method",
+      "summary": "Check recent contacts from HMRC to help you decide if a suspicious email, phone call, text or letter could be a scam.",
+      "published_at": "2026-07-31T15:07:23",
+      "fetched_at": "2026-07-31T19:20:18",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "4801fa340e807853dcee3347",
+      "title": "Find out about the Non-Statutory Clearance Service",
+      "link": "https://www.gov.uk/guidance/non-statutory-clearance-service-guidance",
+      "summary": "How to use the Non-Statutory Clearance Service offered by HMRC for all customers and their advisers.",
+      "published_at": "2026-07-31T14:39:44",
+      "fetched_at": "2026-07-31T19:20:18",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 13,
+      "matched_keywords": [
+        "payroll",
+        "ei",
+        "statutory"
+      ]
+    },
+    {
+      "id": "1aa71e6e8e2857649fb305bd",
+      "title": "Notice: Notice IPT1: Insurance Premium Tax",
+      "link": "https://www.gov.uk/government/publications/notice-ipt-1-insurance-premium-tax",
+      "summary": "This notice gives guidance on Insurance Premium Tax (IPT), what it is, who it applies to and how to pay it.",
+      "published_at": "2026-07-31T14:16:57",
+      "fetched_at": "2026-07-31T19:20:18",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 9,
+      "matched_keywords": [
+        "payroll",
+        "premium"
+      ]
+    },
+    {
+      "id": "1bb0a2d219778a57c94c77ff",
+      "title": "The default operation of mandatory payrolling",
+      "link": "https://www.gov.uk/guidance/draft-guidance-and-legislation-to-aid-preparation-for-reporting-benefits-in-kind-in-real-time/the-default-operation-of-mandatory-payrolling",
+      "summary": "Real time reporting of benefits in kind and expenses from April 2027.",
+      "published_at": "2026-07-31T14:07:45",
+      "fetched_at": "2026-07-31T19:20:18",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 14,
+      "matched_keywords": [
+        "benefit",
+        "benefits",
+        "payroll"
+      ]
+    },
+    {
+      "id": "cf437d79eca3dc19ecf0efdf",
+      "title": "Future updates and timeline of delivery",
+      "link": "https://www.gov.uk/guidance/draft-guidance-and-legislation-to-aid-preparation-for-reporting-benefits-in-kind-in-real-time/future-updates-and-timeline-of-delivery",
+      "summary": "A timeline of what we expect to deliver between now and April 2027.",
+      "published_at": "2026-07-31T14:07:45",
+      "fetched_at": "2026-07-31T19:20:18",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "386223ecf0a2e462a2e212c7",
       "title": "Stamp Taxes on Shares Manual",
@@ -11144,484 +11593,6 @@
       "matched_keywords": [
         "payroll",
         "ei"
-      ]
-    },
-    {
-      "id": "f1baf8328a158209a7625e2d",
-      "title": "Research: Individuals, Small Businesses and Agents customer survey 2021",
-      "link": "https://www.gov.uk/government/publications/hmrc-individuals-small-businesses-and-agents-customer-survey-2021",
-      "summary": "This report describes the main findings from the department's 2021 customer survey.",
-      "published_at": "2026-07-09T08:30:05",
-      "fetched_at": "2026-07-09T09:34:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "f3281fd088cec1146b42f821",
-      "title": "Research: Individuals, Small Businesses and Agents customer survey 2022",
-      "link": "https://www.gov.uk/government/publications/hmrc-individuals-small-businesses-and-agents-customer-survey-2022",
-      "summary": "This report describes the main findings from the department's 2022 customer survey.",
-      "published_at": "2026-07-09T08:30:05",
-      "fetched_at": "2026-07-09T09:34:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "c5ac9265b6533d9b280f29cf",
-      "title": "Independent report: Response to Employment Data Lab's Analysis: Pathways to Success Programme",
-      "link": "https://www.gov.uk/government/publications/response-to-employment-data-labs-analysis-pathways-to-success-programme",
-      "summary": "Hertfordshire County Council's response to the Employment Data Lab's Analysis of its Pathways to Success Programme.",
-      "published_at": "2026-07-09T08:30:05",
-      "fetched_at": "2026-07-09T09:34:23",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "bd049779b9030632ac499b60",
-      "title": "Research: Research exploring a digital approach to communications",
-      "link": "https://www.gov.uk/government/publications/research-exploring-a-digital-approach-to-communications",
-      "summary": "Qualitative research exploring customers’ views on receiving digital communications from HM Revenue and Customs (HMRC).",
-      "published_at": "2026-07-09T08:30:04",
-      "fetched_at": "2026-07-09T09:34:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "77a36cadfe31c34d16f619d7",
-      "title": "Official Statistics: Scottish Income Tax Outturn Statistics: 2024 to 2025",
-      "link": "https://www.gov.uk/government/statistics/scottish-income-tax-outturn-statistics-2024-to-2025",
-      "summary": "Annual release of statistics relating to Income Tax from Scottish taxpayers' NSND Income Tax. Also includes comparable figures for those in the rest of the UK.",
-      "published_at": "2026-07-09T08:30:04",
-      "fetched_at": "2026-07-09T09:34:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "d80fa2a9c0f61b984d676b3d",
-      "title": "Research: Research exploring views on HMRC's Transformation Roadmap",
-      "link": "https://www.gov.uk/government/publications/research-exploring-views-on-hmrcs-transformation-roadmap",
-      "summary": "Qualitative research exploring customers’ views on the government’s vision for a more efficient, modernised and automated tax and customs system.",
-      "published_at": "2026-07-09T08:30:04",
-      "fetched_at": "2026-07-09T09:34:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "e33706d1552a3f04d0f0367f",
-      "title": "Official Statistics: Employment Data Lab Analysis: Durham County Council DurhamWorks programme",
-      "link": "https://www.gov.uk/government/statistics/employment-data-lab-analysis-durham-county-council-durhamworks-programme",
-      "summary": "This report presents an estimate of the impact of the DurhamWorks programme on employment and education outcomes of the programme's participants.",
-      "published_at": "2026-07-09T08:30:04",
-      "fetched_at": "2026-07-09T09:34:23",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "5030d452f9a5c5771cf52cab",
-      "title": "Research: Our Children, Our Future: Tackling Child Poverty - Monitoring and Evaluation baseline report",
-      "link": "https://www.gov.uk/government/publications/our-children-our-future-tackling-child-poverty-monitoring-and-evaluation-baseline-report",
-      "summary": "First annual monitoring and evaluation report of the ‘Our Children, Our Future: Tackling Child Poverty’ UK-wide Child Poverty Strategy 2025.",
-      "published_at": "2026-07-09T08:30:04",
-      "fetched_at": "2026-07-09T09:34:23",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "be977182e3a682b57c582ffe",
-      "title": "Corporate report: Evaluation report – phase 3 trial of Microsoft Copilot",
-      "link": "https://www.gov.uk/government/publications/evaluation-report-phase-3-trial-of-microsoft-copilot",
-      "summary": "Evaluation of a Microsoft Copilot pilot in HM Revenue and Customs.",
-      "published_at": "2026-07-09T08:30:03",
-      "fetched_at": "2026-07-09T09:34:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "88967bbd3abe103e9a4757f4",
-      "title": "Research: Effectiveness assessment including statistical analysis of the Universal Credit advances machine learning model: 1 April 2025 to 31 March 2026",
-      "link": "https://www.gov.uk/government/publications/effectiveness-assessment-including-statistical-analysis-of-the-universal-credit-advances-machine-learning-model-1-april-2025-to-31-march-2026",
-      "summary": "The assessment includes ad-hoc statistics on the impact of the Universal Credit (UC) advances machine learning model on groups with protected characteristics.",
-      "published_at": "2026-07-09T08:30:03",
-      "fetched_at": "2026-07-09T09:34:23",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "cfb74ae23ab17d5ef82183ba",
-      "title": "Research: Our Children, Our Future: Tackling Child Poverty - Monitoring and Evaluation baseline report",
-      "link": "https://www.gov.uk/government/publications/our-children-our-future-tackling-child-poverty-monitoring-and-evaluation-baseline-report",
-      "summary": "First annual monitoring and evaluation report of the ‘Our Children, Our Future: Tackling Child Poverty’ UK-wide Child Poverty Strategy 2025.",
-      "published_at": "2026-07-09T08:30:00",
-      "fetched_at": "2026-07-09T14:53:03",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "b4dfcfb077349ec539c5967f",
-      "title": "Official Statistics: Employment Data Lab Analysis: Durham County Council DurhamWorks programme",
-      "link": "https://www.gov.uk/government/statistics/employment-data-lab-analysis-durham-county-council-durhamworks-programme",
-      "summary": "This report presents an estimate of the impact of the DurhamWorks programme on employment and education outcomes of the programme's participants.",
-      "published_at": "2026-07-09T08:30:00",
-      "fetched_at": "2026-07-09T19:41:53",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "d0fba53b36138365545b438c",
-      "title": "Independent report: Response to the Employment Data Lab's analysis of Durham County Council's DurhamWorks programme",
-      "link": "https://www.gov.uk/government/publications/response-to-the-employment-data-labs-analysis-of-durham-county-councils-durhamworks-programme",
-      "summary": "Durham County Council's response to DWP's Employment Data Lab's analysis of the council's DurhamWorks programme.",
-      "published_at": "2026-07-09T08:30:00",
-      "fetched_at": "2026-07-09T19:41:53",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "f16e0304d0133205c57e75ad",
-      "title": "Guidance: Joint and several liability — repeated insolvency and non-payment — JAS/FS2",
-      "link": "https://www.gov.uk/government/publications/joint-and-several-liability-repeated-insolvency-and-non-payment-jasfs2",
-      "summary": "This factsheet gives information about when you may be jointly and severally liable for the relevant tax liability of a company because you’ve been connected to companies which have become insolvent with amounts due to HMRC.",
-      "published_at": "2026-07-09T07:19:51",
-      "fetched_at": "2026-07-09T09:34:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "b92efa2c35ff34ca99e2a7ec",
-      "title": "Tax Credits Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/tax-credits-manual",
-      "summary": "How HM Revenue and Customs handles Child Tax Credit and Working Tax Credit cases",
-      "published_at": "2026-07-09T07:05:56",
-      "fetched_at": "2026-07-09T09:34:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "7145860ddfabe7e9bad72ce0",
-      "title": "Policy paper: Timms Review of Personal Independence Payment: interim report",
-      "link": "https://www.gov.uk/government/publications/timms-review-of-personal-independence-payment-interim-report",
-      "summary": "An interim report of the Timms Review of Personal Independence Payment (PIP).",
-      "published_at": "2026-07-09T07:00:10",
-      "fetched_at": "2026-07-09T09:34:23",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "10ac6d4cbe49e8e56fd83793",
-      "title": "Correspondence: The Timms Review: Co-chair update, July 2026",
-      "link": "https://www.gov.uk/government/publications/the-timms-review-co-chair-update-july-2026",
-      "summary": "This document sets out an update on the progress of the Timms Review of Personal Independence Payment (PIP), from the Review's co-chairs.",
-      "published_at": "2026-07-09T07:00:10",
-      "fetched_at": "2026-07-09T09:34:23",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "28e22f71ab273f31fce3f2c8",
-      "title": "Timms Review of Personal Independence Payment: call for evidence",
-      "link": "https://www.gov.uk/government/calls-for-evidence/timms-review-of-personal-independence-payment-call-for-evidence",
-      "summary": "This call for evidence is being administered by DWP on behalf of the Timms Review steering group and seeks to gather feedback and insight relating to the areas outlined in the Terms of Reference of the Review.",
-      "published_at": "2026-07-09T07:00:10",
-      "fetched_at": "2026-07-09T09:34:23",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 22,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension",
-        "ei"
-      ]
-    },
-    {
-      "id": "a5d47d9c52dae5bb4ebd92f6",
-      "title": "Agency Information Collection Activities; Comment Request on Notice of Qualified Equity Investment for New Markets Credit",
-      "link": "https://www.federalregister.gov/documents/2026/07/09/2026-13909/agency-information-collection-activities-comment-request-on-notice-of-qualified-equity-investment",
-      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
-      "published_at": "2026-07-09T04:00:00",
-      "fetched_at": "2026-07-09T09:34:23",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "payroll",
-        "withholding"
-      ]
-    },
-    {
-      "id": "63e2cd491a83df590f37b8bd",
-      "title": "Charitable Remainder Annuity Trust Listed Transaction",
-      "link": "https://www.federalregister.gov/documents/2026/07/09/2026-13851/charitable-remainder-annuity-trust-listed-transaction",
-      "summary": "This document contains final regulations that identify certain charitable remainder annuity trust (CRAT) transactions and substantially similar transactions as listed transactions, a type of reportable transaction. Material advisors and certain participants in these listed transactions are required to file disclosures with the IRS and will be subject to penalties for failure to disclose. The final regulations affect participants in these transactions as well as material advisors but provide that",
-      "published_at": "2026-07-09T04:00:00",
-      "fetched_at": "2026-07-09T09:34:23",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 17,
-      "matched_keywords": [
-        "payroll",
-        "withholding",
-        "cra",
-        "regulation"
       ]
     }
   ]
