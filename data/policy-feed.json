@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-08-01T04:25:44",
+  "synced_at": "2026-08-01T08:15:48",
   "total": 500,
-  "new_count": 6,
+  "new_count": 11,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
-      "fetched": 18,
-      "added": 6,
+      "fetched": 22,
+      "added": 10,
       "error": null
     },
     {
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,126 @@
     }
   ],
   "items": [
+    {
+      "id": "e8ad778347bfb9edda41d846",
+      "title": "Agency Information Collection Activities; Comment Request on Export Exemption Certificate",
+      "link": "https://www.federalregister.gov/documents/2026/08/03/2026-15641/agency-information-collection-activities-comment-request-on-export-exemption-certificate",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+      "published_at": "2026-08-03T04:00:00",
+      "fetched_at": "2026-08-01T08:15:26",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
+    {
+      "id": "7581964c5fcd9c953087061d",
+      "title": "Agency Information Collection Activities; Comment Request on Application for Certificate Discharging Property Subject to Estate Tax Lien",
+      "link": "https://www.federalregister.gov/documents/2026/08/03/2026-15638/agency-information-collection-activities-comment-request-on-application-for-certificate-discharging",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+      "published_at": "2026-08-03T04:00:00",
+      "fetched_at": "2026-08-01T08:15:26",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
+    {
+      "id": "c94db36fb4dbbcf58ebdc0f8",
+      "title": "Section 898(c) Transition Rule for Allocating Foreign Taxes and Section 960(d)(4) Foreign Tax Credit Disallowance",
+      "link": "https://www.federalregister.gov/documents/2026/08/03/2026-15614/section-898c-transition-rule-for-allocating-foreign-taxes-and-section-960d4-foreign-tax-credit",
+      "summary": "This document contains proposed regulations that relate to allocating foreign taxes of foreign corporations affected by the repeal of the one-month deferral election and to the disallowance of foreign tax credits on certain distributions of previously taxed earnings and profits. The proposed regulations would affect taxpayers that operate in foreign countries through certain foreign corporations and taxpayers that claim the foreign tax credit.",
+      "published_at": "2026-08-03T04:00:00",
+      "fetched_at": "2026-08-01T08:15:26",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "payroll",
+        "withholding",
+        "ei",
+        "regulation"
+      ]
+    },
+    {
+      "id": "8191b96c874431987c2b2806",
+      "title": "Agency Information Collection Activities; Comment Request on U.S. Tax-Exempt Organization Returns and Related Forms.",
+      "link": "https://www.federalregister.gov/documents/2026/08/03/2026-15608/agency-information-collection-activities-comment-request-on-us-tax-exempt-organization-returns-and",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+      "published_at": "2026-08-03T04:00:00",
+      "fetched_at": "2026-08-01T08:15:26",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
+    {
+      "id": "8c1db2749a684133d08079ab",
+      "title": "Apprenticeship Levy Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/apprenticeship-levy",
+      "summary": "Guidance on the Apprenticeship Levy which applies to employers whose paybill exceeds a specific threshold.",
+      "published_at": "2026-08-01T00:00:00",
+      "fetched_at": "2026-08-01T08:15:28",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "ed6d47fbcf6ba48e1544e9ec",
       "title": "Transferring your apprenticeship levy to another business",
@@ -11483,125 +11603,6 @@
         "benefit",
         "benefits",
         "pension"
-      ]
-    },
-    {
-      "id": "5ec4c5538daf1c1016344001",
-      "title": "Official Statistics: Employment Data Lab Analysis: Hertfordshire County Council Pathways to Success Programme",
-      "link": "https://www.gov.uk/government/statistics/employment-data-lab-analysis-hertfordshire-county-council-pathways-to-success-programme",
-      "summary": "This report presents an estimate of the impact of the Pathways to Success programme on employment and education outcomes of the programme's participants.",
-      "published_at": "2026-07-09T08:30:07",
-      "fetched_at": "2026-07-09T09:34:23",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "4944a6a641652a69b3282110",
-      "title": "Independent report: Response to the Employment Data Lab's analysis of Durham County Council's DurhamWorks programme",
-      "link": "https://www.gov.uk/government/publications/response-to-the-employment-data-labs-analysis-of-durham-county-councils-durhamworks-programme",
-      "summary": "Durham County Council's response to DWP's Employment Data Lab's analysis of the council's DurhamWorks programme.",
-      "published_at": "2026-07-09T08:30:07",
-      "fetched_at": "2026-07-09T09:34:23",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "ee942046dcf3225ebb2e2294",
-      "title": "Official Statistics: Use of Discretionary Housing Payments: financial year 2025 to 2026",
-      "link": "https://www.gov.uk/government/statistics/use-of-discretionary-housing-payments-financial-year-2025-to-2026",
-      "summary": "Analysis of local authorities' use of Discretionary Housing Payments (England and Wales) from April 2025 to March 2026, based on local authority financial year end returns.",
-      "published_at": "2026-07-09T08:30:07",
-      "fetched_at": "2026-07-09T09:34:23",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "56f6933d680193a853426e5a",
-      "title": "Research: Agents, Small and Mid-Sized Businesses Customer Survey 2025",
-      "link": "https://www.gov.uk/government/publications/agents-small-and-mid-sized-businesses-customer-survey-2025",
-      "summary": "This report describes the main findings from the department's 2025 Agents, Small and Mid-Sized Businesses Customer Survey.",
-      "published_at": "2026-07-09T08:30:06",
-      "fetched_at": "2026-07-09T09:34:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "b12c61ff73318ca64981d249",
-      "title": "Research: Individuals, Small Businesses and Agents Customer Survey 2023",
-      "link": "https://www.gov.uk/government/publications/individuals-small-businesses-and-agents-customer-survey-2023",
-      "summary": "This report describes the main findings from the department's 2023 customer surveys with Individuals, Small Businesses and Agents.",
-      "published_at": "2026-07-09T08:30:06",
-      "fetched_at": "2026-07-09T09:34:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
       ]
     }
   ]
