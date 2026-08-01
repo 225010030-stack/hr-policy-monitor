@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-07-31T19:20:38",
+  "synced_at": "2026-08-01T02:32:57",
   "total": 500,
-  "new_count": 27,
+  "new_count": 12,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
       "fetched": 21,
-      "added": 7,
+      "added": 9,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 20,
+      "added": 0,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 3,
       "error": null
     },
     {
@@ -40,6 +40,82 @@
     }
   ],
   "items": [
+    {
+      "id": "ed6d47fbcf6ba48e1544e9ec",
+      "title": "Transferring your apprenticeship levy to another business",
+      "link": "https://www.gov.uk/guidance/transferring-your-apprenticeship-levy-to-another-business",
+      "summary": "Information for large employers about transferring unused apprenticeship levy funds to another business to pay for their apprenticeship training and assessment.",
+      "published_at": "2026-07-31T23:01:03",
+      "fetched_at": "2026-08-01T02:32:37",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 22,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension",
+        "ei"
+      ]
+    },
+    {
+      "id": "20d3befdbeb926a7a62b339c",
+      "title": "How to take on an apprentice",
+      "link": "https://www.gov.uk/guidance/how-to-take-on-an-apprentice",
+      "summary": "Information about employing an apprentice and how apprenticeship funding works.",
+      "published_at": "2026-07-31T23:01:03",
+      "fetched_at": "2026-08-01T02:32:37",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "6051b7b24dfe3dcf1c9e37e4",
+      "title": "How to register and use the apprenticeship service as an employer",
+      "link": "https://www.gov.uk/guidance/manage-apprenticeship-funds",
+      "summary": "Guidance on how to use the apprenticeship service to access funds to pay for apprenticeship training.",
+      "published_at": "2026-07-31T23:01:03",
+      "fetched_at": "2026-08-01T02:32:37",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
     {
       "id": "141242b0e3288090c18742d8",
       "title": "Disclosing VAT and other indirect tax avoidance schemes (VAT Notice 799)",
@@ -11526,73 +11602,6 @@
       "score": 6,
       "matched_keywords": [
         "payroll"
-      ]
-    },
-    {
-      "id": "0d20a7681fe74eeaac421552",
-      "title": "Official Statistics: Welsh Income Tax Outturn Statistics: 2024 to 2025",
-      "link": "https://www.gov.uk/government/statistics/welsh-income-tax-outturn-statistics-2024-to-2025",
-      "summary": "Annual release of statistics relating to Income Tax from Welsh taxpayers' NSND Income Tax. Also includes comparable figures for those in the rest of the UK.",
-      "published_at": "2026-07-09T08:30:05",
-      "fetched_at": "2026-07-09T09:34:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "8c2213837ee89e69a378fea7",
-      "title": "Research: Individuals Customer Experience and Perceptions Survey 2025",
-      "link": "https://www.gov.uk/government/publications/individuals-customer-experience-and-perceptions-survey-2025",
-      "summary": "This report describes the main findings from the department's 2025 Individuals Customer Experience and Perceptions Survey.",
-      "published_at": "2026-07-09T08:30:05",
-      "fetched_at": "2026-07-09T09:34:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "cfc42e7ad5a43edecdd56da8",
-      "title": "Research: The Large Business Customer Survey 2025",
-      "link": "https://www.gov.uk/government/publications/the-large-business-customer-survey-2025",
-      "summary": "Research into Large Business’ experiences of dealing with HMRC, their views on administration of tax policy and wider influences on their attitudes to tax.",
-      "published_at": "2026-07-09T08:30:05",
-      "fetched_at": "2026-07-09T09:34:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
       ]
     }
   ]
