@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-08-01T02:32:57",
+  "synced_at": "2026-08-01T04:25:44",
   "total": 500,
-  "new_count": 12,
+  "new_count": 6,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
-      "fetched": 21,
-      "added": 9,
+      "fetched": 18,
+      "added": 6,
       "error": null
     },
     {
@@ -28,7 +28,7 @@
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 3,
+      "added": 0,
       "error": null
     },
     {
