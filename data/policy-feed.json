@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-08-03T14:32:40",
+  "synced_at": "2026-08-03T19:26:34",
   "total": 500,
-  "new_count": 18,
+  "new_count": 8,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 8,
+      "added": 4,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 6,
+      "added": 0,
       "error": null
     },
     {
@@ -40,6 +40,94 @@
     }
   ],
   "items": [
+    {
+      "id": "4248c7aec609652c17b7b4b0",
+      "title": "Get childcare: step by step",
+      "link": "https://www.gov.uk/get-childcare",
+      "summary": "How to find childcare, get help paying for it and what to do if your circumstances change.",
+      "published_at": "2026-08-03T15:39:46",
+      "fetched_at": "2026-08-03T19:26:14",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "650ddc6533356a2d9239fb5b",
+      "title": "Company Taxation Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual",
+      "summary": "All aspects of company taxation.",
+      "published_at": "2026-08-03T14:55:32",
+      "fetched_at": "2026-08-03T19:26:14",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "3d63b37a3454e62556b5d63d",
+      "title": "Additional Information (AI) Statement Codes for Data Element 2/2 of the Customs Declaration Service (CDS)",
+      "link": "https://www.gov.uk/guidance/additional-information-ai-statement-codes-for-data-element-22-of-the-customs-declaration-service-cds",
+      "summary": "Find out the codes to be used to provide additional information in Data Element (DE) 2/2 of the customs declaration or clearance request (Appendix 4).",
+      "published_at": "2026-08-03T14:40:44",
+      "fetched_at": "2026-08-03T19:26:14",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "e7710a802d5b5e1cd9a3f448",
+      "title": "Check genuine HMRC contact that uses more than one communication method",
+      "link": "https://www.gov.uk/guidance/check-genuine-hmrc-contact-that-uses-more-than-one-communication-method",
+      "summary": "Check recent contacts from HMRC to help you decide if a suspicious email, phone call, text or letter could be a scam.",
+      "published_at": "2026-08-03T14:31:50",
+      "fetched_at": "2026-08-03T19:26:14",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "ba3ff7e0e21e29c851729ef7",
       "title": "Guidance: Apprenticeship funding rules: 2026 to 2027",
@@ -11493,94 +11581,6 @@
       "link": "https://www.gov.uk/government/publications/hmrc-performance-update-january-to-march-2026",
       "summary": "Details of HMRC's performance against the department's strategic objectives for quarter 4 of financial year 2025 to 2026.",
       "published_at": "2026-07-09T12:35:03",
-      "fetched_at": "2026-07-09T14:53:03",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "d74c9b972e2e243e184f91b7",
-      "title": "Guidance: Self Assessment commercial software suppliers",
-      "link": "https://www.gov.uk/government/publications/self-assessment-commercial-software-suppliers",
-      "summary": "Find software suppliers for tax returns, supplementary pages and attachments.",
-      "published_at": "2026-07-09T12:25:58",
-      "fetched_at": "2026-07-09T14:53:03",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "813d0ce7f64c1b2f329fce1b",
-      "title": "Cancel your Gaming Duty registration",
-      "link": "https://www.gov.uk/guidance/cancel-your-gaming-duty-registration",
-      "summary": "Find out when and how to cancel your Gaming Duty registration.",
-      "published_at": "2026-07-09T12:25:53",
-      "fetched_at": "2026-07-09T14:53:03",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "6733652588f3cc8f91cc6a87",
-      "title": "Guidance: Simple Assessment payment plan: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/simple-assessment-payment-plan-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the Simple Assessment payment plan service.",
-      "published_at": "2026-07-09T12:24:14",
-      "fetched_at": "2026-07-09T14:53:03",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "dad1638581697f183e7090f7",
-      "title": "Guidance: Intrastat: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/intrastat-is2-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the Intrastat (IS2) online service.",
-      "published_at": "2026-07-09T12:12:06",
       "fetched_at": "2026-07-09T14:53:03",
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
