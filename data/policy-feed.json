@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-08-03T05:25:20",
+  "synced_at": "2026-08-03T09:38:40",
   "total": 500,
-  "new_count": 4,
+  "new_count": 12,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 6,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 2,
       "error": null
     },
     {
@@ -40,6 +40,192 @@
     }
   ],
   "items": [
+    {
+      "id": "4f46bfd9b31db27f7130e99e",
+      "title": "Guidance: Jobcentre Plus: opportunities for public and voluntary organisations",
+      "link": "https://www.gov.uk/government/publications/local-partnership-opportunities-with-jobcentre-plus",
+      "summary": "Opportunities for public and voluntary organisations to help Jobcentre Plus move people off benefits and into employment.",
+      "published_at": "2026-08-03T09:25:52",
+      "fetched_at": "2026-08-03T09:38:20",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "00c1db14fe2b071055cf2a83",
+      "title": "How to complete your statutory notice return",
+      "link": "https://www.gov.uk/guidance/how-to-complete-your-statutory-notice-return",
+      "summary": "How to download and complete your spreadsheet return templates and send them to HMRC.",
+      "published_at": "2026-08-03T08:15:32",
+      "fetched_at": "2026-08-03T09:38:20",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 9,
+      "matched_keywords": [
+        "payroll",
+        "statutory"
+      ]
+    },
+    {
+      "id": "b800b533cceaab4c900ed972",
+      "title": "Submit a claim using the second-hand motor vehicle payment scheme if you do not have a UK business establishment",
+      "link": "https://www.gov.uk/guidance/submit-a-claim-using-the-second-hand-motor-vehicle-payment-scheme-if-you-do-not-have-a-uk-business-establishment",
+      "summary": "Submit a claim for a VAT-related payment using the second-hand motor vehicle payment scheme.",
+      "published_at": "2026-08-03T08:04:20",
+      "fetched_at": "2026-08-03T09:38:20",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "8967ec9b9d6b206cec3b98c4",
+      "title": "Send documents or information to HMRC for a compliance check",
+      "link": "https://www.gov.uk/guidance/send-documents-or-information-to-hmrc-for-a-compliance-check",
+      "summary": "Use this form to upload documents or send information if you've received a letter from HMRC's compliance team asking for additional information.",
+      "published_at": "2026-08-03T08:02:59",
+      "fetched_at": "2026-08-03T09:38:20",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 13,
+      "matched_keywords": [
+        "payroll",
+        "ei",
+        "compliance"
+      ]
+    },
+    {
+      "id": "a32fa1fed9ff78b8fa55c5bd",
+      "title": "Check the recognised overseas pension schemes notification list",
+      "link": "https://www.gov.uk/guidance/check-the-recognised-overseas-pension-schemes-notification-list",
+      "summary": "Find schemes that have told HMRC they meet the conditions to be a recognised overseas pension scheme (ROPS).",
+      "published_at": "2026-08-03T08:00:05",
+      "fetched_at": "2026-08-03T09:38:20",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "pension",
+        "payroll"
+      ]
+    },
+    {
+      "id": "fe3d72ff3d1855d26a9d241a",
+      "title": "Guidance: List of Individual Savings Account (ISA) managers approved by HMRC",
+      "link": "https://www.gov.uk/government/publications/list-of-individual-savings-account-isa-managers-approved-by-hmrc",
+      "summary": "Find ISA managers approved by HMRC from October 2014.",
+      "published_at": "2026-08-03T08:00:05",
+      "fetched_at": "2026-08-03T09:38:20",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "4f951114479d5e057829f937",
+      "title": "How to complete a bank and building society interest return",
+      "link": "https://www.gov.uk/guidance/how-to-complete-a-bank-and-building-society-interest-return",
+      "summary": "Find out how to complete and submit a return using the HMRC spreadsheet or electronic flat text file (EFTF).",
+      "published_at": "2026-08-03T07:43:18",
+      "fetched_at": "2026-08-03T09:38:20",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "590555178e8da96709304bc0",
+      "title": "Guidance: Easy read: Maternity Allowance",
+      "link": "https://www.gov.uk/government/publications/easy-read-maternity-allowance",
+      "summary": "This easy read guide explains what Maternity Allowance is and how you can apply for it.",
+      "published_at": "2026-08-03T07:05:58",
+      "fetched_at": "2026-08-03T09:38:20",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
     {
       "id": "e8ad778347bfb9edda41d846",
       "title": "Agency Information Collection Activities; Comment Request on Export Exemption Certificate",
@@ -11409,200 +11595,6 @@
       "score": 6,
       "matched_keywords": [
         "payroll"
-      ]
-    },
-    {
-      "id": "4b289eb722ce0c3196bad8b1",
-      "title": "Corporate report: DWP annual report and accounts 2025 to 2026",
-      "link": "https://www.gov.uk/government/publications/dwp-annual-report-and-accounts-2025-to-2026",
-      "summary": "Information on the expenditure and performance of the Department for Work and Pensions from 1 April 2025 to 31 March 2026.",
-      "published_at": "2026-07-09T09:10:46",
-      "fetched_at": "2026-07-09T09:34:23",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "3cb02165806ba5f9d3a2f9f5",
-      "title": "Transparency data: DWP register of board members’ interests Apr 2025 to Mar 2026",
-      "link": "https://www.gov.uk/government/publications/dwp-register-of-board-members-interests-apr-2025-to-mar-2026",
-      "summary": "Department for Work and Pensions (DWP) register of interests at 31 March 2026.",
-      "published_at": "2026-07-09T09:10:03",
-      "fetched_at": "2026-07-09T09:34:23",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "4ebb102e87c3205dafa75e4d",
-      "title": "Corporate report: Named tax avoidance schemes, promoters, enablers and suppliers",
-      "link": "https://www.gov.uk/government/publications/named-tax-avoidance-schemes-promoters-enablers-and-suppliers",
-      "summary": "Information about tax avoidance schemes, promoters, enablers and suppliers of these schemes.",
-      "published_at": "2026-07-09T08:51:42",
-      "fetched_at": "2026-07-09T09:34:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "e92e5cb090a586b4fc0a1fe4",
-      "title": "PAYE Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/paye-manual",
-      "summary": "Guidance for staff working through PAYE processes for individuals and employers. HMRC is currently reviewing this guidance. If you have any comments or feedback, please email: hmrcmanualsteam@hmrc.gov.uk",
-      "published_at": "2026-07-09T08:42:26",
-      "fetched_at": "2026-07-09T09:34:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "de9d37b011d31b9026626aa1",
-      "title": "Official Statistics: Deep material poverty: Financial year ending 2024",
-      "link": "https://www.gov.uk/government/statistics/deep-material-poverty-financial-year-ending-2024",
-      "summary": "Statistics on the number and percentage of children living in deep material poverty for financial year ending 2024.",
-      "published_at": "2026-07-09T08:30:11",
-      "fetched_at": "2026-07-09T09:34:23",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "2322d3a8ce609d9985736d73",
-      "title": "Research: Child Poverty Expert Analytical Panel",
-      "link": "https://www.gov.uk/government/publications/child-poverty-expert-analytical-panel",
-      "summary": "The terms of reference and panel membership for the Child Poverty Expert Child Poverty Expert Analytical Panel (CP-EAP).",
-      "published_at": "2026-07-09T08:30:09",
-      "fetched_at": "2026-07-09T09:34:23",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "b2bac57c10142bd01a32f8b1",
-      "title": "Research: Low income poverty projections for children, FYE 2026 to FYE 2031, July 2026",
-      "link": "https://www.gov.uk/government/publications/low-income-poverty-projections-for-children-fye-2026-to-fye-2031-july-2026",
-      "summary": "Provides the government’s current best estimate of the future low income poverty trends for children based on the policy position and economic assumptions after Spring Statement 2026.",
-      "published_at": "2026-07-09T08:30:08",
-      "fetched_at": "2026-07-09T09:34:23",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "a58a031f3a976301f9bc8696",
-      "title": "Guidance: Employment Data Lab: information and guidance",
-      "link": "https://www.gov.uk/government/publications/employment-data-lab-information-and-guidance",
-      "summary": "The Employment Data Lab is a service provided by the Department for Work and Pensions (DWP).",
-      "published_at": "2026-07-09T08:30:08",
-      "fetched_at": "2026-07-09T09:34:23",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
       ]
     }
   ]
