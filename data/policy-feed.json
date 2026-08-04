@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-08-04T14:04:44",
+  "synced_at": "2026-08-04T19:28:09",
   "total": 500,
-  "new_count": 29,
+  "new_count": 12,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
       "fetched": 21,
-      "added": 5,
+      "added": 6,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 16,
+      "added": 2,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 8,
+      "added": 4,
       "error": null
     },
     {
@@ -40,6 +40,151 @@
     }
   ],
   "items": [
+    {
+      "id": "7837602a5850c62c4bd7ef4a",
+      "title": "Official Statistics: Property rental income statistics: 2026",
+      "link": "https://www.gov.uk/government/statistics/announcements/property-rental-income-statistics-2026",
+      "summary": "This release provides statistics on income and expenses from renting property declared by taxpayers in HMRC’s Income Tax Self-Assessment (ITSA) returns data only. Statistics are provided for 5 tax years from 2020 to 2021 up until 2024 to 2025. Incorporated businesses with property income do not file ITSA returns and as such are not included in this release. The publication also does not contain information on tenants of rented property, or on income received from buying and selling properties.",
+      "published_at": "2026-08-04T16:09:44",
+      "fetched_at": "2026-08-04T19:27:48",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "efea9d9029dfe94b1d727a63",
+      "title": "Research: Our Children, Our Future: Tackling Child Poverty - Monitoring and Evaluation baseline report",
+      "link": "https://www.gov.uk/government/publications/our-children-our-future-tackling-child-poverty-monitoring-and-evaluation-baseline-report",
+      "summary": "First annual monitoring and evaluation report of the ‘Our Children, Our Future: Tackling Child Poverty’ UK-wide Child Poverty Strategy 2025.",
+      "published_at": "2026-08-04T15:08:44",
+      "fetched_at": "2026-08-04T19:27:49",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "b1cea891123be42380693b32",
+      "title": "Guidance: Housing Benefit adjudication circulars 2026",
+      "link": "https://www.gov.uk/government/publications/housing-benefit-adjudication-circulars-2026",
+      "summary": "Adjudication circulars provide updates to the Housing Benefit guidance manual for local authority staff.",
+      "published_at": "2026-08-04T15:05:59",
+      "fetched_at": "2026-08-04T19:27:49",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "593ff951ea11f87445db68b8",
+      "title": "Research: Skills England annual skills report and Sectoral Skills Needs Assessments 2026",
+      "link": "https://www.gov.uk/government/publications/skills-england-annual-skills-report-and-sectoral-skills-needs-assessments-2026",
+      "summary": "The 2026 annual skills report highlights key challenges in the skills system. Our Skills Needs Assessments outline skills demand and supply in priority sectors.",
+      "published_at": "2026-08-04T14:16:41",
+      "fetched_at": "2026-08-04T19:27:49",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "0217bde49b25f5c8de4795c1",
+      "title": "Guidance: Universal Credit if you have a disability or health condition",
+      "link": "https://www.gov.uk/government/publications/universal-credit-if-you-have-a-disability-or-health-condition-quick-guide",
+      "summary": "The support that is available for Universal Credit claimants who have a disability or health condition.",
+      "published_at": "2026-08-04T14:15:55",
+      "fetched_at": "2026-08-04T19:27:49",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "afe8b7dc0d98c6e9d3342bae",
+      "title": "VAT Construction",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/vat-construction",
+      "summary": "Guidance providing additional information on the treatment of buildings and construction as far as the zero and reduced rates of VAT are concerned.",
+      "published_at": "2026-08-04T14:05:59",
+      "fetched_at": "2026-08-04T19:27:48",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "e88067cf28704aa7e7913f3d",
       "title": "VAT Construction",
@@ -11472,150 +11617,6 @@
       "score": 6,
       "matched_keywords": [
         "payroll"
-      ]
-    },
-    {
-      "id": "acb3a2865a978ff505b3acbe",
-      "title": "Check if a letter you’ve received from HMRC is genuine",
-      "link": "https://www.gov.uk/guidance/check-if-a-letter-youve-received-from-hmrc-is-genuine",
-      "summary": "Check a list of recent letters from HMRC to help you decide if a letter you’ve received is a scam.",
-      "published_at": "2026-07-10T14:03:07",
-      "fetched_at": "2026-07-10T14:19:47",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "d27d783624bc9d072f9aaee8",
-      "title": "Policy paper: HSE Regulation Action Plan: Growth Goals 2026 to 2027",
-      "link": "https://www.gov.uk/government/publications/hse-regulation-action-plan-growth-goals-2026-to-2027",
-      "summary": "Growth goals for HSE for 2026 to 2027 covering use of innovative technologies, a more agile chemical regulatory system, enabling Net Zero industries (carbon capture and fusion) and the reduction of administrative burdens.",
-      "published_at": "2026-07-10T13:13:13",
-      "fetched_at": "2026-07-10T14:19:47",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 21,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension",
-        "regulation"
-      ]
-    },
-    {
-      "id": "c812ff67f9fe0e323d76dbec",
-      "title": "Policy paper: TPR Regulation Action Plan: Growth Goals 2026 to 2027",
-      "link": "https://www.gov.uk/government/publications/tpr-regulation-action-plan-growth-goals-2026-to-2027",
-      "summary": "Growth goals for The Pensions Regulator (TPR) for 2026 to 2027.",
-      "published_at": "2026-07-10T13:06:36",
-      "fetched_at": "2026-07-10T14:19:47",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 21,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension",
-        "regulation"
-      ]
-    },
-    {
-      "id": "b101cc8ac89e3ffa7a0be08d",
-      "title": "Self Assessment Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual",
-      "summary": "This manual contains guidance and processes for Self Assessment (SA)",
-      "published_at": "2026-07-10T12:40:55",
-      "fetched_at": "2026-07-10T14:19:47",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "ea6eace6f29d132a6d744d4c",
-      "title": "Stamp Taxes on Shares Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/stamp-taxes-shares-manual",
-      "summary": "Guidance on Stamp Taxes on Shares and other Securities - Stamp Duty and Stamp Duty Reserve Tax (SDRT)",
-      "published_at": "2026-07-10T11:52:09",
-      "fetched_at": "2026-07-10T14:19:47",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "8c41ca8f46d5964ebd14ba87",
-      "title": "Research: Upcoming DWP research publications",
-      "link": "https://www.gov.uk/government/publications/list-of-upcoming-research-publications",
-      "summary": "This document provides details of upcoming Department for Work and Pensions (DWP) research publications.",
-      "published_at": "2026-07-10T11:09:52",
-      "fetched_at": "2026-07-10T14:19:47",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
       ]
     }
   ]
