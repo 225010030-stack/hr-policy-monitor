@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-08-05T04:16:32",
+  "synced_at": "2026-08-05T08:30:59",
   "total": 500,
-  "new_count": 6,
+  "new_count": 7,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,29 @@
     }
   ],
   "items": [
+    {
+      "id": "33c1bc1b40456b6cec92f342",
+      "title": "Corporate Finance Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual",
+      "summary": "An introduction to corporate finance legislation covering loan relationships, foreign exchange (FOREX) and derivative contracts",
+      "published_at": "2026-08-05T08:19:32",
+      "fetched_at": "2026-08-05T08:30:39",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
     {
       "id": "7837602a5850c62c4bd7ef4a",
       "title": "Official Statistics: Property rental income statistics: 2026",
@@ -11581,28 +11604,6 @@
       "link": "https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual",
       "summary": "This manual contains guidance and processes for Self Assessment (SA)",
       "published_at": "2026-07-10T15:15:25",
-      "fetched_at": "2026-07-10T19:23:31",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "bf9f20277a3a72244b7fef8d",
-      "title": "Authorising an agent to deal with your tax affairs",
-      "link": "https://www.gov.uk/guidance/authorising-an-agent-to-deal-with-your-tax-affairs",
-      "summary": "Check what a paid agent can do on your behalf. How you authorise the agent depends on the tax, and you may need to use paper form 64-8 or an online service.",
-      "published_at": "2026-07-10T14:22:14",
       "fetched_at": "2026-07-10T19:23:31",
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
