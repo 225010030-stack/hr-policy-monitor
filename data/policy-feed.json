@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-08-06T04:19:41",
+  "synced_at": "2026-08-06T08:31:23",
   "total": 500,
-  "new_count": 8,
+  "new_count": 9,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,28 @@
     }
   ],
   "items": [
+    {
+      "id": "fdb5709c2867331ab9e6e6d8",
+      "title": "Tax Credits Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/tax-credits-manual",
+      "summary": "How HM Revenue and Customs handles Child Tax Credit and Working Tax Credit cases",
+      "published_at": "2026-08-06T07:54:41",
+      "fetched_at": "2026-08-06T08:31:02",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "4d96ddb9e022d41d79ba0321",
       "title": "Choose the right software for Pillar 2 Top-up Taxes",
@@ -11564,31 +11586,6 @@
       "title": "Policy paper: Workplace pensions: an updated roadmap",
       "link": "https://www.gov.uk/government/publications/workplace-pensions-an-updated-roadmap",
       "summary": "An updated roadmap setting out the government’s plan to implement reforms across workplace pensions.",
-      "published_at": "2026-07-13T09:30:06",
-      "fetched_at": "2026-07-13T14:29:40",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "696da35bc0fbf69be4406e82",
-      "title": "Policy paper: Guiding Principles for Default Pensions",
-      "link": "https://www.gov.uk/government/publications/guiding-principles-for-default-pensions",
-      "summary": "The government has published its guiding principles for default pensions under Guided Retirement. These principles set out the intended outcomes for default pensions and the role they will play in helping savers achieve a sustainable retirement income without needing to make complex financial decisions.",
       "published_at": "2026-07-13T09:30:06",
       "fetched_at": "2026-07-13T14:29:40",
       "source_id": "uk_dwp",
