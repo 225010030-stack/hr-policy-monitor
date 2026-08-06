@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-08-06T14:01:00",
+  "synced_at": "2026-08-06T23:55:58",
   "total": 500,
-  "new_count": 27,
+  "new_count": 12,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -15,20 +15,20 @@
       "source_name": "US Federal Register · DOL",
       "fetched": 0,
       "added": 0,
-      "error": "HTTP Error 503: Service Temporarily Unavailable"
+      "error": null
     },
     {
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 14,
+      "added": 3,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 5,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,99 @@
     }
   ],
   "items": [
+    {
+      "id": "018503006481472719480b8f",
+      "title": "Accredited official statistics: Corporation Tax Statistics 2026",
+      "link": "https://www.gov.uk/government/statistics/announcements/corporation-tax-statistics-2026",
+      "summary": "Analyses of Corporation Tax receipts and liabilities.",
+      "published_at": "2026-08-06T15:47:31",
+      "fetched_at": "2026-08-06T23:55:38",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "eeb7d3abc9be0d07351ade83",
+      "title": "Moving processed or repaired goods into free circulation or re-exporting them",
+      "link": "https://www.gov.uk/guidance/moving-processed-or-repaired-goods-into-free-circulation-or-re-exporting-them",
+      "summary": "Find out how to move your goods from inward processing into free circulation, another special procedure or re-export.",
+      "published_at": "2026-08-06T15:07:28",
+      "fetched_at": "2026-08-06T23:55:38",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "cf57caa5144e700a85ad40fd",
+      "title": "Declare your goods to authorised use and completing authorised use",
+      "link": "https://www.gov.uk/guidance/declare-your-goods-to-end-use-and-completing-end-use",
+      "summary": "Find out how to declare that your goods have been put to their authorised use, destroyed or re-exported.",
+      "published_at": "2026-08-06T14:39:52",
+      "fetched_at": "2026-08-06T23:55:38",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "e7e5041a37cd6da06a3f7110",
+      "title": "Guidance: Advice for decision making: staff guide",
+      "link": "https://www.gov.uk/government/publications/advice-for-decision-making-staff-guide",
+      "summary": "Advice for DWP decision makers on Universal Credit, PIP and contribution-based JSA and ESA for people who are eligible for Universal Credit.",
+      "published_at": "2026-08-06T14:08:34",
+      "fetched_at": "2026-08-06T23:55:38",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
     {
       "id": "63b03af4d8d165184ddb91c8",
       "title": "Check genuine HMRC contact that uses more than one communication method",
@@ -11505,95 +11598,6 @@
       ],
       "score": 6,
       "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "b1c8d8d468e380c157161360",
-      "title": "Self Assessment Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual",
-      "summary": "This manual contains guidance and processes for Self Assessment (SA)",
-      "published_at": "2026-07-13T12:44:09",
-      "fetched_at": "2026-07-13T14:29:40",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "cce344d98d8394d60edc153e",
-      "title": "Sign up for Making Tax Digital for Income Tax",
-      "link": "https://www.gov.uk/guidance/sign-up-for-making-tax-digital-for-income-tax",
-      "summary": "If you're a sole trader or landlord, use the online service to sign up for Making Tax Digital for Income Tax.",
-      "published_at": "2026-07-13T12:30:18",
-      "fetched_at": "2026-07-13T14:29:40",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "0ce624eb291f19dcb901fc12",
-      "title": "Sign up your client for Making Tax Digital for Income Tax",
-      "link": "https://www.gov.uk/guidance/sign-up-your-client-for-making-tax-digital-for-income-tax",
-      "summary": "If you're an agent, use the online service to sign up your client for Making Tax Digital for Income Tax.",
-      "published_at": "2026-07-13T12:30:16",
-      "fetched_at": "2026-07-13T14:29:40",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "8fd7b727b7405e0e56a4eac4",
-      "title": "Policy paper: Cryptoasset loans and liquidity pools",
-      "link": "https://www.gov.uk/government/publications/cryptoasset-loans-and-liquidity-pools",
-      "summary": "This measure is about the treatment of certain disposals involving cryptoasset loans and liquidity pools for Capital Gains Tax.",
-      "published_at": "2026-07-13T12:24:00",
-      "fetched_at": "2026-07-13T14:29:40",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "pto",
         "payroll"
       ]
     }
