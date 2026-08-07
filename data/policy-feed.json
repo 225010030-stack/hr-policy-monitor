@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-08-07T12:56:52",
+  "synced_at": "2026-08-07T18:52:14",
   "total": 500,
-  "new_count": 23,
+  "new_count": 16,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 10,
+      "added": 8,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 6,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,209 @@
     }
   ],
   "items": [
+    {
+      "id": "acab979a9d6a8b38f408ab90",
+      "title": "Pensions Tax Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual",
+      "summary": "The legislation and regulations behind the pension schemes tax regime. This manual replaced Registered Pension Schemes Manual from 2015.",
+      "published_at": "2026-08-07T16:31:14",
+      "fetched_at": "2026-08-07T18:51:53",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 13,
+      "matched_keywords": [
+        "pension",
+        "payroll",
+        "regulation"
+      ]
+    },
+    {
+      "id": "2d7be757c707c2544548cd60",
+      "title": "Guidance: Import Control System 2: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/import-control-system-2-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the Import Control System 2 (ICS2) service.",
+      "published_at": "2026-08-07T16:08:41",
+      "fetched_at": "2026-08-07T18:51:53",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "bef4ced8691be10f12ff5bba",
+      "title": "Corporate Intangibles Research and Development Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/corporate-intangibles-research-and-development-manual",
+      "summary": "Corporation Tax and the taxation of intangible assets, remediation of contaminated land, vaccines research relief and tax credits for research & development.",
+      "published_at": "2026-08-07T15:30:54",
+      "fetched_at": "2026-08-07T18:51:53",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "e89216a3374274ab5d431753",
+      "title": "Official Statistics: Schedule of updates and announcements for HMRC's statistics",
+      "link": "https://www.gov.uk/government/statistics/schedule-of-updates-and-announcements-for-hmrcs-statistics",
+      "summary": "Publication plan for HMRC National and Official Statistics. Any changes to the schedule will be detailed in the announcements.",
+      "published_at": "2026-08-07T14:12:04",
+      "fetched_at": "2026-08-07T18:51:53",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "2d89276d5cc24937e7b31340",
+      "title": "Research: WorkWell Pilots Evaluation Early Implementation Findings",
+      "link": "https://www.gov.uk/government/publications/workwell-pilots-evaluation-early-implementation-findings",
+      "summary": "This report presents the emerging findings from the evaluation of the 15 WorkWell programme pilots, from October 2024 to March 2025",
+      "published_at": "2026-08-07T14:07:47",
+      "fetched_at": "2026-08-07T18:51:53",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "f75fabd6b1787515e74eb12c",
+      "title": "Transparency data: HMRC major projects: appointment letters for Senior Responsible Owners",
+      "link": "https://www.gov.uk/government/publications/hmrc-major-projects-appointment-letters-for-senior-responsible-owners",
+      "summary": "HMRC appointment letters for Government Major Projects Portfolio (GMPP) and Departmental Major Projects (DMP) Senior Responsible Owners (SROs).",
+      "published_at": "2026-08-07T14:03:19",
+      "fetched_at": "2026-08-07T18:51:53",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "972f690d204dae5bc3d0d523",
+      "title": "Check genuine HMRC contact that uses more than one communication method",
+      "link": "https://www.gov.uk/guidance/check-genuine-hmrc-contact-that-uses-more-than-one-communication-method",
+      "summary": "Check recent contacts from HMRC to help you decide if a suspicious email, phone call, text or letter could be a scam.",
+      "published_at": "2026-08-07T13:50:16",
+      "fetched_at": "2026-08-07T18:51:53",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "29dcecb95a810bee6e5e893e",
+      "title": "Trust Registration Service Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/trust-registration-service-manual",
+      "summary": "Non-UK trusts that acquired UK property before 6 October 2020 are not currently able to register due to changes to the IT system. We will release an update in due course.The Trust Registration Service (TRS) is the Government's register of trusts; it is part of the Government's wider strategy to prevent money laundering and terrorist financing.",
+      "published_at": "2026-08-07T13:05:57",
+      "fetched_at": "2026-08-07T18:51:53",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "ba2dcf92c940749890da37d1",
+      "title": "Official Statistics: Patent Box relief statistics: September 2026",
+      "link": "https://www.gov.uk/government/statistics/announcements/patent-box-relief-statistics-september-2026",
+      "summary": "Statistics on the number of companies elected into the UK Patent Box and its associated cost to the Exchequer",
+      "published_at": "2026-08-07T12:59:00",
+      "fetched_at": "2026-08-07T18:51:53",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "554b29ca0345eaabba56b773",
       "title": "Research: Upcoming DWP research publications",
@@ -11392,214 +11595,6 @@
         "benefit",
         "benefits",
         "pension"
-      ]
-    },
-    {
-      "id": "77e527333274392e5608e409",
-      "title": "Policy paper: Unpaid carers action plan: recognise, refer, reach",
-      "link": "https://www.gov.uk/government/publications/unpaid-carers-action-plan-recognise-refer-reach",
-      "summary": "This action plan aims to improve the lives of unpaid carers in England.",
-      "published_at": "2026-07-14T10:42:29",
-      "fetched_at": "2026-07-14T13:28:23",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "6f0d88344050ca99b84ebac4",
-      "title": "The Value for Money Framework: Consultation",
-      "link": "https://www.gov.uk/government/consultations/the-value-for-money-framework-consultation",
-      "summary": "The Value for Money Framework will place investment outcomes, service quality and overall value at the centre of workplace pension provision.",
-      "published_at": "2026-07-14T10:37:58",
-      "fetched_at": "2026-07-14T13:28:23",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "5ae3f5f1ddc3afc7e80e4bd1",
-      "title": "Policy paper: Workplace pensions: an updated roadmap",
-      "link": "https://www.gov.uk/government/publications/workplace-pensions-an-updated-roadmap",
-      "summary": "An updated roadmap setting out the government’s plan to implement reforms across workplace pensions.",
-      "published_at": "2026-07-14T10:09:30",
-      "fetched_at": "2026-07-14T13:28:23",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "717f008c69934a7034a7db04",
-      "title": "Venture Capital Schemes Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/venture-capital-schemes-manual",
-      "summary": "A definition of the different types of venture capital schemes and how they work",
-      "published_at": "2026-07-14T09:05:23",
-      "fetched_at": "2026-07-14T13:28:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "94c00ae0f8514ef84605cbae",
-      "title": "Impact assessment: Child Benefit information for Self Assessment tax return",
-      "link": "https://www.gov.uk/government/publications/child-benefit-information-for-self-assessment-tax-return",
-      "summary": "Screening Equality Impact Assessment for High Income Child Benefit Charge (HICBC) Prepopulation of Self-assessment with Child Benefit Data.",
-      "published_at": "2026-07-14T08:55:22",
-      "fetched_at": "2026-07-14T13:28:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "benefit",
-        "payroll"
-      ]
-    },
-    {
-      "id": "c5b843dc2b2503985659c5bf",
-      "title": "Guidance: Country-by-country: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/country-by-country-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the country-by-country service.",
-      "published_at": "2026-07-14T08:51:32",
-      "fetched_at": "2026-07-14T13:28:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "9eee15b67f306e40af0c2e04",
-      "title": "Guidance: Check if a business holds Authorised Economic Operator status",
-      "link": "https://www.gov.uk/government/publications/check-if-a-business-holds-authorised-economic-operator-status",
-      "summary": "Use this list to see if a business holds Authorised Economic Operator status with HMRC.",
-      "published_at": "2026-07-14T08:46:54",
-      "fetched_at": "2026-07-14T13:28:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "92536cb1ddcf1d341a9d3f73",
-      "title": "Guidance: Digital platform reporting: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/digital-platform-reporting-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the digital platform reporting service.",
-      "published_at": "2026-07-14T08:42:36",
-      "fetched_at": "2026-07-14T13:28:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "b3a9034f5b64cfcbb8efada0",
-      "title": "Guidance: Cross-border arrangement reporting: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/cross-border-arrangement-reporting-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the disclose cross-border tax arrangements service.",
-      "published_at": "2026-07-14T08:30:29",
-      "fetched_at": "2026-07-14T13:28:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
       ]
     }
   ]
