@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-08-07T07:11:03",
+  "synced_at": "2026-08-07T12:56:52",
   "total": 500,
-  "new_count": 7,
+  "new_count": 23,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 10,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 6,
       "error": null
     },
     {
@@ -40,6 +40,378 @@
     }
   ],
   "items": [
+    {
+      "id": "554b29ca0345eaabba56b773",
+      "title": "Research: Upcoming DWP research publications",
+      "link": "https://www.gov.uk/government/publications/list-of-upcoming-research-publications",
+      "summary": "This document provides details of upcoming Department for Work and Pensions (DWP) research publications.",
+      "published_at": "2026-08-07T12:38:58",
+      "fetched_at": "2026-08-07T12:56:31",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "43df0dad0c234bf48fa7de4f",
+      "title": "Guidance: Double Taxation Treaty Passport Scheme register",
+      "link": "https://www.gov.uk/government/publications/double-taxation-treaty-passport-scheme-register",
+      "summary": "Check the status of overseas corporate lenders who are passport holders for Double Taxation Relief on UK loan interest.",
+      "published_at": "2026-08-07T11:40:27",
+      "fetched_at": "2026-08-07T12:56:31",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "42e78860b5e7a71ca995d172",
+      "title": "Trust Registration Service Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/trust-registration-service-manual",
+      "summary": "Non-UK trusts that acquired UK property before 6 October 2020 are not currently able to register due to changes to the IT system. We will release an update in due course.The Trust Registration Service (TRS) is the Government's register of trusts; it is part of the Government's wider strategy to prevent money laundering and terrorist financing.",
+      "published_at": "2026-08-07T11:18:44",
+      "fetched_at": "2026-08-07T12:56:31",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "8b0fc41d805a3ed922440ef9",
+      "title": "Official Statistics: Child Maintenance Service statistics: Quality Assurance of Administrative Data report",
+      "link": "https://www.gov.uk/government/statistics/child-maintenance-service-statistics-quality-assurance-of-administrative-data-report",
+      "summary": "Child Maintenance Service data sources used by the Department for Work and Pensions, with quality assessments meeting national data assurance standards.",
+      "published_at": "2026-08-07T11:10:21",
+      "fetched_at": "2026-08-07T12:56:31",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "ae6268c4c687bcc941c14509",
+      "title": "HMRC email updates, videos and webinars for landlords",
+      "link": "https://www.gov.uk/guidance/hmrc-email-updates-videos-and-webinars-for-landlords",
+      "summary": "Learn more about paying tax and keeping records as a property landlord.",
+      "published_at": "2026-08-07T10:38:35",
+      "fetched_at": "2026-08-07T12:56:31",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "49a8eeda53988939aa44d2c7",
+      "title": "Telling the Child Maintenance Service about living arrangements",
+      "link": "https://www.gov.uk/guidance/telling-the-child-maintenance-service-about-living-arrangements",
+      "summary": "How your child's living arrangements affect child maintenance payments, and when to report a change to the Child Maintenance Service.",
+      "published_at": "2026-08-07T10:35:11",
+      "fetched_at": "2026-08-07T12:56:31",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "bf2a123031201cc571eea35d",
+      "title": "Guidance: DWP procurement: security policies and standards",
+      "link": "https://www.gov.uk/government/publications/dwp-procurement-security-policies-and-standards",
+      "summary": "These apply to DWP suppliers and contractors where explicitly stated in the security schedule of the contract.",
+      "published_at": "2026-08-07T10:27:10",
+      "fetched_at": "2026-08-07T12:56:31",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "f96e0459b16f39992e08ad31",
+      "title": "Online services for agents",
+      "link": "https://www.gov.uk/guidance/tax-agents-handbook/online-services-for-agents",
+      "summary": "Information about services available to agents, including Self Assessment and PAYE for agents online services, multi-factor authentication, calculators and the HMRC App. Find out about service availability and any current issues.",
+      "published_at": "2026-08-07T10:03:33",
+      "fetched_at": "2026-08-07T12:56:31",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "f6bcee6c203e3c0da4c27d94",
+      "title": "The Tax Agent's Handbook",
+      "link": "https://www.gov.uk/guidance/tax-agents-handbook",
+      "summary": "Information to help tax agents and advisers find guidance, use HMRC's services and contact HMRC.",
+      "published_at": "2026-08-07T10:03:33",
+      "fetched_at": "2026-08-07T12:56:31",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "2ca07977ffbab5655f9c0ed1",
+      "title": "Claim back an import security deposit or guarantee",
+      "link": "https://www.gov.uk/guidance/claim-back-an-import-security-deposit-or-guarantee",
+      "summary": "Use this service for Temporary Admission, inward processing or authorised use with an authorisation by declaration, or if proof of origin was not available at the time of import.",
+      "published_at": "2026-08-07T09:50:31",
+      "fetched_at": "2026-08-07T12:56:31",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "9edd4960a2d8d5155b5d312a",
+      "title": "Compliance Handbook",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/compliance-handbook",
+      "summary": "The aim of the Compliance Handbook is to help users understand and apply HMRC's penalties and compliance powers, as set out by legislation.",
+      "published_at": "2026-08-07T09:36:33",
+      "fetched_at": "2026-08-07T12:56:31",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 9,
+      "matched_keywords": [
+        "payroll",
+        "compliance"
+      ]
+    },
+    {
+      "id": "d03ba3b198129fc3024935a2",
+      "title": "Tax Credits Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/tax-credits-manual",
+      "summary": "How HM Revenue and Customs handles Child Tax Credit and Working Tax Credit cases",
+      "published_at": "2026-08-07T08:45:45",
+      "fetched_at": "2026-08-07T12:56:31",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "01e094fb8d777a4cfca7c0b1",
+      "title": "Guidance: Youth Jobs Grant",
+      "link": "https://www.gov.uk/government/publications/youth-jobs-grant",
+      "summary": "Information for employers applying for grant funding to deliver the Youth Jobs Grant.",
+      "published_at": "2026-08-07T08:30:00",
+      "fetched_at": "2026-08-07T12:56:31",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "9dd72aff022749415a66f0c3",
+      "title": "Current DWP research being undertaken by external organisations",
+      "link": "https://www.gov.uk/guidance/current-dwp-research-in-the-field-undertaken-by-external-organisations",
+      "summary": "Check a list of live research being conducted by research organisations for the Department of Work and Pensions (DWP).",
+      "published_at": "2026-08-07T08:30:00",
+      "fetched_at": "2026-08-07T12:56:31",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 22,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension",
+        "ei"
+      ]
+    },
+    {
+      "id": "0fa7691a6440248ed8045803",
+      "title": "Data Element 2/3: Document and Other Reference Codes: Licence Types — Imports and Exports of the Customs Declaration Service (CDS)",
+      "link": "https://www.gov.uk/guidance/data-element-23-document-and-other-reference-codes-licence-types-imports-and-exports-of-the-customs-declaration-service-cds",
+      "summary": "Find a list of codes for the types of Government Department licences that can be declared for imports and exports in Data Element 2/3 (Appendix 5C).",
+      "published_at": "2026-08-07T07:55:07",
+      "fetched_at": "2026-08-07T12:56:31",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "a156b356755e2b620ad72485",
+      "title": "Guidance: Data Element 2/3: Documents and Other Reference Codes (Union) of the Customs Declaration Service (CDS)",
+      "link": "https://www.gov.uk/government/publications/data-element-23-documents-and-other-reference-codes-union-of-the-customs-declaration-service-cds",
+      "summary": "Find the relevant document codes, document status codes and details to be declared such as licences and certificates (Appendix 5A).",
+      "published_at": "2026-08-07T07:30:53",
+      "fetched_at": "2026-08-07T12:56:31",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "018503006481472719480b8f",
       "title": "Accredited official statistics: Corporation Tax Statistics 2026",
@@ -11215,377 +11587,6 @@
       "summary": "Check the availability and any issues affecting the disclose cross-border tax arrangements service.",
       "published_at": "2026-07-14T08:30:29",
       "fetched_at": "2026-07-14T13:28:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "274385d9d2068f763fa4550e",
-      "title": "Trusts, Settlements and Estates Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual",
-      "summary": "An introduction to trusts, their income and gains and how HM Revenue & Customs treats them for tax purposes.",
-      "published_at": "2026-07-14T08:26:40",
-      "fetched_at": "2026-07-14T13:28:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "5dab195f662d4193186476d8",
-      "title": "Correspondence: Bringing together the administration of pensioner Housing Benefit and Pension Credit",
-      "link": "https://www.gov.uk/government/publications/bringing-together-the-administration-of-pensioner-housing-benefit-and-pension-credit",
-      "summary": "A joined-up service enabling eligible customers to claim Housing Benefit and Pension Credit together from autumn 2026.",
-      "published_at": "2026-07-14T08:17:00",
-      "fetched_at": "2026-07-14T13:28:23",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "6608261a620c6d958f790397",
-      "title": "The Occupational and Personal Pension Schemes (General Levy) Regulations review 2026",
-      "link": "https://www.gov.uk/government/consultations/the-occupational-and-personal-pension-schemes-general-levy-regulations-review-2026",
-      "summary": "Consultation on proposed changes to the General Levy on occupational and personal pension schemes for the period from April 2027 to March 2030.",
-      "published_at": "2026-07-14T08:00:16",
-      "fetched_at": "2026-07-14T13:28:23",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 21,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension",
-        "regulation"
-      ]
-    },
-    {
-      "id": "055014332f7f9e91081e8d44",
-      "title": "Millions of unpaid carers to get recognition and earlier support",
-      "link": "https://www.gov.uk/government/news/millions-of-unpaid-carers-to-get-recognition-and-earlier-support",
-      "summary": "First ever cross-Government action plan to support unpaid carers published",
-      "published_at": "2026-07-14T07:45:06",
-      "fetched_at": "2026-07-14T07:59:05",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "dd11f55b5589249399eed9df",
-      "title": "Millions of unpaid carers to get recognition and earlier support",
-      "link": "https://www.gov.uk/government/news/millions-of-unpaid-carers-to-get-recognition-and-earlier-support",
-      "summary": "First ever cross-government action plan to support unpaid carers published.",
-      "published_at": "2026-07-14T07:45:00",
-      "fetched_at": "2026-07-14T13:28:23",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "9d73e9c773cd3f2f154e6443",
-      "title": "Apply to pay voluntary Class 3 National Insurance contributions for periods abroad",
-      "link": "https://www.gov.uk/guidance/apply-to-pay-voluntary-class-3-national-insurance-contributions-for-periods-abroad",
-      "summary": "Use this online service to apply to pay voluntary Class 3 National Insurance contributions if you’ve received a letter from HMRC.",
-      "published_at": "2026-07-14T06:16:46",
-      "fetched_at": "2026-07-14T07:59:05",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "d62b7ab6bd74c3848be1c558",
-      "title": "£60 million fund launched to transform employment support",
-      "link": "https://www.gov.uk/government/news/60-million-fund-launched-to-transform-employment-support",
-      "summary": "Businesses, charities and innovators are being invited to compete for a share of up to £60 million to transform how disabled people and those with health conditions are supported into work, the Government has announced today [14th July].",
-      "published_at": "2026-07-13T23:01:02",
-      "fetched_at": "2026-07-14T02:11:42",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 22,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension",
-        "ei"
-      ]
-    },
-    {
-      "id": "d5e10a28cb976ca1e749af93",
-      "title": "Choose the right software for Making Tax Digital for Income Tax",
-      "link": "https://www.gov.uk/guidance/choose-the-right-software-for-making-tax-digital-for-income-tax",
-      "summary": "Find out what software you will need to report self-employment and property income to HMRC.",
-      "published_at": "2026-07-13T16:25:55",
-      "fetched_at": "2026-07-13T19:20:09",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "898473f75d57f7806c1c6226",
-      "title": "Specialist Investigations Operational Guidance",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/specialist-investigations-operational-guidance",
-      "summary": "This manual brings together the operational guidance relevant to all teams across Specialist Investigations",
-      "published_at": "2026-07-13T16:20:42",
-      "fetched_at": "2026-07-13T19:20:09",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "911a460cd7f06bfb75d834c1",
-      "title": "Guidance: Appendix 1: DE 1/10: Requested and Previous Procedure Codes",
-      "link": "https://www.gov.uk/government/publications/appendix-1-de-110-requested-and-previous-procedure-codes",
-      "summary": "This appendix contains the specific completion rules instructions for each 4-digit Requested and Previous Procedure Code that can be used in Data Element (DE) 1/10 for exports.",
-      "published_at": "2026-07-13T14:42:53",
-      "fetched_at": "2026-07-13T19:20:09",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "512e799221b7f4f517420290",
-      "title": "Guidance: Self Assessment commercial software suppliers",
-      "link": "https://www.gov.uk/government/publications/self-assessment-commercial-software-suppliers",
-      "summary": "Find software suppliers for tax returns, supplementary pages and attachments.",
-      "published_at": "2026-07-13T14:13:53",
-      "fetched_at": "2026-07-13T14:29:40",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "42a4a579022abbd032906d94",
-      "title": "Check genuine HMRC contact that uses more than one communication method",
-      "link": "https://www.gov.uk/guidance/check-genuine-hmrc-contact-that-uses-more-than-one-communication-method",
-      "summary": "Check recent contacts from HMRC to help you decide if a suspicious email, phone call, text or letter could be a scam.",
-      "published_at": "2026-07-13T13:30:40",
-      "fetched_at": "2026-07-13T14:29:40",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "08b41069861cc92a1a94b251",
-      "title": "Report a problem using the Customs Declaration Service",
-      "link": "https://www.gov.uk/guidance/report-a-problem-using-the-customs-declaration-service",
-      "summary": "Find out what to do if you experience a problem whilst submitting a declaration using the Customs Declaration Service.",
-      "published_at": "2026-07-13T13:17:58",
-      "fetched_at": "2026-07-13T14:29:40",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "b8649ddc2b9042e81d136b72",
-      "title": "HMRC email updates, videos and webinars if you’re self-employed",
-      "link": "https://www.gov.uk/guidance/help-and-support-if-youre-self-employed",
-      "summary": "Learn more about your responsibilities if you’re running a small business including registration, tax returns, record keeping, tax bills and payments.",
-      "published_at": "2026-07-13T12:58:20",
-      "fetched_at": "2026-07-13T14:29:40",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "12e15f20b65c03fa5b7d4168",
-      "title": "Data Element 2/3: Documents and Other Reference Codes (National) of the Customs Declaration Service (CDS)",
-      "link": "https://www.gov.uk/guidance/data-element-23-documents-and-other-reference-codes-national-of-the-customs-declaration-service-cds",
-      "summary": "Find a list of codes for the relevant document codes, document status codes and details to be declared (for example, licences and certificates) in Data Element 2/3 (Appendix 5A).",
-      "published_at": "2026-07-13T12:51:20",
-      "fetched_at": "2026-07-13T14:29:40",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "cc26cc6fbe6c55e099154f20",
-      "title": "Guidance: Data Element 2/3: Documents and Other Reference Codes (Union) of the Customs Declaration Service (CDS)",
-      "link": "https://www.gov.uk/government/publications/data-element-23-documents-and-other-reference-codes-union-of-the-customs-declaration-service-cds",
-      "summary": "Find the relevant document codes, document status codes and details to be declared such as licences and certificates (Appendix 5A).",
-      "published_at": "2026-07-13T12:50:44",
-      "fetched_at": "2026-07-13T14:29:40",
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "region": "UK",
