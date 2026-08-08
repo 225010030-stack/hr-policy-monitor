@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-08-08T06:46:13",
+  "synced_at": "2026-08-08T12:41:31",
   "total": 500,
-  "new_count": 7,
+  "new_count": 10,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
-      "fetched": 20,
-      "added": 7,
+      "fetched": 23,
+      "added": 10,
       "error": null
     },
     {
@@ -40,6 +40,80 @@
     }
   ],
   "items": [
+    {
+      "id": "9857f390edf6246a15b45213",
+      "title": "Backup Withholding on Third Party Network Transactions",
+      "link": "https://www.federalregister.gov/documents/2026/08/10/2026-16269/backup-withholding-on-third-party-network-transactions",
+      "summary": "This document contains final regulations governing backup withholding on reportable payments with respect to third party network transactions. The final regulations reflect recent changes to the statutory law that affect the backup withholding requirements for third party settlement organizations who make payments in settlement of third party network transactions.",
+      "published_at": "2026-08-10T04:00:00",
+      "fetched_at": "2026-08-08T12:41:10",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 17,
+      "matched_keywords": [
+        "payroll",
+        "withholding",
+        "regulation",
+        "statutory"
+      ]
+    },
+    {
+      "id": "95cefd7affc6fcfafdb276f3",
+      "title": "Agency Information Collection Activities; Comment Request on U.S. Business Income Tax Returns and Related Forms, Schedules, Attachments, and Published Guidance",
+      "link": "https://www.federalregister.gov/documents/2026/08/10/2026-16262/agency-information-collection-activities-comment-request-on-us-business-income-tax-returns-and",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+      "published_at": "2026-08-10T04:00:00",
+      "fetched_at": "2026-08-08T12:41:10",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
+    {
+      "id": "3365c5426885381151e51d8b",
+      "title": "Agency Information Collection Activities; Comment Request on U.S. Trust and Estate Income Tax Returns and Related Forms, Schedules, Attachments, and Published Guidance",
+      "link": "https://www.federalregister.gov/documents/2026/08/10/2026-16243/agency-information-collection-activities-comment-request-on-us-trust-and-estate-income-tax-returns",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+      "published_at": "2026-08-10T04:00:00",
+      "fetched_at": "2026-08-08T12:41:10",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
     {
       "id": "acab979a9d6a8b38f408ab90",
       "title": "Pensions Tax Manual",
@@ -11526,75 +11600,6 @@
       "score": 6,
       "matched_keywords": [
         "payroll"
-      ]
-    },
-    {
-      "id": "41da45b6e59a423d348741fe",
-      "title": "Guidance: Approved offshore reporting funds",
-      "link": "https://www.gov.uk/government/publications/approved-offshore-reporting-funds",
-      "summary": "Find a list of offshore funds that have applied for and been approved as reporting funds.",
-      "published_at": "2026-07-14T11:19:29",
-      "fetched_at": "2026-07-14T13:28:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "38fb3caabc730702a8aafb76",
-      "title": "Corporate Intangibles Research and Development Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/corporate-intangibles-research-and-development-manual",
-      "summary": "Corporation Tax and the taxation of intangible assets, remediation of contaminated land, vaccines research relief and tax credits for research & development.",
-      "published_at": "2026-07-14T11:18:48",
-      "fetched_at": "2026-07-14T13:28:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "d3e05930853dd42c9e18be85",
-      "title": "DWP Reappoints Chair of Nest",
-      "link": "https://www.gov.uk/government/news/dwp-reappoints-chair-of-nest",
-      "summary": "Brendan McCafferty has been reappointed as Chair of Nest, effective from 31 January 2027. He has served as Chair since February 2022 and will continue in post for a further two years beyond his initial five-year term.",
-      "published_at": "2026-07-14T10:53:37",
-      "fetched_at": "2026-07-14T13:28:23",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
       ]
     }
   ]
