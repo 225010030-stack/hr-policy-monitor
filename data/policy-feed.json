@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-08-10T03:40:53",
+  "synced_at": "2026-08-10T07:27:12",
   "total": 500,
-  "new_count": 4,
+  "new_count": 3,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
-      "fetched": 20,
-      "added": 4,
+      "fetched": 18,
+      "added": 2,
       "error": null
     },
     {
@@ -28,7 +28,7 @@
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,31 @@
     }
   ],
   "items": [
+    {
+      "id": "c7658b07072c6c4d0b2af2e4",
+      "title": "Official Statistics: Health Assessment Statistics: PIP and WCA to July 2026",
+      "link": "https://www.gov.uk/government/statistics/announcements/health-assessment-statistics-pip-and-wca-to-july-2026",
+      "summary": "Official statistics in development on Personal Independence Payment (PIP) and Work Capability Assessments (WCA) assessment volumes and channels in Great Britain from January 2021 to July 2026.",
+      "published_at": "2026-08-10T06:40:42",
+      "fetched_at": "2026-08-10T07:26:52",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
     {
       "id": "9857f390edf6246a15b45213",
       "title": "Backup Withholding on Third Party Network Transactions",
@@ -11578,28 +11603,6 @@
       "matched_keywords": [
         "payroll",
         "regulation"
-      ]
-    },
-    {
-      "id": "102e1815df8813eb132ecefc",
-      "title": "Software developers providing entry summary declaration support",
-      "link": "https://www.gov.uk/guidance/software-developers-providing-entry-summary-declaration-support",
-      "summary": "Find software developers that can help with entry summary declarations including safety and security declarations for imports.",
-      "published_at": "2026-07-14T12:15:14",
-      "fetched_at": "2026-07-14T13:28:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
       ]
     }
   ]
