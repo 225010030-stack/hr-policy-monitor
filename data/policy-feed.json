@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-08-10T13:01:09",
+  "synced_at": "2026-08-10T18:53:33",
   "total": 500,
-  "new_count": 6,
+  "new_count": 5,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -28,7 +28,7 @@
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 2,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,75 @@
     }
   ],
   "items": [
+    {
+      "id": "61edcdbac75716dc8308e61c",
+      "title": "Multinational Top-up Tax and Domestic Top-up Tax",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/multinational-top-up-tax-and-domestic-top-up-tax",
+      "summary": "This manual covers Multinational Top-up Tax (MTT) and Domestic Top-up Tax (DTT). MTT is the UK's implementation of the Income Inclusion Rule and Undertaxed Profits Rule. These are widely known as the GloBE rules, as set out in the OECD's Pillar Two Model Rules. DTT is the UK's implementation of a Qualifying Domestic Minimum Top-up Tax (QDMTT), which applies the Pillar Two rules to UK entities.",
+      "published_at": "2026-08-10T15:22:50",
+      "fetched_at": "2026-08-10T18:53:12",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "14a027657872cc013326e5bc",
+      "title": "Official Statistics: Universal Credit Statistics, 29 April 2013 to 14 May 2026",
+      "link": "https://www.gov.uk/government/statistics/announcements/universal-credit-statistics-29-april-2013-to-14-may-2026--2",
+      "summary": "Statistics for the number of people on Universal Credit by geography, age, conditionality regime, duration, employment (including self-employment), move to UC indicator, ethnicity, nationality and immigration status. Statistics for the number of households on Universal Credit by geography, family type, number of children, entitlements, payment timelines, deductions and childcare. Statistics for the number of claims and starts on Universal Credit by geography, age, gender and rates.",
+      "published_at": "2026-08-10T14:58:28",
+      "fetched_at": "2026-08-10T18:53:13",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "9fcc60ea49162fdb4dd79ac7",
+      "title": "Guidance: Appendix 21: Import Declaration Category Data Sets",
+      "link": "https://www.gov.uk/government/publications/appendix-21-import-declaration-category-data-sets",
+      "summary": "Find out about the the specific data elements needed for each declaration category when making an import declaration on the Customs Declaration Service.",
+      "published_at": "2026-08-10T13:32:44",
+      "fetched_at": "2026-08-10T18:53:12",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "d4d291abd1d72deaae1a8ea9",
       "title": "The Value for Money Framework: Consultation",
@@ -11515,79 +11584,6 @@
       "summary": "Agency agreement between the Secretary of State for Work and Pensions and Scottish ministers on delivery of Carer's Allowance to people resident in Scotland.",
       "published_at": "2026-07-15T08:00:03",
       "fetched_at": "2026-07-15T13:38:24",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "b4786ff09b1dfdde7960df30",
-      "title": "100,000 people closer to work thanks to Government support",
-      "link": "https://www.gov.uk/government/news/100000-people-closer-to-work-thanks-to-government-support",
-      "summary": "Around 100,000 disabled people and those with health conditions are closer to work thanks to a voluntary Government programme being delivered in every Jobcentre across the country, according to new figures.",
-      "published_at": "2026-07-14T23:01:07",
-      "fetched_at": "2026-07-15T02:09:54",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 22,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension",
-        "ei"
-      ]
-    },
-    {
-      "id": "a841e909129e2690718ff660",
-      "title": "Register to complete origin declarations under the UK-India Free Trade Agreement",
-      "link": "https://www.gov.uk/guidance/register-to-complete-origin-declarations-under-the-uk-india-free-trade-agreement",
-      "summary": "Register with HMRC if you're planning to complete origin declarations for exports under the UK-India Free Trade Agreement.",
-      "published_at": "2026-07-14T15:55:50",
-      "fetched_at": "2026-07-14T19:15:38",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "3915ea330b3e403d093fe6eb",
-      "title": "Transparency data: Ministerial Group for Digital Inclusion: terms of reference",
-      "link": "https://www.gov.uk/government/publications/ministerial-group-for-digital-inclusion-terms-of-reference",
-      "summary": "Terms of reference for Ministerial Group for Digital Inclusion.",
-      "published_at": "2026-07-14T15:43:35",
-      "fetched_at": "2026-07-14T19:15:39",
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "region": "UK",
