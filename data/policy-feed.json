@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-08-10T07:27:12",
+  "synced_at": "2026-08-10T13:01:09",
   "total": 500,
-  "new_count": 3,
+  "new_count": 6,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 2,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 1,
+      "added": 2,
       "error": null
     },
     {
@@ -40,6 +40,100 @@
     }
   ],
   "items": [
+    {
+      "id": "d4d291abd1d72deaae1a8ea9",
+      "title": "The Value for Money Framework: Consultation",
+      "link": "https://www.gov.uk/government/consultations/the-value-for-money-framework-consultation",
+      "summary": "The Value for Money Framework will place investment outcomes, service quality and overall value at the centre of workplace pension provision.",
+      "published_at": "2026-08-10T11:22:37",
+      "fetched_at": "2026-08-10T13:00:49",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "6be1f0f2527c11e7ba3826cb",
+      "title": "Independent report: Young people and work: interim report",
+      "link": "https://www.gov.uk/government/publications/young-people-and-work-interim-report",
+      "summary": "The young people and work report is an independent review of the increase in the number of young people who are not in education, employment or training (NEET).",
+      "published_at": "2026-08-10T10:30:47",
+      "fetched_at": "2026-08-10T13:00:49",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "9f7e1fde0efa7fce5baa4023",
+      "title": "Guidance: Community and Amateur Sports Club newsletter 4 — August 2026",
+      "link": "https://www.gov.uk/government/publications/community-and-amateur-sports-club-newsletter-4-august-2026",
+      "summary": "Use the newsletters to get HMRC updates if you're a charity or Community and Amateur Sports Club (CASC).",
+      "published_at": "2026-08-10T08:00:00",
+      "fetched_at": "2026-08-10T13:00:48",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "34c95ca6d0054bfd0268a69a",
+      "title": "Apply for a refund of Class 1 National Insurance contributions",
+      "link": "https://www.gov.uk/guidance/apply-for-refund-of-class-1-national-insurance-contributions",
+      "summary": "If HMRC has sent you a letter telling you that you may be due a refund of Class 1 National Insurance, check how to apply.",
+      "published_at": "2026-08-10T07:53:35",
+      "fetched_at": "2026-08-10T13:00:48",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "c7658b07072c6c4d0b2af2e4",
       "title": "Official Statistics: Health Assessment Statistics: PIP and WCA to July 2026",
@@ -11510,99 +11604,6 @@
         "benefit",
         "benefits",
         "pension"
-      ]
-    },
-    {
-      "id": "1931b04e258e5effad7d2953",
-      "title": "Transparency data: Ministerial Group for Digital Inclusion: meeting summaries",
-      "link": "https://www.gov.uk/government/publications/ministerial-group-for-digital-inclusion-meeting-summaries",
-      "summary": "Summary of minutes of the meetings for the Ministerial Group for Digital Inclusion.",
-      "published_at": "2026-07-14T15:43:31",
-      "fetched_at": "2026-07-14T19:15:39",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "7e4e6d66efe7f71822605bd4",
-      "title": "Form: Request transfer of a VAT registration number",
-      "link": "https://www.gov.uk/government/publications/vat-request-for-transfer-of-a-registration-number-vat68",
-      "summary": "You can ask HMRC to transfer the VAT registration of a company that's changing ownership by completing VAT registration and form VAT68.",
-      "published_at": "2026-07-14T13:58:26",
-      "fetched_at": "2026-07-14T19:15:38",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "7e027205778fd6343d649b9a",
-      "title": "Guidance: Gains on foreign life insurance policies (Self Assessment helpsheet HS321)",
-      "link": "https://www.gov.uk/government/publications/gains-on-foreign-life-insurance-policies-hs321-self-assessment-helpsheet",
-      "summary": "Find out how to calculate gains on foreign life insurance policies and make entries on your tax return.",
-      "published_at": "2026-07-14T13:34:47",
-      "fetched_at": "2026-07-14T19:15:38",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "24a5e77f5a6c8c5a6a4120f9",
-      "title": "Check if a business is registered for money laundering supervision",
-      "link": "https://www.gov.uk/guidance/money-laundering-regulations-supervised-business-register",
-      "summary": "Find out if a business has registered with HMRC under the money laundering regulations and report them if they have not.",
-      "published_at": "2026-07-14T12:49:32",
-      "fetched_at": "2026-07-14T13:28:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 9,
-      "matched_keywords": [
-        "payroll",
-        "regulation"
       ]
     }
   ]
