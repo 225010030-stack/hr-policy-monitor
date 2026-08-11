@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-08-11T03:06:35",
+  "synced_at": "2026-08-11T07:01:58",
   "total": 500,
-  "new_count": 2,
+  "new_count": 3,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,28 @@
     }
   ],
   "items": [
+    {
+      "id": "5306f808a524c2676c729b6a",
+      "title": "PAYE Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/paye-manual",
+      "summary": "Guidance for staff working through PAYE processes for individuals and employers. HMRC is currently reviewing this guidance. If you have any comments or feedback, please email: hmrcmanualsteam@hmrc.gov.uk",
+      "published_at": "2026-08-11T00:00:00",
+      "fetched_at": "2026-08-11T07:01:38",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "61edcdbac75716dc8308e61c",
       "title": "Multinational Top-up Tax and Domestic Top-up Tax",
@@ -11557,31 +11579,6 @@
       "title": "Corporate report: Delivery of compensation recovery services: agency agreement",
       "link": "https://www.gov.uk/government/publications/delivery-of-compensation-recovery-services-agency-agreement",
       "summary": "Agency agreement between the Secretary of State for Work and Pensions and Scottish minsters on delivery of Compensation Recovery services for Scotland.",
-      "published_at": "2026-07-15T08:00:03",
-      "fetched_at": "2026-07-15T13:38:24",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "1c286de6f13463c8576611a2",
-      "title": "Corporate report: Carer's Allowance transitional protection for Scottish customers: agency agreement",
-      "link": "https://www.gov.uk/government/publications/carers-allowance-transitional-protection-for-scottish-customers-agency-agreement",
-      "summary": "Agency agreement between the Secretary of State for Work and Pensions and Scottish ministers on delivery of Carer's Allowance to people resident in Scotland.",
       "published_at": "2026-07-15T08:00:03",
       "fetched_at": "2026-07-15T13:38:24",
       "source_id": "uk_dwp",
