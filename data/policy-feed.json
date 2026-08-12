@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-08-11T18:58:01",
+  "synced_at": "2026-08-12T01:42:43",
   "total": 500,
-  "new_count": 8,
+  "new_count": 4,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 6,
+      "added": 1,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,53 @@
     }
   ],
   "items": [
+    {
+      "id": "4c5525fd777e710d86c2d869",
+      "title": "Disabled people invited to shape recommendations of review into PIP",
+      "link": "https://www.gov.uk/government/news/disabled-people-invited-to-shape-recommendations-of-review-into-pip",
+      "summary": "The Timms Review launched last October with the aim of making sure PIP is fair and fit for the future. Its Interim Report, published in July 2026, found that PIP is no longer fit for purpose.",
+      "published_at": "2026-08-11T23:01:00",
+      "fetched_at": "2026-08-12T01:42:23",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "6f25417f67434c9b4f64a2c7",
+      "title": "Multinational Top-up Tax and Domestic Top-up Tax",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/multinational-top-up-tax-and-domestic-top-up-tax",
+      "summary": "This manual covers Multinational Top-up Tax (MTT) and Domestic Top-up Tax (DTT). MTT is the UK's implementation of the Income Inclusion Rule and Undertaxed Profits Rule. These are widely known as the GloBE rules, as set out in the OECD's Pillar Two Model Rules. DTT is the UK's implementation of a Qualifying Domestic Minimum Top-up Tax (QDMTT), which applies the Pillar Two rules to UK entities.",
+      "published_at": "2026-08-11T18:53:39",
+      "fetched_at": "2026-08-12T01:42:22",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "2eda2907d8fbd50aeb8c4647",
       "title": "Multinational Top-up Tax and Domestic Top-up Tax",
@@ -11524,53 +11571,6 @@
       "link": "https://www.gov.uk/guidance/what-to-include-in-a-stamp-duty-land-tax-calculation",
       "summary": "Find out what transactions to include in the amount you use to work out Stamp Duty Land Tax (SDLT).",
       "published_at": "2026-07-15T09:23:56",
-      "fetched_at": "2026-07-15T13:38:24",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "8522fbba57e6f6e192737196",
-      "title": "Transparency data: Qualifications added to the free courses for jobs list",
-      "link": "https://www.gov.uk/government/publications/qualifications-added-to-the-free-courses-for-jobs-list",
-      "summary": "Level 2 qualifications added to the free courses for jobs (FCFJ) list to expand the engineering and manufacturing subject sector offer and attract a funding uplift for providers.",
-      "published_at": "2026-07-15T08:51:50",
-      "fetched_at": "2026-07-15T13:38:24",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "47a9c7ce0576d25d481ec505",
-      "title": "Official Statistics: Income Tax personal allowances and reliefs",
-      "link": "https://www.gov.uk/government/statistics/income-tax-personal-allowances-and-reliefs",
-      "summary": "HM Revenue and Customs (HMRC) statistics relating to Income Tax personal allowances and reliefs.",
-      "published_at": "2026-07-15T08:30:13",
       "fetched_at": "2026-07-15T13:38:24",
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
