@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-08-12T03:25:32",
+  "synced_at": "2026-08-12T07:20:10",
   "total": 500,
-  "new_count": 2,
+  "new_count": 4,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
-      "fetched": 19,
-      "added": 2,
+      "fetched": 21,
+      "added": 4,
       "error": null
     },
     {
@@ -40,6 +40,56 @@
     }
   ],
   "items": [
+    {
+      "id": "aad5b3753bb4f77212511d9e",
+      "title": "Agency Information Collection Activities: Comment Request on the Burden Related to Foreign Status and U.S. Withholding Certifications",
+      "link": "https://www.federalregister.gov/documents/2026/08/12/2026-16405/agency-information-collection-activities-comment-request-on-the-burden-related-to-foreign-status-and",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+      "published_at": "2026-08-12T04:00:00",
+      "fetched_at": "2026-08-12T07:19:49",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 15,
+      "matched_keywords": [
+        "payroll",
+        "withholding",
+        "ei"
+      ]
+    },
+    {
+      "id": "4e3259ca5061d728da8eebfa",
+      "title": "Agency Information Collection Activities: Comment Request on the Burden Related to the Application for Determination for Employee Benefit Plan",
+      "link": "https://www.federalregister.gov/documents/2026/08/12/2026-16397/agency-information-collection-activities-comment-request-on-the-burden-related-to-the-application",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+      "published_at": "2026-08-12T04:00:00",
+      "fetched_at": "2026-08-12T07:19:49",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 15,
+      "matched_keywords": [
+        "benefit",
+        "payroll",
+        "withholding"
+      ]
+    },
     {
       "id": "4c5525fd777e710d86c2d869",
       "title": "Disabled people invited to shape recommendations of review into PIP",
@@ -11524,53 +11574,6 @@
       "link": "https://www.gov.uk/hmrc-internal-manuals/international-manual",
       "summary": "International tax issues including the principles of double taxation relief and an introduction to double taxation agreements",
       "published_at": "2026-07-15T09:36:07",
-      "fetched_at": "2026-07-15T13:38:24",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "8a02308f0ea8c05da4c1d707",
-      "title": "Policy paper: Timms Review of Personal Independence Payment: interim report",
-      "link": "https://www.gov.uk/government/publications/timms-review-of-personal-independence-payment-interim-report",
-      "summary": "An interim report of the Timms Review of Personal Independence Payment (PIP).",
-      "published_at": "2026-07-15T09:25:09",
-      "fetched_at": "2026-07-15T13:38:24",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "e7b696b75e34f565d5eab7e5",
-      "title": "What to include in a Stamp Duty Land Tax calculation",
-      "link": "https://www.gov.uk/guidance/what-to-include-in-a-stamp-duty-land-tax-calculation",
-      "summary": "Find out what transactions to include in the amount you use to work out Stamp Duty Land Tax (SDLT).",
-      "published_at": "2026-07-15T09:23:56",
       "fetched_at": "2026-07-15T13:38:24",
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
