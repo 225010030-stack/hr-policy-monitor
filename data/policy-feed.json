@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-08-12T07:20:10",
+  "synced_at": "2026-08-12T13:02:09",
   "total": 500,
-  "new_count": 4,
+  "new_count": 16,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
       "fetched": 21,
-      "added": 4,
+      "added": 2,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 10,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 4,
       "error": null
     },
     {
@@ -40,6 +40,329 @@
     }
   ],
   "items": [
+    {
+      "id": "a7eaa869384f5aa9967376fc",
+      "title": "Self Assessment Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual",
+      "summary": "This manual contains guidance and processes for Self Assessment (SA)",
+      "published_at": "2026-08-12T12:49:38",
+      "fetched_at": "2026-08-12T13:01:49",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "961291ee18b854f16d977fac",
+      "title": "International Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/international-manual",
+      "summary": "International tax issues including the principles of double taxation relief and an introduction to double taxation agreements",
+      "published_at": "2026-08-12T12:48:58",
+      "fetched_at": "2026-08-12T13:01:49",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "11365d45f5ffbb4317cc16e5",
+      "title": "Guidance: Excise duty hydrocarbon oils rates and allowances",
+      "link": "https://www.gov.uk/government/publications/rates-and-allowances-excise-duty-hydrocarbon-oils",
+      "summary": "Details of fuel duty payable on light oils, heavy oils, biofuels and road fuel gases.",
+      "published_at": "2026-08-12T11:53:51",
+      "fetched_at": "2026-08-12T13:01:49",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "852034695e5d60116ee9cf15",
+      "title": "Employment Income Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/employment-income-manual",
+      "summary": "A guide to the Income Tax (Earnings and Pensions) Act 2003.",
+      "published_at": "2026-08-12T11:52:55",
+      "fetched_at": "2026-08-12T13:01:49",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "pension",
+        "payroll"
+      ]
+    },
+    {
+      "id": "679cf0cb32840eb0c9bf38e1",
+      "title": "Form: Tell HMRC about land and buildings included in a chargeable event (D36)",
+      "link": "https://www.gov.uk/government/publications/inheritance-tax-land-buildings-and-interests-in-land-d36",
+      "summary": "Use this form to give details of buildings, trees or underwood included in the chargeable event on form IHT100.",
+      "published_at": "2026-08-12T10:16:05",
+      "fetched_at": "2026-08-12T13:01:49",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "c4f6b59870ab43be70585654",
+      "title": "436,000 sole traders and landlords make their tax digital",
+      "link": "https://www.gov.uk/government/news/436000-sole-traders-and-landlords-make-their-tax-digital",
+      "summary": "More than 436,000 sole traders and landlords have successfully submitted their first Making Tax Digital for Income Tax quarterly update.",
+      "published_at": "2026-08-12T09:26:33",
+      "fetched_at": "2026-08-12T13:01:49",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "765963803567ea520d0c9cd4",
+      "title": "Official Statistics: Benefit Sanctions statistics to May 2026",
+      "link": "https://www.gov.uk/government/statistics/announcements/benefit-sanctions-statistics-to-may-2026",
+      "summary": "Statistics about sanctions on Universal Credit (UC). The data will be available as normal for analysis via Stat-Xplore.",
+      "published_at": "2026-08-12T09:12:41",
+      "fetched_at": "2026-08-12T13:01:49",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "b467d7070c6a6e2889e962cf",
+      "title": "Guidance: Timms Review of Personal Independence Payment: register your interest in a shaping recommendations workshop",
+      "link": "https://www.gov.uk/government/publications/timms-review-of-personal-independence-payment-register-your-interest-in-a-shaping-recommendations-workshop",
+      "summary": "Find out about and register your interest in attending a workshop to discuss and refine the Timms Review’s emerging recommendations.",
+      "published_at": "2026-08-12T09:00:07",
+      "fetched_at": "2026-08-12T13:01:49",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "456a56b24cddf850d958a2d6",
+      "title": "Correspondence: The Timms Review: co-chair update, August 2026",
+      "link": "https://www.gov.uk/government/publications/the-timms-review-co-chair-update-august-2026",
+      "summary": "This document sets out an update on the progress of the Timms Review of Personal Independence Payment (PIP), from the Review's co-chairs.",
+      "published_at": "2026-08-12T09:00:07",
+      "fetched_at": "2026-08-12T13:01:49",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "0532182c4080948868144dfa",
+      "title": "Corporate report: Carer Support Payment and Carer's Allowance in Scotland: Agency Agreement and Service Level Agreement",
+      "link": "https://www.gov.uk/government/publications/carers-allowance-in-scotland-agency-agreement-and-service-level-agreement",
+      "summary": "The Agency Agreement and Service Level Agreements between the Secretary of State for Work and Pensions and Scottish ministers for people living in Scotland.",
+      "published_at": "2026-08-12T08:00:06",
+      "fetched_at": "2026-08-12T13:01:49",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "71e4831a14ce56d557a5819b",
+      "title": "Check if a letter you’ve received from HMRC is genuine",
+      "link": "https://www.gov.uk/guidance/check-if-a-letter-youve-received-from-hmrc-is-genuine",
+      "summary": "Check a list of recent letters from HMRC to help you decide if a letter you’ve received is a scam.",
+      "published_at": "2026-08-12T07:50:49",
+      "fetched_at": "2026-08-12T13:01:49",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "62dd19fb6457e858494df714",
+      "title": "Classifying toys and games for import and export",
+      "link": "https://www.gov.uk/guidance/classifying-toys-games-and-festive-articles-for-import-and-export",
+      "summary": "Get help to classify various toys and games for import and export.",
+      "published_at": "2026-08-12T07:39:37",
+      "fetched_at": "2026-08-12T13:01:49",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "470fed2ed07eb6934399c68b",
+      "title": "Guidance: VAT payment plan: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/vat-payment-plan-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the VAT payment plan service.",
+      "published_at": "2026-08-12T07:30:16",
+      "fetched_at": "2026-08-12T13:01:49",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "b6e0f8c2a4b59f76296d8985",
+      "title": "Guidance: Employers PAYE payment plan: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/employers-paye-payment-plan-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the Employers PAYE payment plan service.",
+      "published_at": "2026-08-12T07:23:07",
+      "fetched_at": "2026-08-12T13:01:49",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "aad5b3753bb4f77212511d9e",
       "title": "Agency Information Collection Activities: Comment Request on the Burden Related to Foreign Status and U.S. Withholding Certifications",
@@ -11262,332 +11585,6 @@
         "benefit",
         "benefits",
         "pension"
-      ]
-    },
-    {
-      "id": "4c1da0bdfe2ff5ac757a8f11",
-      "title": "Research at DWP",
-      "link": "https://www.gov.uk/government/organisations/department-for-work-pensions/about/research",
-      "summary": "Our research is used to understand, develop, implement, monitor and evaluate our policies and services.",
-      "published_at": "2026-07-15T15:28:38",
-      "fetched_at": "2026-07-15T19:06:20",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "77b200100b952fee37c6bbd4",
-      "title": "Form: International Tax: UK-USA Double Taxation Convention (form US-Company UK-REIT)",
-      "link": "https://www.gov.uk/government/publications/international-tax-uk-usa-double-taxation-convention-form-us-company-uk-reit",
-      "summary": "Use form US-Company UK-REIT to claim repayment of UK Income Tax deducted from property income dividends paid by UK Real Estate Investment Trusts.",
-      "published_at": "2026-07-15T15:01:21",
-      "fetched_at": "2026-07-15T19:06:20",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "ff7b688775bf9c7299e937a1",
-      "title": "Statutory guidance: Reference Documents for The Customs Tariff (Suspension of Import Duty Rates) (EU Exit) Regulations 2020",
-      "link": "https://www.gov.uk/government/publications/reference-documents-for-the-customs-tariff-suspension-of-import-duty-rates-eu-exit-regulations-2020",
-      "summary": "Find out about the tariff suspensions that apply from the end of the transition period.",
-      "published_at": "2026-07-15T14:39:15",
-      "fetched_at": "2026-07-15T19:06:20",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 16,
-      "matched_keywords": [
-        "pension",
-        "payroll",
-        "regulation",
-        "statutory"
-      ]
-    },
-    {
-      "id": "f3f5759ea06f206c4592a07d",
-      "title": "Guidance: Self Assessment commercial software suppliers",
-      "link": "https://www.gov.uk/government/publications/self-assessment-commercial-software-suppliers",
-      "summary": "Find software suppliers for tax returns, supplementary pages and attachments.",
-      "published_at": "2026-07-15T14:12:32",
-      "fetched_at": "2026-07-15T19:06:20",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "bc386969e309f6aed04b7b6f",
-      "title": "Check genuine HMRC contact that uses more than one communication method",
-      "link": "https://www.gov.uk/guidance/check-genuine-hmrc-contact-that-uses-more-than-one-communication-method",
-      "summary": "Check recent contacts from HMRC to help you decide if a suspicious email, phone call, text or letter could be a scam.",
-      "published_at": "2026-07-15T13:55:27",
-      "fetched_at": "2026-07-15T19:06:20",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "de13f68ea8520894eddff6fa",
-      "title": "Form: International Tax: UK Real Estate Investment Trusts (REIT) property income dividends — UK-Japan Double Taxation Convention",
-      "link": "https://www.gov.uk/government/publications/international-tax-uk-japan-double-taxation-convention-form-japan-4-dt",
-      "summary": "If you are a company or other concern who is a resident in Japan, claim repayment of UK Income Tax deducted from property income dividends paid by a UK Real Estate Investment Trust (REIT) using form Japan-4-DT.",
-      "published_at": "2026-07-15T12:46:58",
-      "fetched_at": "2026-07-15T13:38:24",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "bc043ee43b96b6451dee9e7f",
-      "title": "Guidance: VO BR26 compliance check for self-catering lets in Wales",
-      "link": "https://www.gov.uk/government/publications/vo-br25-compliance-check-for-self-catering-lets-in-wales",
-      "summary": "Fill in form VO BR26 if the Valuation Office Agency (VOA) has asked you to confirm information about a self-catering holiday let in Wales.",
-      "published_at": "2026-07-15T11:54:24",
-      "fetched_at": "2026-07-15T13:38:24",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 12,
-      "matched_keywords": [
-        "holiday",
-        "payroll",
-        "compliance"
-      ]
-    },
-    {
-      "id": "caf68f44044500364d212b42",
-      "title": "Anti-money laundering guidance for supervised businesses",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/anti-money-laundering-guidance-for-supervised-businesses",
-      "summary": "This guidance includes changes inThe Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 made byThe Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (SI 2026/621), which came into force on 30 June 2026. This guidance is written with the purpose of assisting relevant persons (businesses) to better understand their obligations under the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Reg",
-      "published_at": "2026-07-15T11:49:47",
-      "fetched_at": "2026-07-15T19:06:20",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 13,
-      "matched_keywords": [
-        "payroll",
-        "ei",
-        "regulation"
-      ]
-    },
-    {
-      "id": "e6e39aad51977ac7639c9770",
-      "title": "Guidance: CDS Customs Clearance Request Completion Instructions for Inventory Exports",
-      "link": "https://www.gov.uk/government/publications/uk-trade-tariff-cds-volume-3-c21-customs-clearance-request-completion-guide-inventory-exports",
-      "summary": "This Data Element Completion Guide relates to Customs Declaration Service (CDS) Customs Clearance Requests ((CCR) inventory releases previously referred to as C21s) for export purposes only.",
-      "published_at": "2026-07-15T11:41:57",
-      "fetched_at": "2026-07-15T13:38:24",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "44c00a06a0209258e7d48a26",
-      "title": "Policy paper: British Sign Language (BSL) 5-year plan: Department for Work and Pensions",
-      "link": "https://www.gov.uk/government/publications/british-sign-language-5-year-plan-department-for-work-and-pensions",
-      "summary": "This plan sets out how the Department for Work and Pensions plans to improve the use of BSL in its communications in the next 5 years. Includes an annual progress update.",
-      "published_at": "2026-07-15T11:13:17",
-      "fetched_at": "2026-07-15T13:38:24",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "4696af5ddc28ac6b171e86c5",
-      "title": "Anti-money laundering guidance for supervised businesses",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/anti-money-laundering-guidance-for-supervised-businesses",
-      "summary": "This guidance includes changes inThe Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 made byThe Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (SI 2026/621), which came into force on 30 June 2026. This guidance is written with the purpose of assisting relevant persons (businesses) to better understand their obligations under the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Reg",
-      "published_at": "2026-07-15T10:57:25",
-      "fetched_at": "2026-07-15T13:38:24",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 13,
-      "matched_keywords": [
-        "payroll",
-        "ei",
-        "regulation"
-      ]
-    },
-    {
-      "id": "aa4c0b2bb12a35738b74138f",
-      "title": "Employment Income Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/employment-income-manual",
-      "summary": "A guide to the Income Tax (Earnings and Pensions) Act 2003.",
-      "published_at": "2026-07-15T10:11:09",
-      "fetched_at": "2026-07-15T13:38:24",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "pension",
-        "payroll"
-      ]
-    },
-    {
-      "id": "2c6c7c2d1eca56625142e61e",
-      "title": "HMRC email updates, videos and webinars for VAT",
-      "link": "https://www.gov.uk/guidance/hmrc-email-updates-videos-and-webinars-for-vat",
-      "summary": "Learn more about VAT including accounting schemes, VAT Returns and keeping records.",
-      "published_at": "2026-07-15T10:09:47",
-      "fetched_at": "2026-07-15T13:38:24",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "03e74e023083cd45c57d3e8a",
-      "title": "International Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/international-manual",
-      "summary": "International tax issues including the principles of double taxation relief and an introduction to double taxation agreements",
-      "published_at": "2026-07-15T09:36:07",
-      "fetched_at": "2026-07-15T13:38:24",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
       ]
     }
   ]
