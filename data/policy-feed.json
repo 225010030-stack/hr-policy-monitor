@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-08-13T13:03:25",
+  "synced_at": "2026-08-13T18:59:13",
   "total": 500,
-  "new_count": 19,
+  "new_count": 8,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 19,
+      "added": 6,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 2,
       "error": null
     },
     {
@@ -40,6 +40,189 @@
     }
   ],
   "items": [
+    {
+      "id": "a20d9a9b168e3efdc8996355",
+      "title": "Form: Statutory Maternity Pay: employee not entitled – form for employers",
+      "link": "https://www.gov.uk/government/publications/statutory-maternity-pay-employee-not-entitled-form-for-employers",
+      "summary": "A form for employers to fill in and give to employees who aren't entitled to Statutory Maternity Pay.",
+      "published_at": "2026-08-13T15:18:03",
+      "fetched_at": "2026-08-13T18:58:53",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 21,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension",
+        "statutory"
+      ]
+    },
+    {
+      "id": "606b1429edb6429d59ffb0a1",
+      "title": "Health professionals and pharmaceutical products (VAT Notice 701/57)",
+      "link": "https://www.gov.uk/guidance/health-professionals-pharmaceutical-products-and-vat-notice-70157",
+      "summary": "How to account for VAT on goods and services provided by registered health professionals, including doctors, dentists, nurses and pharmacists.",
+      "published_at": "2026-08-13T14:57:48",
+      "fetched_at": "2026-08-13T18:58:53",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "d67694a1823a77189fc7fd5d",
+      "title": "Guidance: HMRC Trusts and Estates newsletters",
+      "link": "https://www.gov.uk/government/publications/hm-revenue-and-customs-trusts-and-estates-newsletters",
+      "summary": "Newsletters published by HMRC, giving updates and guidance on Inheritance Tax and trusts.",
+      "published_at": "2026-08-13T14:35:29",
+      "fetched_at": "2026-08-13T18:58:53",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "5d9fbfc336b365d1fe6e7937",
+      "title": "Using an intermediary to register and act on your behalf for the VAT Import One Stop Shop scheme",
+      "link": "https://www.gov.uk/guidance/using-an-intermediary-to-register-and-act-on-your-behalf-for-the-vat-import-one-stop-shop-scheme",
+      "summary": "Find out about using the VAT Import One Stop Shop (IOSS) scheme, if you ask an intermediary to register and report and pay VAT due on your behalf.",
+      "published_at": "2026-08-13T14:19:57",
+      "fetched_at": "2026-08-13T18:58:53",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "6533310b62feb2fc89c258da",
+      "title": "Check your tax filing and payment deadlines",
+      "link": "https://www.gov.uk/guidance/check-your-tax-filing-and-payment-deadlines",
+      "summary": "Use this tool to find out your tax deadlines and add them to your calendar.",
+      "published_at": "2026-08-13T13:59:59",
+      "fetched_at": "2026-08-13T18:58:53",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "e6e1b5947e127999546d657c",
+      "title": "Apply for a voluntary clearance amendment (underpayment)",
+      "link": "https://www.gov.uk/guidance/apply-for-a-voluntary-clearance-amendment-underpayment-c2001",
+      "summary": "Tell HMRC about voluntary underpayments arising on import of goods.",
+      "published_at": "2026-08-13T13:32:17",
+      "fetched_at": "2026-08-13T18:58:53",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "b2002a5155da76d4b40484d3",
+      "title": "Customs debt liability",
+      "link": "https://www.gov.uk/guidance/customs-debt-liability",
+      "summary": "What happens if you underpay import or export duties and who is responsible for the debt.",
+      "published_at": "2026-08-13T13:17:46",
+      "fetched_at": "2026-08-13T18:58:53",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "f7ce32744c92b5a8e1728893",
+      "title": "Form: Exceptional learning support – cost form",
+      "link": "https://www.gov.uk/government/publications/exceptional-learning-support-cost-form",
+      "summary": "Use these forms to submit estimated costs and final claims for exceptional learning support.",
+      "published_at": "2026-08-13T13:05:08",
+      "fetched_at": "2026-08-13T18:58:53",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
     {
       "id": "9438417fe95af6cb91109a55",
       "title": "Guidance: Making Tax Digital for Income Tax: service availability and issues",
@@ -11368,185 +11551,6 @@
       "summary": "How to create and store digital records of your self-employment and property income and expenses for Making Tax Digital for Income Tax.",
       "published_at": "2026-07-16T14:14:40",
       "fetched_at": "2026-07-16T19:05:35",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "7d9d7e552332916aa581ac03",
-      "title": "Use Making Tax Digital for Income Tax",
-      "link": "https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax",
-      "summary": "Guidance for sole traders, landlords, and agents about how to use HMRC's new way to do Self Assessment.",
-      "published_at": "2026-07-16T14:14:40",
-      "fetched_at": "2026-07-16T19:05:35",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "8ba6db33bb1b679542127f50",
-      "title": "Guidance: VAT Government Information and National Health Trusts (GIANT): service availability and issues",
-      "link": "https://www.gov.uk/government/publications/vat-government-information-and-national-health-trusts-giant-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the VAT GIANT online service.",
-      "published_at": "2026-07-16T14:05:03",
-      "fetched_at": "2026-07-16T19:05:35",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "058337ec32a558aff24fb6b9",
-      "title": "PAYE Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/paye-manual",
-      "summary": "Guidance for staff working through PAYE processes for individuals and employers. HMRC is currently reviewing this guidance. If you have any comments or feedback, please email: hmrcmanualsteam@hmrc.gov.uk",
-      "published_at": "2026-07-16T13:51:02",
-      "fetched_at": "2026-07-16T19:05:35",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "7b7aff811411e748ec110be1",
-      "title": "Work out your qualifying income for Making Tax Digital for Income Tax",
-      "link": "https://www.gov.uk/guidance/work-out-your-qualifying-income-for-making-tax-digital-for-income-tax",
-      "summary": "Find out what counts as qualifying income from self-employment and property when using Making Tax Digital for Income Tax.",
-      "published_at": "2026-07-16T13:45:42",
-      "fetched_at": "2026-07-16T19:05:35",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "ba1b8c617641b75c3236165f",
-      "title": "Sign up your client for Making Tax Digital for Income Tax",
-      "link": "https://www.gov.uk/guidance/sign-up-your-client-for-making-tax-digital-for-income-tax",
-      "summary": "If you're an agent, use the online service to sign up your client for Making Tax Digital for Income Tax.",
-      "published_at": "2026-07-16T13:45:33",
-      "fetched_at": "2026-07-16T19:05:35",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "7a267680f21acbd7eb627ad5",
-      "title": "Sign up for Making Tax Digital for Income Tax",
-      "link": "https://www.gov.uk/guidance/sign-up-for-making-tax-digital-for-income-tax",
-      "summary": "If you're a sole trader or landlord, use the online service to sign up for Making Tax Digital for Income Tax.",
-      "published_at": "2026-07-16T13:43:47",
-      "fetched_at": "2026-07-16T19:05:35",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "0b3cca012cc70aee0e9e11bc",
-      "title": "Statistics at DWP",
-      "link": "https://www.gov.uk/government/organisations/department-for-work-pensions/about/statistics",
-      "summary": "We publish statistics on benefits, pensions, employment programmes, income distribution and other subjects we are responsible for.",
-      "published_at": "2026-07-16T13:31:55",
-      "fetched_at": "2026-07-16T13:44:35",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "b3ad8673a56b210e38aa1558",
-      "title": "Check genuine HMRC contact that uses more than one communication method",
-      "link": "https://www.gov.uk/guidance/check-genuine-hmrc-contact-that-uses-more-than-one-communication-method",
-      "summary": "Check recent contacts from HMRC to help you decide if a suspicious email, phone call, text or letter could be a scam.",
-      "published_at": "2026-07-16T12:01:41",
-      "fetched_at": "2026-07-16T13:44:34",
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "region": "UK",
