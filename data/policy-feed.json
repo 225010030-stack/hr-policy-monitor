@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-08-12T18:58:06",
+  "synced_at": "2026-08-13T01:45:04",
   "total": 500,
-  "new_count": 12,
+  "new_count": 6,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 10,
+      "added": 3,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,97 @@
     }
   ],
   "items": [
+    {
+      "id": "2fd2a55d034012a669649a60",
+      "title": "Guidance: Appendix 1: DE 1/10: Requested and Previous Procedure Codes of the Customs Declaration Service (CDS)",
+      "link": "https://www.gov.uk/government/publications/appendix-1-de-110-requested-and-previous-procedure-codes-of-the-customs-declaration-service-cds",
+      "summary": "Find out the completion rules and instructions for each 4-digit Requested and Previous Procedure Code that can be used in Data Element (DE) 1/10 for Imports.",
+      "published_at": "2026-08-12T23:15:09",
+      "fetched_at": "2026-08-13T01:44:44",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "1052f464f0904484edca99e3",
+      "title": "Guidance: CDS Declaration Completion Instructions for Imports",
+      "link": "https://www.gov.uk/government/publications/cds-uk-trade-tariff-volume-3-import-declaration-completion-guide",
+      "summary": "This guide provides detailed completion instructions for data elements when making an import declaration to the Customs Declaration Service (CDS).",
+      "published_at": "2026-08-12T23:15:09",
+      "fetched_at": "2026-08-13T01:44:44",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "5a54eac654e980155d4bf076",
+      "title": "Guidance: Appendix 21: Import Declaration Category Data Sets",
+      "link": "https://www.gov.uk/government/publications/appendix-21-import-declaration-category-data-sets",
+      "summary": "Find out about the the specific data elements needed for each declaration category when making an import declaration on the Customs Declaration Service.",
+      "published_at": "2026-08-12T23:15:09",
+      "fetched_at": "2026-08-13T01:44:44",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "6b605e82ec92d79a3bd5445e",
+      "title": "Policy paper: British Sign Language (BSL) 5-year plan: Department for Work and Pensions",
+      "link": "https://www.gov.uk/government/publications/british-sign-language-5-year-plan-department-for-work-and-pensions",
+      "summary": "This plan sets out how the Department for Work and Pensions plans to improve the use of BSL in its communications in the next 5 years.",
+      "published_at": "2026-08-12T23:01:05",
+      "fetched_at": "2026-08-13T01:44:44",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
     {
       "id": "aa3a680a550db237e8a70666",
       "title": "Self Assessment Manual",
@@ -11481,94 +11572,6 @@
       "link": "https://www.gov.uk/guidance/work-out-the-date-youll-need-to-register-for-carbon-border-adjustment-mechanism-cbam",
       "summary": "Find out if you need to register for CBAM and work out the date you need to do this by.",
       "published_at": "2026-07-16T07:58:56",
-      "fetched_at": "2026-07-16T08:08:35",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "a18acf2a0038897ae61fae30",
-      "title": "Imported Carbon Border Adjustment (CBAM) goods that may not contribute towards the registration threshold",
-      "link": "https://www.gov.uk/guidance/imported-carbon-border-adjustment-cbam-goods-that-may-not-contribute-towards-the-registration-threshold",
-      "summary": "Find out which imported CBAM goods may not contribute towards the registration threshold of £50,000.",
-      "published_at": "2026-07-16T07:58:10",
-      "fetched_at": "2026-07-16T08:08:35",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "7cfa5fe78c19d227e5152887",
-      "title": "Check if you’re classed as the importer for Carbon Border Adjustment Mechanism (CBAM)",
-      "link": "https://www.gov.uk/guidance/check-if-youre-classed-as-the-importer-for-carbon-border-adjustment-mechanism-cbam",
-      "summary": "Find out if you’re classed as the importer when checking if you’ll need to register for the Carbon Border Adjustment Mechanism (CBAM).",
-      "published_at": "2026-07-16T07:57:16",
-      "fetched_at": "2026-07-16T08:08:35",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "b88e3e86088c846c323a6596",
-      "title": "Guidance: Check which goods are in scope of Carbon Border Adjustment Mechanism (CBAM)",
-      "link": "https://www.gov.uk/government/publications/check-which-goods-are-in-scope-of-carbon-border-adjustment-mechanism-cbam",
-      "summary": "Find out whether Carbon Border Adjustment Mechanism (CBAM) goods imported into the UK from the aluminium, cement, fertiliser, hydrogen, iron and steel sectors are in scope of the CBAM tax.",
-      "published_at": "2026-07-16T07:56:24",
-      "fetched_at": "2026-07-16T08:08:35",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "1e7a137b6fefedc980453804",
-      "title": "Keeping records for Carbon Border Adjustment Mechanism (CBAM)",
-      "link": "https://www.gov.uk/guidance/keeping-records-for-carbon-border-adjustment-mechanism-cbam",
-      "summary": "Find out which records you must keep if you're the importer of CBAM goods.",
-      "published_at": "2026-07-16T07:54:32",
       "fetched_at": "2026-07-16T08:08:35",
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
