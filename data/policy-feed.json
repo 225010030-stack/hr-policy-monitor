@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-08-13T03:29:42",
+  "synced_at": "2026-08-13T07:22:17",
   "total": 500,
-  "new_count": 2,
+  "new_count": 1,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
-      "fetched": 21,
-      "added": 2,
+      "fetched": 19,
+      "added": 0,
       "error": null
     },
     {
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,28 @@
     }
   ],
   "items": [
+    {
+      "id": "ade86424f2c49feff5a82a14",
+      "title": "HMRC email updates, videos and webinars for company directors",
+      "link": "https://www.gov.uk/guidance/help-and-support-for-company-directors",
+      "summary": "Learn more about your responsibilities as a company director.",
+      "published_at": "2026-08-13T06:38:42",
+      "fetched_at": "2026-08-13T07:21:57",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "2fd2a55d034012a669649a60",
       "title": "Guidance: Appendix 1: DE 1/10: Requested and Previous Procedure Codes of the Customs Declaration Service (CDS)",
@@ -11564,28 +11586,6 @@
         "benefit",
         "benefits",
         "pension"
-      ]
-    },
-    {
-      "id": "7cbe5990b35afaca157a6de9",
-      "title": "Work out the date you’ll need to register for Carbon Border Adjustment Mechanism (CBAM)",
-      "link": "https://www.gov.uk/guidance/work-out-the-date-youll-need-to-register-for-carbon-border-adjustment-mechanism-cbam",
-      "summary": "Find out if you need to register for CBAM and work out the date you need to do this by.",
-      "published_at": "2026-07-16T07:58:56",
-      "fetched_at": "2026-07-16T08:08:35",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
       ]
     }
   ]
