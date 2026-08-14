@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-08-14T12:59:25",
+  "synced_at": "2026-08-14T18:49:50",
   "total": 500,
-  "new_count": 7,
+  "new_count": 1,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
       "fetched": 20,
-      "added": 1,
+      "added": 0,
       "error": null
     },
     {
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 6,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,28 @@
     }
   ],
   "items": [
+    {
+      "id": "82baa8109ad795b0ca3599d7",
+      "title": "Mandatory Tax Adviser Registration",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/mandatory-tax-adviser-registration",
+      "summary": "A guide on the requirements and conditions to mandatory tax adviser registration.",
+      "published_at": "2026-08-14T14:18:14",
+      "fetched_at": "2026-08-14T18:49:30",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "a54ef95f3bac5192b2a795b5",
       "title": "Guidance: NCTS: software developers",
@@ -11553,28 +11575,6 @@
       "matched_keywords": [
         "payroll",
         "ei"
-      ]
-    },
-    {
-      "id": "4efead441acefe57ae39c09c",
-      "title": "Cyflwyno’ch Ffurflen Dreth",
-      "link": "https://www.gov.uk/guidance/defnyddio-r-cynllun-troi-treth-yn-ddigidol-ar-gyfer-treth-incwm/cyflwyno-ch-ffurflen-dreth",
-      "summary": "Sut i lenwi, cyflwyno a gwneud newidiadau i’ch Ffurflen Dreth gan ddefnyddio’ch meddalwedd Troi Treth yn Ddigidol ar gyfer Treth Incwm.",
-      "published_at": "2026-07-16T14:15:00",
-      "fetched_at": "2026-07-16T19:05:35",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
       ]
     }
   ]
