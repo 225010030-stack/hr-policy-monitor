@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-08-13T18:59:13",
+  "synced_at": "2026-08-14T01:43:18",
   "total": 500,
-  "new_count": 8,
+  "new_count": 1,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 6,
+      "added": 0,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 2,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,33 @@
     }
   ],
   "items": [
+    {
+      "id": "08a4ad1543e91fe01ab0ee17",
+      "title": "Millions to receive essential benefit payments early",
+      "link": "https://www.gov.uk/government/news/millions-to-receive-essential-benefit-payments-early",
+      "summary": "Millions of people will receive essential financial support before the August bank holiday weekend, as the Government has confirmed that benefit payments will be brought forward to Friday 28 August.",
+      "published_at": "2026-08-13T23:01:04",
+      "fetched_at": "2026-08-14T01:42:58",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 25,
+      "matched_keywords": [
+        "leave",
+        "holiday",
+        "benefit",
+        "benefits",
+        "pension",
+        "ei"
+      ]
+    },
     {
       "id": "a20d9a9b168e3efdc8996355",
       "title": "Form: Statutory Maternity Pay: employee not entitled – form for employers",
@@ -11528,28 +11555,6 @@
       "link": "https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/help-and-support",
       "summary": "Find help, including from HMRC, if you need it.",
       "published_at": "2026-07-16T14:14:41",
-      "fetched_at": "2026-07-16T19:05:35",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "1e9a776f06b88fc4615e71f1",
-      "title": "Create digital records",
-      "link": "https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/create-digital-records",
-      "summary": "How to create and store digital records of your self-employment and property income and expenses for Making Tax Digital for Income Tax.",
-      "published_at": "2026-07-16T14:14:40",
       "fetched_at": "2026-07-16T19:05:35",
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
