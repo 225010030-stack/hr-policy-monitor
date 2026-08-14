@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-08-14T07:20:16",
+  "synced_at": "2026-08-14T12:59:25",
   "total": 500,
-  "new_count": 0,
+  "new_count": 7,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
-      "fetched": 19,
-      "added": 0,
+      "fetched": 20,
+      "added": 1,
       "error": null
     },
     {
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 6,
       "error": null
     },
     {
@@ -40,6 +40,167 @@
     }
   ],
   "items": [
+    {
+      "id": "a54ef95f3bac5192b2a795b5",
+      "title": "Guidance: NCTS: software developers",
+      "link": "https://www.gov.uk/government/publications/ncts-software-developers",
+      "summary": "List of companies who advised the New Computerised Transit System (NCTS) project team of their plans to develop commercial software solutions for NCTS.",
+      "published_at": "2026-08-14T12:21:17",
+      "fetched_at": "2026-08-14T12:59:05",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "b32036531f6755186eb682b1",
+      "title": "HMRC email updates, videos and webinars if you’re self-employed",
+      "link": "https://www.gov.uk/guidance/help-and-support-if-youre-self-employed",
+      "summary": "Learn more about your responsibilities if you’re running a small business including registration, tax returns, record keeping, tax bills and payments.",
+      "published_at": "2026-08-14T11:10:36",
+      "fetched_at": "2026-08-14T12:59:05",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "9a3f0bcd791ad039c77827b7",
+      "title": "Tell HMRC if you've claimed too much Research and Development (R&D) tax relief",
+      "link": "https://www.gov.uk/guidance/tell-hmrc-if-youve-claimed-too-much-research-and-development-rd-tax-relief",
+      "summary": "Make a voluntary disclosure for any R&D claims made in error that are out of time to amend on your Company Tax Return.",
+      "published_at": "2026-08-14T10:48:14",
+      "fetched_at": "2026-08-14T12:59:05",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "f7f2a4866134657c3e079748",
+      "title": "Submitting interim and annual tax claims for ISA managers",
+      "link": "https://www.gov.uk/guidance/annual-returns-and-tax-claims-for-isa-managers",
+      "summary": "Use this guidance to find out what information you need to provide and what forms to use for tax claims.",
+      "published_at": "2026-08-14T10:18:20",
+      "fetched_at": "2026-08-14T12:59:05",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "20e7b989f8545363d86a08f4",
+      "title": "HMRC tools and calculators",
+      "link": "https://www.gov.uk/guidance/hmrc-tools-and-calculators",
+      "summary": "Find and use tools and calculators that will help you work out your tax.",
+      "published_at": "2026-08-14T09:54:46",
+      "fetched_at": "2026-08-14T12:59:05",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "640796d7f0c27a457ad4478c",
+      "title": "Download the HMRC app",
+      "link": "https://www.gov.uk/guidance/download-the-hmrc-app",
+      "summary": "How to download and access the HMRC app on a mobile device to get information about your tax, National Insurance and benefits.",
+      "published_at": "2026-08-14T08:22:06",
+      "fetched_at": "2026-08-14T12:59:05",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 14,
+      "matched_keywords": [
+        "benefit",
+        "benefits",
+        "payroll"
+      ]
+    },
+    {
+      "id": "53a1be3b99e4f71fbdb75474",
+      "title": "Foreign Currency Gain or Loss of Controlled Foreign Corporations",
+      "link": "https://www.federalregister.gov/documents/2026/08/14/2026-16569/foreign-currency-gain-or-loss-of-controlled-foreign-corporations",
+      "summary": "This document contains proposed regulations providing rules relating to the determination and recognition of foreign currency gain or loss with respect to qualified business units (&quot;QBUs&quot;) of controlled foreign corporations (&quot;CFCs&quot;). The proposed regulations provide an election under which a CFC generally would not be required to compute or recognize foreign currency gain or loss upon a remittance from a QBU, except in connection with certain inbound nonrecognition transactio",
+      "published_at": "2026-08-14T04:00:00",
+      "fetched_at": "2026-08-14T12:59:04",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "payroll",
+        "withholding",
+        "ei",
+        "regulation"
+      ]
+    },
     {
       "id": "08a4ad1543e91fe01ab0ee17",
       "title": "Millions to receive essential benefit payments early",
@@ -11400,161 +11561,6 @@
       "link": "https://www.gov.uk/guidance/defnyddio-r-cynllun-troi-treth-yn-ddigidol-ar-gyfer-treth-incwm/cyflwyno-ch-ffurflen-dreth",
       "summary": "Sut i lenwi, cyflwyno a gwneud newidiadau i’ch Ffurflen Dreth gan ddefnyddio’ch meddalwedd Troi Treth yn Ddigidol ar gyfer Treth Incwm.",
       "published_at": "2026-07-16T14:15:00",
-      "fetched_at": "2026-07-16T19:05:35",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "d62651a3e91e6caee730cc81",
-      "title": "Ychwanegu neu ddod ag ffynonellau incwm i ben",
-      "link": "https://www.gov.uk/guidance/defnyddio-r-cynllun-troi-treth-yn-ddigidol-ar-gyfer-treth-incwm/ychwanegu-neu-ddod-ag-ffynonellau-incwm-i-ben",
-      "summary": "Dysgwch sut i ychwanegu neu ddod â ffynonellau incwm i ben ar gyfer Troi Treth yn Ddigidol ar gyfer Treth Incwm.",
-      "published_at": "2026-07-16T14:15:00",
-      "fetched_at": "2026-07-16T19:05:35",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "eb39ae6abc0d6b59b07a5d35",
-      "title": "Defnyddio’r cynllun Troi Treth yn Ddigidol ar gyfer Treth Incwm",
-      "link": "https://www.gov.uk/guidance/defnyddio-r-cynllun-troi-treth-yn-ddigidol-ar-gyfer-treth-incwm",
-      "summary": "Arweiniad ar gyfer unig fasnachwyr, landlordiaid ac asiantau ynghylch sut i ddefnyddio ffordd newydd CThEF o wneud Hunanasesiad.",
-      "published_at": "2026-07-16T14:15:00",
-      "fetched_at": "2026-07-16T19:05:35",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "c3996c99a35d80beb18338fa",
-      "title": "Submit your tax return",
-      "link": "https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/submit-your-tax-return",
-      "summary": "How to complete, submit and make changes to your tax return using your Making Tax Digital for Income Tax software.",
-      "published_at": "2026-07-16T14:14:41",
-      "fetched_at": "2026-07-16T19:05:35",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "e0cfa359b5167cdc69f45e3c",
-      "title": "Add or cease income sources",
-      "link": "https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/add-or-cease-income-sources",
-      "summary": "Find out how to add or cease income sources for Making Tax Digital for Income Tax.",
-      "published_at": "2026-07-16T14:14:41",
-      "fetched_at": "2026-07-16T19:05:35",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "51a2cb86172cdee3ff3c6985",
-      "title": "Adjust your self-employment and property income",
-      "link": "https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/adjust-your-self-employment-and-property-income",
-      "summary": "How and when to make adjustments before you submit your tax return.",
-      "published_at": "2026-07-16T14:14:41",
-      "fetched_at": "2026-07-16T19:05:35",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "e40895568b19b1a2086d0105",
-      "title": "If your circumstances change",
-      "link": "https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/if-your-circumstances-change",
-      "summary": "Find out what you need to do to keep your details up to date and when you need to tell HMRC about a change.",
-      "published_at": "2026-07-16T14:14:41",
-      "fetched_at": "2026-07-16T19:05:35",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "af6649addb49d654125d738a",
-      "title": "Help and support",
-      "link": "https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/help-and-support",
-      "summary": "Find help, including from HMRC, if you need it.",
-      "published_at": "2026-07-16T14:14:41",
       "fetched_at": "2026-07-16T19:05:35",
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
