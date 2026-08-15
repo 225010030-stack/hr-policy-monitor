@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-08-15T02:16:06",
+  "synced_at": "2026-08-15T06:32:59",
   "total": 500,
-  "new_count": 0,
+  "new_count": 2,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
-      "fetched": 20,
-      "added": 0,
+      "fetched": 22,
+      "added": 2,
       "error": null
     },
     {
@@ -40,6 +40,55 @@
     }
   ],
   "items": [
+    {
+      "id": "1cbe9b4c90519011d3f3cda4",
+      "title": "Proposed Removal of a Reporting Requirement for Trusts Whose Charitable Contribution Deductions Are Solely for Contributions Made by Passthrough Entities",
+      "link": "https://www.federalregister.gov/documents/2026/08/17/2026-16769/proposed-removal-of-a-reporting-requirement-for-trusts-whose-charitable-contribution-deductions-are",
+      "summary": "This document contains proposed regulations that would amend existing regulations that require certain trusts to report all charitable contributions and amounts permanently set aside for a charitable purpose on Form 1041-A, U.S. Information Return Trust Accumulation of Charitable Amounts. The proposed regulations would remove the reporting requirement for these trusts with respect to taxable years in which the trust's only claimed charitable contribution deduction results from charitable contrib",
+      "published_at": "2026-08-17T04:00:00",
+      "fetched_at": "2026-08-15T06:32:37",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 14,
+      "matched_keywords": [
+        "payroll",
+        "withholding",
+        "regulation"
+      ]
+    },
+    {
+      "id": "de2e184701e422d93bdfef1d",
+      "title": "Agency Information Collection Activities; Comment Request on Taxpayer Experience Office Speaker Request",
+      "link": "https://www.federalregister.gov/documents/2026/08/17/2026-16717/agency-information-collection-activities-comment-request-on-taxpayer-experience-office-speaker",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+      "published_at": "2026-08-17T04:00:00",
+      "fetched_at": "2026-08-15T06:32:37",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
     {
       "id": "82baa8109ad795b0ca3599d7",
       "title": "Mandatory Tax Adviser Registration",
@@ -11513,52 +11562,6 @@
       "title": "Help a chymorth",
       "link": "https://www.gov.uk/guidance/defnyddio-r-cynllun-troi-treth-yn-ddigidol-ar-gyfer-treth-incwm/help-a-chymorth",
       "summary": "Dewch o hyd i help, gan gynnwys help gan CThEF, os oes ei angen arnoch.",
-      "published_at": "2026-07-16T14:15:00",
-      "fetched_at": "2026-07-16T19:05:35",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "9af1b6c66e1fd4cbd73f359f",
-      "title": "Os bydd eich amgylchiadau’n newid",
-      "link": "https://www.gov.uk/guidance/defnyddio-r-cynllun-troi-treth-yn-ddigidol-ar-gyfer-treth-incwm/os-bydd-eich-amgylchiadau-n-newid",
-      "summary": "Dysgwch beth sydd angen i chi wneud er mwyn cadw eich manylion yn gyfredol a phryd mae angen i chi roi gwybod i CThEF am newid.",
-      "published_at": "2026-07-16T14:15:00",
-      "fetched_at": "2026-07-16T19:05:35",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "ba186fef49a2fa715f9e88d9",
-      "title": "Creu cofnodion digidol",
-      "link": "https://www.gov.uk/guidance/defnyddio-r-cynllun-troi-treth-yn-ddigidol-ar-gyfer-treth-incwm/creu-cofnodion-digidol",
-      "summary": "Sut i greu a chadw cofnodion digidol o’ch incwm a threuliau o hunangyflogaeth ac eiddo ar gyfer y cynllun Troi Treth yn Ddigidol ar gyfer Treth Incwm.",
       "published_at": "2026-07-16T14:15:00",
       "fetched_at": "2026-07-16T19:05:35",
       "source_id": "uk_hmrc",
