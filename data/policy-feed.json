@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-08-16T18:23:48",
+  "synced_at": "2026-08-17T01:05:19",
   "total": 500,
-  "new_count": 0,
+  "new_count": 1,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
@@ -87,6 +87,28 @@
       "matched_keywords": [
         "payroll",
         "withholding"
+      ]
+    },
+    {
+      "id": "7016680454dd902f43ce521c",
+      "title": "Apply for an exemption from Making Tax Digital for Income Tax",
+      "link": "https://www.gov.uk/guidance/apply-for-an-exemption-from-making-tax-digital-for-income-tax",
+      "summary": "Find out how to apply for an exemption from Making Tax Digital for Income Tax.",
+      "published_at": "2026-08-16T23:15:00",
+      "fetched_at": "2026-08-17T01:04:58",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
       ]
     },
     {
@@ -11539,29 +11561,6 @@
       "title": "Addasu eich incwm o hunangyflogaeth ac eiddo",
       "link": "https://www.gov.uk/guidance/defnyddio-r-cynllun-troi-treth-yn-ddigidol-ar-gyfer-treth-incwm/addasu-eich-incwm-o-hunangyflogaeth-ac-eiddo",
       "summary": "Sut a phryd i wneud addasiadau cyn cyflwyno’ch Ffurflen Dreth.",
-      "published_at": "2026-07-16T14:15:00",
-      "fetched_at": "2026-07-16T19:05:35",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "bfdd86e193055125323abfb5",
-      "title": "Help a chymorth",
-      "link": "https://www.gov.uk/guidance/defnyddio-r-cynllun-troi-treth-yn-ddigidol-ar-gyfer-treth-incwm/help-a-chymorth",
-      "summary": "Dewch o hyd i help, gan gynnwys help gan CThEF, os oes ei angen arnoch.",
       "published_at": "2026-07-16T14:15:00",
       "fetched_at": "2026-07-16T19:05:35",
       "source_id": "uk_hmrc",
