@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-08-17T12:37:49",
+  "synced_at": "2026-08-17T18:34:53",
   "total": 500,
-  "new_count": 7,
+  "new_count": 6,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -28,7 +28,7 @@
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 1,
+      "added": 0,
       "error": null
     },
     {
@@ -40,6 +40,117 @@
     }
   ],
   "items": [
+    {
+      "id": "bd2c6b8963be554363e05d17",
+      "title": "Check genuine HMRC contact that uses more than one communication method",
+      "link": "https://www.gov.uk/guidance/check-genuine-hmrc-contact-that-uses-more-than-one-communication-method",
+      "summary": "Check recent contacts from HMRC to help you decide if a suspicious email, phone call, text or letter could be a scam.",
+      "published_at": "2026-08-17T14:24:33",
+      "fetched_at": "2026-08-17T18:34:33",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "541ac052f43a22a7ae77fae5",
+      "title": "Capital Gains Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual",
+      "summary": "HMRC is reviewing the CG Manual to ensure it provides HMRC’s interpretation of relevant legislation where there is more than one reasonable view of how rules work.Where material in the CG Manual isn’t providing an interpretation, that material is being removed. Where appropriate, material will be reproduced elsewhere and linked from the CG Manual.",
+      "published_at": "2026-08-17T13:47:28",
+      "fetched_at": "2026-08-17T18:34:33",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "c03c96e21ce581222838bb95",
+      "title": "Mandatory Tax Adviser Registration",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/mandatory-tax-adviser-registration",
+      "summary": "A guide on the requirements and conditions to mandatory tax adviser registration.",
+      "published_at": "2026-08-17T13:23:43",
+      "fetched_at": "2026-08-17T18:34:33",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "74a3df8347f422fc5cf57545",
+      "title": "Guidance: Employers PAYE payment plan: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/employers-paye-payment-plan-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the Employers PAYE payment plan service.",
+      "published_at": "2026-08-17T13:01:46",
+      "fetched_at": "2026-08-17T18:34:33",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "589c7211b914ebb545a8bcef",
+      "title": "Guidance: VAT payment plan: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/vat-payment-plan-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the VAT payment plan service.",
+      "published_at": "2026-08-17T12:51:36",
+      "fetched_at": "2026-08-17T18:34:33",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "7acbfa5cc0fa71c494ba6e2f",
       "title": "Guidance: Authorised Consignee Temporary Storage (ACTS) location codes for Data Element 5/23 of the Customs Declaration Service",
@@ -161,6 +272,30 @@
       "summary": "Parents have until 31 August to extend Child Benefit for their 16 to 19-year-olds who are continuing in non-advanced approved education or training.",
       "published_at": "2026-08-17T09:29:01",
       "fetched_at": "2026-08-17T12:37:28",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 14,
+      "matched_keywords": [
+        "benefit",
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "0f6261a26b45b3968e2add95",
+      "title": "Extend Child Benefit for your teen before 31 August",
+      "link": "https://www.gov.uk/government/news/extend-child-benefit-for-your-teen-before-31-august",
+      "summary": "Parents have until 31 August to extend Child Benefit for their 16 to 19-year-olds who are continuing in non-advanced approved education or training.",
+      "published_at": "2026-08-17T09:29:00",
+      "fetched_at": "2026-08-17T18:34:33",
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "region": "UK",
@@ -11440,143 +11575,6 @@
         "benefit",
         "benefits",
         "pension"
-      ]
-    },
-    {
-      "id": "661d47aa819e72a77711233e",
-      "title": "Guidance: Tax-free savings newsletter 22",
-      "link": "https://www.gov.uk/government/publications/tax-free-savings-newsletter-22",
-      "summary": "Additional June 2026 newsletter to update stakeholders on the latest news for tax-free savings.",
-      "published_at": "2026-07-17T10:54:03",
-      "fetched_at": "2026-07-17T13:22:01",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "04076e16453e9198cba093ae",
-      "title": "Guidance: Find software suppliers for filing charities repayments online",
-      "link": "https://www.gov.uk/government/publications/charities-online-commercial-software-suppliers",
-      "summary": "Find recognised suppliers and software to file charity repayment claims online.",
-      "published_at": "2026-07-17T10:09:39",
-      "fetched_at": "2026-07-17T13:22:01",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "24f46405693fee9c7a1f0837",
-      "title": "Official Statistics: Universal Credit Health statistics to June 2026",
-      "link": "https://www.gov.uk/government/statistics/announcements/universal-credit-work-capability-assessment-statistics--3",
-      "summary": "These statistics cover the number of people on Universal Credit with a health condition or disability restricting their ability to work.",
-      "published_at": "2026-07-17T10:08:44",
-      "fetched_at": "2026-07-17T13:22:02",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 22,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension",
-        "ei"
-      ]
-    },
-    {
-      "id": "d5627596dc1659a5bd49164d",
-      "title": "HMRC email updates, videos and webinars for Alcohol Duty",
-      "link": "https://www.gov.uk/guidance/hmrc-email-updates-videos-and-webinars-for-alcohol-duty",
-      "summary": "Learn more about the support available for Alcohol Duty.",
-      "published_at": "2026-07-17T09:56:40",
-      "fetched_at": "2026-07-17T13:22:01",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "000fc2455a2cacdd9fb57728",
-      "title": "Promotional material: Vaping Products Duty and Vaping Duty Stamps Scheme — communications resources",
-      "link": "https://www.gov.uk/government/publications/vaping-products-duty-and-vaping-duty-stamps-scheme-communications-resources",
-      "summary": "These resources are designed to enable you to cascade accurate, timely information about the upcoming Vaping Products Duty and Vaping Duty Stamps Scheme to your members.",
-      "published_at": "2026-07-17T09:18:26",
-      "fetched_at": "2026-07-17T13:22:01",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "e4d3f6683c05abc901b6204d",
-      "title": "Capital Gains Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual",
-      "summary": "HMRC is reviewing the CG Manual to ensure it provides HMRC’s interpretation of relevant legislation where there is more than one reasonable view of how rules work.Where material in the CG Manual isn’t providing an interpretation, that material is being removed. Where appropriate, material will be reproduced elsewhere and linked from the CG Manual.",
-      "published_at": "2026-07-17T08:30:58",
-      "fetched_at": "2026-07-17T13:22:01",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
       ]
     }
   ]
