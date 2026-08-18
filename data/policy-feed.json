@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-08-18T12:38:49",
+  "synced_at": "2026-08-18T18:33:48",
   "total": 500,
-  "new_count": 22,
+  "new_count": 9,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 10,
+      "added": 9,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 12,
+      "added": 0,
       "error": null
     },
     {
@@ -40,6 +40,207 @@
     }
   ],
   "items": [
+    {
+      "id": "5ca023c9ac91cad5badc1cc2",
+      "title": "Transfer a pension scheme member's savings",
+      "link": "https://www.gov.uk/guidance/pension-administrators-member-transfers",
+      "summary": "Moving an individual's pension fund from one scheme to another and guarding against pension liberation.",
+      "published_at": "2026-08-18T14:11:43",
+      "fetched_at": "2026-08-18T18:33:27",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "pension",
+        "payroll"
+      ]
+    },
+    {
+      "id": "8500f5b2e5ddddeab583cb80",
+      "title": "Guidance: Check the statutory market values for oil",
+      "link": "https://www.gov.uk/government/publications/check-the-statutory-market-values-for-oil",
+      "summary": "Find statutory market values for disposal of category 1 oil from a UK field, which has not been sold at arm's length.",
+      "published_at": "2026-08-18T14:01:10",
+      "fetched_at": "2026-08-18T18:33:27",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 9,
+      "matched_keywords": [
+        "payroll",
+        "statutory"
+      ]
+    },
+    {
+      "id": "7d27571c0a336ca750e043fc",
+      "title": "Withdraw funds from your Customs Declaration Service cash account",
+      "link": "https://www.gov.uk/guidance/withdraw-funds-from-your-cash-account-for-cds-declarations",
+      "summary": "Make a request to withdraw funds from your cash account.",
+      "published_at": "2026-08-18T13:56:38",
+      "fetched_at": "2026-08-18T18:33:27",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "1bd2d8e6e9a8109d3cbcb50b",
+      "title": "Guidance: Maritime ports and wharves location codes for Data Element 5/23 of the Customs Declaration Service",
+      "link": "https://www.gov.uk/government/publications/maritime-ports-and-wharves-location-codes-for-data-element-523-of-the-customs-declaration-service",
+      "summary": "Find the codes which can be used in Data Element 5/23 to identify the location where the goods may be examined for maritime ports and wharves (Appendix 16C).",
+      "published_at": "2026-08-18T13:51:36",
+      "fetched_at": "2026-08-18T18:33:27",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "7af250eea0f03bf3032d9364",
+      "title": "Guidance: External temporary storage facilities codes for Data Element 5/23 of the Customs Declaration Service",
+      "link": "https://www.gov.uk/government/publications/external-temporary-storage-facilities-codes-for-data-element-523-of-the-customs-declaration-service",
+      "summary": "Find the codes which can be used in Data Element 5/23 to identify the location where the goods may be examined for an external temporary storage facility (ETSF) (Appendix 16F).",
+      "published_at": "2026-08-18T13:48:15",
+      "fetched_at": "2026-08-18T18:33:27",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "3634abf5b1c5d7a5106a92ae",
+      "title": "Guidance: Location code for airports for Data Element 5/23 of the Customs Declaration Service",
+      "link": "https://www.gov.uk/government/publications/location-code-for-airports-for-data-element-523-of-the-customs-declaration-service",
+      "summary": "Find a list of codes which may be used in Data Element 5/23 to identify the location where the goods may be examined for airports (Appendix 16A).",
+      "published_at": "2026-08-18T13:46:41",
+      "fetched_at": "2026-08-18T18:33:27",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "c8b43e8cdf3c879071808575",
+      "title": "Insolvency practitioner's handbook",
+      "link": "https://www.gov.uk/guidance/insolvency-practitioner-s-handbook",
+      "summary": "Find out what you need to account for and who to contact if you're an insolvency practitioner or official receiver dealing with HMRC.",
+      "published_at": "2026-08-18T12:52:07",
+      "fetched_at": "2026-08-18T18:33:27",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "bd0bbc265bb83b13ff7a5aaf",
+      "title": "29. Corporation Tax",
+      "link": "https://www.gov.uk/guidance/insolvency-practitioner-s-handbook/29-corporation-tax",
+      "summary": "How to account for Corporation Tax and submit a final Company Tax Return (CT600).",
+      "published_at": "2026-08-18T12:52:07",
+      "fetched_at": "2026-08-18T18:33:27",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "475254e54d751b39b81918a0",
+      "title": "30. Customs and customs duties",
+      "link": "https://www.gov.uk/guidance/insolvency-practitioner-s-handbook/30-customs-and-customs-duties",
+      "summary": "Your responsibilities as an insolvency practitioner when the company is involved in importing and exporting goods.",
+      "published_at": "2026-08-18T12:52:07",
+      "fetched_at": "2026-08-18T18:33:27",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "82af437441dffbf1c57a1661",
       "title": "Claim back an import security deposit or guarantee",
@@ -11382,218 +11583,6 @@
       "matched_keywords": [
         "payroll",
         "compliance"
-      ]
-    },
-    {
-      "id": "c94a6fcff6789e66adc117b4",
-      "title": "Guidance: Decision makers’ guide: Vols 13 and 14: State Pension Credit: staff guide",
-      "link": "https://www.gov.uk/government/publications/decision-makers-guide-vols-13-and-14-state-pension-credit-staff-guide",
-      "summary": "Guidance for DWP decision makers on decision making and appeals.",
-      "published_at": "2026-07-20T15:39:55",
-      "fetched_at": "2026-07-20T19:40:50",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "efef2726b95c357d5b2bb41f",
-      "title": "Official Statistics: Get Britain Working: Labour Market Insights July 2026 (Official Statistics in Development)",
-      "link": "https://www.gov.uk/government/statistics/announcements/get-britain-working-labour-market-insights-july-2026-official-statistics-in-development",
-      "summary": "A quarterly publication series of labour market official statistics in development.",
-      "published_at": "2026-07-20T14:41:32",
-      "fetched_at": "2026-07-20T19:40:50",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "f46974eaf07e9400fcafb059",
-      "title": "Pension reform",
-      "link": "https://www.gov.uk/government/speeches/pension-reform",
-      "summary": "Minister for Pensions delivered a speech at Mansion House on the 13th July.",
-      "published_at": "2026-07-20T13:59:31",
-      "fetched_at": "2026-07-20T19:40:50",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "10588a1ece71e730d8e44f5c",
-      "title": "Insolvency (VAT Notice 700/56)",
-      "link": "https://www.gov.uk/guidance/insolvency-and-vat-notice-70056",
-      "summary": "Find out how to account for VAT and who to contact if you're an insolvency practitioner and you're appointed over insolvent VAT-registered businesses.",
-      "published_at": "2026-07-20T13:28:57",
-      "fetched_at": "2026-07-20T14:00:14",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "36e5be456dc59887cdd58927",
-      "title": "Tax advisers: one month left to register under new rules",
-      "link": "https://www.gov.uk/government/news/tax-advisers-one-month-left-to-register-under-new-rules",
-      "summary": "HMRC is urging eligible tax advisers to register under the new mandatory requirements before 18 August 2026.",
-      "published_at": "2026-07-20T13:08:40",
-      "fetched_at": "2026-07-20T14:00:14",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "01c7ad8ad998b9c4a62d11e1",
-      "title": "Guidance: Advice for decision making: staff guide",
-      "link": "https://www.gov.uk/government/publications/advice-for-decision-making-staff-guide",
-      "summary": "Advice for DWP decision makers on Universal Credit, PIP and contribution-based JSA and ESA for people who are eligible for Universal Credit.",
-      "published_at": "2026-07-20T12:38:28",
-      "fetched_at": "2026-07-20T14:00:14",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "61e2e88dbd7ad46f2de5a023",
-      "title": "VAT Assessments and Error Correction",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/vat-assessments-and-error-correction",
-      "summary": "Guidance on Assessments and error correction, including help with their issue, amendment and withdrawal. Note: Please see the guidance in CH160000 for the most up-to-date guidance on reasonable excuse.",
-      "published_at": "2026-07-20T12:31:58",
-      "fetched_at": "2026-07-20T14:00:14",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "6c3d605fddba596bb6648117",
-      "title": "Form: International Tax — UK Real Estate Investment Trusts (form UK-REIT DT-Company)",
-      "link": "https://www.gov.uk/government/publications/international-tax-uk-real-estate-investment-trusts-form-uk-reit-dt-company",
-      "summary": "Use this form to claim repayment of UK Income Tax deducted from property income dividends paid by UK Real Estate Investment Trusts.",
-      "published_at": "2026-07-20T11:49:25",
-      "fetched_at": "2026-07-20T14:00:14",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "c56e7382896d4dd88c705ceb",
-      "title": "Self Assessment Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual",
-      "summary": "This manual contains guidance and processes for Self Assessment (SA)",
-      "published_at": "2026-07-20T11:37:56",
-      "fetched_at": "2026-07-20T14:00:14",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
       ]
     }
   ]
