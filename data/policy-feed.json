@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-08-18T02:17:57",
+  "synced_at": "2026-08-18T06:37:49",
   "total": 500,
-  "new_count": 0,
+  "new_count": 1,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,29 @@
     }
   ],
   "items": [
+    {
+      "id": "a72c50cbb5a2d5241e3177b2",
+      "title": "Accredited official statistics: Earnings and employment from Pay As You Earn Real Time Information, UK: August 2026",
+      "link": "https://www.gov.uk/government/statistics/earnings-and-employment-from-pay-as-you-earn-real-time-information-uk-august-2026",
+      "summary": "Monthly estimates of payrolled employees and their pay from HM Revenue and Customs’ (HMRC’s) Pay As You Earn (PAYE) Real Time Information (RTI) data. This is a joint release between HMRC and the Office for National Statistics (ONS).",
+      "published_at": "2026-08-18T06:00:01",
+      "fetched_at": "2026-08-18T06:37:28",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
     {
       "id": "92fafacd8efce45a3041d353",
       "title": "Guidance: Data Element 2/3: Documents and Other Reference Codes (Union) of the Customs Declaration Service (CDS)",
@@ -11537,29 +11560,6 @@
       "link": "https://www.gov.uk/government/publications/revenue-and-customs-brief-9-2025-vat-liability-of-the-supply-of-temporary-medical-staff-locum-doctors",
       "summary": "This brief provides an update on the VAT treatment of the supply of temporary medical staff (locum doctors).",
       "published_at": "2026-07-17T13:05:06",
-      "fetched_at": "2026-07-17T13:22:01",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 9,
-      "matched_keywords": [
-        "medical",
-        "payroll"
-      ]
-    },
-    {
-      "id": "4f2d8f2840da11e250ff7b75",
-      "title": "Policy paper: Revenue and Customs Brief 6 (2026): VAT liability of the supply of temporary medical staff (locum doctors)",
-      "link": "https://www.gov.uk/government/publications/revenue-and-customs-brief-6-2026-vat-liability-of-the-supply-of-temporary-medical-staff-locum-doctors",
-      "summary": "This brief provides an update on the VAT treatment of past and present supplies of registered locum doctors.",
-      "published_at": "2026-07-17T13:00:02",
       "fetched_at": "2026-07-17T13:22:01",
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
