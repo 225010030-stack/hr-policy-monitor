@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-08-18T06:37:49",
+  "synced_at": "2026-08-18T12:38:49",
   "total": 500,
-  "new_count": 1,
+  "new_count": 22,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 1,
+      "added": 10,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 12,
       "error": null
     },
     {
@@ -40,6 +40,528 @@
     }
   ],
   "items": [
+    {
+      "id": "82af437441dffbf1c57a1661",
+      "title": "Claim back an import security deposit or guarantee",
+      "link": "https://www.gov.uk/guidance/claim-back-an-import-security-deposit-or-guarantee",
+      "summary": "Use this service for Temporary Admission, inward processing or authorised use with an authorisation by declaration, or if proof of origin was not available at the time of import.",
+      "published_at": "2026-08-18T12:33:08",
+      "fetched_at": "2026-08-18T12:38:29",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "a397ccd6254f95415a20629c",
+      "title": "Mandatory Tax Adviser Registration",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/mandatory-tax-adviser-registration",
+      "summary": "A guide on the requirements and conditions to mandatory tax adviser registration.",
+      "published_at": "2026-08-18T11:50:04",
+      "fetched_at": "2026-08-18T12:38:29",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "7432e6ebb9393a35bc9bb8b8",
+      "title": "Guidance: Internal temporary storage facilities (ITSFs) codes for Data Element 5/23 of the Customs Declaration Service",
+      "link": "https://www.gov.uk/government/publications/internal-temporary-storage-facilities-itsfs-codes-for-data-element-523-of-the-customs-declaration-service",
+      "summary": "Find a list of codes which can be used in Data Element 5/23 to identify the location where the goods may be examined for internal temporary storage facilities (Appendix 16D).",
+      "published_at": "2026-08-18T09:58:48",
+      "fetched_at": "2026-08-18T12:38:29",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "139d9f131b869eb25d88c07a",
+      "title": "Second registration window now open for tax advisers",
+      "link": "https://www.gov.uk/government/news/second-registration-window-now-open-for-tax-advisers",
+      "summary": "HMRC has opened the second phase of mandatory tax adviser registration, with eligible advisers required to register by 18 November 2026.",
+      "published_at": "2026-08-18T09:25:40",
+      "fetched_at": "2026-08-18T12:38:29",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "db1aee07954a35012d556f09",
+      "title": "Official Statistics: Official statistics announcement   Universal Credit Statistics, 29 April 2013 to 13 May 2027",
+      "link": "https://www.gov.uk/government/statistics/announcements/official-statistics-announcement-universal-credit-statistics-29-april-2013-to-13-may-2027",
+      "summary": "Statistics for the number of people on Universal Credit (UC) by geography, age, conditionality regime, duration, employment, move to UC indicator, ethnicity, nationality and immigration status. Statistics for the number of households on UC by geography, family type, number of children, entitlements, payment timelines, deductions and childcare. Statistics for the number of claims and starts on UC by geography, age, gender and rates.",
+      "published_at": "2026-08-18T09:25:05",
+      "fetched_at": "2026-08-18T12:38:29",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "fa3537b1a3fe562d9816970a",
+      "title": "Promotional material: Help with common risks in transfer pricing approaches — GfC7",
+      "link": "https://www.gov.uk/government/publications/help-with-common-risks-in-transfer-pricing-approaches-gfc7",
+      "summary": "Find out about best practice approaches to transfer pricing to lower risk and avoid common mistakes.",
+      "published_at": "2026-08-18T09:17:19",
+      "fetched_at": "2026-08-18T12:38:29",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "9a46ed93be4cfe3593075a02",
+      "title": "Official Statistics: Universal Credit Statistics, 29 April 2013 to 11 February 2027",
+      "link": "https://www.gov.uk/government/statistics/announcements/universal-credit-statistics-29-april-2013-to-8-april-2027",
+      "summary": "Statistics for the number of people on Universal Credit by geography, age, conditionality regime, duration, employment, move to UC indicator, ethnicity, nationality and immigration status. Statistics for the number of households on Universal Credit by geography, family type, number of children, entitlements, payment timelines, deductions and childcare. Statistics for the number of claims and starts on Universal Credit by geography, age, gender and rates.",
+      "published_at": "2026-08-18T09:16:45",
+      "fetched_at": "2026-08-18T12:38:29",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "b5f4478a94d3553c6d55b86e",
+      "title": "Official Statistics: Universal Credit Statistics, 29 April 2013 to 13 August 2026",
+      "link": "https://www.gov.uk/government/statistics/announcements/universal-credit-statistics-29-april-2013-to-13-august-2026--2",
+      "summary": "Statistics for the number of people on Universal Credit by geography, age, conditionality regime, duration, employment (including self-employment), move to UC indicator, ethnicity, nationality and immigration status. Statistics for the number of households on Universal Credit by geography, family type, number of children, entitlements, payment timelines, deductions and childcare. Statistics for the number of claims and starts on Universal Credit by geography, age, gender and rates.",
+      "published_at": "2026-08-18T09:16:37",
+      "fetched_at": "2026-08-18T12:38:29",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "f5e536f6bd429758df4d82c4",
+      "title": "Official Statistics: Universal Credit Statistics, 29 April 2013 to 12 November 2026",
+      "link": "https://www.gov.uk/government/statistics/announcements/universal-credit-statistics-29-april-2013-to-14-january-2027",
+      "summary": "Statistics for the number of people on Universal Credit by geography, age, conditionality regime, duration, employment (including self-employment), move to UC indicator, ethnicity, nationality and immigration status. Statistics for the number of households on Universal Credit by geography, family type, number of children, entitlements, payment timelines, deductions and childcare. Statistics for the number of claims and starts on Universal Credit by geography, age, gender and rates.",
+      "published_at": "2026-08-18T09:16:26",
+      "fetched_at": "2026-08-18T12:38:29",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "c9e2fccfa6bea8a7fd16e8f6",
+      "title": "Research: General population polling, July to August: Young people and work report",
+      "link": "https://www.gov.uk/government/publications/general-population-polling-july-to-august-young-people-and-work-report",
+      "summary": "Summary of findings of the population’s attitudes to attempts to address the rise in the number of young people not in education, employment or training.",
+      "published_at": "2026-08-18T09:00:00",
+      "fetched_at": "2026-08-18T12:38:29",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "ccdb2f1037f1b72065962a62",
+      "title": "Accredited official statistics: HMRC tax receipts and National Insurance contributions for the UK",
+      "link": "https://www.gov.uk/government/statistics/announcements/hmrc-tax-receipts-and-national-insurance-contributions-for-the-uk--149",
+      "summary": "Summary of HM Revenue and Customs' tax receipts, National Insurance contributions (NICs), and expenditure for the UK.",
+      "published_at": "2026-08-18T08:45:11",
+      "fetched_at": "2026-08-18T12:38:29",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "1df418d856cab25473ce8e74",
+      "title": "Promotional material: Mandatory tax adviser registration — communications resources",
+      "link": "https://www.gov.uk/government/publications/mandatory-tax-adviser-registration-communications-resources",
+      "summary": "These resources will help you to provide the latest information to your members about mandatory tax adviser registration.",
+      "published_at": "2026-08-18T08:30:02",
+      "fetched_at": "2026-08-18T12:38:29",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "384d386993d3fe00e820f001",
+      "title": "Official Statistics: Pre-release access to DWP statistics",
+      "link": "https://www.gov.uk/government/statistics/pre-release-access-to-statistics-order-2008",
+      "summary": "Job titles of people with pre-release access to Department for Work and Pensions (DWP) statistics and the organisations they belong to.",
+      "published_at": "2026-08-18T08:30:02",
+      "fetched_at": "2026-08-18T12:38:29",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "a75be68c68e2608313c40d3e",
+      "title": "Guidance: Universal Credit statistics: background information and methodology",
+      "link": "https://www.gov.uk/government/publications/universal-credit-statistics-background-information-and-methodology",
+      "summary": "Information about Universal Credit statistics methodology including the purpose, source, definitions and limitations of the statistics covered.",
+      "published_at": "2026-08-18T08:30:02",
+      "fetched_at": "2026-08-18T12:38:29",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "ed14cc4c8c30ff66ef7ee649",
+      "title": "Official Statistics: Benefit Sanctions statistics to May 2026",
+      "link": "https://www.gov.uk/government/statistics/benefit-sanctions-statistics-to-may-2026",
+      "summary": "Statistics about sanctions on Universal Credit (UC). The data will be available as normal for analysis via Stat-Xplore.",
+      "published_at": "2026-08-18T08:30:01",
+      "fetched_at": "2026-08-18T12:38:29",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "16e7b7d30b2159eac610592a",
+      "title": "Guidance: Universal Credit sanctions statistics: background information and methodology",
+      "link": "https://www.gov.uk/government/publications/universal-credit-sanctions-statistics-background-information-and-methodology",
+      "summary": "Information about sanctions statistics and methodology including the purpose, source, definitions and limitations of the statistics covered.",
+      "published_at": "2026-08-18T08:30:01",
+      "fetched_at": "2026-08-18T12:38:29",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "db24285ab81a179cf49a0572",
+      "title": "Official Statistics: Universal Credit quarterly statistics, 29 April 2013 to 14 May 2026",
+      "link": "https://www.gov.uk/government/statistics/universal-credit-quarterly-statistics-29-april-2013-to-14-may-2026",
+      "summary": "Statistics for the number of claims, starts, people and households on Universal Credit.",
+      "published_at": "2026-08-18T08:30:01",
+      "fetched_at": "2026-08-18T12:38:29",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "5dd2ce78af76642f341238b1",
+      "title": "Guidance: Advice for decision making: staff guide",
+      "link": "https://www.gov.uk/government/publications/advice-for-decision-making-staff-guide",
+      "summary": "Advice for DWP decision makers on Universal Credit, PIP and contribution-based JSA and ESA for people who are eligible for Universal Credit.",
+      "published_at": "2026-08-18T08:30:01",
+      "fetched_at": "2026-08-18T12:38:29",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "617461e7831b48f4f114c2c9",
+      "title": "Guidance: Child maintenance decision makers' guide",
+      "link": "https://www.gov.uk/government/publications/child-maintenance-decision-makers-guide",
+      "summary": "Guidance for DWP decision makers on child maintenance.",
+      "published_at": "2026-08-18T08:30:01",
+      "fetched_at": "2026-08-18T12:38:29",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "6d3bb4b78a658233a689a7c7",
+      "title": "Accredited official statistics: Tobacco Bulletin",
+      "link": "https://www.gov.uk/government/statistics/announcements/tobacco-bulletin--17",
+      "summary": "This publication covers provisional tobacco duty receipts data to July 2026 and provisional production and clearances data to June 2026.",
+      "published_at": "2026-08-18T08:10:20",
+      "fetched_at": "2026-08-18T12:38:29",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "49f57fc7b8842f654a5f6086",
+      "title": "Guidance: Simple Assessment payment plan: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/simple-assessment-payment-plan-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the Simple Assessment payment plan service.",
+      "published_at": "2026-08-18T07:39:39",
+      "fetched_at": "2026-08-18T12:38:29",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "3ce8211a5bd1feb2bd96578d",
+      "title": "Guidance: Self Assessment payment plan: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/self-assessment-payment-plan-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the Self Assessment payment plan service.",
+      "published_at": "2026-08-18T07:35:21",
+      "fetched_at": "2026-08-18T12:38:29",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "a72c50cbb5a2d5241e3177b2",
       "title": "Accredited official statistics: Earnings and employment from Pay As You Earn Real Time Information, UK: August 2026",
@@ -11071,509 +11593,6 @@
       ],
       "score": 6,
       "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "7546398e3508c5566f4cf09b",
-      "title": "Guidance: Child Benefit: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/child-benefit-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the Child Benefit online service.",
-      "published_at": "2026-07-20T10:57:48",
-      "fetched_at": "2026-07-20T14:00:14",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "benefit",
-        "payroll"
-      ]
-    },
-    {
-      "id": "24aac0bc288574bab8c773a1",
-      "title": "Sailing a pleasure craft that is arriving in the UK",
-      "link": "https://www.gov.uk/guidance/sailing-a-pleasure-craft-that-is-arriving-in-the-uk",
-      "summary": "Check customs rules for private individuals who travel to the UK from another country in a pleasure craft",
-      "published_at": "2026-07-20T10:11:26",
-      "fetched_at": "2026-07-20T14:00:14",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 9,
-      "matched_keywords": [
-        "payroll",
-        "cra"
-      ]
-    },
-    {
-      "id": "8e86cc999a96853a186e7afc",
-      "title": "Statutory guidance: Registered societies (RS-01)",
-      "link": "https://www.gov.uk/government/publications/notes-for-submitting-a-return-under-section-887-of-the-income-tax-act-2007-on-a-spreadsheet-industrial-and-provident-society-ips-5fa",
-      "summary": "Use the template to send details of payments of interest, dividends, bonuses or other sums.",
-      "published_at": "2026-07-20T10:04:58",
-      "fetched_at": "2026-07-20T14:00:14",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 9,
-      "matched_keywords": [
-        "payroll",
-        "statutory"
-      ]
-    },
-    {
-      "id": "05518d38d4ca82f71186ec9e",
-      "title": "HMRC email updates, videos and webinars for money laundering supervision",
-      "link": "https://www.gov.uk/guidance/hmrc-email-updates-videos-and-webinars-for-money-laundering-supervision",
-      "summary": "Learn more about money laundering regulations, your responsibilities and how to report suspicious activity.",
-      "published_at": "2026-07-20T09:50:35",
-      "fetched_at": "2026-07-20T14:00:14",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 9,
-      "matched_keywords": [
-        "payroll",
-        "regulation"
-      ]
-    },
-    {
-      "id": "9ddf64a005958b23d62cd3ff",
-      "title": "Stamp Taxes on Shares Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/stamp-taxes-shares-manual",
-      "summary": "Guidance on Stamp Taxes on Shares and other Securities - Stamp Duty and Stamp Duty Reserve Tax (SDRT)",
-      "published_at": "2026-07-20T09:13:26",
-      "fetched_at": "2026-07-20T14:00:14",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "e5e987cf5008f10029531f8d",
-      "title": "Request your personal information from the Department for Work and Pensions",
-      "link": "https://www.gov.uk/guidance/request-your-personal-information-from-the-department-for-work-and-pensions",
-      "summary": "Find out how to ask for a copy of the information that is held about you. This is called the 'right of access' also known as a subject access request (SAR).",
-      "published_at": "2026-07-20T08:56:33",
-      "fetched_at": "2026-07-20T14:00:14",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "bbb6378669ab4cac768a0b79",
-      "title": "Draft legislation: Better use of new and improved third-party data",
-      "link": "https://www.gov.uk/government/consultations/draft-legislation-better-use-of-new-and-improved-third-party-data",
-      "summary": "We welcome views on this technical consultation to improve the quality and consistency of data HMRC receives on interest income and card sales.",
-      "published_at": "2026-07-20T08:30:07",
-      "fetched_at": "2026-07-20T08:53:21",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "b7a833ae20c0883af01af394",
-      "title": "Guidance: Insolvency practitioner bulletin 2 (2026): Novalpina judgment — HMRC guidance for insolvency practitioners",
-      "link": "https://www.gov.uk/government/publications/insolvency-practitioner-bulletin-2-2026-novalpina-judgment-hmrc-guidance-for-insolvency-practitioners",
-      "summary": "This bulletin tells you about new guidance to help insolvency practitioners in their dealings with HMRC in members’ voluntary liquidations.",
-      "published_at": "2026-07-20T07:59:08",
-      "fetched_at": "2026-07-20T08:53:21",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "3545d1f4e337aeae2ad9deff",
-      "title": "2. Types of insolvency",
-      "link": "https://www.gov.uk/guidance/insolvency-practitioner-s-handbook/2-types-of-insolvency",
-      "summary": "The different types of insolvency.",
-      "published_at": "2026-07-20T07:53:35",
-      "fetched_at": "2026-07-20T08:53:21",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "0fe5d0829795128161e3c030",
-      "title": "4. Claims",
-      "link": "https://www.gov.uk/guidance/insolvency-practitioner-s-handbook/4-claims",
-      "summary": "How HMRC issue claims to insolvency practitioners, and how VAT penalties and interest apply.",
-      "published_at": "2026-07-20T07:53:35",
-      "fetched_at": "2026-07-20T08:53:21",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "6585dda048b0ee6b907c036e",
-      "title": "Insolvency practitioner's handbook",
-      "link": "https://www.gov.uk/guidance/insolvency-practitioner-s-handbook",
-      "summary": "Find out what you need to account for and who to contact if you're an insolvency practitioner or official receiver dealing with HMRC.",
-      "published_at": "2026-07-20T07:53:35",
-      "fetched_at": "2026-07-20T08:53:21",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "ac11e44bb54670e98e4d40b1",
-      "title": "29. Registering as a tax adviser",
-      "link": "https://www.gov.uk/guidance/insolvency-practitioner-s-handbook/29-registering-as-a-tax-adviser",
-      "summary": "When you need to and do not need to register as a tax adviser.",
-      "published_at": "2026-07-20T07:53:35",
-      "fetched_at": "2026-07-20T08:53:21",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "42de29d2bb0a9cbc5509ea11",
-      "title": "Carer's Allowance: call for evidence",
-      "link": "https://www.gov.uk/government/calls-for-evidence/carers-allowance-call-for-evidence",
-      "summary": "This call for evidence is being administered by the Department for Work and Pensions (DWP) to gather information and views to build on the Department’s existing evidence. What we hear will help shape future thinking about how Carer’s Allowance can be modernised.",
-      "published_at": "2026-07-17T15:26:01",
-      "fetched_at": "2026-07-17T19:03:18",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 22,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension",
-        "ei"
-      ]
-    },
-    {
-      "id": "f2ed53bbb2e35f7198cc3274",
-      "title": "Transparency data: HMRC major projects: appointment letters for Senior Responsible Owners",
-      "link": "https://www.gov.uk/government/publications/hmrc-major-projects-appointment-letters-for-senior-responsible-owners",
-      "summary": "HMRC appointment letters and briefing pack for Government Major Projects Portfolio (GMPP) Senior Responsible Owners (SROs).",
-      "published_at": "2026-07-17T15:15:05",
-      "fetched_at": "2026-07-17T19:03:18",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "3045f3b698a699f5379fd153",
-      "title": "Submitting annual returns of statistical information for ISA managers",
-      "link": "https://www.gov.uk/guidance/annual-returns-of-isa-statistical-information-to-hmrc",
-      "summary": "Find out when and how to make an annual return of Individual Savings Accounts (ISA) statistical information.",
-      "published_at": "2026-07-17T14:48:54",
-      "fetched_at": "2026-07-17T19:03:18",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "91e376659441b3f730c9cdd0",
-      "title": "Official Statistics: Statistical commentary on Non-domiciled taxpayers in the UK",
-      "link": "https://www.gov.uk/government/statistics/announcements/statistical-commentary-on-non-domiciled-taxpayers-in-the-uk--2",
-      "summary": "This release contains information about people claiming non-domiciled status in the UK through their Self Assessment tax returns.",
-      "published_at": "2026-07-17T14:27:40",
-      "fetched_at": "2026-07-17T19:03:18",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "4e33eb3979b3ddced76263af",
-      "title": "Guidance: List of community amateur sports clubs (CASC) registered with HMRC",
-      "link": "https://www.gov.uk/government/publications/community-amateur-sports-clubs-casc-registered-with-hmrc--2",
-      "summary": "Check which sports clubs are registered with HMRC as community amateur sports clubs.",
-      "published_at": "2026-07-17T13:39:30",
-      "fetched_at": "2026-07-17T19:03:18",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "deed8f448774d9a211ac0d36",
-      "title": "Appeals reviews and tribunals guidance",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/appeals-reviews-and-tribunals-guidance",
-      "summary": "Appeals, Reviews and Tribunals Guidance",
-      "published_at": "2026-07-17T13:39:02",
-      "fetched_at": "2026-07-17T19:03:18",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "0ba3d4eba90a6a4793e2d79a",
-      "title": "Guidance: Advice for decision making: staff guide",
-      "link": "https://www.gov.uk/government/publications/advice-for-decision-making-staff-guide",
-      "summary": "Advice for DWP decision makers on Universal Credit, PIP and contribution-based JSA and ESA for people who are eligible for Universal Credit.",
-      "published_at": "2026-07-17T13:37:33",
-      "fetched_at": "2026-07-17T19:03:18",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "fd7b226e308d8d3f3b4e1ab7",
-      "title": "Find out about the loan charge settlement scheme",
-      "link": "https://www.gov.uk/guidance/find-out-about-the-loan-charge-settlement-scheme",
-      "summary": "Find out about settling your outstanding disguised remuneration loan charge liability under the loan charge settlement scheme.",
-      "published_at": "2026-07-17T13:30:00",
-      "fetched_at": "2026-07-17T19:03:18",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "bec10c5200c878fd3446374e",
-      "title": "The loan charge",
-      "link": "https://www.gov.uk/guidance/the-loan-charge",
-      "summary": "Find out if the loan charge applies to your disguised remuneration loans, and how to settle your loan charge liability.",
-      "published_at": "2026-07-17T13:28:00",
-      "fetched_at": "2026-07-17T19:03:18",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "7e421d3597a801d4289a0eb4",
-      "title": "Policy paper: Revenue and Customs brief 9 (2025): VAT liability of the supply of temporary medical staff (locum doctors)",
-      "link": "https://www.gov.uk/government/publications/revenue-and-customs-brief-9-2025-vat-liability-of-the-supply-of-temporary-medical-staff-locum-doctors",
-      "summary": "This brief provides an update on the VAT treatment of the supply of temporary medical staff (locum doctors).",
-      "published_at": "2026-07-17T13:05:06",
-      "fetched_at": "2026-07-17T13:22:01",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 9,
-      "matched_keywords": [
-        "medical",
         "payroll"
       ]
     }
