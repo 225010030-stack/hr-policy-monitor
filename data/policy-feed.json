@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-08-19T06:38:21",
+  "synced_at": "2026-08-19T12:40:00",
   "total": 500,
-  "new_count": 2,
+  "new_count": 15,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
       "fetched": 23,
-      "added": 2,
+      "added": 0,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 14,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,343 @@
     }
   ],
   "items": [
+    {
+      "id": "d045e3623d0992c778ea49c2",
+      "title": "The Value for Money Framework: Consultation",
+      "link": "https://www.gov.uk/government/consultations/the-value-for-money-framework-consultation",
+      "summary": "The Value for Money Framework will place investment outcomes, service quality and overall value at the centre of workplace pension provision.",
+      "published_at": "2026-08-19T12:24:17",
+      "fetched_at": "2026-08-19T12:39:39",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "28f286ea13404076fa6a8de8",
+      "title": "HMRC email updates, videos and webinars for employing people",
+      "link": "https://www.gov.uk/guidance/help-and-support-for-employing-people",
+      "summary": "Learn more about getting started as an employer or running a small business including registration, payroll, tax returns, tax bills and payments.",
+      "published_at": "2026-08-19T10:21:33",
+      "fetched_at": "2026-08-19T12:39:39",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "c5f4c0baa3c6c4424f618ab1",
+      "title": "List of ports using the Goods Vehicle Movement Service",
+      "link": "https://www.gov.uk/guidance/list-of-ports-using-the-goods-vehicle-movement-service",
+      "summary": "Find out which locations are using the Goods Vehicle Movement Service.",
+      "published_at": "2026-08-19T10:13:53",
+      "fetched_at": "2026-08-19T12:39:39",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "c52d86f3a623e281147706be",
+      "title": "HMRC email updates, videos and webinars for money laundering supervision",
+      "link": "https://www.gov.uk/guidance/hmrc-email-updates-videos-and-webinars-for-money-laundering-supervision",
+      "summary": "Learn more about money laundering regulations, your responsibilities and how to report suspicious activity.",
+      "published_at": "2026-08-19T10:10:49",
+      "fetched_at": "2026-08-19T12:39:39",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 9,
+      "matched_keywords": [
+        "payroll",
+        "regulation"
+      ]
+    },
+    {
+      "id": "c2d76b9437fbdc1c16cde02a",
+      "title": "Accredited official statistics: Research and Development Tax Credits Statistics: September 2026",
+      "link": "https://www.gov.uk/government/statistics/announcements/research-and-development-tax-credits-statistics-september-2026",
+      "summary": "These statistics provide information about Research and Development Tax Credits, their cost, and the nature of the companies claiming them. This will be the first time data on the new ERIS and Merged RDEC schemes will be included in the publication.",
+      "published_at": "2026-08-19T09:04:28",
+      "fetched_at": "2026-08-19T12:39:39",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "b849ce1c851d958e5bd9cc33",
+      "title": "Guidance: Employer Bulletin: August 2026",
+      "link": "https://www.gov.uk/government/publications/employer-bulletin-august-2026",
+      "summary": "A bi-monthly magazine for employers and agents that gives up-to-date information on payroll topics.",
+      "published_at": "2026-08-19T09:00:02",
+      "fetched_at": "2026-08-19T12:39:39",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "6dbf7db24b41c81e09d8c7f8",
+      "title": "Official Statistics: Creative industries statistics: September 2026",
+      "link": "https://www.gov.uk/government/statistics/announcements/creative-industries-statistics-september-2026",
+      "summary": "Information on the creative industries’ tax reliefs for film, high-end television, animation, children’s television, video games, theatre, orchestra, and museums and galleries exhibitions, including statistics on AVEC and VGEC.",
+      "published_at": "2026-08-19T08:33:05",
+      "fetched_at": "2026-08-19T12:39:39",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "3f4b85f92e11b2d1b9d25175",
+      "title": "Guidance: Business rates and duty to notify",
+      "link": "https://www.gov.uk/government/publications/business-rates-and-duty-to-notify",
+      "summary": "Find out about the business rates duty to notify, including what changes you may need to report and when it will be introduced.",
+      "published_at": "2026-08-19T08:30:02",
+      "fetched_at": "2026-08-19T12:39:39",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "a77982edda203c8e85b89666",
+      "title": "Transparency data: Northern Ireland Delivery Programme",
+      "link": "https://www.gov.uk/government/publications/northern-ireland-delivery-programme",
+      "summary": "Summary Business Case for the Northern Ireland Delivery Programme.",
+      "published_at": "2026-08-19T08:30:02",
+      "fetched_at": "2026-08-19T12:39:39",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "820461cf111338b0a584e06e",
+      "title": "Corporate report: Northern Ireland Delivery Programme Accounting Officer's Assessment Summary",
+      "link": "https://www.gov.uk/government/publications/northern-ireland-delivery-programme-accounting-officers-assessment-summary",
+      "summary": "This sets out the main points from the HMRC Accounting Officer's assessment of a major government programme.",
+      "published_at": "2026-08-19T08:30:02",
+      "fetched_at": "2026-08-19T12:39:39",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "b7be9f0d6fd27a944e02608e",
+      "title": "Guidance: Country-by-country: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/country-by-country-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the country-by-country service.",
+      "published_at": "2026-08-19T08:20:58",
+      "fetched_at": "2026-08-19T12:39:39",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "ede59b73445f6e8f1cb30999",
+      "title": "Guidance: Digital platform reporting: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/digital-platform-reporting-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the digital platform reporting service.",
+      "published_at": "2026-08-19T08:09:15",
+      "fetched_at": "2026-08-19T12:39:39",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "ca943de2d9d64a0a39f32ad7",
+      "title": "Guidance: Cross-border arrangement reporting: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/cross-border-arrangement-reporting-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the disclose cross-border tax arrangements service.",
+      "published_at": "2026-08-19T08:02:25",
+      "fetched_at": "2026-08-19T12:39:39",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "4ea40216222627d976f1d350",
+      "title": "Check if a business is registered for money laundering supervision",
+      "link": "https://www.gov.uk/guidance/money-laundering-regulations-supervised-business-register",
+      "summary": "Find out if a business has registered with HMRC under the money laundering regulations and report them if they have not.",
+      "published_at": "2026-08-19T07:17:28",
+      "fetched_at": "2026-08-19T12:39:39",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 9,
+      "matched_keywords": [
+        "payroll",
+        "regulation"
+      ]
+    },
+    {
+      "id": "d883a73ef26860a48cec9780",
+      "title": "Capital Gains Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual",
+      "summary": "HMRC is reviewing the CG Manual to ensure it provides HMRC’s interpretation of relevant legislation where there is more than one reasonable view of how rules work.Where material in the CG Manual isn’t providing an interpretation, that material is being removed. Where appropriate, material will be reproduced elsewhere and linked from the CG Manual.",
+      "published_at": "2026-08-19T07:06:33",
+      "fetched_at": "2026-08-19T12:39:39",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
     {
       "id": "45c5dc9ceb5c60e301f4ec93",
       "title": "Agency Information Collection Activities; Comment Request on Improving Customer Experience (OMB Circular A-11, Section 280 Implementation)",
@@ -11247,345 +11584,6 @@
       "score": 6,
       "matched_keywords": [
         "payroll"
-      ]
-    },
-    {
-      "id": "5d359079d82f62e18e5eca46",
-      "title": "Guidance: ATWD: technical specifications",
-      "link": "https://www.gov.uk/government/publications/alcohol-and-tobacco-warehouse-declaration-technical-documentation",
-      "summary": "Find the alcohol and tobacco warehouse declaration (ATWD) technical specifications for software developers.",
-      "published_at": "2026-07-22T08:33:09",
-      "fetched_at": "2026-07-22T13:45:55",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "1f19ed61f883e6b5a3917216",
-      "title": "Decision: CIL Appeal 1891894 — 07 July 26 —  Demolition and construction",
-      "link": "https://www.gov.uk/government/publications/cil-appeal-1891894-07-july-26-demolition-and-construction",
-      "summary": "Demolition of existing commercial units and construction of a two-storey residential development with roof space to provide 14 residential units and ancillary works.",
-      "published_at": "2026-07-22T08:30:06",
-      "fetched_at": "2026-07-22T13:45:55",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "6e783ffae955c8b1086ef688",
-      "title": "Accredited official statistics: Capital Gains Tax statistics",
-      "link": "https://www.gov.uk/government/statistics/announcements/capital-gains-tax-statistics--6",
-      "summary": "This is the annual update of the Capital Gains Tax Accredited Official Statistics. This includes information reported though Self Assessment and CGT on UK Property returns. Information on cryptoasset gains will be included for the first time.",
-      "published_at": "2026-07-22T08:29:17",
-      "fetched_at": "2026-07-22T13:45:55",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "pto",
-        "payroll"
-      ]
-    },
-    {
-      "id": "88af49939afd9384337a16c4",
-      "title": "Guidance: Compliance checks: The Human Rights Act and penalties for an incorrect declaration relating to privileged material — CC/FS85",
-      "link": "https://www.gov.uk/government/publications/compliance-checks-the-human-rights-act-and-penalties-for-an-incorrect-declaration-relating-to-privileged-material-ccfs85",
-      "summary": "This factsheet tells you about the Human Rights Act and penalties for an incorrect declaration relating to privileged material.",
-      "published_at": "2026-07-21T23:30:05",
-      "fetched_at": "2026-07-22T02:24:59",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 9,
-      "matched_keywords": [
-        "payroll",
-        "compliance"
-      ]
-    },
-    {
-      "id": "cd8e9f7ca527f0dac5655e0c",
-      "title": "Check if you need to register as a digital platform operator",
-      "link": "https://www.gov.uk/guidance/check-if-you-need-to-register-as-a-digital-platform-operator",
-      "summary": "If you’re in the UK and run a digital platform that lets users sell goods or services, check if you need to tell HMRC about sellers on your platform.",
-      "published_at": "2026-07-21T16:00:11",
-      "fetched_at": "2026-07-21T19:17:16",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "cfc8ee206b01b202a17c279a",
-      "title": "Say ‘I do’ to getting your side hustle tax right",
-      "link": "https://www.gov.uk/government/news/say-i-do-to-getting-your-side-hustle-tax-right",
-      "summary": "HMRC is reminding people earning money from side hustles to check if they need to register for Self Assessment and declare their income",
-      "published_at": "2026-07-21T13:54:45",
-      "fetched_at": "2026-07-21T19:17:16",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "6905a07da38cea87921a92be",
-      "title": "Tax Credits Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/tax-credits-manual",
-      "summary": "How HM Revenue and Customs handles Child Tax Credit and Working Tax Credit cases",
-      "published_at": "2026-07-21T13:21:35",
-      "fetched_at": "2026-07-21T13:43:05",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "cb49a785ef2006cfe081abd8",
-      "title": "Customs Modernisation",
-      "link": "https://www.gov.uk/government/calls-for-evidence/customs-modernisation",
-      "summary": "We welcome views on the future of international trade and the impacts of digitalised and modernised practices on the UK customs regime.",
-      "published_at": "2026-07-21T12:05:20",
-      "fetched_at": "2026-07-21T13:43:05",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "ac824e2c9a3bb06e9c269520",
-      "title": "Guidance: Basic PAYE Tools user guide",
-      "link": "https://www.gov.uk/government/publications/basic-paye-tools-user-guide",
-      "summary": "Get step by step help to run your payroll and change payroll details using Basic PAYE Tools.",
-      "published_at": "2026-07-21T10:38:53",
-      "fetched_at": "2026-07-21T13:43:05",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "f7a2da3ede8c36dcf232209a",
-      "title": "Form: DWP information leaflets: how to order them",
-      "link": "https://www.gov.uk/government/publications/dwp-information-leaflets-how-to-order-them",
-      "summary": "Guidance and order form for advisers and intermediaries who need to order DWP information leaflets and reply envelopes.",
-      "published_at": "2026-07-21T10:16:02",
-      "fetched_at": "2026-07-21T13:43:05",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "dcace036cfc29954145a0c09",
-      "title": "Accredited official statistics: Air Passenger Duty Bulletin",
-      "link": "https://www.gov.uk/government/statistics/announcements/air-passenger-duty-bulletin--5",
-      "summary": "Annual Air Passenger Duty (APD) chargeable passengers, declarations and receipts statistics. Updated with provisional data from May 2025 to July 2026.",
-      "published_at": "2026-07-21T09:36:08",
-      "fetched_at": "2026-07-21T13:43:05",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "d6ad90b01564c36d8672f132",
-      "title": "FOI release: Number of live Corporate Criminal Offences investigations",
-      "link": "https://www.gov.uk/government/publications/number-of-live-corporate-criminal-offences-investigations",
-      "summary": "The Corporate Criminal Offences (CCO) were introduced by Part 3 of the Criminal Finances Act 2017.",
-      "published_at": "2026-07-21T08:30:09",
-      "fetched_at": "2026-07-21T13:43:05",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "0fa03b4b8adced20f7ce27fe",
-      "title": "Form: Double Taxation: UK Real Estate Investment Trusts (Form UK-REIT DT-Individual)",
-      "link": "https://www.gov.uk/government/publications/double-taxation-uk-real-estate-investment-trusts-form-uk-reit-dt-individual",
-      "summary": "Use form UK-REIT DT-Individual to claim repayment of United Kingdom income tax deducted from property income dividends paid by UK Real Estate Investment Trusts.",
-      "published_at": "2026-07-21T08:28:23",
-      "fetched_at": "2026-07-21T13:43:05",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "1d9879480009fea9f688ad9f",
-      "title": "Apply for a refund of Class 1 National Insurance contributions",
-      "link": "https://www.gov.uk/guidance/apply-for-refund-of-class-1-national-insurance-contributions",
-      "summary": "If you've been sent a letter from HMRC, apply for a refund of Class 1 National Insurance contributions using form CA4361.",
-      "published_at": "2026-07-21T07:49:16",
-      "fetched_at": "2026-07-21T08:24:00",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "cae4d9db02a614574c5d513f",
-      "title": "Accredited official statistics: HMRC tax receipts and National Insurance contributions for the UK",
-      "link": "https://www.gov.uk/government/statistics/hmrc-tax-and-nics-receipts-for-the-uk",
-      "summary": "Summary of HM Revenue and Customs' tax receipts, National Insurance contributions (NICs), and expenditure for the UK.",
-      "published_at": "2026-07-21T06:00:03",
-      "fetched_at": "2026-07-21T08:24:00",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
       ]
     }
   ]
