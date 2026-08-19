@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-08-19T02:20:27",
+  "synced_at": "2026-08-19T06:38:21",
   "total": 500,
-  "new_count": 0,
+  "new_count": 2,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
-      "fetched": 21,
-      "added": 0,
+      "fetched": 23,
+      "added": 2,
       "error": null
     },
     {
@@ -40,6 +40,55 @@
     }
   ],
   "items": [
+    {
+      "id": "45c5dc9ceb5c60e301f4ec93",
+      "title": "Agency Information Collection Activities; Comment Request on Improving Customer Experience (OMB Circular A-11, Section 280 Implementation)",
+      "link": "https://www.federalregister.gov/documents/2026/08/19/2026-16916/agency-information-collection-activities-comment-request-on-improving-customer-experience-omb",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+      "published_at": "2026-08-19T04:00:00",
+      "fetched_at": "2026-08-19T06:38:00",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
+    {
+      "id": "03e0ecb0d83f22dbe8fb4df9",
+      "title": "Agency Information Collection Activities; Comment Request on Annual Certification for Multiemployer Defined Benefit Plans",
+      "link": "https://www.federalregister.gov/documents/2026/08/19/2026-16847/agency-information-collection-activities-comment-request-on-annual-certification-for-multiemployer",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+      "published_at": "2026-08-19T04:00:00",
+      "fetched_at": "2026-08-19T06:38:00",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 15,
+      "matched_keywords": [
+        "benefit",
+        "payroll",
+        "withholding"
+      ]
+    },
     {
       "id": "5ca023c9ac91cad5badc1cc2",
       "title": "Transfer a pension scheme member's savings",
@@ -11537,52 +11586,6 @@
       "matched_keywords": [
         "payroll",
         "ei"
-      ]
-    },
-    {
-      "id": "25e0e92d5016827430ac3bd2",
-      "title": "Accredited official statistics: Earnings and employment from Pay As You Earn Real Time Information, UK: July 2026",
-      "link": "https://www.gov.uk/government/statistics/earnings-and-employment-from-pay-as-you-earn-real-time-information-uk-july-2026",
-      "summary": "Monthly estimates of payrolled employees and their pay from HM Revenue and Customs’ (HMRC’s) Pay As You Earn (PAYE) Real Time Information (RTI) data. This is a joint release between HMRC and the Office for National Statistics (ONS).",
-      "published_at": "2026-07-21T06:00:03",
-      "fetched_at": "2026-07-21T08:24:00",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "a16536fc310d727c33725a56",
-      "title": "Guidance: Compliance checks: penalties for inaccuracies in returns or documents — CC/FS7A",
-      "link": "https://www.gov.uk/government/publications/compliance-checks-penalties-for-inaccuracies-in-returns-or-documents-ccfs7a",
-      "summary": "This factsheet tells you about penalties for inaccuracies in a return or other document.",
-      "published_at": "2026-07-20T23:30:04",
-      "fetched_at": "2026-07-21T02:26:52",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 9,
-      "matched_keywords": [
-        "payroll",
-        "compliance"
       ]
     }
   ]
