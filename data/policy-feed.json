@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-08-20T12:42:11",
+  "synced_at": "2026-08-20T18:34:48",
   "total": 500,
-  "new_count": 10,
+  "new_count": 4,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
       "fetched": 26,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 8,
+      "added": 0,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 2,
+      "added": 3,
       "error": null
     },
     {
@@ -40,6 +40,82 @@
     }
   ],
   "items": [
+    {
+      "id": "df4b5456a96570087f110604",
+      "title": "Guidance: Recovery of benefits, lump sum payments and NHS charges: technical guidance",
+      "link": "https://www.gov.uk/government/publications/recovery-of-benefits-and-or-lump-sum-payments-and-nhs-charges-technical-guidance",
+      "summary": "Guidance for compensators and their representatives on the Compensation Recovery Scheme.",
+      "published_at": "2026-08-20T14:19:09",
+      "fetched_at": "2026-08-20T18:34:28",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 22,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension",
+        "ei"
+      ]
+    },
+    {
+      "id": "9e5cfc0563c3ca99a5881e0c",
+      "title": "Form: DWP information leaflets: how to order them",
+      "link": "https://www.gov.uk/government/publications/dwp-information-leaflets-how-to-order-them",
+      "summary": "Guidance and order form for advisers and intermediaries who need to order DWP information leaflets and reply envelopes.",
+      "published_at": "2026-08-20T14:12:25",
+      "fetched_at": "2026-08-20T18:34:28",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "dae69c257119ddc86a944121",
+      "title": "Guidance: Jobs Guarantee",
+      "link": "https://www.gov.uk/government/publications/jobs-guarantee",
+      "summary": "Information for organisations applying for grant funding to deliver the Jobs Guarantee.",
+      "published_at": "2026-08-20T13:25:36",
+      "fetched_at": "2026-08-20T18:34:28",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
     {
       "id": "a2d1830296f054584f9e8c2c",
       "title": "Form: Tell HMRC your Stamp Duty Land Tax scheme reference number",
@@ -11532,77 +11608,6 @@
         "benefit",
         "benefits",
         "payroll"
-      ]
-    },
-    {
-      "id": "34e5e9c32f321bfecb2983d7",
-      "title": "Check if a letter you’ve received from HMRC is genuine",
-      "link": "https://www.gov.uk/guidance/check-if-a-letter-youve-received-from-hmrc-is-genuine",
-      "summary": "Check a list of recent letters from HMRC to help you decide if a letter you’ve received is a scam.",
-      "published_at": "2026-07-23T09:43:03",
-      "fetched_at": "2026-07-23T13:50:44",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "5acc772f45c5844d5743b3c3",
-      "title": "Deadline approaches for first Making Tax Digital quarterly update",
-      "link": "https://www.gov.uk/government/news/deadline-approaches-for-first-making-tax-digital-quarterly-update",
-      "summary": "Making Tax Digital for Income Tax customers have 2 weeks to submit their first quarterly update.",
-      "published_at": "2026-07-23T09:30:00",
-      "fetched_at": "2026-07-23T13:50:44",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "9314c226110156acffd918a4",
-      "title": "Research: List of upcoming releases of management information and ad hoc analyses",
-      "link": "https://www.gov.uk/government/publications/list-of-upcoming-releases-of-management-information-and-ad-hoc-analyses",
-      "summary": "List of upcoming releases of DWP management information and ad hoc analyses.",
-      "published_at": "2026-07-23T08:30:04",
-      "fetched_at": "2026-07-23T13:50:45",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
       ]
     }
   ]
