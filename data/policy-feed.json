@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-08-19T18:30:39",
+  "synced_at": "2026-08-20T01:04:02",
   "total": 500,
-  "new_count": 3,
+  "new_count": 0,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 3,
+      "added": 0,
       "error": null
     },
     {
