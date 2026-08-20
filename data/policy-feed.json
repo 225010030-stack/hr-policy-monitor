@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-08-20T02:19:28",
+  "synced_at": "2026-08-20T06:40:34",
   "total": 500,
-  "new_count": 0,
+  "new_count": 3,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
-      "fetched": 23,
-      "added": 0,
+      "fetched": 26,
+      "added": 3,
       "error": null
     },
     {
@@ -40,6 +40,86 @@
     }
   ],
   "items": [
+    {
+      "id": "3830353a99e8a6874010b4a6",
+      "title": "Determination of Target Normal Cost and Funding Target for Single-Employer Defined Benefit Plans",
+      "link": "https://www.federalregister.gov/documents/2026/08/20/2026-17021/determination-of-target-normal-cost-and-funding-target-for-single-employer-defined-benefit-plans",
+      "summary": "This document contains proposed regulations that would modify rules in the existing regulations relating to the minimum funding requirement applicable to single-employer defined benefit pension plans. The modifications include changes to the rules relating to the determination of a plan's target normal cost and funding target and would implement certain statutory amendments that have not yet been reflected in the regulations. These proposed regulations would affect participants in, beneficiaries",
+      "published_at": "2026-08-20T04:00:00",
+      "fetched_at": "2026-08-20T06:40:13",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 25,
+      "matched_keywords": [
+        "benefit",
+        "pension",
+        "payroll",
+        "withholding",
+        "regulation",
+        "statutory"
+      ]
+    },
+    {
+      "id": "b7fd8e5a2537efc8482c2066",
+      "title": "Application of Section 250(b)(3)(A)(i)(VII) to Sales or Other Dispositions of Property",
+      "link": "https://www.federalregister.gov/documents/2026/08/20/2026-17019/application-of-section-250b3aivii-to-sales-or-other-dispositions-of-property",
+      "summary": "This document contains proposed regulations under section 250 of the Internal Revenue Code (Code) that provide guidance on certain income of a domestic corporation that is excluded in the determination of deduction eligible income. This category of income consists of income and gain from the sale or other disposition of intangible property and any other property of a type that is subject to depreciation, amortization, or depletion. The proposed regulations would affect domestic corporations with",
+      "published_at": "2026-08-20T04:00:00",
+      "fetched_at": "2026-08-20T06:40:13",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 14,
+      "matched_keywords": [
+        "payroll",
+        "withholding",
+        "regulation"
+      ]
+    },
+    {
+      "id": "540b1a2d8ebbb306f72b9f19",
+      "title": "Application of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 to the Refunded Portion of Certain Federal Refundable Tax Credits",
+      "link": "https://www.federalregister.gov/documents/2026/08/20/2026-16985/application-of-the-personal-responsibility-and-work-opportunity-reconciliation-act-of-1996-to-the",
+      "summary": "This document contains proposed regulations that would provide that the refunded portion of certain refundable Federal income tax credits available to individuals is a &quot;Federal public benefit&quot; under the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (PRWORA). As a result, aliens who are not &quot;qualified aliens&quot; under PRWORA would be ineligible to receive the refunded portion of these refundable credits. These regulations would generally affect taxpayers",
+      "published_at": "2026-08-20T04:00:00",
+      "fetched_at": "2026-08-20T06:40:13",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 22,
+      "matched_keywords": [
+        "benefit",
+        "payroll",
+        "withholding",
+        "ei",
+        "regulation"
+      ]
+    },
     {
       "id": "5fa78173f338f82b8d9a02ac",
       "title": "VAT Health",
@@ -11505,72 +11585,6 @@
       "link": "https://www.gov.uk/hmrc-internal-manuals/mlr1-penalties-guidance",
       "summary": "This page has been archived.",
       "published_at": "2026-07-22T10:37:00",
-      "fetched_at": "2026-07-22T13:45:55",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "259b7db9f9ad09d748f82750",
-      "title": "Guidance: GAAR Advisory Panel opinion of 30 January 2026: reducing the value of an estate for Inheritance Tax and avoiding Inheritance Tax on a lifetime transfer by gifting shares held in an existing company to an employee trust",
-      "link": "https://www.gov.uk/government/publications/gaar-advisory-panel-opinion-of-30-january-2026-reducing-the-value-of-an-estate-for-inheritance-tax-and-avoiding-inheritance-tax-on-a-lifetime-transfer--2",
-      "summary": "Use the General Anti-Abuse Rule (GAAR) Advisory Panel opinion to help you recognise when arrangements may be abusive tax arrangements",
-      "published_at": "2026-07-22T10:27:26",
-      "fetched_at": "2026-07-22T13:45:55",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "5e61a80dc41547c11b6c2cb7",
-      "title": "Guidance: Other taxable income for Self Assessment helpsheet (HS325)",
-      "link": "https://www.gov.uk/government/publications/other-taxable-income-hs325-self-assessment-helpsheet",
-      "summary": "Use the Self Assessment helpsheet (HS325) to work out your other taxable income and include this in your tax return.",
-      "published_at": "2026-07-22T10:24:48",
-      "fetched_at": "2026-07-22T13:45:55",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "8a797923ad1b95d51559b0c5",
-      "title": "Notice: Notices made under the Taxation (Cross-border Trade) Act 2018",
-      "link": "https://www.gov.uk/government/publications/notices-to-be-made-under-the-taxation-cross-border-trade-act-2018",
-      "summary": "Notices made which have the force of law under the Taxation (Cross-border Trade) Act 2018.",
-      "published_at": "2026-07-22T10:09:41",
       "fetched_at": "2026-07-22T13:45:55",
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
