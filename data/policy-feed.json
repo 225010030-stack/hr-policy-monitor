@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-08-20T06:40:34",
+  "synced_at": "2026-08-20T12:42:11",
   "total": 500,
-  "new_count": 3,
+  "new_count": 10,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
       "fetched": 26,
-      "added": 3,
+      "added": 0,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 8,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 2,
       "error": null
     },
     {
@@ -40,6 +40,234 @@
     }
   ],
   "items": [
+    {
+      "id": "a2d1830296f054584f9e8c2c",
+      "title": "Form: Tell HMRC your Stamp Duty Land Tax scheme reference number",
+      "link": "https://www.gov.uk/government/publications/tax-avoidance-schemes-stamp-duty-land-tax-scheme-reference-number-aag4-sdlt",
+      "summary": "Use form AAG4(SDLT) to tell HMRC of a scheme reference number given to you for a Stamp Duty Land Tax (SDLT) avoidance scheme you have used.",
+      "published_at": "2026-08-20T12:29:12",
+      "fetched_at": "2026-08-20T12:41:50",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "fa9bc1e0cb5edd5aee79fe84",
+      "title": "Capital Gains Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual",
+      "summary": "HMRC is reviewing the CG Manual to ensure it provides HMRC’s interpretation of relevant legislation where there is more than one reasonable view of how rules work.Where material in the CG Manual isn’t providing an interpretation, that material is being removed. Where appropriate, material will be reproduced elsewhere and linked from the CG Manual.",
+      "published_at": "2026-08-20T11:45:41",
+      "fetched_at": "2026-08-20T12:41:50",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "c66783ad0488d5e5b6878073",
+      "title": "Form: Tell HMRC your ATED tax avoidance scheme reference number",
+      "link": "https://www.gov.uk/government/publications/tax-avoidance-schemes-disclosure-of-ated-scheme-reference-number-aag4ated",
+      "summary": "Use form AAG4(ATED) to tell HMRC of a scheme reference number given to you for an Annual Tax on Enveloped Dwellings (ATED) avoidance scheme you have used.",
+      "published_at": "2026-08-20T11:30:22",
+      "fetched_at": "2026-08-20T12:41:50",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "0e1ea831d3349310ad268f1d",
+      "title": "Guidance: Agent Update: issue 146",
+      "link": "https://www.gov.uk/government/publications/agent-update-issue-146",
+      "summary": "Get guidance from HMRC if you're a tax agent or an adviser",
+      "published_at": "2026-08-20T11:00:07",
+      "fetched_at": "2026-08-20T12:41:50",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "6ea461c3e26c3d14d543a044",
+      "title": "Form: Tax avoidance schemes: notification by scheme user where no promoter, or promoted by lawyer who can't make full notification (AAG3)",
+      "link": "https://www.gov.uk/government/publications/tax-avoidance-schemes-notification-by-scheme-user-where-no-promoter-or-promoted-by-lawyer-unable-to-make-full-notification-aag3",
+      "summary": "Tell HMRC if you're a user of a scheme that has no promoter or is promoted by a lawyer who can't make a full notification.",
+      "published_at": "2026-08-20T10:48:46",
+      "fetched_at": "2026-08-20T12:41:50",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "dc5dd436b8e58e365a32edb6",
+      "title": "Form: Tax avoidance schemes: disclosure by scheme user where offshore promoter doesn't notify (AAG2)",
+      "link": "https://www.gov.uk/government/publications/tax-avoidance-schemes-disclosure-by-scheme-user-where-offshore-promoter-does-not-notify-aag2",
+      "summary": "Use form AAG2 if you use a notifiable arrangement but the offshore promoter has not told HMRC about the avoidance scheme.",
+      "published_at": "2026-08-20T10:42:45",
+      "fetched_at": "2026-08-20T12:41:50",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "f80e8b098644c77fd8693ca7",
+      "title": "Correspondence: Adult skills fund: devolved grant determination letters 2026",
+      "link": "https://www.gov.uk/government/publications/adult-skills-fund-devolved-grant-determination-letters-2026",
+      "summary": "Letters to devolved areas outlining adult skills fund (ASF) and free courses for jobs funding for the 2026 to 2027 financial year.",
+      "published_at": "2026-08-20T09:48:46",
+      "fetched_at": "2026-08-20T12:41:51",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "42d2338c824b4573528bb047",
+      "title": "Corporate report: Named tax avoidance schemes, promoters, enablers and suppliers",
+      "link": "https://www.gov.uk/government/publications/named-tax-avoidance-schemes-promoters-enablers-and-suppliers",
+      "summary": "Information about tax avoidance schemes, promoters, enablers and suppliers of these schemes.",
+      "published_at": "2026-08-20T09:15:41",
+      "fetched_at": "2026-08-20T12:41:50",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "9c54379ccb427e18d2ca87af",
+      "title": "Research at HMRC",
+      "link": "https://www.gov.uk/government/organisations/hm-revenue-customs/about/research",
+      "summary": "The HMRC research programme supports and provides evidence for how we make and evaluate our policies.",
+      "published_at": "2026-08-20T08:30:02",
+      "fetched_at": "2026-08-20T12:41:50",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "e7917b6b13a738f1e6874be0",
+      "title": "Statutory guidance: Access to Work MHSS provider guidance for contracts effective on or after 20 August 2024",
+      "link": "https://www.gov.uk/government/publications/access-to-work-mhss-provider-guidance-for-contracts-effective-on-or-after-20-august-2024",
+      "summary": "DWP provider guidance for the Access to Work Mental Health Support Service (MHSS) programme.",
+      "published_at": "2026-08-20T08:30:02",
+      "fetched_at": "2026-08-20T12:41:51",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 21,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension",
+        "statutory"
+      ]
+    },
     {
       "id": "3830353a99e8a6874010b4a6",
       "title": "Determination of Target Normal Cost and Funding Target for Single-Employer Defined Benefit Plans",
@@ -11375,230 +11603,6 @@
         "benefit",
         "benefits",
         "pension"
-      ]
-    },
-    {
-      "id": "45f8f4ec512145b115e9eb46",
-      "title": "Quarterly Publication of Individuals, Who Have Chosen To Expatriate",
-      "link": "https://www.federalregister.gov/documents/2026/07/23/2026-14841/quarterly-publication-of-individuals-who-have-chosen-to-expatriate",
-      "summary": "",
-      "published_at": "2026-07-23T04:00:00",
-      "fetched_at": "2026-07-23T08:25:20",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "payroll",
-        "withholding"
-      ]
-    },
-    {
-      "id": "cd214151d7ba3ef0f4f303db",
-      "title": "Group and divisional registration (VAT Notice 700/2)",
-      "link": "https://www.gov.uk/guidance/group-and-divisional-registration-vat-notice-7002",
-      "summary": "Find out about group and divisional VAT registration and the forms you should use to apply.",
-      "published_at": "2026-07-22T14:45:03",
-      "fetched_at": "2026-07-22T19:12:55",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "60a211d2b1a63a13ec1fc54d",
-      "title": "Check genuine HMRC contact that uses more than one communication method",
-      "link": "https://www.gov.uk/guidance/check-genuine-hmrc-contact-that-uses-more-than-one-communication-method",
-      "summary": "Check recent contacts from HMRC to help you decide if a suspicious email, phone call, text or letter could be a scam.",
-      "published_at": "2026-07-22T13:58:46",
-      "fetched_at": "2026-07-22T19:12:55",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "3bf8d3782730205106902cd4",
-      "title": "Official Statistics: Non-domestic rating: challenges and changes, 2023 and 2026 rating lists, June 2026",
-      "link": "https://www.gov.uk/government/statistics/announcements/non-domestic-rating-challenges-and-changes-2023-and-2026-rating-lists-june-2026",
-      "summary": "Statistics on checks and challenges against the 2023 and 2026 local rating lists at 30 June 2026.",
-      "published_at": "2026-07-22T13:12:50",
-      "fetched_at": "2026-07-22T13:45:55",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "c1234ea4bee805aeadffae1a",
-      "title": "Guidance: GloBE Information Return Filing and Exchange: Transitional approach",
-      "link": "https://www.gov.uk/government/publications/global-information-return-filing-and-exchange-transitional-approach",
-      "summary": "This page sets out how HMRC will approach the central filing and exchange of the initial Pillar 2 GloBE Information Returns (GIRs).",
-      "published_at": "2026-07-22T13:08:34",
-      "fetched_at": "2026-07-22T13:45:55",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "8eb55a2c98032d1a112a331c",
-      "title": "Employment Status Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/employment-status-manual",
-      "summary": "The Employment Status Manual is intended to provide guidance on issues relating to the employment status of individuals.",
-      "published_at": "2026-07-22T12:52:10",
-      "fetched_at": "2026-07-22T13:45:55",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "2463d75c58c89d38ddf6ffb2",
-      "title": "Statutory guidance: Reference Document for The Customs Tariff (Establishment) (EU Exit) Regulations 2020",
-      "link": "https://www.gov.uk/government/publications/reference-document-for-the-customs-tariff-establishment-eu-exit-regulations-2020",
-      "summary": "Find the UK’s most favoured nation tariff rates as referenced in The Customs Tariff (Establishment) (EU Exit) Regulations 2020.",
-      "published_at": "2026-07-22T11:48:01",
-      "fetched_at": "2026-07-22T13:45:55",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 12,
-      "matched_keywords": [
-        "payroll",
-        "regulation",
-        "statutory"
-      ]
-    },
-    {
-      "id": "e0480bfe9c18b1c3c5487706",
-      "title": "Accredited official statistics: Inheritance Tax liabilities statistics",
-      "link": "https://www.gov.uk/government/statistics/announcements/inheritance-tax-liabilities-statistics--4",
-      "summary": "Annual update to the Inheritance Tax liabilities statistics. This publication contains information about Inheritance Tax (IHT) in the UK. It includes information on the estates and trusts that pay IHT, the use of tax reliefs and exemptions, and the asset composition of estates left on death, accrued back to the year in which the deceased passed away (i.e. became liable). This liabilities data is provided for estates passing on death in the 2023 to 2024 tax year.",
-      "published_at": "2026-07-22T11:35:04",
-      "fetched_at": "2026-07-22T13:45:55",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "bb2000eb56e0c0fb2cce9df4",
-      "title": "Guidance: GAAR Advisory Panel opinion of 30 January 2026: reducing the value of an estate for Inheritance Tax and avoiding Inheritance Tax on a lifetime transfer by acquiring shares in a company and gifting those shares to an employee trust",
-      "link": "https://www.gov.uk/government/publications/gaar-advisory-panel-opinion-of-30-january-2026-reducing-the-value-of-an-estate-for-inheritance-tax-and-avoiding-inheritance-tax-on-a-lifetime-transfer--3",
-      "summary": "Use the General Anti-Abuse Rule (GAAR) Advisory Panel opinion to help you recognise when arrangements may be abusive tax arrangements.",
-      "published_at": "2026-07-22T10:48:20",
-      "fetched_at": "2026-07-22T13:45:55",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "af4a4390b8d6e1fae3e6ba3c",
-      "title": "MLR1 Penalties Guidance",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/mlr1-penalties-guidance",
-      "summary": "This page has been archived.",
-      "published_at": "2026-07-22T10:37:00",
-      "fetched_at": "2026-07-22T13:45:55",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
       ]
     }
   ]
