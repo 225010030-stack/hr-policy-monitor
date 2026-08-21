@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-08-21T02:25:19",
+  "synced_at": "2026-08-21T06:40:30",
   "total": 500,
-  "new_count": 1,
+  "new_count": 3,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 2,
       "error": null
     },
     {
@@ -40,6 +40,52 @@
     }
   ],
   "items": [
+    {
+      "id": "674934fc8b750677c5a97fd1",
+      "title": "Accredited official statistics: HMRC tax receipts and National Insurance contributions for the UK",
+      "link": "https://www.gov.uk/government/statistics/hmrc-tax-and-nics-receipts-for-the-uk",
+      "summary": "Summary of HM Revenue and Customs' tax receipts, National Insurance contributions (NICs), and expenditure for the UK.",
+      "published_at": "2026-08-21T06:00:03",
+      "fetched_at": "2026-08-21T06:40:09",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "f3902ec4b450f7ea1a2062c4",
+      "title": "Official Statistics: Quality report: HMRC receipts",
+      "link": "https://www.gov.uk/government/statistics/hmrc-receipts-quality-reports",
+      "summary": "Quality report for statistics relating to HM Revenue and Customs (HMRC) receipts.",
+      "published_at": "2026-08-21T06:00:03",
+      "fetched_at": "2026-08-21T06:40:09",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
     {
       "id": "df4b5456a96570087f110604",
       "title": "Guidance: Recovery of benefits, lump sum payments and NHS charges: technical guidance",
@@ -11561,53 +11607,6 @@
       "matched_keywords": [
         "payroll",
         "ei"
-      ]
-    },
-    {
-      "id": "9f8571b418e2dcca636967be",
-      "title": "Capital Gains Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual",
-      "summary": "HMRC is reviewing the CG Manual to ensure it provides HMRC’s interpretation of relevant legislation where there is more than one reasonable view of how rules work.Where material in the CG Manual isn’t providing an interpretation, that material is being removed. Where appropriate, material will be reproduced elsewhere and linked from the CG Manual.",
-      "published_at": "2026-07-23T11:24:20",
-      "fetched_at": "2026-07-23T13:50:44",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "46ff5f1f9898daec107491e4",
-      "title": "Policy paper: Changes to reporting of benefits in kind from April 2027",
-      "link": "https://www.gov.uk/government/publications/changes-to-reporting-of-benefits-in-kind-from-april-2027",
-      "summary": "This measure is about the changes to the reporting of certain benefits in kind from April 2027.",
-      "published_at": "2026-07-23T10:28:01",
-      "fetched_at": "2026-07-23T13:50:44",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 14,
-      "matched_keywords": [
-        "benefit",
-        "benefits",
-        "payroll"
       ]
     }
   ]
