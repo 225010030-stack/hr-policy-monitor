@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-08-21T12:40:57",
+  "synced_at": "2026-08-21T18:32:35",
   "total": 500,
-  "new_count": 13,
+  "new_count": 5,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
       "fetched": 29,
-      "added": 4,
+      "added": 2,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 8,
+      "added": 3,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 1,
+      "added": 0,
       "error": null
     },
     {
@@ -40,6 +40,73 @@
     }
   ],
   "items": [
+    {
+      "id": "a8c3654ba567a3fdaf32bc95",
+      "title": "Self Assessment Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual",
+      "summary": "This manual contains guidance and processes for Self Assessment (SA)",
+      "published_at": "2026-08-21T15:46:43",
+      "fetched_at": "2026-08-21T18:32:14",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "b5ee9632c3f63b35fbcc8a8c",
+      "title": "Disagree with a revenue correction notice",
+      "link": "https://www.gov.uk/guidance/disagree-with-a-revenue-correction-notice",
+      "summary": "Find out what to do if you disagree with a correction HMRC has made to your tax return.",
+      "published_at": "2026-08-21T14:38:51",
+      "fetched_at": "2026-08-21T18:32:14",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "8f58adda8069fdcc968e6477",
+      "title": "Reclaim tax relief for pension scheme members with relief at source",
+      "link": "https://www.gov.uk/guidance/pension-administrators-reclaim-tax-relief-using-relief-at-source",
+      "summary": "How you can use relief at source to claim tax relief back on pension scheme contributions.",
+      "published_at": "2026-08-21T13:16:18",
+      "fetched_at": "2026-08-21T18:32:14",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "pension",
+        "payroll"
+      ]
+    },
     {
       "id": "52729c95abab0ec59a0e80d4",
       "title": "Vaping Products Duty and Vaping Duty Stamps guidance",
@@ -11531,74 +11598,6 @@
       "matched_keywords": [
         "payroll",
         "regulation"
-      ]
-    },
-    {
-      "id": "c86b9333fc25ef16326431ef",
-      "title": "Decision: CIL Appeal 1889294 — 22 May 26 — Demolition and construction",
-      "link": "https://www.gov.uk/government/publications/cil-appeal-1889294-22-may-26-demolition-and-construction",
-      "summary": "Demolition of existing buildings and construction of seven dwellings with associated parking.",
-      "published_at": "2026-07-24T08:30:00",
-      "fetched_at": "2026-07-24T13:38:28",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "2f1faf79e45ed2b008cd4fc2",
-      "title": "Guidance: Public service pensions remedy newsletter — July 2026",
-      "link": "https://www.gov.uk/government/publications/public-service-pensions-remedy-newsletter-july-2026",
-      "summary": "This newsletter is published by HMRC’s Pension Schemes Services to update stakeholders on the latest news on the public service pensions remedy.",
-      "published_at": "2026-07-24T08:00:05",
-      "fetched_at": "2026-07-24T08:23:24",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "pension",
-        "payroll"
-      ]
-    },
-    {
-      "id": "d61cde46fbf033e9ddeeb688",
-      "title": "Capital Gains Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual",
-      "summary": "HMRC is reviewing the CG Manual to ensure it provides HMRC’s interpretation of relevant legislation where there is more than one reasonable view of how rules work.Where material in the CG Manual isn’t providing an interpretation, that material is being removed. Where appropriate, material will be reproduced elsewhere and linked from the CG Manual.",
-      "published_at": "2026-07-24T07:39:31",
-      "fetched_at": "2026-07-24T08:23:24",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
       ]
     }
   ]
