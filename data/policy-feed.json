@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-08-22T02:17:30",
+  "synced_at": "2026-08-22T06:34:52",
   "total": 500,
-  "new_count": 2,
+  "new_count": 3,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
-      "fetched": 29,
-      "added": 2,
+      "fetched": 30,
+      "added": 3,
       "error": null
     },
     {
@@ -40,6 +40,54 @@
     }
   ],
   "items": [
+    {
+      "id": "8913f9a4a9c17746ef30214f",
+      "title": "Employer Contributions to Trump Accounts and Nondiscrimination Rules for Dependent Care Assistance Programs",
+      "link": "https://www.federalregister.gov/documents/2026/08/24/C1-2026-16314/employer-contributions-to-trump-accounts-and-nondiscrimination-rules-for-dependent-care-assistance",
+      "summary": "",
+      "published_at": "2026-08-24T04:00:00",
+      "fetched_at": "2026-08-22T06:34:30",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
+    {
+      "id": "8a629f0f1bdc32dda6d557d8",
+      "title": "Open Meeting of the Taxpayer Advocacy Panel Joint Committee",
+      "link": "https://www.federalregister.gov/documents/2026/08/24/2026-17249/open-meeting-of-the-taxpayer-advocacy-panel-joint-committee",
+      "summary": "An open meeting of the Taxpayer Advocacy Panel's Joint Committee will be conducted. The Taxpayer Advocacy Panel is soliciting public comments, ideas, and suggestions to improve customer service at the Internal Revenue Service. This meeting will be held as a virtual video conference via the Microsoft Teams platform.",
+      "published_at": "2026-08-24T04:00:00",
+      "fetched_at": "2026-08-22T06:34:30",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
     {
       "id": "a8c3654ba567a3fdaf32bc95",
       "title": "Self Assessment Manual",
@@ -11552,52 +11600,6 @@
       "matched_keywords": [
         "payroll",
         "compliance"
-      ]
-    },
-    {
-      "id": "c7f6aabeb6f3f810d3ad73da",
-      "title": "Notice: Vaping Products Duty and Vaping Duty Stamps: Force of Law Notice",
-      "link": "https://www.gov.uk/government/publications/vaping-products-duty-and-vaping-duty-stamps-force-of-law-notice",
-      "summary": "Notices made under Part 4 of the Finance Act 2026, The Vaping Products (Production, Duty Stamps and Commencement) Regulations 2026 and The Vaping Duty Stamps (Requirements, Reviews and Appeals) Regulations 2026, which have the force of law.",
-      "published_at": "2026-07-24T09:06:52",
-      "fetched_at": "2026-07-24T13:38:28",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 9,
-      "matched_keywords": [
-        "payroll",
-        "regulation"
-      ]
-    },
-    {
-      "id": "7fe3798ea69da36f414c269d",
-      "title": "Check if a business is registered for money laundering supervision",
-      "link": "https://www.gov.uk/guidance/money-laundering-regulations-supervised-business-register",
-      "summary": "Find out if a business has registered with HMRC under the money laundering regulations and report them if they have not.",
-      "published_at": "2026-07-24T08:50:41",
-      "fetched_at": "2026-07-24T13:38:28",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 9,
-      "matched_keywords": [
-        "payroll",
-        "regulation"
       ]
     }
   ]
