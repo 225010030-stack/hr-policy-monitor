@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-08-24T06:52:32",
+  "synced_at": "2026-08-24T12:42:41",
   "total": 500,
-  "new_count": 0,
+  "new_count": 23,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 20,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 3,
       "error": null
     },
     {
@@ -40,6 +40,532 @@
     }
   ],
   "items": [
+    {
+      "id": "eea7636191e286b6f33d8614",
+      "title": "Report a problem using the Customs Declaration Service",
+      "link": "https://www.gov.uk/guidance/report-a-problem-using-the-customs-declaration-service",
+      "summary": "Find out what to do if you experience a problem whilst submitting a declaration using the Customs Declaration Service.",
+      "published_at": "2026-08-24T12:36:34",
+      "fetched_at": "2026-08-24T12:42:21",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "29e1c0453fd0a32317f1990e",
+      "title": "Accredited official statistics: Earnings and employment from Pay As You Earn Real Time Information, UK: June 2027",
+      "link": "https://www.gov.uk/government/statistics/announcements/earnings-and-employment-from-pay-as-you-earn-real-time-information-uk-june-2027",
+      "summary": "Monthly estimates of payrolled employees and their pay from HM Revenue and Customs’ (HMRC’s) Pay As You Earn (PAYE) Real Time Information (RTI) data. This is a joint release between HMRC and the Office for National Statistics (ONS)",
+      "published_at": "2026-08-24T12:36:25",
+      "fetched_at": "2026-08-24T12:42:21",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "3cb2808a67574a60b333533b",
+      "title": "Check if a business is registered for money laundering supervision",
+      "link": "https://www.gov.uk/guidance/money-laundering-regulations-supervised-business-register",
+      "summary": "Find out if a business has registered with HMRC under the money laundering regulations and report them if they have not.",
+      "published_at": "2026-08-24T12:03:55",
+      "fetched_at": "2026-08-24T12:42:21",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 9,
+      "matched_keywords": [
+        "payroll",
+        "regulation"
+      ]
+    },
+    {
+      "id": "de6e2550041ad28ff8b060ee",
+      "title": "Guidance: LA Welfare Direct bulletins: 2026",
+      "link": "https://www.gov.uk/government/publications/la-welfare-direct-bulletins-2026",
+      "summary": "These LA Welfare Direct bulletins provide information that affects Housing Benefit and other areas of DWP, to local authority staff.",
+      "published_at": "2026-08-24T12:03:31",
+      "fetched_at": "2026-08-24T12:42:21",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "909cec2a2f91ebc48bdf53b1",
+      "title": "Self Assessment Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual",
+      "summary": "This manual contains guidance and processes for Self Assessment (SA)",
+      "published_at": "2026-08-24T11:50:08",
+      "fetched_at": "2026-08-24T12:42:21",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "ff9d2c27ced3737eb1bf508a",
+      "title": "Sign up for Making Tax Digital for Income Tax",
+      "link": "https://www.gov.uk/guidance/sign-up-for-making-tax-digital-for-income-tax",
+      "summary": "If you're a sole trader or landlord, use the online service to sign up for Making Tax Digital for Income Tax.",
+      "published_at": "2026-08-24T10:58:32",
+      "fetched_at": "2026-08-24T12:42:21",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "fad37a08cdc31e8883c798b3",
+      "title": "Sign up your client for Making Tax Digital for Income Tax",
+      "link": "https://www.gov.uk/guidance/sign-up-your-client-for-making-tax-digital-for-income-tax",
+      "summary": "If you're an agent, use the online service to sign up your client for Making Tax Digital for Income Tax.",
+      "published_at": "2026-08-24T10:57:23",
+      "fetched_at": "2026-08-24T12:42:21",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "b53eb0e5ef136b3b3784f089",
+      "title": "Official Statistics: Access to Work statistics: April 2007 to March 2026",
+      "link": "https://www.gov.uk/government/statistics/announcements/access-to-work-statistics-april-2007-to-march-2026",
+      "summary": "Official statistics in development reporting on approval, payment and expenditure for Access to Work provision.",
+      "published_at": "2026-08-24T10:39:05",
+      "fetched_at": "2026-08-24T12:42:21",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "9819ef6e25f8ed62eb7c485f",
+      "title": "Check what to do if HMRC has signed you up for Making Tax Digital for Income Tax",
+      "link": "https://www.gov.uk/guidance/check-what-to-do-if-hmrc-has-signed-you-up-for-making-tax-digital-for-income-tax",
+      "summary": "If you’ve been contacted by HMRC telling you we have signed you up, find out what steps you need to take next.",
+      "published_at": "2026-08-24T10:35:28",
+      "fetched_at": "2026-08-24T12:42:21",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "45d993f0b09dd9188d7e8727",
+      "title": "Guidance: Report Pillar 2 top-up taxes: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/report-pillar-2-top-up-taxes-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the Report Pillar 2 top-up taxes service.",
+      "published_at": "2026-08-24T10:03:33",
+      "fetched_at": "2026-08-24T12:42:21",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "c71d8d91bb32986e7b8fc02b",
+      "title": "Pensions Tax Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual",
+      "summary": "The legislation and regulations behind the pension schemes tax regime. This manual replaced Registered Pension Schemes Manual from 2015.",
+      "published_at": "2026-08-24T09:07:55",
+      "fetched_at": "2026-08-24T12:42:21",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 13,
+      "matched_keywords": [
+        "pension",
+        "payroll",
+        "regulation"
+      ]
+    },
+    {
+      "id": "fe4ee60ac86579e70e40f55e",
+      "title": "How to treat public service pensions remedy unauthorised payments",
+      "link": "https://www.gov.uk/guidance/how-to-treat-unauthorised-payments-following-the-public-service-pensions-remedy",
+      "summary": "As a result of the public service pensions remedy (known as McCloud), members may have changes to, or new, unauthorised payments.",
+      "published_at": "2026-08-24T08:48:26",
+      "fetched_at": "2026-08-24T12:42:21",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "pension",
+        "payroll"
+      ]
+    },
+    {
+      "id": "3bcfda7e17e7823d1945f566",
+      "title": "Chapter 3 local government pension scheme — scheme administrators' guidance",
+      "link": "https://www.gov.uk/guidance/chapter-3-local-government-pension-scheme-scheme-administrators-guidance",
+      "summary": "If you're a pension scheme administrator of a local government public service pension scheme, check how the public service pensions remedy (also known as McCloud) could affect you.",
+      "published_at": "2026-08-24T08:40:39",
+      "fetched_at": "2026-08-24T12:42:21",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "pension",
+        "payroll"
+      ]
+    },
+    {
+      "id": "bf15367f1c45366064b2228f",
+      "title": "Paying compensation to members following the public service pensions remedy",
+      "link": "https://www.gov.uk/guidance/paying-compensation-to-members-following-the-public-service-pensions-remedy",
+      "summary": "How to compensate members who make a claim in relation to annual allowance, lifetime allowance and unauthorised payments charges where they are affected by the public service pensions remedy.",
+      "published_at": "2026-08-24T08:36:12",
+      "fetched_at": "2026-08-24T12:42:21",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "pension",
+        "payroll"
+      ]
+    },
+    {
+      "id": "3a8f5f5f1ab364c8385b523a",
+      "title": "Changes in annual allowance as a result of the public service pensions remedy",
+      "link": "https://www.gov.uk/guidance/changes-in-annual-allowance-as-a-result-of-the-public-service-pensions-remedy",
+      "summary": "How to calculate pension input amounts and how annual allowance charges are affected after the public service pensions remedy (previously known as McCloud).",
+      "published_at": "2026-08-24T08:31:43",
+      "fetched_at": "2026-08-24T12:42:21",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "pension",
+        "payroll"
+      ]
+    },
+    {
+      "id": "81f16999ddef8512fbe57159",
+      "title": "Transparency data: HMRC: workforce management information, July 2026",
+      "link": "https://www.gov.uk/government/publications/hmrc-workforce-management-information-july-2026",
+      "summary": "Reports on departmental staff numbers and costs.",
+      "published_at": "2026-08-24T08:30:03",
+      "fetched_at": "2026-08-24T12:42:21",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "f4dd8fe4a173b493ca9f44ae",
+      "title": "Guidance: Parental Conflict Indicator official statistics: consultation and response",
+      "link": "https://www.gov.uk/government/publications/plans-to-stop-reporting-the-parental-conflict-indicator-as-official-statistics-statistical-notice",
+      "summary": "The consultation has concluded. The department's response to the statistical notice has been published.",
+      "published_at": "2026-08-24T08:30:03",
+      "fetched_at": "2026-08-24T12:42:21",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "b58eca6a7a8b70c011f8fcdd",
+      "title": "Guidance: How to report life insurance Chargeable Event Certificates as a text file — guidance for insurers",
+      "link": "https://www.gov.uk/government/publications/life-insurance-chargeable-events-certificates",
+      "summary": "Check how to send life insurance Chargeable Event Certificates in electronic flat text file format to HMRC for gains occurring on or after 6 April 2002.",
+      "published_at": "2026-08-24T08:28:02",
+      "fetched_at": "2026-08-24T12:42:21",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "87cf56387c0bbd753d8432ea",
+      "title": "Chapter 1 pension schemes —  scheme administrators' guidance",
+      "link": "https://www.gov.uk/guidance/chapter-1-pension-schemes-scheme-administrators-guidance",
+      "summary": "If you’re a pension scheme administrator of a public service pension scheme, check how the public service pensions remedy (also known as McCloud) could affect you.",
+      "published_at": "2026-08-24T08:23:48",
+      "fetched_at": "2026-08-24T12:42:21",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "pension",
+        "payroll"
+      ]
+    },
+    {
+      "id": "45eb7e58a7b16e0e644d254a",
+      "title": "Form: Apply for approval of tax relief for professional organisations",
+      "link": "https://www.gov.uk/government/publications/professional-organisations-approval-for-tax-relief-application",
+      "summary": "Apply to be included on the list of professional bodies and learned societies approved for tax relief (List 3), using form P356.",
+      "published_at": "2026-08-24T08:17:28",
+      "fetched_at": "2026-08-24T12:42:21",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "fcff083fc9528f62cd2e8f6c",
+      "title": "Late registrations for employment related securities",
+      "link": "https://www.gov.uk/guidance/late-registrations-for-employment-related-securities",
+      "summary": "What to do if you miss the registration deadline for employment related securities.",
+      "published_at": "2026-08-24T08:11:49",
+      "fetched_at": "2026-08-24T12:42:21",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "8d03c6d6b0e588aeccc2c6ac",
+      "title": "Check if a text message you've received from HMRC is genuine",
+      "link": "https://www.gov.uk/guidance/check-if-a-text-message-youve-received-from-hmrc-is-genuine",
+      "summary": "Check a list of recent text messages from HMRC to help you decide if a text you've received is a scam.",
+      "published_at": "2026-08-24T08:00:00",
+      "fetched_at": "2026-08-24T12:42:21",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "cf757564eafb160c88a37a5f",
+      "title": "Check if an email you've received from HMRC is genuine",
+      "link": "https://www.gov.uk/guidance/check-if-an-email-youve-received-from-hmrc-is-genuine",
+      "summary": "Check a list of recent emails from HMRC to help you decide if the email you've received is a scam.",
+      "published_at": "2026-08-24T08:00:00",
+      "fetched_at": "2026-08-24T12:42:21",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
     {
       "id": "8913f9a4a9c17746ef30214f",
       "title": "Employer Contributions to Trump Accounts and Nondiscrimination Rules for Dependent Care Assistance Programs",
@@ -11070,536 +11596,6 @@
       "score": 6,
       "matched_keywords": [
         "payroll"
-      ]
-    },
-    {
-      "id": "2a42366c17d2cc8b12554d3f",
-      "title": "Official Statistics: Workplace pension participation and savings trends: 2009 to 2025",
-      "link": "https://www.gov.uk/government/statistics/announcements/workplace-pension-participation-and-savings-trends-2009-to-2025",
-      "summary": "These annual statistics include detailed breakdowns of the number of savers and the amount of savings.",
-      "published_at": "2026-07-27T11:03:57",
-      "fetched_at": "2026-07-27T14:27:23",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "577267fd565b65524b0188dd",
-      "title": "Official Statistics: Housing Benefit statistics on speed of processing 2025 to 2026 (January to March 2026)",
-      "link": "https://www.gov.uk/government/statistics/announcements/housing-benefit-statistics-on-speed-of-processing-2025-to-2026-january-to-march-2026",
-      "summary": "Statistics on the average number of days to process a new Housing Benefit claim or a change in circumstance of an existing claim. Statistics for the period January to March 2026. This is also known as quarter 4 of financial year 2025 to 2026.",
-      "published_at": "2026-07-27T10:46:05",
-      "fetched_at": "2026-07-27T14:27:23",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "6e451bab888014ba5b27f2d8",
-      "title": "Research: Skills for AI: What works for AI upskilling in the UK",
-      "link": "https://www.gov.uk/government/publications/skills-for-ai-what-works-for-ai-upskilling-in-the-uk",
-      "summary": "The reports provide evidence-based guidance, real-world case studies, practical principles and tools to help employers build inclusive, safe and sustainable AI workforce capability",
-      "published_at": "2026-07-27T10:37:05",
-      "fetched_at": "2026-07-27T14:27:23",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "bbfb6410f479b878cd2913d9",
-      "title": "Transparency data: HMRC: workforce management information, June 2026",
-      "link": "https://www.gov.uk/government/publications/hmrc-workforce-management-information-june-2026",
-      "summary": "Reports on departmental staff numbers and costs.",
-      "published_at": "2026-07-27T08:30:04",
-      "fetched_at": "2026-07-27T09:46:05",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "60e508f3644fc8ad0c16e7c2",
-      "title": "Transparency data: HMRC officials' meetings with tobacco stakeholders, April to June 2026",
-      "link": "https://www.gov.uk/government/publications/hmrc-officials-meetings-with-tobacco-stakeholders-april-to-june-2026",
-      "summary": "Details of HMRC officials' meetings with tobacco stakeholders.",
-      "published_at": "2026-07-27T08:30:04",
-      "fetched_at": "2026-07-27T09:46:05",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "977d5903e0b2d4ad7847d194",
-      "title": "Promotional material: Help to avoid errors  in claims for plant and machinery allowances — GfC5",
-      "link": "https://www.gov.uk/government/publications/help-to-avoid-errors-in-claims-for-plant-and-machinery-allowances-gfc5",
-      "summary": "Find out about common areas of error when claiming capital allowances on plant or machinery. We want to share information to help you manage the risk of an incorrect claim.",
-      "published_at": "2026-07-27T07:17:10",
-      "fetched_at": "2026-07-27T09:46:05",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "8fe28019ec90e3a9328a8109",
-      "title": "Agency Information Collection Activities: Comment Request on the Burden Related to the Disclosure of Returns and Return Information in Connection With Written Contracts or Agreements for the Acquisition of Property or Services for Tax Administration Purposes",
-      "link": "https://www.federalregister.gov/documents/2026/07/27/2026-15082/agency-information-collection-activities-comment-request-on-the-burden-related-to-the-disclosure-of",
-      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
-      "published_at": "2026-07-27T04:00:00",
-      "fetched_at": "2026-07-25T08:02:37",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "payroll",
-        "withholding"
-      ]
-    },
-    {
-      "id": "6094da69d793fb89dd975f47",
-      "title": "Agency Information Collection Activities: Comment Request on the Burden Related to the Requirements for Completing and Submitting Form 8655",
-      "link": "https://www.federalregister.gov/documents/2026/07/27/2026-15081/agency-information-collection-activities-comment-request-on-the-burden-related-to-the-requirements",
-      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
-      "published_at": "2026-07-27T04:00:00",
-      "fetched_at": "2026-07-25T08:02:37",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "payroll",
-        "withholding"
-      ]
-    },
-    {
-      "id": "29d8096560536e0993388126",
-      "title": "Agency Information Collection Activities; Comment Request on Employee Plans Compliance Resolution System",
-      "link": "https://www.federalregister.gov/documents/2026/07/27/2026-15067/agency-information-collection-activities-comment-request-on-employee-plans-compliance-resolution",
-      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
-      "published_at": "2026-07-27T04:00:00",
-      "fetched_at": "2026-07-25T08:02:37",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 14,
-      "matched_keywords": [
-        "payroll",
-        "withholding",
-        "compliance"
-      ]
-    },
-    {
-      "id": "857a66cbe50dec1c9fc68636",
-      "title": "Open Meeting of the Taxpayer Advocacy Panel Joint Committee",
-      "link": "https://www.federalregister.gov/documents/2026/07/27/2026-15051/open-meeting-of-the-taxpayer-advocacy-panel-joint-committee",
-      "summary": "An open meeting of the Taxpayer Advocacy Panel's Joint Committee will be conducted. The Taxpayer Advocacy Panel is soliciting public comments, ideas, and suggestions to improve customer service at the Internal Revenue Service. This meeting will be held as a virtual video conference via the Microsoft Teams platform.",
-      "published_at": "2026-07-27T04:00:00",
-      "fetched_at": "2026-07-25T08:02:37",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "payroll",
-        "withholding"
-      ]
-    },
-    {
-      "id": "72ac6e1ba05b9df3f8f70f61",
-      "title": "Official Statistics: Tax-Free Childcare Statistics, June 2026",
-      "link": "https://www.gov.uk/government/statistics/announcements/tax-free-childcare-statistics-june-2026",
-      "summary": "Tax-Free Childcare Statistics provide information on the numbers of families and children with open and used Tax-Free Childcare accounts and the amounts spent on government top-up. The publication also includes the numbers of open and used Tax-Free Childcare accounts for disabled children by age of child and account use by region.",
-      "published_at": "2026-07-24T22:42:17",
-      "fetched_at": "2026-07-25T02:25:20",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "79037830bbf637fce06919c6",
-      "title": "HMRC videos and webinars for Making Tax Digital for Income Tax",
-      "link": "https://www.gov.uk/guidance/help-and-support-for-making-tax-digital",
-      "summary": "Learn more about Making Tax Digital for Income Tax if you're an agent, sole trader or landlord.",
-      "published_at": "2026-07-24T14:35:44",
-      "fetched_at": "2026-07-24T19:20:49",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "fb6f580e5b275a977eda09f2",
-      "title": "Guidance: Report Pillar 2 top-up taxes: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/report-pillar-2-top-up-taxes-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the Report Pillar 2 top-up taxes service.",
-      "published_at": "2026-07-24T14:34:58",
-      "fetched_at": "2026-07-24T19:20:49",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "cdd285cdc9093fbea685d09c",
-      "title": "How to report Pillar 2 Top-up Taxes",
-      "link": "https://www.gov.uk/guidance/how-to-report-pillar-2-top-up-taxes",
-      "summary": "Find out how to tell HMRC about your Pillar 2 Top-up Taxes (these are Multinational Top-up Tax and Domestic Top-up Tax).",
-      "published_at": "2026-07-24T14:10:44",
-      "fetched_at": "2026-07-24T19:20:49",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "11766b16108e0e810f2b6d47",
-      "title": "Register to complete origin declarations under the UK-India Free Trade Agreement",
-      "link": "https://www.gov.uk/guidance/register-to-complete-origin-declarations-under-the-uk-india-free-trade-agreement",
-      "summary": "Register with HMRC if you're planning to complete origin declarations for exports under the UK-India Free Trade Agreement.",
-      "published_at": "2026-07-24T13:43:20",
-      "fetched_at": "2026-07-24T19:20:49",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "2c68babda513b13791c469ae",
-      "title": "Guidance: Register to complete origin declarations under the UK-India Free Trade Agreement: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/register-to-complete-origin-declarations-under-the-uk-india-free-trade-agreement-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the Register to complete origin declarations under the UK-India Free Trade Agreement service.",
-      "published_at": "2026-07-24T13:43:14",
-      "fetched_at": "2026-07-24T19:20:49",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "d7547a41470704233f86031a",
-      "title": "Guidance: Check the statutory market values for oil",
-      "link": "https://www.gov.uk/government/publications/check-the-statutory-market-values-for-oil",
-      "summary": "Find statutory market values for disposal of category 1 oil from a UK field, which has not been sold at arm's length.",
-      "published_at": "2026-07-24T13:08:48",
-      "fetched_at": "2026-07-24T13:38:28",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 9,
-      "matched_keywords": [
-        "payroll",
-        "statutory"
-      ]
-    },
-    {
-      "id": "3739d236522cbd929a1551f3",
-      "title": "Authorising an agent to deal with your tax affairs",
-      "link": "https://www.gov.uk/guidance/authorising-an-agent-to-deal-with-your-tax-affairs",
-      "summary": "Check what a paid agent can do on your behalf. How you authorise the agent depends on the tax, and you may need to use paper form 64-8 or an online service.",
-      "published_at": "2026-07-24T11:45:18",
-      "fetched_at": "2026-07-24T13:38:28",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "8e62269bca1c4561640a8654",
-      "title": "International Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/international-manual",
-      "summary": "International tax issues including the principles of double taxation relief and an introduction to double taxation agreements",
-      "published_at": "2026-07-24T11:04:29",
-      "fetched_at": "2026-07-24T13:38:28",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "f44d972537602ff5c21d2c91",
-      "title": "Research: Upcoming DWP research publications",
-      "link": "https://www.gov.uk/government/publications/list-of-upcoming-research-publications",
-      "summary": "This document provides details of upcoming Department for Work and Pensions (DWP) research publications.",
-      "published_at": "2026-07-24T11:01:37",
-      "fetched_at": "2026-07-24T13:38:29",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "ae3204a0ad626d3ca36a5ab6",
-      "title": "Capital Gains Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual",
-      "summary": "HMRC is reviewing the CG Manual to ensure it provides HMRC’s interpretation of relevant legislation where there is more than one reasonable view of how rules work.Where material in the CG Manual isn’t providing an interpretation, that material is being removed. Where appropriate, material will be reproduced elsewhere and linked from the CG Manual.",
-      "published_at": "2026-07-24T10:03:08",
-      "fetched_at": "2026-07-24T13:38:28",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "2edbee093197275aab385b7b",
-      "title": "Register your employment related securities scheme",
-      "link": "https://www.gov.uk/guidance/tell-hmrc-about-your-employment-related-securities",
-      "summary": "When and how to tell HMRC about new employment related securities (ERS) schemes.",
-      "published_at": "2026-07-24T09:43:44",
-      "fetched_at": "2026-07-24T13:38:28",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "9949d2380185acbdfdb19fc5",
-      "title": "Compliance Handbook",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/compliance-handbook",
-      "summary": "The aim of the Compliance Handbook is to help users understand and apply HMRC's penalties and compliance powers, as set out by legislation.",
-      "published_at": "2026-07-24T09:07:07",
-      "fetched_at": "2026-07-24T13:38:28",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 9,
-      "matched_keywords": [
-        "payroll",
-        "compliance"
       ]
     }
   ]
