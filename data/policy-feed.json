@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-08-24T12:42:41",
+  "synced_at": "2026-08-24T18:35:48",
   "total": 500,
-  "new_count": 23,
+  "new_count": 10,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
       "fetched": 29,
-      "added": 0,
+      "added": 4,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 20,
+      "added": 6,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 3,
+      "added": 0,
       "error": null
     },
     {
@@ -40,6 +40,141 @@
     }
   ],
   "items": [
+    {
+      "id": "f8504d3d7d37373bb9b259fa",
+      "title": "Company Taxation Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual",
+      "summary": "All aspects of company taxation.",
+      "published_at": "2026-08-24T13:41:42",
+      "fetched_at": "2026-08-24T18:35:27",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "e8d6a7480f513380883709be",
+      "title": "Guidance: Basic PAYE Tools: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/basic-paye-tools-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the Basic PAYE Tools (BPT) online service.",
+      "published_at": "2026-08-24T13:37:46",
+      "fetched_at": "2026-08-24T18:35:27",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "dab08fc06f604e9013255d72",
+      "title": "Withdraw funds from your Customs Declaration Service cash account",
+      "link": "https://www.gov.uk/guidance/withdraw-funds-from-your-cash-account-for-cds-declarations",
+      "summary": "Make a request to withdraw funds from your cash account.",
+      "published_at": "2026-08-24T13:01:46",
+      "fetched_at": "2026-08-24T18:35:27",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "fd12539de64f618b5ba40fa7",
+      "title": "Accredited official statistics: Earnings and employment from Pay As You Earn Real Time Information, UK: September 2027",
+      "link": "https://www.gov.uk/government/statistics/announcements/earnings-and-employment-from-pay-as-you-earn-real-time-information-uk-september-2027",
+      "summary": "Monthly estimates of payrolled employees and their pay from HM Revenue and Customs’ (HMRC’s) Pay As You Earn (PAYE) Real Time Information (RTI) data. This is a joint release between HMRC and the Office for National Statistics (ONS)",
+      "published_at": "2026-08-24T12:43:45",
+      "fetched_at": "2026-08-24T18:35:27",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "4841950b7d06a74595e80449",
+      "title": "Accredited official statistics: Earnings and employment from Pay As You Earn Real Time Information, UK: August 2027",
+      "link": "https://www.gov.uk/government/statistics/announcements/earnings-and-employment-from-pay-as-you-earn-real-time-information-uk-august-2027",
+      "summary": "Monthly estimates of payrolled employees and their pay from HM Revenue and Customs’ (HMRC’s) Pay As You Earn (PAYE) Real Time Information (RTI) data. This is a joint release between HMRC and the Office for National Statistics (ONS)",
+      "published_at": "2026-08-24T12:41:44",
+      "fetched_at": "2026-08-24T18:35:27",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "d20d858c16bf783aba9b22d8",
+      "title": "Accredited official statistics: Earnings and employment from Pay As You Earn Real Time Information, UK: July 2027",
+      "link": "https://www.gov.uk/government/statistics/announcements/earnings-and-employment-from-pay-as-you-earn-real-time-information-uk-july-2027",
+      "summary": "Monthly estimates of payrolled employees and their pay from HM Revenue and Customs’ (HMRC’s) Pay As You Earn (PAYE) Real Time Information (RTI) data. This is a joint release between HMRC and the Office for National Statistics (ONS)",
+      "published_at": "2026-08-24T12:39:42",
+      "fetched_at": "2026-08-24T18:35:27",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
     {
       "id": "eea7636191e286b6f33d8614",
       "title": "Report a problem using the Customs Declaration Service",
@@ -11456,146 +11591,6 @@
       "matched_keywords": [
         "payroll",
         "ei"
-      ]
-    },
-    {
-      "id": "f5fa88a4ca70444cdb5c8bc4",
-      "title": "Data Element 2/3: Document and Other Reference Codes: Licence Types — Imports and Exports of the Customs Declaration Service (CDS)",
-      "link": "https://www.gov.uk/guidance/data-element-23-document-and-other-reference-codes-licence-types-imports-and-exports-of-the-customs-declaration-service-cds",
-      "summary": "Find a list of codes for the types of Government Department licences that can be declared for imports and exports in Data Element 2/3 (Appendix 5C).",
-      "published_at": "2026-07-27T13:32:06",
-      "fetched_at": "2026-07-27T14:27:22",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "7154548503f1e02b526426b4",
-      "title": "Guidance: Data Element 2/3: Documents and Other Reference Codes (Union) of the Customs Declaration Service (CDS)",
-      "link": "https://www.gov.uk/government/publications/data-element-23-documents-and-other-reference-codes-union-of-the-customs-declaration-service-cds",
-      "summary": "Find the relevant document codes, document status codes and details to be declared such as licences and certificates (Appendix 5A).",
-      "published_at": "2026-07-27T13:21:57",
-      "fetched_at": "2026-07-27T14:27:22",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "d497667d425f70562be1d326",
-      "title": "Guidance: Housing Benefit adjudication circulars 2026",
-      "link": "https://www.gov.uk/government/publications/housing-benefit-adjudication-circulars-2026",
-      "summary": "Adjudication circulars provide updates to the Housing Benefit guidance manual for local authority staff.",
-      "published_at": "2026-07-27T12:40:23",
-      "fetched_at": "2026-07-27T14:27:23",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "0a2862a93df1576a837188bf",
-      "title": "Official Statistics: Benefit cap: number of households capped to February 2027",
-      "link": "https://www.gov.uk/government/statistics/announcements/benefit-cap-number-of-households-capped-to-february-2027",
-      "summary": "Statistics on households that have had their benefits capped between 15 April 2013 and February 2027.",
-      "published_at": "2026-07-27T12:15:57",
-      "fetched_at": "2026-07-27T14:27:23",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 22,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension",
-        "ei"
-      ]
-    },
-    {
-      "id": "be4412ae4ecd4a3e8d720c3a",
-      "title": "Promotional material: Help with VAT compliance controls — GfC8",
-      "link": "https://www.gov.uk/government/publications/help-with-vat-compliance-controls-guidelines-for-compliance-gfc8",
-      "summary": "Find out what HMRC considers as good practice in relation to VAT accounting and compliance processes.",
-      "published_at": "2026-07-27T11:28:07",
-      "fetched_at": "2026-07-27T14:27:22",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 9,
-      "matched_keywords": [
-        "payroll",
-        "compliance"
-      ]
-    },
-    {
-      "id": "02f84ddcfa1f40281788fbd1",
-      "title": "Policy paper: Revenue and Customs Brief 5 (2026): Temporary reduced rate of VAT for children's meals, tickets and family attractions",
-      "link": "https://www.gov.uk/government/publications/revenue-and-customs-brief-5-2026-temporary-reduced-rate-of-vat-for-childrens-meals-tickets-and-family-attractions",
-      "summary": "This brief explains a temporary reduced rate of VAT for children's meals, tickets and family attractions that applies from 25 June 2026 to 1 September 2026.",
-      "published_at": "2026-07-27T11:26:31",
-      "fetched_at": "2026-07-27T14:27:22",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
       ]
     }
   ]
