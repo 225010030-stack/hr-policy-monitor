@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-08-26T06:42:34",
+  "synced_at": "2026-08-26T12:45:31",
   "total": 500,
-  "new_count": 6,
+  "new_count": 19,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 9,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 1,
+      "added": 5,
       "error": null
     },
     {
@@ -40,6 +40,335 @@
     }
   ],
   "items": [
+    {
+      "id": "0385f66cc17a2f51732e191a",
+      "title": "Accredited official statistics: Earnings and employment from Pay As You Earn Real Time Information, UK: January 2027",
+      "link": "https://www.gov.uk/government/statistics/announcements/earnings-and-employment-from-pay-as-you-earn-real-time-information-uk-january-2027",
+      "summary": "Monthly estimates of payrolled employees and their pay from HM Revenue and Customs’ (HMRC’s) Pay As You Earn (PAYE) Real Time Information (RTI) data. This is a joint release between HMRC and the Office for National Statistics (ONS).",
+      "published_at": "2026-08-26T12:29:49",
+      "fetched_at": "2026-08-26T12:45:10",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "33e9bbb76acac80dfbc3882a",
+      "title": "Official Statistics: Support for Mortgage Interest statistics to May 2026",
+      "link": "https://www.gov.uk/government/statistics/announcements/support-for-mortgage-interest-statistics-to-may-2026",
+      "summary": "Official statistics in development on the numbers in receipt of Support for Mortgage Interest loans.",
+      "published_at": "2026-08-26T12:19:05",
+      "fetched_at": "2026-08-26T12:45:11",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 22,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension",
+        "ei"
+      ]
+    },
+    {
+      "id": "ff71d3a8e6aebd5813f2e9a1",
+      "title": "Accredited official statistics: Personal Independence Payment statistics April 2013 to June 2027 (Accredited official statistics)",
+      "link": "https://www.gov.uk/government/statistics/announcements/personal-independence-payment-statistics-april-2013-to-june-2027-accredited-official-statistics",
+      "summary": "Quarterly statistics including numbers of claims with entitlement, new claim registrations, decisions and awards made.",
+      "published_at": "2026-08-26T11:15:57",
+      "fetched_at": "2026-08-26T12:45:11",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "7e81b4fde7f89fa6c366b6a0",
+      "title": "Accredited official statistics: Personal Independence Payment statistics April 2013 to September 2027 (Accredited official statistics)",
+      "link": "https://www.gov.uk/government/statistics/announcements/personal-independence-payment-statistics-april-2013-to-september-2027-accredited-official-statistics",
+      "summary": "Quarterly statistics including numbers of claims with entitlement, new claim registrations, decisions and awards made.",
+      "published_at": "2026-08-26T11:09:41",
+      "fetched_at": "2026-08-26T12:45:11",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "df5925282628c8d8655b0311",
+      "title": "Accredited official statistics: Personal Independence Payment statistics April 2013 to March 2027 (Accredited official statistics)",
+      "link": "https://www.gov.uk/government/statistics/announcements/personal-independence-payment-statistics-april-2013-to-march-2027-accredited-official-statistics",
+      "summary": "Quarterly statistics including numbers of claims with entitlement, new claim registrations, decisions and awards made.",
+      "published_at": "2026-08-26T10:58:47",
+      "fetched_at": "2026-08-26T12:45:11",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "05129ef890079363b33e7d31",
+      "title": "Accredited official statistics: Personal Independence Payment statistics April 2013 to January 2027 (Accredited official statistics)",
+      "link": "https://www.gov.uk/government/statistics/announcements/personal-independence-payment-statistics-april-2013-to-january-2027-accredited-official-statistics",
+      "summary": "Quarterly statistics including numbers of claims with entitlement, new claim registrations, decisions and awards made.",
+      "published_at": "2026-08-26T10:56:46",
+      "fetched_at": "2026-08-26T12:45:11",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "c6a98d6eedf72caa20dffd5d",
+      "title": "Form: Tell HMRC about any charges on special trusts (IHT100e)",
+      "link": "https://www.gov.uk/government/publications/inheritance-tax-charges-on-special-trusts-iht100e",
+      "summary": "Use this form to tell us that Inheritance Tax is due on assets that have stopped being held in special trusts.",
+      "published_at": "2026-08-26T10:49:06",
+      "fetched_at": "2026-08-26T12:45:10",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "7da8586cef26466a240a6f44",
+      "title": "Buildings and construction (VAT Notice 708)",
+      "link": "https://www.gov.uk/guidance/buildings-and-construction-vat-notice-708",
+      "summary": "How to work out the VAT on building work and materials if you're a contractor, subcontractor or developer.",
+      "published_at": "2026-08-26T10:45:06",
+      "fetched_at": "2026-08-26T12:45:10",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "2a8e995c19d6d03e1164b9ec",
+      "title": "Find out about the Non-Statutory Clearance Service",
+      "link": "https://www.gov.uk/guidance/non-statutory-clearance-service-guidance",
+      "summary": "How to use the Non-Statutory Clearance Service offered by HMRC for all customers and their advisers.",
+      "published_at": "2026-08-26T10:36:47",
+      "fetched_at": "2026-08-26T12:45:10",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 13,
+      "matched_keywords": [
+        "payroll",
+        "ei",
+        "statutory"
+      ]
+    },
+    {
+      "id": "19971bd2c335856aefc3865a",
+      "title": "Apply for a certificate of residence or letter of confirmation",
+      "link": "https://www.gov.uk/guidance/apply-for-a-certificate-of-residence-or-letter-of-confirmation",
+      "summary": "Use this form if you are a sole trader, company or organisation to get a certificate of residence or letter of confirmation so you do not pay tax twice on foreign income.",
+      "published_at": "2026-08-26T10:14:21",
+      "fetched_at": "2026-08-26T12:45:10",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "6c4699f9b3232b5d7e88a1f4",
+      "title": "Form: Trusts and estates: statement of trust income chargeable on settlor (R185 (Settlor))",
+      "link": "https://www.gov.uk/government/publications/trusts-and-estates-statement-of-trust-income-chargeable-on-settlor-r185-settlor",
+      "summary": "Use form R185 (Settlor) if you're a trustee and need to tell the settlor about income arising from the trust in which they retain an interest.",
+      "published_at": "2026-08-26T10:04:02",
+      "fetched_at": "2026-08-26T12:45:10",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "47e4b04f4c2b0ad1c82714a4",
+      "title": "How vaping duty stamps work",
+      "link": "https://www.gov.uk/guidance/how-vaping-duty-stamps-work",
+      "summary": "Find out what vaping duty stamps are, how to purchase them, the digital processes and transitional arrangements.",
+      "published_at": "2026-08-26T09:00:29",
+      "fetched_at": "2026-08-26T12:45:10",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "a4dcde354864764d241e1fee",
+      "title": "Official Statistics: Tax-Free Childcare Statistics, June 2026",
+      "link": "https://www.gov.uk/government/statistics/tax-free-childcare-statistics-june-2026",
+      "summary": "These statistics provide information about families using Tax-Free Childcare",
+      "published_at": "2026-08-26T08:30:02",
+      "fetched_at": "2026-08-26T12:45:10",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "e732d175ac10707f3d662c3d",
+      "title": "Form: Tell HMRC about an exit charge on assets in a trust (IHT100c)",
+      "link": "https://www.gov.uk/government/publications/inheritance-tax-assets-ceasing-to-be-held-on-discretionary-trusts-proportionate-charge-iht100c",
+      "summary": "Use this form to tell us that Inheritance Tax is due on an exit from a trust.",
+      "published_at": "2026-08-26T08:00:35",
+      "fetched_at": "2026-08-26T12:45:10",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "d513047f7fa672415d84c405",
       "title": "Professor David Strain appointed as DWP Chief Medical Advisor",
@@ -64,6 +393,104 @@
         "benefits",
         "medical",
         "pension"
+      ]
+    },
+    {
+      "id": "78480448009359f8f40a9d71",
+      "title": "Superfund Tax on Chemical Substances; Request To Modify List of Taxable Substances; Notice of Filing for Methylene Diphenyl Diisocyanate; n=2.0-3.0",
+      "link": "https://www.federalregister.gov/documents/2026/08/26/2026-17432/superfund-tax-on-chemical-substances-request-to-modify-list-of-taxable-substances-notice-of-filing",
+      "summary": "This notice of filing announces that a petition has been filed requesting that methylene diphenyl diisocyanate ((C&lt;INF&gt;8&lt;/INF&gt;H&lt;INF&gt;6&lt;/INF&gt;NO)(C&lt;INF&gt;8&lt;/INF&gt;H&lt;INF&gt;5&lt;/INF&gt;NO)&lt;INF&gt;n-2&lt;/INF&gt; (C&lt;INF&gt;7&lt;/INF&gt;H&lt;INF&gt;4&lt;/INF&gt;NO); n=2.0-3.0), also known as &quot;MDI,&quot; be added to the list of taxable substances. This notice of filing also requests comments on the petition. This notice of filing is not a determination tha",
+      "published_at": "2026-08-26T04:00:00",
+      "fetched_at": "2026-08-26T12:45:10",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
+    {
+      "id": "ff8b712286ea92e5b139813f",
+      "title": "Superfund Tax on Chemical Substances; Request To Modify List of Taxable Substances; Notice of Filing for Acrylate Monomer Synthetic Rubber; x=587.30, y=583.29, z=258.18, a=1.58",
+      "link": "https://www.federalregister.gov/documents/2026/08/26/2026-17431/superfund-tax-on-chemical-substances-request-to-modify-list-of-taxable-substances-notice-of-filing",
+      "summary": "This notice of filing announces that a petition has been filed requesting that acrylate monomer synthetic rubber ((C&lt;INF&gt;5&lt;/INF&gt;H&lt;INF&gt;8&lt;/INF&gt;O&lt;INF&gt;2&lt;/INF&gt;)&lt;INF&gt;x&lt;/INF&gt;- (C&lt;INF&gt;7&lt;/INF&gt;H&lt;INF&gt;12&lt;/INF&gt;O&lt;INF&gt;2&lt;/INF&gt;)&lt;INF&gt;y&lt;/INF&gt;- (C&lt;INF&gt;6&lt;/INF&gt;H&lt;INF&gt;10&lt;/INF&gt;O&lt;INF&gt;3&lt;/INF&gt;)&lt;INF&gt;z&lt;/INF&gt;- (C&lt;INF&gt;35&lt;/INF&gt;H&lt;INF&gt;62&lt;/INF&gt;O&lt;INF&gt;3&lt;/INF&",
+      "published_at": "2026-08-26T04:00:00",
+      "fetched_at": "2026-08-26T12:45:10",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
+    {
+      "id": "1e9470afa5204c3cebcdd087",
+      "title": "Superfund Tax on Chemical Substances; Request To Modify List of Taxable Substances; Notice of Filing for Poly(divinylbenzene-ethylvinylbenzene); x=1.33x1017, y=3.27x1016",
+      "link": "https://www.federalregister.gov/documents/2026/08/26/2026-17430/superfund-tax-on-chemical-substances-request-to-modify-list-of-taxable-substances-notice-of-filing",
+      "summary": "This notice of filing announces that a petition has been filed requesting that poly(divinylbenzene-ethylvinylbenzene) ((C&lt;INF&gt;10&lt;/INF&gt;H&lt;INF&gt;10&lt;/INF&gt;)&lt;INF&gt;x&lt;/INF&gt;(C&lt;INF&gt;10&lt;/INF&gt;H&lt;INF&gt;12&lt;/INF&gt; )&lt;INF&gt;y&lt;/INF&gt;; x=1.33x10\\17\\, y=3.27x10\\16\\), also known as &quot;DVB- EVB,&quot; be added to the list of taxable substances. This notice of filing also requests comments on the petition. This notice of filing is not a determination that",
+      "published_at": "2026-08-26T04:00:00",
+      "fetched_at": "2026-08-26T12:45:10",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
+    {
+      "id": "8d56b913541e8b62ecabf73e",
+      "title": "Pro Rata Share of Subpart F Income, Tested Income, or Tested Loss",
+      "link": "https://www.federalregister.gov/documents/2026/08/26/2026-17365/pro-rata-share-of-subpart-f-income-tested-income-or-tested-loss",
+      "summary": "This document contains proposed regulations relating to the determination of a United States shareholder's pro rata share of subpart F income, tested income, or tested loss of a controlled foreign corporation. The proposed regulations would affect shareholders of foreign corporations, including United States shareholders of controlled foreign corporations.",
+      "published_at": "2026-08-26T04:00:00",
+      "fetched_at": "2026-08-26T12:45:10",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "payroll",
+        "withholding",
+        "ei",
+        "regulation"
       ]
     },
     {
@@ -11150,438 +11577,6 @@
       "score": 6,
       "matched_keywords": [
         "payroll"
-      ]
-    },
-    {
-      "id": "653fb87755ec2a1ab767f878",
-      "title": "Rating Manual section 2: valuation principles",
-      "link": "https://www.gov.uk/guidance/rating-manual-section-2-maintaining-the-rating-list",
-      "summary": "The Valuation Office Agency's (VOA) technical manual for the rating of business (non-domestic) property.",
-      "published_at": "2026-07-29T12:34:26",
-      "fetched_at": "2026-07-29T14:04:06",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "c282c53ee4bc451c1e3965ed",
-      "title": "Guidance: GloBE Information Return Filing and Exchange: Transitional approach",
-      "link": "https://www.gov.uk/government/publications/global-information-return-filing-and-exchange-transitional-approach",
-      "summary": "This page sets out how HMRC will approach the central filing and exchange of the initial Pillar 2 GloBE Information Returns (GIRs).",
-      "published_at": "2026-07-29T11:40:44",
-      "fetched_at": "2026-07-29T14:04:06",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "10e1f495f3968742887c6a7a",
-      "title": "Guidance: Rebated Oils Enquiry Services: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/rebated-oils-enquiry-services-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the Rebated Oils Enquiry Services online service.",
-      "published_at": "2026-07-29T11:37:32",
-      "fetched_at": "2026-07-29T14:04:06",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "a5536abbc38265f192bc3dbd",
-      "title": "Guidance: Tied Oils Enquiry Service: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/tied-oils-enquiry-service-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the Tied Oils Enquiry Service online service.",
-      "published_at": "2026-07-29T11:21:21",
-      "fetched_at": "2026-07-29T14:04:06",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "ab0996eca06ff392542471b8",
-      "title": "Guidance: Access to Work provider memos",
-      "link": "https://www.gov.uk/government/publications/atwlr02-provider-memo-access-to-work",
-      "summary": "Access to Work provider memos.",
-      "published_at": "2026-07-29T11:16:24",
-      "fetched_at": "2026-07-29T14:04:07",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "61c483225840c0e3570e7f72",
-      "title": "Guidance: LA Welfare Direct bulletins: 2026",
-      "link": "https://www.gov.uk/government/publications/la-welfare-direct-bulletins-2026",
-      "summary": "These LA Welfare Direct bulletins provide information that affects Housing Benefit and other areas of DWP, to local authority staff.",
-      "published_at": "2026-07-29T11:13:05",
-      "fetched_at": "2026-07-29T14:04:07",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "f2ba794527f2f49ba3ba48c7",
-      "title": "Transparency data: DWP major projects: Senior Responsible Owners’ appointment letters",
-      "link": "https://www.gov.uk/government/publications/dwp-major-projects-senior-responsible-owners-appointment-letters",
-      "summary": "Department for Work and Pensions (DWP) appointment letters for Government Major Projects Portfolio (GMPP) Senior Responsible Owners (SROs).",
-      "published_at": "2026-07-29T11:06:11",
-      "fetched_at": "2026-07-29T14:04:07",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "88dbed8f25c3283136886c32",
-      "title": "Self Assessment Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual",
-      "summary": "This manual contains guidance and processes for Self Assessment (SA)",
-      "published_at": "2026-07-29T10:59:57",
-      "fetched_at": "2026-07-29T14:04:06",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "8aff6b139034e28276cf823c",
-      "title": "Guidance: Flexi-job apprenticeships using an approved agency",
-      "link": "https://www.gov.uk/government/publications/flexi-job-apprenticeships",
-      "summary": "Information about flexi-job apprenticeships using approved agencies, in occupations that often use short-term contracts or other non-standard employment models.",
-      "published_at": "2026-07-29T10:17:31",
-      "fetched_at": "2026-07-29T14:04:07",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "f3dc2ab469169e07c26c6e8b",
-      "title": "Guidance: Apprenticeship funding",
-      "link": "https://www.gov.uk/government/publications/apprenticeship-funding",
-      "summary": "How the government funds apprenticeships in England, including details of funding bands and the apprenticeship levy.",
-      "published_at": "2026-07-29T10:00:07",
-      "fetched_at": "2026-07-29T14:04:07",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "9122cc6638e68ca4fe760ddb",
-      "title": "Guidance: Apprenticeship technical funding guide",
-      "link": "https://www.gov.uk/government/publications/apprenticeship-technical-funding-guide",
-      "summary": "Details of the funding system used for apprenticeship frameworks and standards.",
-      "published_at": "2026-07-29T10:00:07",
-      "fetched_at": "2026-07-29T14:04:07",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "f90dbfda30f74cb9465bdaf9",
-      "title": "Guidance: Apprenticeship unit funding rules: 2026 to 2027",
-      "link": "https://www.gov.uk/government/publications/apprenticeship-unit-funding-rules-2026-to-2027",
-      "summary": "The rules for apprenticeship unit funding.",
-      "published_at": "2026-07-29T10:00:07",
-      "fetched_at": "2026-07-29T14:04:07",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "20ddcde3435c55ef4c316df8",
-      "title": "Guidance: Apprenticeship units: technical funding",
-      "link": "https://www.gov.uk/government/publications/apprenticeship-units-technical-funding",
-      "summary": "The policy for apprenticeship unit funding in England and details of the apprenticeship units funding system for new starts on or after 28 April 2026.",
-      "published_at": "2026-07-29T10:00:07",
-      "fetched_at": "2026-07-29T14:04:07",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "ce1df9b7080b23ff71143bb1",
-      "title": "Guidance: Apprenticeship funding rules: 2026 to 2027",
-      "link": "https://www.gov.uk/government/publications/apprenticeship-funding-rules-and-assessment-plan-guidance-2026-to-2027",
-      "summary": "The rules employers and training providers must follow to get funding for training and assessing apprentices in England.",
-      "published_at": "2026-07-29T10:00:07",
-      "fetched_at": "2026-07-29T14:04:07",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "cbc5fc5df2a5415aaf0ad608",
-      "title": "Official Statistics: Connect to Work Statistics to March 2027",
-      "link": "https://www.gov.uk/government/statistics/announcements/connect-to-work-statistics-to-march-2027",
-      "summary": "Quarterly official statistics in development on Connect to Work. This release includes data covering the period from April 2025 to March 2027.",
-      "published_at": "2026-07-29T09:25:49",
-      "fetched_at": "2026-07-29T14:04:07",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "f0ee8e8ea10a12043894d092",
-      "title": "Official Statistics: Connect to Work Statistics to September 2026",
-      "link": "https://www.gov.uk/government/statistics/announcements/connect-to-work-statistics-to-september-2026",
-      "summary": "Quarterly official statistics in development on Connect to Work. This release includes data covering the period from April 2025 to September 2026.",
-      "published_at": "2026-07-29T09:23:49",
-      "fetched_at": "2026-07-29T14:04:07",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "4169e482a67c1530510210c8",
-      "title": "Get help with a tax issue as a public body",
-      "link": "https://www.gov.uk/guidance/get-help-with-a-tax-issue-as-a-public-body",
-      "summary": "Get help with a tax issue if you're a public body by reading guidance and manuals, or filling in the public body queries form.",
-      "published_at": "2026-07-29T09:14:05",
-      "fetched_at": "2026-07-29T14:04:06",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "87cc44bc21bc1a1e950273bf",
-      "title": "Official Statistics: Connect to Work Statistics to December 2026",
-      "link": "https://www.gov.uk/government/statistics/announcements/connect-to-work-statistics-to-december-2026",
-      "summary": "Quarterly official statistics in development on Connect to Work. This release includes data covering the period from April 2025 to December 2026.",
-      "published_at": "2026-07-29T09:13:48",
-      "fetched_at": "2026-07-29T14:04:07",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
       ]
     }
   ]
