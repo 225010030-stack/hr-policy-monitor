@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-08-26T02:27:18",
+  "synced_at": "2026-08-26T06:42:34",
   "total": 500,
-  "new_count": 5,
+  "new_count": 6,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -28,7 +28,7 @@
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,32 @@
     }
   ],
   "items": [
+    {
+      "id": "d513047f7fa672415d84c405",
+      "title": "Professor David Strain appointed as DWP Chief Medical Advisor",
+      "link": "https://www.gov.uk/government/news/professor-david-strain-appointed-as-dwp-chief-medical-advisor",
+      "summary": "The Department for Work and Pensions has appointed Professor David Strain as its new Chief Medical Advisor",
+      "published_at": "2026-08-26T06:40:23",
+      "fetched_at": "2026-08-26T06:42:14",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 21,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "medical",
+        "pension"
+      ]
+    },
     {
       "id": "1998fc3c137e4dff23dbca0f",
       "title": "Guidance: Employing disabled people: Disability Confident and CIPD manager’s guide",
@@ -11556,28 +11582,6 @@
         "benefit",
         "benefits",
         "pension"
-      ]
-    },
-    {
-      "id": "72ba38d63fc54051fe95bd0d",
-      "title": "Soft Drinks Industry Levy credit for lost or destroyed drinks (notice 4)",
-      "link": "https://www.gov.uk/guidance/soft-drinks-industry-levy-credit-for-lost-or-destroyed-drinks-notice-4",
-      "summary": "Find out if you can claim a Soft Drinks Industry Levy credit for lost or destroyed drinks, and what evidence you need to get and keep.",
-      "published_at": "2026-07-29T08:52:56",
-      "fetched_at": "2026-07-29T14:04:06",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
       ]
     }
   ]
