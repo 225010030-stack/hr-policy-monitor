@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-08-26T12:45:31",
+  "synced_at": "2026-08-26T19:44:03",
   "total": 500,
-  "new_count": 19,
+  "new_count": 2,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
       "fetched": 30,
-      "added": 5,
+      "added": 1,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 9,
+      "added": 0,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 5,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,31 @@
     }
   ],
   "items": [
+    {
+      "id": "34356a69471c4abc217fa78d",
+      "title": "Accredited official statistics: Housing Benefit Debt Recoveries statistics: April 2025 to March 2026",
+      "link": "https://www.gov.uk/government/statistics/announcements/housing-benefit-debt-recoveries-statistics-april-2025-to-march-2026",
+      "summary": "Data on the amount of Housing Benefit that is overpaid to claimants, the overpayments recovered and amounts written off.",
+      "published_at": "2026-08-26T12:52:55",
+      "fetched_at": "2026-08-26T19:43:43",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
     {
       "id": "0385f66cc17a2f51732e191a",
       "title": "Accredited official statistics: Earnings and employment from Pay As You Earn Real Time Information, UK: January 2027",
@@ -11541,28 +11566,6 @@
       "link": "https://www.gov.uk/government/publications/data-element-23-documents-and-other-reference-codes-union-of-the-customs-declaration-service-cds",
       "summary": "Find the relevant document codes, document status codes and details to be declared such as licences and certificates (Appendix 5A).",
       "published_at": "2026-07-29T13:45:01",
-      "fetched_at": "2026-07-29T14:04:06",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "f3e83331df8916cb7c4c643b",
-      "title": "Part 5: Domestic and Non Domestic Borderline",
-      "link": "https://www.gov.uk/guidance/rating-manual-section-2-maintaining-the-rating-list/part-5-domestic-and-non-domestic-borderline",
-      "summary": "The Valuation Office's technical manual for the rating of business (non-domestic) property.",
-      "published_at": "2026-07-29T12:34:26",
       "fetched_at": "2026-07-29T14:04:06",
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
