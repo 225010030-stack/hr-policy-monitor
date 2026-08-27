@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-08-26T19:44:03",
+  "synced_at": "2026-08-27T07:13:42",
   "total": 500,
   "new_count": 2,
   "source_stats": [
@@ -40,6 +40,32 @@
     }
   ],
   "items": [
+    {
+      "id": "e81b255426fe4104fc2cca27",
+      "title": "Government's Jobs Guarantee turns promise into paycheques for young people",
+      "link": "https://www.gov.uk/government/news/governments-jobs-guarantee-turns-promise-into-paycheques-for-young-people",
+      "summary": "The first young people supported by a new Government programme for the long-term unemployed have started their jobs.",
+      "published_at": "2026-08-26T21:30:03",
+      "fetched_at": "2026-08-27T07:13:22",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 22,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension",
+        "ei"
+      ]
+    },
     {
       "id": "34356a69471c4abc217fa78d",
       "title": "Accredited official statistics: Housing Benefit Debt Recoveries statistics: April 2025 to March 2026",
@@ -11558,28 +11584,6 @@
         "benefit",
         "benefits",
         "pension"
-      ]
-    },
-    {
-      "id": "cc11dbd4fb3715b2c18dabf1",
-      "title": "Guidance: Data Element 2/3: Documents and Other Reference Codes (Union) of the Customs Declaration Service (CDS)",
-      "link": "https://www.gov.uk/government/publications/data-element-23-documents-and-other-reference-codes-union-of-the-customs-declaration-service-cds",
-      "summary": "Find the relevant document codes, document status codes and details to be declared such as licences and certificates (Appendix 5A).",
-      "published_at": "2026-07-29T13:45:01",
-      "fetched_at": "2026-07-29T14:04:06",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
       ]
     }
   ]
