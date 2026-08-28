@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-08-28T12:38:47",
+  "synced_at": "2026-08-28T21:42:48",
   "total": 500,
-  "new_count": 4,
+  "new_count": 5,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 3,
+      "added": 5,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 1,
+      "added": 0,
       "error": null
     },
     {
@@ -40,6 +40,117 @@
     }
   ],
   "items": [
+    {
+      "id": "01df61946e898bfbf03384c9",
+      "title": "Sign up for the Trader Support Service",
+      "link": "https://www.gov.uk/guidance/trader-support-service",
+      "summary": "If you move goods in or out of Northern Ireland the Trader Support Service will guide you through any changes due to the implementation of the Windsor Framework.",
+      "published_at": "2026-08-28T14:48:51",
+      "fetched_at": "2026-08-28T21:42:27",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "729f0737d710c8c1f38bbecd",
+      "title": "Check which packaging is subject to Plastic Packaging Tax",
+      "link": "https://www.gov.uk/guidance/work-out-which-packaging-is-subject-to-plastic-packaging-tax",
+      "summary": "Check what classifies as plastic, recycled plastic and packaging components, and if the packaging you manufacture or import is subject to the tax.",
+      "published_at": "2026-08-28T13:48:03",
+      "fetched_at": "2026-08-28T21:42:27",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "f6c64d4f30c47965a045a11c",
+      "title": "Preparing to use a mass balance approach for Plastic Packaging Tax",
+      "link": "https://www.gov.uk/guidance/preparing-to-use-a-mass-balance-approach-for-plastic-packaging-tax",
+      "summary": "Find out how your business can get ready to use a mass balance approach to account for chemically recycled plastic for the Plastic Packaging Tax.",
+      "published_at": "2026-08-28T13:47:27",
+      "fetched_at": "2026-08-28T21:42:27",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "515d6e36721a33c5b0c9eb6d",
+      "title": "Guidance: Minimum certification requirements for a mass balance approach for Plastic Packaging Tax",
+      "link": "https://www.gov.uk/government/publications/minimum-certification-requirements-for-a-mass-balance-approach-for-plastic-packaging-tax",
+      "summary": "Find out about the minimum certification requirements when using a mass balance approach for chemically recycled plastic from 1 April 2027.",
+      "published_at": "2026-08-28T13:45:03",
+      "fetched_at": "2026-08-28T21:42:27",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "ad4b2407e234b0ea050a977b",
+      "title": "Check if an email you've received from HMRC is genuine",
+      "link": "https://www.gov.uk/guidance/check-if-an-email-youve-received-from-hmrc-is-genuine",
+      "summary": "Check a list of recent emails from HMRC to help you decide if the email you've received is a scam.",
+      "published_at": "2026-08-28T13:21:52",
+      "fetched_at": "2026-08-28T21:42:27",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
     {
       "id": "1cb2975cb10aae39462936a4",
       "title": "Jobs Guarantee turns promise into paycheques for young people in Wales",
@@ -11490,129 +11601,6 @@
       "score": 6,
       "matched_keywords": [
         "payroll"
-      ]
-    },
-    {
-      "id": "23d0dc5263d83d226c593e06",
-      "title": "Transparency data: Policies and procedures relating to DWP official statistics",
-      "link": "https://www.gov.uk/government/publications/policies-and-procedures-relating-to-dwp-official-statistics",
-      "summary": "The Department for Work and Pension's (DWP) policies and procedures for producing official statistics and complying with the Code of Practice for Statistics.",
-      "published_at": "2026-07-31T09:48:35",
-      "fetched_at": "2026-07-31T13:58:39",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "cee3e37ac528b7a30e4c6a39",
-      "title": "Guidance: Pensions and insurance tracing and Bulk Letter Forwarding service",
-      "link": "https://www.gov.uk/government/publications/pensions-and-insurance-tracing-and-letter-forwarding-service",
-      "summary": "DWP can send information from pension, insurance companies and solicitors to customers using the tracing and letter forwarding service.",
-      "published_at": "2026-07-31T09:41:14",
-      "fetched_at": "2026-07-31T13:58:39",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "aacabc8edcc906aff14caa13",
-      "title": "Get started with the recruitment APIs as an employer",
-      "link": "https://www.gov.uk/guidance/get-started-with-the-recruitment-apis-as-an-employer",
-      "summary": "How employers can access recruitment APIs and API keys using their apprenticeship service account.",
-      "published_at": "2026-07-31T09:37:34",
-      "fetched_at": "2026-07-31T13:58:39",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 22,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension",
-        "ei"
-      ]
-    },
-    {
-      "id": "59d91e5ab741c8e7b08b56f6",
-      "title": "Moving licensed goods into or out of Northern Ireland",
-      "link": "https://www.gov.uk/guidance/moving-licensed-goods-into-or-out-of-northern-ireland",
-      "summary": "Find out what you need to do if you move licensed goods into or out of Northern Ireland, including by import, export or transit.",
-      "published_at": "2026-07-31T09:27:28",
-      "fetched_at": "2026-07-31T13:58:39",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "fc464bcadd812e7ac9256825",
-      "title": "Guidance: Supporting learners with learning difficulties and disabilities in apprenticeships or apprenticeship units",
-      "link": "https://www.gov.uk/government/publications/support-for-learners-undertaking-an-apprenticeship-or-an-apprenticeship-unit-with-learning-difficulties-and-disabilities",
-      "summary": "How providers can make reasonable adjustments, get funding and offer flexibilities for learners with learning difficulties and disabilities.",
-      "published_at": "2026-07-31T09:08:20",
-      "fetched_at": "2026-07-31T13:58:39",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
       ]
     }
   ]
