@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-08-27T21:43:22",
+  "synced_at": "2026-08-28T09:26:08",
   "total": 500,
-  "new_count": 19,
+  "new_count": 13,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 8,
+      "added": 9,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 10,
+      "added": 3,
       "error": null
     },
     {
@@ -40,6 +40,282 @@
     }
   ],
   "items": [
+    {
+      "id": "bebd89f8f0f3b1c2ba70e274",
+      "title": "Check if your goods have been subject to a qualifying carbon pricing scheme",
+      "link": "https://www.gov.uk/guidance/check-if-your-goods-have-been-subject-to-a-qualifying-carbon-pricing-scheme",
+      "summary": "Find out if embodied emissions in your Carbon Border Adjustment Mechanism (CBAM) goods have been subject to a qualifying carbon pricing scheme.",
+      "published_at": "2026-08-28T08:48:21",
+      "fetched_at": "2026-08-28T09:25:48",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "ff5b8b83c895172a6e0f3df6",
+      "title": "Accredited official statistics: Air Passenger Duty Bulletin",
+      "link": "https://www.gov.uk/government/statistics/air-passenger-duty-bulletin",
+      "summary": "Annual statistics and analysis on airline passenger numbers and Air Passenger Duty (APD) receipts in the UK which are administered by HM Revenue and Customs.",
+      "published_at": "2026-08-28T08:30:01",
+      "fetched_at": "2026-08-28T09:25:48",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "c89f9dd18106d1beff129869",
+      "title": "Decision: CIL Appeal 1891221  —  14 July 26  —  Redevelopment of 24 units",
+      "link": "https://www.gov.uk/government/publications/cil-appeal-1891221-14-july-26-redevelopment-of-24-units",
+      "summary": "Demolition and redevelopment of site to provide a building ranging from 2 to 5 storeys in height, comprising 24 self-contained residential units (Class C3).",
+      "published_at": "2026-08-28T08:30:01",
+      "fetched_at": "2026-08-28T09:25:48",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "e7486c765fac2fa6fdd88052",
+      "title": "Transparency data: DWP: prompt payment data 1 April 2026 to 31 March 2027",
+      "link": "https://www.gov.uk/government/publications/dwp-prompt-payment-data-1-april-2026-to-31-march-2027",
+      "summary": "How long the Department of Work and Pensions (DWP) takes to pay invoices.",
+      "published_at": "2026-08-28T08:30:01",
+      "fetched_at": "2026-08-28T09:25:48",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "46e1cc49a4efd7e7a5d6e764",
+      "title": "Official Statistics: Property rental income statistics",
+      "link": "https://www.gov.uk/government/statistics/property-rental-income-statistics",
+      "summary": "These statistics provide information about unincorporated landlords that file Income Tax Self Assessment returns, their property income, and related expenses.",
+      "published_at": "2026-08-28T08:30:00",
+      "fetched_at": "2026-08-28T09:25:48",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "86e9decd99121fc7df2cc978",
+      "title": "Accredited official statistics: Monthly property transactions completed in the UK with value of £40,000 or above",
+      "link": "https://www.gov.uk/government/statistics/monthly-property-transactions-completed-in-the-uk-with-value-40000-or-above",
+      "summary": "This series looks at monthly property transactions completed in the UK with value of £40,000 or above.",
+      "published_at": "2026-08-28T08:30:00",
+      "fetched_at": "2026-08-28T09:25:48",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "8546c96db4dd1da8d50b23b1",
+      "title": "Official Statistics: Schedule of updates and announcements for HMRC's statistics",
+      "link": "https://www.gov.uk/government/statistics/schedule-of-updates-and-announcements-for-hmrcs-statistics",
+      "summary": "Publication plan for HMRC National and Official Statistics. Any changes to the schedule will be detailed in the announcements.",
+      "published_at": "2026-08-28T08:30:00",
+      "fetched_at": "2026-08-28T09:25:48",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "1ba00b6bb63fecaec2cf15fa",
+      "title": "Accredited official statistics: Tobacco Bulletin",
+      "link": "https://www.gov.uk/government/statistics/tobacco-bulletin",
+      "summary": "Monthly statistics on duty receipts and clearances for cigarettes and other tobacco products.",
+      "published_at": "2026-08-28T08:30:00",
+      "fetched_at": "2026-08-28T09:25:48",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "193a201b188757ef875d0818",
+      "title": "Official Statistics: Background information and quality report: property rental income statistics",
+      "link": "https://www.gov.uk/government/statistics/background-information-and-quality-report-property-rental-income-statistics",
+      "summary": "Background information and quality report for statistics relating to property rental income.",
+      "published_at": "2026-08-28T08:30:00",
+      "fetched_at": "2026-08-28T09:25:48",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "7cec064c8b4e55a0c7ff5d41",
+      "title": "Accredited official statistics: Alcohol Bulletin",
+      "link": "https://www.gov.uk/government/statistics/alcohol-bulletin",
+      "summary": "Quarterly statistics from the alcohol duty regime administered by HM Revenue and Customs.",
+      "published_at": "2026-08-28T08:30:00",
+      "fetched_at": "2026-08-28T09:25:48",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "6a1bc4f28677af46efca8fc9",
+      "title": "Guidance: Apprenticeship unit funding rules: 2026 to 2027",
+      "link": "https://www.gov.uk/government/publications/apprenticeship-unit-funding-rules-2026-to-2027",
+      "summary": "The rules for apprenticeship unit funding.",
+      "published_at": "2026-08-28T07:29:18",
+      "fetched_at": "2026-08-28T09:25:48",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "9bdb1baeddac52ff8b67155e",
+      "title": "Federal Independent Dispute Resolution Operations; Correction",
+      "link": "https://www.federalregister.gov/documents/2026/08/28/2026-17622/federal-independent-dispute-resolution-operations-correction",
+      "summary": "This document corrects typographical errors and omissions in the final rule that appeared in the June 4, 2026, Federal Register titled &quot;Federal Independent Dispute Resolution Operations&quot; (referred to hereafter as the &quot;IDR final rule&quot;). The effective date of the IDR final rule was August 3, 2026.",
+      "published_at": "2026-08-28T04:00:00",
+      "fetched_at": "2026-08-28T09:25:48",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
     {
       "id": "055a344def2b1fc60582edb7",
       "title": "Guidance: UK CBAM: Current qualifying carbon pricing schemes",
@@ -969,6 +1245,32 @@
       "summary": "The first young people supported by a new Government programme for the long-term unemployed have started their jobs.",
       "published_at": "2026-08-26T21:30:03",
       "fetched_at": "2026-08-27T07:13:22",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 22,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension",
+        "ei"
+      ]
+    },
+    {
+      "id": "efcc84fd607f253ad179cc34",
+      "title": "Government's Jobs Guarantee turns promise into paycheques for young people",
+      "link": "https://www.gov.uk/government/news/governments-jobs-guarantee-turns-promise-into-paycheques-for-young-people",
+      "summary": "The first young people supported by a new Government programme for the long-term unemployed have started their jobs.",
+      "published_at": "2026-08-26T21:30:00",
+      "fetched_at": "2026-08-28T09:25:48",
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "region": "UK",
@@ -11310,305 +11612,6 @@
       "matched_keywords": [
         "payroll",
         "ei"
-      ]
-    },
-    {
-      "id": "23e44fef46b7adbe8c524653",
-      "title": "Accredited official statistics: Monthly property transactions completed in the UK with value of £40,000 or above",
-      "link": "https://www.gov.uk/government/statistics/monthly-property-transactions-completed-in-the-uk-with-value-40000-or-above",
-      "summary": "This series looks at monthly property transactions completed in the UK with value of £40,000 or above.",
-      "published_at": "2026-07-31T08:30:05",
-      "fetched_at": "2026-07-31T08:45:24",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "86fa17fac74af62e35822a12",
-      "title": "Decision: CIL Appeal 1891560 — 6 July 26 — Replacing eighth-floor structure",
-      "link": "https://www.gov.uk/government/publications/cil-appeal-1891560-6-july-26-replacing-eighth-floor-structure",
-      "summary": "Replacement of an eighth-floor structure and extension. Use of part basement, ground and nine upper floors as student accommodation (Sui Generis) and two retail units (Class E) at ground level and external alterations.",
-      "published_at": "2026-07-31T08:30:05",
-      "fetched_at": "2026-07-31T08:45:24",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "609b150ad900fbf588d94f33",
-      "title": "Accredited official statistics: Insurance Premium Tax (IPT) Bulletin",
-      "link": "https://www.gov.uk/government/statistics/insurance-premium-tax-ipt-bulletin",
-      "summary": "Annual statistics on historical receipts and liabilities for all Insurance Premium Tax (IPT) rates administered by HM Revenue and Customs.",
-      "published_at": "2026-07-31T08:30:04",
-      "fetched_at": "2026-07-31T08:45:24",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 13,
-      "matched_keywords": [
-        "payroll",
-        "ei",
-        "premium"
-      ]
-    },
-    {
-      "id": "7b3b0dc2237d76f904414cf2",
-      "title": "Guidance: Recognised stock exchanges — designated countries",
-      "link": "https://www.gov.uk/government/publications/recognised-stock-exchanges-section-1005-income-tax-act-2007",
-      "summary": "Find out if a stock exchange is a recognised stock exchange for the purposes of section 1005 Income Tax Act 2007.",
-      "published_at": "2026-07-31T08:17:53",
-      "fetched_at": "2026-07-31T08:45:24",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "46d8aa2aef693cf0eb3c182c",
-      "title": "Capital Gains Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual",
-      "summary": "HMRC is reviewing the CG Manual to ensure it provides HMRC’s interpretation of relevant legislation where there is more than one reasonable view of how rules work.Where material in the CG Manual isn’t providing an interpretation, that material is being removed. Where appropriate, material will be reproduced elsewhere and linked from the CG Manual.",
-      "published_at": "2026-07-31T07:38:59",
-      "fetched_at": "2026-07-31T08:45:24",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "9d2271534821c0d2e3a364ec",
-      "title": "Guidance: Report Pillar 2 top-up taxes: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/report-pillar-2-top-up-taxes-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the Report Pillar 2 top-up taxes service.",
-      "published_at": "2026-07-31T07:21:32",
-      "fetched_at": "2026-07-31T08:45:24",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "0393cd403ff5c312b88d9150",
-      "title": "Venture Capital Schemes Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/venture-capital-schemes-manual",
-      "summary": "A definition of the different types of venture capital schemes and how they work",
-      "published_at": "2026-07-30T16:59:06",
-      "fetched_at": "2026-07-30T19:21:18",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "a3e8d3712aac2f48ee47aed0",
-      "title": "Oils Technical Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/oils-technical-manual",
-      "summary": "A general introduction into oils activity and the assurance role of HM Revenue & Customs",
-      "published_at": "2026-07-30T15:35:49",
-      "fetched_at": "2026-07-30T19:21:18",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "2e54c83029002065f063bbfc",
-      "title": "Policy paper: 30 July 2026: Connect to Work - Programme Business Case 2 Summary",
-      "link": "https://www.gov.uk/government/publications/30-july-2026-connect-to-work-programme-business-case-2-summary",
-      "summary": "Connect to Work is a major initiative in the government’s Get Britain Working strategy.",
-      "published_at": "2026-07-30T15:00:02",
-      "fetched_at": "2026-07-30T19:21:19",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "ecd141885cee55829f120df4",
-      "title": "Transparency data: DWP and CMG: spending over £500, June 2026",
-      "link": "https://www.gov.uk/government/publications/dwp-and-cmg-spending-over-500-june-2026",
-      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
-      "published_at": "2026-07-30T15:00:02",
-      "fetched_at": "2026-07-30T19:21:19",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "7e9ca138d99e04978a057331",
-      "title": "Transparency data: DWP accounting officer assessments for the Government Major Projects Portfolio",
-      "link": "https://www.gov.uk/government/publications/dwp-accounting-officer-assessments-for-the-government-major-projects-portfolio",
-      "summary": "Accounting officer assessment summaries for the Department for Work and Pensions' (DWP) programmes and projects in the Government Major Project Portfolio.",
-      "published_at": "2026-07-30T15:00:02",
-      "fetched_at": "2026-07-30T19:21:19",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "55c87e1ecec8f2ae85609429",
-      "title": "Policy paper: Revenue and Customs Brief 7 (2026): Changes to the VAT Capital Goods Scheme",
-      "link": "https://www.gov.uk/government/publications/revenue-and-customs-brief-7-2026-changes-to-the-vat-capital-goods-scheme",
-      "summary": "This brief explains the changes made to the items covered by the VAT Capital Goods Scheme.",
-      "published_at": "2026-07-30T14:29:00",
-      "fetched_at": "2026-07-30T19:21:18",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "219f9af3250c4fb604d1e979",
-      "title": "Sign in to your payment provider account for Tax-Free Childcare",
-      "link": "https://www.gov.uk/guidance/sign-in-to-your-payment-provider-account-for-tax-free-childcare",
-      "summary": "How to sign in and update your account details and nominate a delegate.",
-      "published_at": "2026-07-30T14:15:43",
-      "fetched_at": "2026-07-30T19:21:18",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
       ]
     }
   ]
