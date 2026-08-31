@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-08-31T07:44:50",
+  "synced_at": "2026-08-31T12:39:28",
   "total": 500,
-  "new_count": 0,
+  "new_count": 2,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -28,7 +28,7 @@
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 2,
       "error": null
     },
     {
@@ -40,6 +40,56 @@
     }
   ],
   "items": [
+    {
+      "id": "847fdcb0d9555151815e60f1",
+      "title": "Guidance: Personal Independence Payment (PIP) assessment guide for Assessment Providers",
+      "link": "https://www.gov.uk/government/publications/personal-independence-payment-assessment-guide-for-assessment-providers",
+      "summary": "Guidance for Health Professionals carrying out PIP assessment activity and for those responsible for the quality of PIP assessments.",
+      "published_at": "2026-08-31T08:30:05",
+      "fetched_at": "2026-08-31T12:39:08",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "467dc702c7bc9739cbdfdf92",
+      "title": "Guidance: Work Capability Assessment handbook: for healthcare professionals",
+      "link": "https://www.gov.uk/government/publications/work-capability-assessment-handbook-for-healthcare-professionals",
+      "summary": "This guidance is for healthcare professionals who undertake Work Capability Assessments on behalf of the Department for Work and Pensions.",
+      "published_at": "2026-08-31T08:30:05",
+      "fetched_at": "2026-08-31T12:39:08",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
     {
       "id": "bf04d744362e84e3b67899c7",
       "title": "Section 898(c) Transition Rule for Allocating Foreign Taxes and Section 960(d)(4) Foreign Tax Credit Disallowance; Correction",
@@ -11547,50 +11597,6 @@
       "link": "https://www.gov.uk/guidance/civil-penalties-for-contraventions-of-customs-law-customs-notice-301",
       "summary": "How HMRC calculates and notifies UK-based businesses about customs civil penalties for contraventions of EU and national legal requirements.",
       "published_at": "2026-07-31T11:22:13",
-      "fetched_at": "2026-07-31T13:58:39",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "a0b9f8bac8637b89b9985f34",
-      "title": "Accredited official statistics: UK overseas trade in goods statistics: June 2026",
-      "link": "https://www.gov.uk/government/statistics/announcements/uk-overseas-trade-in-goods-statistics-june-2026",
-      "summary": "This publication provides details of the overseas trade in goods statistics (OTS) of the UK. They are a comprehensive dataset covering the UK's trade in goods at country and product level. They provide both aggregated and detailed data for over 9,000 commodities and more than 200 partner countries.",
-      "published_at": "2026-07-31T11:18:03",
-      "fetched_at": "2026-07-31T13:58:39",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "23db6cc475036e384cc02977",
-      "title": "Double Taxation Relief Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/double-taxation-relief",
-      "summary": "The principles of double taxation relief and lists of all countries with which the UK has a double taxation agreement.",
-      "published_at": "2026-07-31T11:08:06",
       "fetched_at": "2026-07-31T13:58:39",
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
