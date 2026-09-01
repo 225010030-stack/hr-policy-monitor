@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-08-31T22:25:21",
+  "synced_at": "2026-09-01T03:30:31",
   "total": 500,
-  "new_count": 0,
+  "new_count": 2,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 2,
       "error": null
     },
     {
@@ -40,6 +40,52 @@
     }
   ],
   "items": [
+    {
+      "id": "3e4f92ae237c33820080f09e",
+      "title": "Rates and thresholds for employers 2026 to 2027",
+      "link": "https://www.gov.uk/guidance/rates-and-thresholds-for-employers-2026-to-2027",
+      "summary": "Use these rates and thresholds when you operate your payroll or provide expenses and benefits to your employees.",
+      "published_at": "2026-08-31T23:15:03",
+      "fetched_at": "2026-09-01T03:30:11",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 14,
+      "matched_keywords": [
+        "benefit",
+        "benefits",
+        "payroll"
+      ]
+    },
+    {
+      "id": "ea48c668ec577f413073e065",
+      "title": "Guidance: Transit newsletters — HMRC updates",
+      "link": "https://www.gov.uk/government/publications/community-common-transit-and-tir-newsletters",
+      "summary": "Check for the latest updates about moving goods using transit and the New Computerised Transit System (NCTS).",
+      "published_at": "2026-08-31T23:01:05",
+      "fetched_at": "2026-09-01T03:30:11",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "847fdcb0d9555151815e60f1",
       "title": "Guidance: Personal Independence Payment (PIP) assessment guide for Assessment Providers",
@@ -11566,51 +11612,6 @@
         "benefit",
         "benefits",
         "pension"
-      ]
-    },
-    {
-      "id": "46805aa58649fc76bf8bc31a",
-      "title": "VAT Assessments and Error Correction",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/vat-assessments-and-error-correction",
-      "summary": "Guidance on Assessments and error correction, including help with their issue, amendment and withdrawal. Note: Please see the guidance in CH160000 for the most up-to-date guidance on reasonable excuse.",
-      "published_at": "2026-07-31T11:58:16",
-      "fetched_at": "2026-07-31T13:58:39",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "298dbd97c5bec33a688d20db",
-      "title": "Civil penalties for contraventions of customs law (Customs Notice 301)",
-      "link": "https://www.gov.uk/guidance/civil-penalties-for-contraventions-of-customs-law-customs-notice-301",
-      "summary": "How HMRC calculates and notifies UK-based businesses about customs civil penalties for contraventions of EU and national legal requirements.",
-      "published_at": "2026-07-31T11:22:13",
-      "fetched_at": "2026-07-31T13:58:39",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
       ]
     }
   ]
