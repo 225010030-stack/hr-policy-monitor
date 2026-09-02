@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-09-01T20:31:18",
+  "synced_at": "2026-09-02T02:48:28",
   "total": 500,
-  "new_count": 0,
+  "new_count": 1,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,28 @@
     }
   ],
   "items": [
+    {
+      "id": "aeb5b03f517c2beebad0f08c",
+      "title": "Policy paper: Revenue and Customs Brief 9 (2026): VAT liability of supplies of education by alternative providers of higher and further education",
+      "link": "https://www.gov.uk/government/publications/revenue-and-customs-brief-9-2026-vat-liability-of-supplies-of-education-by-alternative-providers-of-higher-and-further-education",
+      "summary": "This brief updates HMRC’s position on the VAT treatment of supplies of education from alternative providers.",
+      "published_at": "2026-09-01T23:15:00",
+      "fetched_at": "2026-09-02T02:48:08",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "f3bddb64cdc1b0ae6e664db2",
       "title": "Transparency data: DWP: workforce management information July 2026",
@@ -11575,31 +11597,6 @@
       "title": "How to take on an apprentice",
       "link": "https://www.gov.uk/guidance/how-to-take-on-an-apprentice",
       "summary": "Information about employing an apprentice and how apprenticeship funding works.",
-      "published_at": "2026-07-31T23:01:03",
-      "fetched_at": "2026-08-01T02:32:37",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "6051b7b24dfe3dcf1c9e37e4",
-      "title": "How to register and use the apprenticeship service as an employer",
-      "link": "https://www.gov.uk/guidance/manage-apprenticeship-funds",
-      "summary": "Guidance on how to use the apprenticeship service to access funds to pay for apprenticeship training.",
       "published_at": "2026-07-31T23:01:03",
       "fetched_at": "2026-08-01T02:32:37",
       "source_id": "uk_dwp",
