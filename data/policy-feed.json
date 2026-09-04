@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-09-04T05:42:55",
+  "synced_at": "2026-09-04T10:34:00",
   "total": 500,
-  "new_count": 2,
+  "new_count": 6,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
       "fetched": 30,
-      "added": 2,
+      "added": 0,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 5,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,146 @@
     }
   ],
   "items": [
+    {
+      "id": "7c1c4c93ac0b108edca5da76",
+      "title": "What will happen if you do not pay your tax bill",
+      "link": "https://www.gov.uk/guidance/what-will-happen-if-you-do-not-pay-your-tax-bill",
+      "summary": "How HMRC uses debt enforcement powers, debt collection agencies and what happens if you live abroad when you do not pay your tax bill.",
+      "published_at": "2026-09-04T10:19:20",
+      "fetched_at": "2026-09-04T10:33:39",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "98470b4a9c517e87c5e27984",
+      "title": "Annex 1 — payrolling examples for different scenarios",
+      "link": "https://www.gov.uk/guidance/draft-guidance-and-legislation-to-aid-preparation-for-reporting-benefits-in-kind-in-real-time/annex-1-payrolling-examples-for-different-scenarios",
+      "summary": "Payrolling examples for different scenarios including mandated benefits such as medical benefits, cars and vans, and examples for voluntary payrolling of accommodation and loans where relevant.",
+      "published_at": "2026-09-04T09:55:31",
+      "fetched_at": "2026-09-04T10:33:39",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 17,
+      "matched_keywords": [
+        "benefit",
+        "benefits",
+        "medical",
+        "payroll"
+      ]
+    },
+    {
+      "id": "8d810d6f8bc3dc5e81c1f739",
+      "title": "Mandatory payrolling of benefits in kind and expenses – interim guidance and legislation",
+      "link": "https://www.gov.uk/guidance/draft-guidance-and-legislation-to-aid-preparation-for-reporting-benefits-in-kind-in-real-time",
+      "summary": "Draft interim guidance and legislation to aid preparation for reporting benefits in kind (BiKs) and expenses in real time, through payroll software, from April 2027.",
+      "published_at": "2026-09-04T09:55:31",
+      "fetched_at": "2026-09-04T10:33:39",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 14,
+      "matched_keywords": [
+        "benefit",
+        "benefits",
+        "payroll"
+      ]
+    },
+    {
+      "id": "64a769269b022b04211caef3",
+      "title": "Guidance: Soft Drinks Industry Levy: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/soft-drinks-industry-levy-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the Soft Drinks Industry Levy online service.",
+      "published_at": "2026-09-04T09:53:23",
+      "fetched_at": "2026-09-04T10:33:39",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "99027acfd6b26899ade7346d",
+      "title": "HMRC email updates, videos and webinars for tax agents and advisers",
+      "link": "https://www.gov.uk/guidance/help-and-support-for-agents",
+      "summary": "Learn more about the support available to tax agents and advisers which will help you and your clients.",
+      "published_at": "2026-09-04T08:37:35",
+      "fetched_at": "2026-09-04T10:33:39",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "af01ccea2727d399f946ca9a",
+      "title": "Guidance: Flexi-job apprenticeships using an approved agency",
+      "link": "https://www.gov.uk/government/publications/flexi-job-apprenticeships",
+      "summary": "Information about flexi-job apprenticeships using approved agencies, in occupations that often use short-term contracts or other non-standard employment models.",
+      "published_at": "2026-09-04T08:30:02",
+      "fetched_at": "2026-09-04T10:33:40",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
     {
       "id": "fb1f9a48680f32e6543a8101",
       "title": "Racial Nondiscrimination in Private Schools",
@@ -11434,151 +11574,6 @@
       "matched_keywords": [
         "payroll",
         "ei"
-      ]
-    },
-    {
-      "id": "7837602a5850c62c4bd7ef4a",
-      "title": "Official Statistics: Property rental income statistics: 2026",
-      "link": "https://www.gov.uk/government/statistics/announcements/property-rental-income-statistics-2026",
-      "summary": "This release provides statistics on income and expenses from renting property declared by taxpayers in HMRC’s Income Tax Self-Assessment (ITSA) returns data only. Statistics are provided for 5 tax years from 2020 to 2021 up until 2024 to 2025. Incorporated businesses with property income do not file ITSA returns and as such are not included in this release. The publication also does not contain information on tenants of rented property, or on income received from buying and selling properties.",
-      "published_at": "2026-08-04T16:09:44",
-      "fetched_at": "2026-08-04T19:27:48",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "efea9d9029dfe94b1d727a63",
-      "title": "Research: Our Children, Our Future: Tackling Child Poverty - Monitoring and Evaluation baseline report",
-      "link": "https://www.gov.uk/government/publications/our-children-our-future-tackling-child-poverty-monitoring-and-evaluation-baseline-report",
-      "summary": "First annual monitoring and evaluation report of the ‘Our Children, Our Future: Tackling Child Poverty’ UK-wide Child Poverty Strategy 2025.",
-      "published_at": "2026-08-04T15:08:44",
-      "fetched_at": "2026-08-04T19:27:49",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "b1cea891123be42380693b32",
-      "title": "Guidance: Housing Benefit adjudication circulars 2026",
-      "link": "https://www.gov.uk/government/publications/housing-benefit-adjudication-circulars-2026",
-      "summary": "Adjudication circulars provide updates to the Housing Benefit guidance manual for local authority staff.",
-      "published_at": "2026-08-04T15:05:59",
-      "fetched_at": "2026-08-04T19:27:49",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "593ff951ea11f87445db68b8",
-      "title": "Research: Skills England annual skills report and Sectoral Skills Needs Assessments 2026",
-      "link": "https://www.gov.uk/government/publications/skills-england-annual-skills-report-and-sectoral-skills-needs-assessments-2026",
-      "summary": "The 2026 annual skills report highlights key challenges in the skills system. Our Skills Needs Assessments outline skills demand and supply in priority sectors.",
-      "published_at": "2026-08-04T14:16:41",
-      "fetched_at": "2026-08-04T19:27:49",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "0217bde49b25f5c8de4795c1",
-      "title": "Guidance: Universal Credit if you have a disability or health condition",
-      "link": "https://www.gov.uk/government/publications/universal-credit-if-you-have-a-disability-or-health-condition-quick-guide",
-      "summary": "The support that is available for Universal Credit claimants who have a disability or health condition.",
-      "published_at": "2026-08-04T14:15:55",
-      "fetched_at": "2026-08-04T19:27:49",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "afe8b7dc0d98c6e9d3342bae",
-      "title": "VAT Construction",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/vat-construction",
-      "summary": "Guidance providing additional information on the treatment of buildings and construction as far as the zero and reduced rates of VAT are concerned.",
-      "published_at": "2026-08-04T14:05:59",
-      "fetched_at": "2026-08-04T19:27:48",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
       ]
     }
   ]
