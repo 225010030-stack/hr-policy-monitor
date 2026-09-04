@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-09-03T20:28:51",
+  "synced_at": "2026-09-04T02:51:46",
   "total": 500,
-  "new_count": 3,
+  "new_count": 1,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 3,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,29 @@
     }
   ],
   "items": [
+    {
+      "id": "faaba50690ff771f413b3eb1",
+      "title": "Guidance: Compliance checks: alternative dispute resolution — CC/FS21",
+      "link": "https://www.gov.uk/government/publications/compliance-checks-alternative-dispute-resolution-ccfs21",
+      "summary": "This factsheet is about disputes during compliance checks.",
+      "published_at": "2026-09-03T23:30:00",
+      "fetched_at": "2026-09-04T02:51:25",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 9,
+      "matched_keywords": [
+        "payroll",
+        "compliance"
+      ]
+    },
     {
       "id": "e3f5d4b97b6814783232d02f",
       "title": "Accredited official statistics: UK regional trade in goods statistics, second quarter, April to June 2026",
@@ -11552,28 +11575,6 @@
       "matched_keywords": [
         "payroll",
         "ei"
-      ]
-    },
-    {
-      "id": "f4aa6ab1b20ac292808824b6",
-      "title": "Guidance: Data Element 2/3: Documents and Other Reference Codes (Union) of the Customs Declaration Service (CDS)",
-      "link": "https://www.gov.uk/government/publications/data-element-23-documents-and-other-reference-codes-union-of-the-customs-declaration-service-cds",
-      "summary": "Find the relevant document codes, document status codes and details to be declared such as licences and certificates (Appendix 5A).",
-      "published_at": "2026-08-04T12:57:41",
-      "fetched_at": "2026-08-04T14:04:24",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
       ]
     }
   ]
