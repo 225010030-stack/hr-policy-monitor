@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-09-08T15:57:40",
+  "synced_at": "2026-09-08T20:42:15",
   "total": 500,
-  "new_count": 15,
+  "new_count": 3,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 14,
+      "added": 3,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 1,
+      "added": 0,
       "error": null
     },
     {
@@ -40,6 +40,72 @@
     }
   ],
   "items": [
+    {
+      "id": "3e988b64035f397b03678915",
+      "title": "Policy paper: Revenue and Customs Brief 10 (2026): Temporary zero rate of VAT for domestic electricity in Great Britain",
+      "link": "https://www.gov.uk/government/publications/revenue-and-customs-brief-10-2026-temporary-zero-rate-of-vat-for-domestic-electricity-in-great-britain",
+      "summary": "This brief provides an update on the temporary zero rate of VAT for qualifying supplies of electricity in Great Britain (England, Wales and Scotland).",
+      "published_at": "2026-09-08T16:00:05",
+      "fetched_at": "2026-09-08T20:41:54",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "7f97604f7deeead20425d66d",
+      "title": "Policy paper: Temporary zero rate of VAT for domestic electricity in Great Britain",
+      "link": "https://www.gov.uk/government/publications/temporary-zero-rate-of-vat-for-domestic-electricity-in-great-britain",
+      "summary": "This tax information and impact note is about a temporary zero rate of VAT for qualifying supplies of electricity in Great Britain.",
+      "published_at": "2026-09-08T16:00:05",
+      "fetched_at": "2026-09-08T20:41:54",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "8c1d77a13288e7e254e53c83",
+      "title": "Fuel and power (VAT Notice 701/19)",
+      "link": "https://www.gov.uk/guidance/vat-on-fuel-and-power-notice-70119",
+      "summary": "Find out what VAT should be charged on supplies of fuel and power if you're a supplier or a user.",
+      "published_at": "2026-09-08T16:00:05",
+      "fetched_at": "2026-09-08T20:41:54",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "a2f67ed477bac2d2acf80ec4",
       "title": "Refunds of UK VAT for non-UK businesses (VAT Notice 723A)",
@@ -11483,79 +11549,6 @@
       "score": 6,
       "matched_keywords": [
         "payroll"
-      ]
-    },
-    {
-      "id": "34c95ca6d0054bfd0268a69a",
-      "title": "Apply for a refund of Class 1 National Insurance contributions",
-      "link": "https://www.gov.uk/guidance/apply-for-refund-of-class-1-national-insurance-contributions",
-      "summary": "If HMRC has sent you a letter telling you that you may be due a refund of Class 1 National Insurance, check how to apply.",
-      "published_at": "2026-08-10T07:53:35",
-      "fetched_at": "2026-08-10T13:00:48",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "c7658b07072c6c4d0b2af2e4",
-      "title": "Official Statistics: Health Assessment Statistics: PIP and WCA to July 2026",
-      "link": "https://www.gov.uk/government/statistics/announcements/health-assessment-statistics-pip-and-wca-to-july-2026",
-      "summary": "Official statistics in development on Personal Independence Payment (PIP) and Work Capability Assessments (WCA) assessment volumes and channels in Great Britain from January 2021 to July 2026.",
-      "published_at": "2026-08-10T06:40:42",
-      "fetched_at": "2026-08-10T07:26:52",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "9857f390edf6246a15b45213",
-      "title": "Backup Withholding on Third Party Network Transactions",
-      "link": "https://www.federalregister.gov/documents/2026/08/10/2026-16269/backup-withholding-on-third-party-network-transactions",
-      "summary": "This document contains final regulations governing backup withholding on reportable payments with respect to third party network transactions. The final regulations reflect recent changes to the statutory law that affect the backup withholding requirements for third party settlement organizations who make payments in settlement of third party network transactions.",
-      "published_at": "2026-08-10T04:00:00",
-      "fetched_at": "2026-08-08T12:41:10",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 17,
-      "matched_keywords": [
-        "payroll",
-        "withholding",
-        "regulation",
-        "statutory"
       ]
     }
   ]
