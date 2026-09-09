@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-09-09T15:53:39",
+  "synced_at": "2026-09-09T20:23:24",
   "total": 500,
-  "new_count": 17,
+  "new_count": 2,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 13,
+      "added": 1,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 4,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,53 @@
     }
   ],
   "items": [
+    {
+      "id": "517b4010197a1a3db69f43cd",
+      "title": "Correspondence: The Timms Review: co-chair update, September 2026",
+      "link": "https://www.gov.uk/government/publications/the-timms-review-co-chair-update-september-2026",
+      "summary": "This document sets out an update on the progress of the Timms Review of Personal Independence Payment (PIP), from the Review's co-chairs.",
+      "published_at": "2026-09-09T20:00:00",
+      "fetched_at": "2026-09-09T20:23:04",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "1f91f39de918a94135fdc85f",
+      "title": "Self Assessment Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual",
+      "summary": "This manual contains guidance and processes for Self Assessment (SA)",
+      "published_at": "2026-09-09T16:06:57",
+      "fetched_at": "2026-09-09T20:23:03",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "f0012e962131b90f5b93daf8",
       "title": "Transparency data: DWP and CMG: spending over £500, July and August 2026",
@@ -11504,53 +11551,6 @@
       "score": 6,
       "matched_keywords": [
         "payroll"
-      ]
-    },
-    {
-      "id": "b6e0f8c2a4b59f76296d8985",
-      "title": "Guidance: Employers PAYE payment plan: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/employers-paye-payment-plan-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the Employers PAYE payment plan service.",
-      "published_at": "2026-08-12T07:23:07",
-      "fetched_at": "2026-08-12T13:01:49",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "aad5b3753bb4f77212511d9e",
-      "title": "Agency Information Collection Activities: Comment Request on the Burden Related to Foreign Status and U.S. Withholding Certifications",
-      "link": "https://www.federalregister.gov/documents/2026/08/12/2026-16405/agency-information-collection-activities-comment-request-on-the-burden-related-to-foreign-status-and",
-      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
-      "published_at": "2026-08-12T04:00:00",
-      "fetched_at": "2026-08-12T07:19:49",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 15,
-      "matched_keywords": [
-        "payroll",
-        "withholding",
-        "ei"
       ]
     }
   ]
