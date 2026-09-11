@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-09-11T10:35:01",
+  "synced_at": "2026-09-11T15:50:37",
   "total": 500,
   "new_count": 10,
   "source_stats": [
@@ -7,7 +7,7 @@
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
       "fetched": 30,
-      "added": 2,
+      "added": 0,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 6,
+      "added": 7,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 2,
+      "added": 3,
       "error": null
     },
     {
@@ -40,6 +40,212 @@
     }
   ],
   "items": [
+    {
+      "id": "5739afdb63c6bdb0e451427e",
+      "title": "Check genuine HMRC contact that uses more than one communication method",
+      "link": "https://www.gov.uk/guidance/check-genuine-hmrc-contact-that-uses-more-than-one-communication-method",
+      "summary": "Check recent contacts from HMRC to help you decide if a suspicious email, phone call, text or letter could be a scam.",
+      "published_at": "2026-09-11T14:17:46",
+      "fetched_at": "2026-09-11T15:50:16",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "36ce27cab625a49a78be3433",
+      "title": "Customs Declaration Service: service availability and issues",
+      "link": "https://www.gov.uk/guidance/customs-declaration-service-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the Customs Declaration Service.",
+      "published_at": "2026-09-11T13:57:22",
+      "fetched_at": "2026-09-11T15:50:16",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "cc19a31ec19c0418f0d307f7",
+      "title": "Guidance: Filing your Company Tax Return online",
+      "link": "https://www.gov.uk/government/publications/corporation-tax-commercial-software-suppliers",
+      "summary": "Find recognised commercial software suppliers and software you can use to file your Company Tax Return and any supplementary pages online.",
+      "published_at": "2026-09-11T13:07:03",
+      "fetched_at": "2026-09-11T15:50:16",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "7b1b4433fb10124f80a9886f",
+      "title": "Correspondence: The Timms Review: co-chair update, September 2026",
+      "link": "https://www.gov.uk/government/publications/the-timms-review-co-chair-update-september-2026",
+      "summary": "This document sets out an update on the progress of the Timms Review of Personal Independence Payment (PIP), from the Review's co-chairs.",
+      "published_at": "2026-09-11T12:55:58",
+      "fetched_at": "2026-09-11T15:50:17",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "18017cc607d7feef57e91312",
+      "title": "Alternative Dispute Resolution Guidance",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/alternative-dispute-resolution-guidance",
+      "summary": "Guidance on the process of Alternative Dispute Resolution, which is when an impartial HMRC mediator assists in resolving a tax dispute outside of the Tribunal or Court.",
+      "published_at": "2026-09-11T12:49:15",
+      "fetched_at": "2026-09-11T15:50:16",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "7282671f7a16289daf00591d",
+      "title": "Accredited official statistics: Annual DWP Benefits Statistics Compendium",
+      "link": "https://www.gov.uk/government/statistics/announcements/dwp-benefits-statistics-august-2026",
+      "summary": "Routine Publication of DWP Official Statistics",
+      "published_at": "2026-09-11T12:05:06",
+      "fetched_at": "2026-09-11T15:50:17",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "90f84b70bd184a83a66ffdf3",
+      "title": "Guidance: External temporary storage facilities codes for Data Element 5/23 of the Customs Declaration Service",
+      "link": "https://www.gov.uk/government/publications/external-temporary-storage-facilities-codes-for-data-element-523-of-the-customs-declaration-service",
+      "summary": "Find the codes which can be used in Data Element 5/23 to identify the location where the goods may be examined for an external temporary storage facility (ETSF) (Appendix 16F).",
+      "published_at": "2026-09-11T11:40:03",
+      "fetched_at": "2026-09-11T15:50:16",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "3071ce66efd4dbe2c2da5bd3",
+      "title": "Employment Income Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/employment-income-manual",
+      "summary": "A guide to the Income Tax (Earnings and Pensions) Act 2003.",
+      "published_at": "2026-09-11T11:09:38",
+      "fetched_at": "2026-09-11T15:50:16",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "pension",
+        "payroll"
+      ]
+    },
+    {
+      "id": "eb330efa9681adf7779e0951",
+      "title": "Accredited official statistics: Corporation Tax Statistics 2026",
+      "link": "https://www.gov.uk/government/statistics/announcements/corporation-tax-statistics-2026",
+      "summary": "Analyses of Corporation Tax receipts and liabilities.",
+      "published_at": "2026-09-11T11:08:39",
+      "fetched_at": "2026-09-11T15:50:16",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
     {
       "id": "dbc5ea71f70b94c890ee7d99",
       "title": "Guidance: PAYE draft forms: P45",
@@ -766,6 +972,31 @@
       "summary": "Quarterly official statistics on Connect to Work. This release includes data covering the period from April 2025 to June 2026.",
       "published_at": "2026-09-10T08:30:04",
       "fetched_at": "2026-09-10T10:34:26",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "12002f51690e3f6f39773aa1",
+      "title": "Official Statistics: Connect to Work to June 2026",
+      "link": "https://www.gov.uk/government/statistics/connect-to-work-to-june-2026",
+      "summary": "Quarterly official statistics on Connect to Work. This release includes data covering the period from April 2025 to June 2026.",
+      "published_at": "2026-09-10T08:30:00",
+      "fetched_at": "2026-09-11T15:50:17",
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "region": "UK",
@@ -11355,227 +11586,6 @@
         "benefit",
         "benefits",
         "pension"
-      ]
-    },
-    {
-      "id": "9438417fe95af6cb91109a55",
-      "title": "Guidance: Making Tax Digital for Income Tax: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/use-software-to-send-income-tax-updates-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the Making Tax Digital for Income Tax service.",
-      "published_at": "2026-08-13T12:39:12",
-      "fetched_at": "2026-08-13T13:03:03",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "98fb82616e4b9fd74e6e4985",
-      "title": "Sign up your client for Making Tax Digital for Income Tax",
-      "link": "https://www.gov.uk/guidance/sign-up-your-client-for-making-tax-digital-for-income-tax",
-      "summary": "If you're an agent, use the online service to sign up your client for Making Tax Digital for Income Tax.",
-      "published_at": "2026-08-13T12:39:06",
-      "fetched_at": "2026-08-13T13:03:03",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "853964cb4de2a4e21a929f9a",
-      "title": "Sign up for Making Tax Digital for Income Tax",
-      "link": "https://www.gov.uk/guidance/sign-up-for-making-tax-digital-for-income-tax",
-      "summary": "If you're a sole trader or landlord, use the online service to sign up for Making Tax Digital for Income Tax.",
-      "published_at": "2026-08-13T12:39:00",
-      "fetched_at": "2026-08-13T13:03:03",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "217289aa178a8def3d2a09fd",
-      "title": "Part 1: practice note 1 2026 — rental adjustment",
-      "link": "https://www.gov.uk/guidance/rating-manual-section-4-valuation-methods/part-1-practice-note-1-2026-rental-adjustment",
-      "summary": "The Valuation Office's technical manual for the rating of business (non-domestic) property.",
-      "published_at": "2026-08-13T12:37:44",
-      "fetched_at": "2026-08-13T13:03:03",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "aec0a609b0d27625174e07cf",
-      "title": "Part 3: Practice note 2026 — the contractor's basis: age and obsolescence allowances",
-      "link": "https://www.gov.uk/guidance/rating-manual-section-4-valuation-methods/part-3-practice-note-2026-the-contractor-s-basis-age-and-obsolescence-allowances",
-      "summary": "This publication is intended for Valuation Officers. It may contain links to internal resources that are not available through this version.",
-      "published_at": "2026-08-13T12:37:44",
-      "fetched_at": "2026-08-13T13:03:03",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "aa6fbb0063cb0851d6ab9eeb",
-      "title": "Rating Manual section 4: valuation methods",
-      "link": "https://www.gov.uk/guidance/rating-manual-section-4-valuation-methods",
-      "summary": "The Valuation Office Agency's (VOA) technical manual for the rating of business (non-domestic) property.",
-      "published_at": "2026-08-13T12:37:44",
-      "fetched_at": "2026-08-13T13:03:03",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "5ed1804ca8d87430e339c187",
-      "title": "Disagree with a revenue correction notice",
-      "link": "https://www.gov.uk/guidance/disagree-with-a-revenue-correction-notice",
-      "summary": "Find out what to do if you disagree with a correction HMRC has made to your tax return.",
-      "published_at": "2026-08-13T12:31:46",
-      "fetched_at": "2026-08-13T13:03:03",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "7a609d3bfce461f0da6862f6",
-      "title": "Mandatory Tax Adviser Registration",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/mandatory-tax-adviser-registration",
-      "summary": "A guide on the requirements and conditions to mandatory tax adviser registration.",
-      "published_at": "2026-08-13T12:18:53",
-      "fetched_at": "2026-08-13T13:03:03",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "6cda19169ebb0ff6a2b54ad9",
-      "title": "Capital Gains Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual",
-      "summary": "HMRC is reviewing the CG Manual to ensure it provides HMRC’s interpretation of relevant legislation where there is more than one reasonable view of how rules work.Where material in the CG Manual isn’t providing an interpretation, that material is being removed. Where appropriate, material will be reproduced elsewhere and linked from the CG Manual.",
-      "published_at": "2026-08-13T11:40:13",
-      "fetched_at": "2026-08-13T13:03:03",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "b78b8e0415b5b3df44c1775a",
-      "title": "Corporate report: HMRC performance update: April to June 2026",
-      "link": "https://www.gov.uk/government/publications/hmrc-performance-update-april-to-june-2026",
-      "summary": "Details of HMRC's performance against the department's strategic objectives for quarter 1 of financial year 2026 to 2027.",
-      "published_at": "2026-08-13T11:20:23",
-      "fetched_at": "2026-08-13T13:03:03",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
       ]
     }
   ]
