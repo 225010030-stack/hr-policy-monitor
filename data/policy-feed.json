@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-09-14T11:45:31",
+  "synced_at": "2026-09-14T17:39:27",
   "total": 500,
-  "new_count": 4,
+  "new_count": 7,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 4,
+      "added": 6,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,165 @@
     }
   ],
   "items": [
+    {
+      "id": "8744cb946bfb30cb2320c790",
+      "title": "Check if a business is registered for money laundering supervision",
+      "link": "https://www.gov.uk/guidance/money-laundering-regulations-supervised-business-register",
+      "summary": "Find out if a business has registered with HMRC under the money laundering regulations and report them if they have not.",
+      "published_at": "2026-09-14T14:35:53",
+      "fetched_at": "2026-09-14T17:39:07",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 9,
+      "matched_keywords": [
+        "payroll",
+        "regulation"
+      ]
+    },
+    {
+      "id": "1c2ac62d00fe1e353ef8eb35",
+      "title": "Withdraw funds from your Customs Declaration Service cash account",
+      "link": "https://www.gov.uk/guidance/withdraw-funds-from-your-cash-account-for-cds-declarations",
+      "summary": "Make a request to withdraw funds from your cash account.",
+      "published_at": "2026-09-14T14:17:07",
+      "fetched_at": "2026-09-14T17:39:07",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "447de4e427f5a85cc40cba9e",
+      "title": "Guidance: Adult skills fund: funding rules",
+      "link": "https://www.gov.uk/government/publications/adult-skills-fund-funding-rules",
+      "summary": "Sets out the rules that apply to Department for Work and Pensions (DWP) funded adult skills fund (ASF) provision for the funding year.",
+      "published_at": "2026-09-14T13:12:21",
+      "fetched_at": "2026-09-14T17:39:07",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "26429a9d9f7d51c5efe962cf",
+      "title": "Guidance: Income Record Viewer for agents: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/income-record-viewer-for-agents-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the Income Record Viewer for agents service.",
+      "published_at": "2026-09-14T12:54:30",
+      "fetched_at": "2026-09-14T17:39:07",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "d599ccad5bdda99a270208b4",
+      "title": "Official Statistics: Creative industries statistics: September 2026",
+      "link": "https://www.gov.uk/government/statistics/announcements/creative-industries-statistics-september-2026",
+      "summary": "Information on the creative industries’ tax reliefs for film, high-end television, animation, children’s television, video games, theatre, orchestra, and museums and galleries exhibitions, including statistics on AVEC and VGEC.",
+      "published_at": "2026-09-14T12:40:21",
+      "fetched_at": "2026-09-14T17:39:07",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "92d7b67cc49fed7b225a3aac",
+      "title": "Capital Gains Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual",
+      "summary": "HMRC is reviewing the CG Manual to ensure it provides HMRC’s interpretation of relevant legislation where there is more than one reasonable view of how rules work.Where material in the CG Manual isn’t providing an interpretation, that material is being removed. Where appropriate, material will be reproduced elsewhere and linked from the CG Manual.",
+      "published_at": "2026-09-14T12:36:07",
+      "fetched_at": "2026-09-14T17:39:07",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "0036440d898c629bf4aaf8b3",
+      "title": "International Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/international-manual",
+      "summary": "International tax issues including the principles of double taxation relief and an introduction to double taxation agreements",
+      "published_at": "2026-09-14T12:08:13",
+      "fetched_at": "2026-09-14T17:39:07",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "b8118757f027a44b11b8f008",
       "title": "Guidance: Maritime ports and wharves location codes for Data Element 5/23 of the Customs Declaration Service",
@@ -11406,175 +11565,6 @@
       "summary": "Use this guidance to find out what information you need to provide and what forms to use for tax claims.",
       "published_at": "2026-08-14T10:18:20",
       "fetched_at": "2026-08-14T12:59:05",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "20e7b989f8545363d86a08f4",
-      "title": "HMRC tools and calculators",
-      "link": "https://www.gov.uk/guidance/hmrc-tools-and-calculators",
-      "summary": "Find and use tools and calculators that will help you work out your tax.",
-      "published_at": "2026-08-14T09:54:46",
-      "fetched_at": "2026-08-14T12:59:05",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "640796d7f0c27a457ad4478c",
-      "title": "Download the HMRC app",
-      "link": "https://www.gov.uk/guidance/download-the-hmrc-app",
-      "summary": "How to download and access the HMRC app on a mobile device to get information about your tax, National Insurance and benefits.",
-      "published_at": "2026-08-14T08:22:06",
-      "fetched_at": "2026-08-14T12:59:05",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 14,
-      "matched_keywords": [
-        "benefit",
-        "benefits",
-        "payroll"
-      ]
-    },
-    {
-      "id": "53a1be3b99e4f71fbdb75474",
-      "title": "Foreign Currency Gain or Loss of Controlled Foreign Corporations",
-      "link": "https://www.federalregister.gov/documents/2026/08/14/2026-16569/foreign-currency-gain-or-loss-of-controlled-foreign-corporations",
-      "summary": "This document contains proposed regulations providing rules relating to the determination and recognition of foreign currency gain or loss with respect to qualified business units (&quot;QBUs&quot;) of controlled foreign corporations (&quot;CFCs&quot;). The proposed regulations provide an election under which a CFC generally would not be required to compute or recognize foreign currency gain or loss upon a remittance from a QBU, except in connection with certain inbound nonrecognition transactio",
-      "published_at": "2026-08-14T04:00:00",
-      "fetched_at": "2026-08-14T12:59:04",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "payroll",
-        "withholding",
-        "ei",
-        "regulation"
-      ]
-    },
-    {
-      "id": "08a4ad1543e91fe01ab0ee17",
-      "title": "Millions to receive essential benefit payments early",
-      "link": "https://www.gov.uk/government/news/millions-to-receive-essential-benefit-payments-early",
-      "summary": "Millions of people will receive essential financial support before the August bank holiday weekend, as the Government has confirmed that benefit payments will be brought forward to Friday 28 August.",
-      "published_at": "2026-08-13T23:01:04",
-      "fetched_at": "2026-08-14T01:42:58",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 25,
-      "matched_keywords": [
-        "leave",
-        "holiday",
-        "benefit",
-        "benefits",
-        "pension",
-        "ei"
-      ]
-    },
-    {
-      "id": "a20d9a9b168e3efdc8996355",
-      "title": "Form: Statutory Maternity Pay: employee not entitled – form for employers",
-      "link": "https://www.gov.uk/government/publications/statutory-maternity-pay-employee-not-entitled-form-for-employers",
-      "summary": "A form for employers to fill in and give to employees who aren't entitled to Statutory Maternity Pay.",
-      "published_at": "2026-08-13T15:18:03",
-      "fetched_at": "2026-08-13T18:58:53",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 21,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension",
-        "statutory"
-      ]
-    },
-    {
-      "id": "606b1429edb6429d59ffb0a1",
-      "title": "Health professionals and pharmaceutical products (VAT Notice 701/57)",
-      "link": "https://www.gov.uk/guidance/health-professionals-pharmaceutical-products-and-vat-notice-70157",
-      "summary": "How to account for VAT on goods and services provided by registered health professionals, including doctors, dentists, nurses and pharmacists.",
-      "published_at": "2026-08-13T14:57:48",
-      "fetched_at": "2026-08-13T18:58:53",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "d67694a1823a77189fc7fd5d",
-      "title": "Guidance: HMRC Trusts and Estates newsletters",
-      "link": "https://www.gov.uk/government/publications/hm-revenue-and-customs-trusts-and-estates-newsletters",
-      "summary": "Newsletters published by HMRC, giving updates and guidance on Inheritance Tax and trusts.",
-      "published_at": "2026-08-13T14:35:29",
-      "fetched_at": "2026-08-13T18:58:53",
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "region": "UK",
