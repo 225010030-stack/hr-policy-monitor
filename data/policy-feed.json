@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-09-16T10:49:47",
+  "synced_at": "2026-09-16T16:06:03",
   "total": 500,
-  "new_count": 17,
+  "new_count": 11,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
       "fetched": 30,
-      "added": 1,
+      "added": 0,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 13,
+      "added": 11,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 3,
+      "added": 0,
       "error": null
     },
     {
@@ -40,6 +40,250 @@
     }
   ],
   "items": [
+    {
+      "id": "5488bf59de8c9bc8889ef79a",
+      "title": "Guidance: Childcare service: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/tax-free-childcare-service-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the Childcare service.",
+      "published_at": "2026-09-16T14:32:00",
+      "fetched_at": "2026-09-16T16:05:43",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "431cba7028645d52452928c0",
+      "title": "Motor and heating fuels general information and accounting for excise duty and VAT (Excise Notice 179)",
+      "link": "https://www.gov.uk/guidance/motor-and-heating-fuels-general-information-and-accounting-for-excise-duty-and-vatexcise-notice-179",
+      "summary": "Find out about the requirements and obligations for warehousekeepers of motor and heating fuels in the UK.",
+      "published_at": "2026-09-16T13:59:04",
+      "fetched_at": "2026-09-16T16:05:43",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "b7a2b8625eeeaafaf71eac23",
+      "title": "Guidance: VAT payment plan: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/vat-payment-plan-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the VAT payment plan service.",
+      "published_at": "2026-09-16T12:40:47",
+      "fetched_at": "2026-09-16T16:05:43",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "55fcb01663a600710a3a771a",
+      "title": "Guidance: Employers PAYE payment plan: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/employers-paye-payment-plan-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the Employers PAYE payment plan service.",
+      "published_at": "2026-09-16T12:33:06",
+      "fetched_at": "2026-09-16T16:05:43",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "cc34cc90e74c22046a41d84b",
+      "title": "Guidance: Simple Assessment payment plan: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/simple-assessment-payment-plan-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the Simple Assessment payment plan service.",
+      "published_at": "2026-09-16T12:21:03",
+      "fetched_at": "2026-09-16T16:05:43",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "142504b51c7cd671e7607dad",
+      "title": "Get relief for mineral oil put to certain uses (Excise Notice 184A)",
+      "link": "https://www.gov.uk/guidance/get-relief-for-mineral-oil-put-to-certain-uses-excise-notice-184a",
+      "summary": "How to get relief from excise duty on oil used in certain ways using the Industrial Relief Scheme, also known as the Tied Oils Scheme.",
+      "published_at": "2026-09-16T12:11:05",
+      "fetched_at": "2026-09-16T16:05:43",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "f7e5c7f3c892c76b5739156c",
+      "title": "Part 5: Transitional Relief",
+      "link": "https://www.gov.uk/guidance/rating-manual-section-3-valuation-principles/part-5-transitional-relief",
+      "summary": "The Valuation Office Agency's (VOA) technical manual for the rating of business (non-domestic) property.",
+      "published_at": "2026-09-16T11:26:30",
+      "fetched_at": "2026-09-16T16:05:43",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "f054a81f6742d9fc35a05a31",
+      "title": "Rating Manual section 3: maintaining the rating list",
+      "link": "https://www.gov.uk/guidance/rating-manual-section-3-valuation-principles",
+      "summary": "The Valuation Office Agency's (VOA) technical manual for the rating of business (non-domestic) property.",
+      "published_at": "2026-09-16T11:26:29",
+      "fetched_at": "2026-09-16T16:05:43",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "eefc884b691a82b3a89253e7",
+      "title": "Insurance Policyholder Taxation Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/insurance-policyholder-taxation-manual",
+      "summary": "Taxation charges and reliefs relating to individuals, companies and trustees who have entered into contracts with insurance companies",
+      "published_at": "2026-09-16T11:24:26",
+      "fetched_at": "2026-09-16T16:05:43",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "8c0d00fdfe56aa69358fd078",
+      "title": "Compliance Handbook",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/compliance-handbook",
+      "summary": "The aim of the Compliance Handbook is to help users understand and apply HMRC's penalties and compliance powers, as set out by legislation.",
+      "published_at": "2026-09-16T11:00:30",
+      "fetched_at": "2026-09-16T16:05:43",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 9,
+      "matched_keywords": [
+        "payroll",
+        "compliance"
+      ]
+    },
+    {
+      "id": "7f705d151b5a8a95973aa9a7",
+      "title": "Capital Gains Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual",
+      "summary": "HMRC is reviewing the CG Manual to ensure it provides HMRC’s interpretation of relevant legislation where there is more than one reasonable view of how rules work.Where material in the CG Manual isn’t providing an interpretation, that material is being removed. Where appropriate, material will be reproduced elsewhere and linked from the CG Manual.",
+      "published_at": "2026-09-16T10:50:02",
+      "fetched_at": "2026-09-16T16:05:43",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
     {
       "id": "f1ab9b820fa2fe49eb52d22e",
       "title": "Capital Gains Manual",
@@ -11344,257 +11588,6 @@
       "summary": "Find out the completion rules instructions for each 3-digit Union and National Additional Procedure Code that can be used in Data Element (DE) 1/11 for Imports.",
       "published_at": "2026-08-19T13:08:40",
       "fetched_at": "2026-08-19T18:30:18",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "50b21a4bb8ccbdb8d51aa3d3",
-      "title": "Capital Gains Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual",
-      "summary": "HMRC is reviewing the CG Manual to ensure it provides HMRC’s interpretation of relevant legislation where there is more than one reasonable view of how rules work.Where material in the CG Manual isn’t providing an interpretation, that material is being removed. Where appropriate, material will be reproduced elsewhere and linked from the CG Manual.",
-      "published_at": "2026-08-19T12:56:12",
-      "fetched_at": "2026-08-19T18:30:18",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "d045e3623d0992c778ea49c2",
-      "title": "The Value for Money Framework: Consultation",
-      "link": "https://www.gov.uk/government/consultations/the-value-for-money-framework-consultation",
-      "summary": "The Value for Money Framework will place investment outcomes, service quality and overall value at the centre of workplace pension provision.",
-      "published_at": "2026-08-19T12:24:17",
-      "fetched_at": "2026-08-19T12:39:39",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "900f58b75a3057cf4a409556",
-      "title": "Get help applying for jobs",
-      "link": "https://www.gov.uk/get-help-applying-for-jobs",
-      "summary": "Get help preparing for and applying for jobs, including writing a CV and getting help with interviews.",
-      "published_at": "2026-08-19T11:01:06",
-      "fetched_at": "2026-08-25T12:41:02",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "28f286ea13404076fa6a8de8",
-      "title": "HMRC email updates, videos and webinars for employing people",
-      "link": "https://www.gov.uk/guidance/help-and-support-for-employing-people",
-      "summary": "Learn more about getting started as an employer or running a small business including registration, payroll, tax returns, tax bills and payments.",
-      "published_at": "2026-08-19T10:21:33",
-      "fetched_at": "2026-08-19T12:39:39",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "c5f4c0baa3c6c4424f618ab1",
-      "title": "List of ports using the Goods Vehicle Movement Service",
-      "link": "https://www.gov.uk/guidance/list-of-ports-using-the-goods-vehicle-movement-service",
-      "summary": "Find out which locations are using the Goods Vehicle Movement Service.",
-      "published_at": "2026-08-19T10:13:53",
-      "fetched_at": "2026-08-19T12:39:39",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "c52d86f3a623e281147706be",
-      "title": "HMRC email updates, videos and webinars for money laundering supervision",
-      "link": "https://www.gov.uk/guidance/hmrc-email-updates-videos-and-webinars-for-money-laundering-supervision",
-      "summary": "Learn more about money laundering regulations, your responsibilities and how to report suspicious activity.",
-      "published_at": "2026-08-19T10:10:49",
-      "fetched_at": "2026-08-19T12:39:39",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 9,
-      "matched_keywords": [
-        "payroll",
-        "regulation"
-      ]
-    },
-    {
-      "id": "c2d76b9437fbdc1c16cde02a",
-      "title": "Accredited official statistics: Research and Development Tax Credits Statistics: September 2026",
-      "link": "https://www.gov.uk/government/statistics/announcements/research-and-development-tax-credits-statistics-september-2026",
-      "summary": "These statistics provide information about Research and Development Tax Credits, their cost, and the nature of the companies claiming them. This will be the first time data on the new ERIS and Merged RDEC schemes will be included in the publication.",
-      "published_at": "2026-08-19T09:04:28",
-      "fetched_at": "2026-08-19T12:39:39",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "b849ce1c851d958e5bd9cc33",
-      "title": "Guidance: Employer Bulletin: August 2026",
-      "link": "https://www.gov.uk/government/publications/employer-bulletin-august-2026",
-      "summary": "A bi-monthly magazine for employers and agents that gives up-to-date information on payroll topics.",
-      "published_at": "2026-08-19T09:00:02",
-      "fetched_at": "2026-08-19T12:39:39",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "6dbf7db24b41c81e09d8c7f8",
-      "title": "Official Statistics: Creative industries statistics: September 2026",
-      "link": "https://www.gov.uk/government/statistics/announcements/creative-industries-statistics-september-2026",
-      "summary": "Information on the creative industries’ tax reliefs for film, high-end television, animation, children’s television, video games, theatre, orchestra, and museums and galleries exhibitions, including statistics on AVEC and VGEC.",
-      "published_at": "2026-08-19T08:33:05",
-      "fetched_at": "2026-08-19T12:39:39",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "3f4b85f92e11b2d1b9d25175",
-      "title": "Guidance: Business rates and duty to notify",
-      "link": "https://www.gov.uk/government/publications/business-rates-and-duty-to-notify",
-      "summary": "Find out about the business rates duty to notify, including what changes you may need to report and when it will be introduced.",
-      "published_at": "2026-08-19T08:30:02",
-      "fetched_at": "2026-08-19T12:39:39",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "a77982edda203c8e85b89666",
-      "title": "Transparency data: Northern Ireland Delivery Programme",
-      "link": "https://www.gov.uk/government/publications/northern-ireland-delivery-programme",
-      "summary": "Summary Business Case for the Northern Ireland Delivery Programme.",
-      "published_at": "2026-08-19T08:30:02",
-      "fetched_at": "2026-08-19T12:39:39",
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "region": "UK",
