@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-09-17T05:58:43",
+  "synced_at": "2026-09-17T10:56:25",
   "total": 500,
-  "new_count": 0,
+  "new_count": 14,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 12,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 2,
       "error": null
     },
     {
@@ -40,6 +40,320 @@
     }
   ],
   "items": [
+    {
+      "id": "47be831f54354e9cd21b4295",
+      "title": "Pay the VAT due on your Import One Stop Shop VAT return",
+      "link": "https://www.gov.uk/guidance/pay-the-vat-due-on-your-import-one-stop-shop-vat-return",
+      "summary": "How to pay the VAT due on your Import One Stop Shop (IOSS) VAT return and the time it takes for your payment to reach HMRC.",
+      "published_at": "2026-09-17T10:39:31",
+      "fetched_at": "2026-09-17T10:56:04",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "09f05f58fa8e76d92ab9227f",
+      "title": "Official Statistics: Access to Work statistics: April 2007 to March 2026",
+      "link": "https://www.gov.uk/government/statistics/announcements/access-to-work-statistics-april-2007-to-march-2026",
+      "summary": "Official statistics in development reporting on approval, payment and expenditure for Access to Work provision.",
+      "published_at": "2026-09-17T10:03:08",
+      "fetched_at": "2026-09-17T10:56:05",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "99fb8952f76e1b0f2a71375f",
+      "title": "Enquiry Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/enquiry-manual",
+      "summary": "How HM Revenue & Customs carries out tax enquiry work",
+      "published_at": "2026-09-17T09:51:46",
+      "fetched_at": "2026-09-17T10:56:04",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "a4cabec124e0e349a2114e93",
+      "title": "PAYE Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/paye-manual",
+      "summary": "Guidance for staff working through PAYE processes for individuals and employers. HMRC is currently reviewing this guidance. If you have any comments or feedback, please email: hmrcmanualsteam@hmrc.gov.uk",
+      "published_at": "2026-09-17T09:23:06",
+      "fetched_at": "2026-09-17T10:56:04",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "5dddf542b73d0479b6e69fb6",
+      "title": "Guidance: Choose the right software for Pillar 2 Top-up Taxes",
+      "link": "https://www.gov.uk/government/publications/choose-the-right-software-for-pillar-2-top-up-taxes",
+      "summary": "Find out what commercial software is available to report Domestic Top-up Tax and Multinational Top-up Tax.",
+      "published_at": "2026-09-17T09:17:39",
+      "fetched_at": "2026-09-17T10:56:04",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "495e6fe1ec5a4782bda8d3bb",
+      "title": "Research: Supporting employers to recruit disabled people and people with health conditions",
+      "link": "https://www.gov.uk/government/publications/supporting-employers-to-recruit-disabled-people-and-people-with-health-conditions",
+      "summary": "This report provides insights for local government on what works to support employers to recruit disabled people and people with health conditions.",
+      "published_at": "2026-09-17T09:02:43",
+      "fetched_at": "2026-09-17T10:56:05",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "e9e842a2f05db5d03767cbd6",
+      "title": "Research: Agents, Small and Mid-Sized Businesses Customer Survey 2025",
+      "link": "https://www.gov.uk/government/publications/agents-small-and-mid-sized-businesses-customer-survey-2025",
+      "summary": "This report describes the main findings from the department's 2025 Agents, Small and Mid-Sized Businesses Customer Survey.",
+      "published_at": "2026-09-17T08:30:09",
+      "fetched_at": "2026-09-17T10:56:04",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "2cc787ece01f24e43150d472",
+      "title": "Research: Individuals Customer Experience and Perceptions Survey 2025",
+      "link": "https://www.gov.uk/government/publications/individuals-customer-experience-and-perceptions-survey-2025",
+      "summary": "This report describes the main findings from the department's 2025 Individuals Customer Experience and Perceptions Survey.",
+      "published_at": "2026-09-17T08:30:08",
+      "fetched_at": "2026-09-17T10:56:04",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "51a73495762d2796872f2b14",
+      "title": "Official Statistics: Creative industries statistics: September 2026",
+      "link": "https://www.gov.uk/government/statistics/creative-industries-statistics-september-2026",
+      "summary": "Information on the creative industries’ tax reliefs for film, high-end television, animation, children’s television, video games, theatre, orchestra, and museums and galleries exhibitions.",
+      "published_at": "2026-09-17T08:30:07",
+      "fetched_at": "2026-09-17T10:56:04",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "9f4c94aee10b87f08d723111",
+      "title": "UK regional trade in goods statistics, second quarter, April to June 2026: business counts data",
+      "link": "https://www.gov.uk/government/statistical-data-sets/uk-regional-trade-in-goods-statistics-second-quarter-april-to-june-2026-business-counts-data",
+      "summary": "This spreadsheet provides supplementary data to that in the release of the UK regional trade in goods statistics from HM Revenue & Customs.",
+      "published_at": "2026-09-17T08:30:07",
+      "fetched_at": "2026-09-17T10:56:04",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "2624f12af4077928bcc58ed3",
+      "title": "Accredited official statistics: UK regional trade in goods statistics, second quarter, April to June 2026",
+      "link": "https://www.gov.uk/government/statistics/uk-regional-trade-in-goods-statistics-second-quarter-april-to-june-2026",
+      "summary": "This quarterly release is a disaggregation of the UK overseas trade in goods statistics with further breakdown to nine English Government Regions, Scotland, Wales and Northern Ireland.",
+      "published_at": "2026-09-17T08:30:06",
+      "fetched_at": "2026-09-17T10:56:04",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "d6d975268c14f8358013a706",
+      "title": "UK regional trade in goods statistics, second quarter, April to June 2026: accompanying tables",
+      "link": "https://www.gov.uk/government/statistical-data-sets/uk-regional-trade-in-goods-statistics-second-quarter-april-to-june-2026-accompanying-tables",
+      "summary": "Aggregated quarterly RTS ITL1 data reported by trade values and business counts. The data are broken down by EU and non-EU countries. This includes a further breakdown of SITC sections and country groupings.",
+      "published_at": "2026-09-17T08:30:06",
+      "fetched_at": "2026-09-17T10:56:04",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "b19dd3a671b6b1a36e2a98ec",
+      "title": "Guidance: Register a trust or estate: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/register-a-trust-or-estate-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the trusts and estates registration service.",
+      "published_at": "2026-09-17T08:28:05",
+      "fetched_at": "2026-09-17T10:56:04",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "dba20bdc0cf5b58e708ce198",
+      "title": "COTAX Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/cotax-manual",
+      "summary": "All aspects of company taxation including appeals, enquiries, payments and penalties",
+      "published_at": "2026-09-17T07:13:58",
+      "fetched_at": "2026-09-17T10:56:04",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "5488bf59de8c9bc8889ef79a",
       "title": "Guidance: Childcare service: service availability and issues",
@@ -11258,336 +11572,6 @@
       "summary": "Use form AAG4(SDLT) to tell HMRC of a scheme reference number given to you for a Stamp Duty Land Tax (SDLT) avoidance scheme you have used.",
       "published_at": "2026-08-20T12:29:12",
       "fetched_at": "2026-08-20T12:41:50",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "fa9bc1e0cb5edd5aee79fe84",
-      "title": "Capital Gains Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual",
-      "summary": "HMRC is reviewing the CG Manual to ensure it provides HMRC’s interpretation of relevant legislation where there is more than one reasonable view of how rules work.Where material in the CG Manual isn’t providing an interpretation, that material is being removed. Where appropriate, material will be reproduced elsewhere and linked from the CG Manual.",
-      "published_at": "2026-08-20T11:45:41",
-      "fetched_at": "2026-08-20T12:41:50",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "c66783ad0488d5e5b6878073",
-      "title": "Form: Tell HMRC your ATED tax avoidance scheme reference number",
-      "link": "https://www.gov.uk/government/publications/tax-avoidance-schemes-disclosure-of-ated-scheme-reference-number-aag4ated",
-      "summary": "Use form AAG4(ATED) to tell HMRC of a scheme reference number given to you for an Annual Tax on Enveloped Dwellings (ATED) avoidance scheme you have used.",
-      "published_at": "2026-08-20T11:30:22",
-      "fetched_at": "2026-08-20T12:41:50",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "0e1ea831d3349310ad268f1d",
-      "title": "Guidance: Agent Update: issue 146",
-      "link": "https://www.gov.uk/government/publications/agent-update-issue-146",
-      "summary": "Get guidance from HMRC if you're a tax agent or an adviser",
-      "published_at": "2026-08-20T11:00:07",
-      "fetched_at": "2026-08-20T12:41:50",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "6ea461c3e26c3d14d543a044",
-      "title": "Form: Tax avoidance schemes: notification by scheme user where no promoter, or promoted by lawyer who can't make full notification (AAG3)",
-      "link": "https://www.gov.uk/government/publications/tax-avoidance-schemes-notification-by-scheme-user-where-no-promoter-or-promoted-by-lawyer-unable-to-make-full-notification-aag3",
-      "summary": "Tell HMRC if you're a user of a scheme that has no promoter or is promoted by a lawyer who can't make a full notification.",
-      "published_at": "2026-08-20T10:48:46",
-      "fetched_at": "2026-08-20T12:41:50",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "dc5dd436b8e58e365a32edb6",
-      "title": "Form: Tax avoidance schemes: disclosure by scheme user where offshore promoter doesn't notify (AAG2)",
-      "link": "https://www.gov.uk/government/publications/tax-avoidance-schemes-disclosure-by-scheme-user-where-offshore-promoter-does-not-notify-aag2",
-      "summary": "Use form AAG2 if you use a notifiable arrangement but the offshore promoter has not told HMRC about the avoidance scheme.",
-      "published_at": "2026-08-20T10:42:45",
-      "fetched_at": "2026-08-20T12:41:50",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "f80e8b098644c77fd8693ca7",
-      "title": "Correspondence: Adult skills fund: devolved grant determination letters 2026",
-      "link": "https://www.gov.uk/government/publications/adult-skills-fund-devolved-grant-determination-letters-2026",
-      "summary": "Letters to devolved areas outlining adult skills fund (ASF) and free courses for jobs funding for the 2026 to 2027 financial year.",
-      "published_at": "2026-08-20T09:48:46",
-      "fetched_at": "2026-08-20T12:41:51",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "42d2338c824b4573528bb047",
-      "title": "Corporate report: Named tax avoidance schemes, promoters, enablers and suppliers",
-      "link": "https://www.gov.uk/government/publications/named-tax-avoidance-schemes-promoters-enablers-and-suppliers",
-      "summary": "Information about tax avoidance schemes, promoters, enablers and suppliers of these schemes.",
-      "published_at": "2026-08-20T09:15:41",
-      "fetched_at": "2026-08-20T12:41:50",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "9c54379ccb427e18d2ca87af",
-      "title": "Research at HMRC",
-      "link": "https://www.gov.uk/government/organisations/hm-revenue-customs/about/research",
-      "summary": "The HMRC research programme supports and provides evidence for how we make and evaluate our policies.",
-      "published_at": "2026-08-20T08:30:02",
-      "fetched_at": "2026-08-20T12:41:50",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "e7917b6b13a738f1e6874be0",
-      "title": "Statutory guidance: Access to Work MHSS provider guidance for contracts effective on or after 20 August 2024",
-      "link": "https://www.gov.uk/government/publications/access-to-work-mhss-provider-guidance-for-contracts-effective-on-or-after-20-august-2024",
-      "summary": "DWP provider guidance for the Access to Work Mental Health Support Service (MHSS) programme.",
-      "published_at": "2026-08-20T08:30:02",
-      "fetched_at": "2026-08-20T12:41:51",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 21,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension",
-        "statutory"
-      ]
-    },
-    {
-      "id": "3830353a99e8a6874010b4a6",
-      "title": "Determination of Target Normal Cost and Funding Target for Single-Employer Defined Benefit Plans",
-      "link": "https://www.federalregister.gov/documents/2026/08/20/2026-17021/determination-of-target-normal-cost-and-funding-target-for-single-employer-defined-benefit-plans",
-      "summary": "This document contains proposed regulations that would modify rules in the existing regulations relating to the minimum funding requirement applicable to single-employer defined benefit pension plans. The modifications include changes to the rules relating to the determination of a plan's target normal cost and funding target and would implement certain statutory amendments that have not yet been reflected in the regulations. These proposed regulations would affect participants in, beneficiaries",
-      "published_at": "2026-08-20T04:00:00",
-      "fetched_at": "2026-08-20T06:40:13",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 25,
-      "matched_keywords": [
-        "benefit",
-        "pension",
-        "payroll",
-        "withholding",
-        "regulation",
-        "statutory"
-      ]
-    },
-    {
-      "id": "b7fd8e5a2537efc8482c2066",
-      "title": "Application of Section 250(b)(3)(A)(i)(VII) to Sales or Other Dispositions of Property",
-      "link": "https://www.federalregister.gov/documents/2026/08/20/2026-17019/application-of-section-250b3aivii-to-sales-or-other-dispositions-of-property",
-      "summary": "This document contains proposed regulations under section 250 of the Internal Revenue Code (Code) that provide guidance on certain income of a domestic corporation that is excluded in the determination of deduction eligible income. This category of income consists of income and gain from the sale or other disposition of intangible property and any other property of a type that is subject to depreciation, amortization, or depletion. The proposed regulations would affect domestic corporations with",
-      "published_at": "2026-08-20T04:00:00",
-      "fetched_at": "2026-08-20T06:40:13",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 14,
-      "matched_keywords": [
-        "payroll",
-        "withholding",
-        "regulation"
-      ]
-    },
-    {
-      "id": "540b1a2d8ebbb306f72b9f19",
-      "title": "Application of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 to the Refunded Portion of Certain Federal Refundable Tax Credits",
-      "link": "https://www.federalregister.gov/documents/2026/08/20/2026-16985/application-of-the-personal-responsibility-and-work-opportunity-reconciliation-act-of-1996-to-the",
-      "summary": "This document contains proposed regulations that would provide that the refunded portion of certain refundable Federal income tax credits available to individuals is a &quot;Federal public benefit&quot; under the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (PRWORA). As a result, aliens who are not &quot;qualified aliens&quot; under PRWORA would be ineligible to receive the refunded portion of these refundable credits. These regulations would generally affect taxpayers",
-      "published_at": "2026-08-20T04:00:00",
-      "fetched_at": "2026-08-20T06:40:13",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 22,
-      "matched_keywords": [
-        "benefit",
-        "payroll",
-        "withholding",
-        "ei",
-        "regulation"
-      ]
-    },
-    {
-      "id": "5fa78173f338f82b8d9a02ac",
-      "title": "VAT Health",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/vat-health",
-      "summary": "This guidance covers all the VAT exemptions which are available for supplies of healthcare by health professionals and health institutions under Group 7, Schedule 9 to the VAT Act 1994",
-      "published_at": "2026-08-19T16:31:34",
-      "fetched_at": "2026-08-19T18:30:18",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "880c9c0ab98076462acfe261",
-      "title": "Guidance: Appendix 2: DE 1/11: Additional Procedure Codes of the Customs Declaration Service (CDS)",
-      "link": "https://www.gov.uk/government/publications/appendix-2-de-111-additional-procedure-codes-of-the-customs-declaration-service-cds",
-      "summary": "Find out the completion rules instructions for each 3-digit Union and National Additional Procedure Code that can be used in Data Element (DE) 1/11 for Imports.",
-      "published_at": "2026-08-19T13:08:40",
-      "fetched_at": "2026-08-19T18:30:18",
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "region": "UK",
