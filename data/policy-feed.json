@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-09-18T05:45:11",
+  "synced_at": "2026-09-18T10:32:34",
   "total": 500,
-  "new_count": 2,
+  "new_count": 13,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 10,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,253 @@
     }
   ],
   "items": [
+    {
+      "id": "106ee24e5fadc631a34cf871",
+      "title": "Form: Inheritance Tax: jointly owned assets (IHT404)",
+      "link": "https://www.gov.uk/government/publications/inheritance-tax-jointly-owned-assets-iht404",
+      "summary": "Use the IHT404 with form IHT400 to give details of all UK assets the deceased owned jointly with another person.",
+      "published_at": "2026-09-18T10:27:02",
+      "fetched_at": "2026-09-18T10:32:13",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "3167cbf154cfc2fc58091181",
+      "title": "Form: Winter Fuel Payment claim form: EEA and Switzerland",
+      "link": "https://www.gov.uk/government/publications/winter-fuel-payment-claim-form-eea-and-switzerland",
+      "summary": "The form to claim a Winter Fuel Payment for winter 2025 to 2026 will be available here at a later date.",
+      "published_at": "2026-09-18T10:16:26",
+      "fetched_at": "2026-09-18T10:32:14",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "6583ef3902ff9548262100c5",
+      "title": "Rebate of duty on light oil used as furnace fuel (Excise Notice 184B)",
+      "link": "https://www.gov.uk/guidance/rebate-of-duty-on-light-oil-used-as-furnace-fuel-excise-notice-184b",
+      "summary": "How businesses can get a rebate of duty on light oil used as a furnace fuel.",
+      "published_at": "2026-09-18T10:12:03",
+      "fetched_at": "2026-09-18T10:32:13",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "4cc9cc6bb7b3d80da5a61780",
+      "title": "HMRC email updates, videos and webinars for tax agents and advisers",
+      "link": "https://www.gov.uk/guidance/help-and-support-for-agents",
+      "summary": "Learn more about the support available to tax agents and advisers which will help you and your clients.",
+      "published_at": "2026-09-18T09:55:03",
+      "fetched_at": "2026-09-18T10:32:13",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "81f762eed0ff7cf2a4779e4f",
+      "title": "Biofuels and fuel substitutes (Excise Notice 179e) from 1 April 2022",
+      "link": "https://www.gov.uk/guidance/biofuels-and-other-fuel-substitutes-excise-notice-179e-from-1-april-2022",
+      "summary": "Find out about the legal definitions of biofuel products and fuel substitutes, excise duty rates and the roles and responsibilities of producers from 1 April 2022.",
+      "published_at": "2026-09-18T09:45:14",
+      "fetched_at": "2026-09-18T10:32:13",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "6dea6cf5e21ecc197ba0404f",
+      "title": "Report Construction Industry Scheme (CIS) contractor monthly return errors if you've received a letter from HMRC",
+      "link": "https://www.gov.uk/guidance/report-construction-industry-scheme-cis-contractor-monthly-return-errors-if-youve-received-a-letter-from-hmrc",
+      "summary": "Tell HMRC about an error if they’ve sent you a letter about applying an incorrect rate to your subcontractor payments in tax year 2025 to 2026.",
+      "published_at": "2026-09-18T09:39:35",
+      "fetched_at": "2026-09-18T10:32:13",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "8f6c394a6c52e6970032bce7",
+      "title": "Aviation turbine fuel (Excise Notice 179a)",
+      "link": "https://www.gov.uk/guidance/aviation-turbine-fuel-excise-notice-179a",
+      "summary": "Find out about the rules for the production, supply and use of aviation turbine fuels (avtur).",
+      "published_at": "2026-09-18T09:26:36",
+      "fetched_at": "2026-09-18T10:32:13",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "0df8d3f85d21ba9ba7fbb03a",
+      "title": "Capital Gains Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual",
+      "summary": "HMRC is reviewing the CG Manual to ensure it provides HMRC’s interpretation of relevant legislation where there is more than one reasonable view of how rules work.Where material in the CG Manual isn’t providing an interpretation, that material is being removed. Where appropriate, material will be reproduced elsewhere and linked from the CG Manual.",
+      "published_at": "2026-09-18T09:07:24",
+      "fetched_at": "2026-09-18T10:32:13",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "1fbcb4f12a78e6707a4de490",
+      "title": "Part 8B: Buildings undergoing schemes of reconstruction or redevelopment which are incapable of beneficial occupation",
+      "link": "https://www.gov.uk/guidance/rating-manual-section-2-maintaining-the-rating-list/part-8b-buildings-undergoing-schemes-of-reconstruction-or-redevelopment-which-are-incapable-of-beneficial-occupation",
+      "summary": "The Valuation Office's technical manual for the rating of business (non-domestic) property.",
+      "published_at": "2026-09-18T08:23:27",
+      "fetched_at": "2026-09-18T10:32:13",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "4882c8522273deccc32333fc",
+      "title": "Rating Manual section 2: valuation principles",
+      "link": "https://www.gov.uk/guidance/rating-manual-section-2-maintaining-the-rating-list",
+      "summary": "The Valuation Office's technical manual for the rating of business (non-domestic) property.",
+      "published_at": "2026-09-18T08:23:27",
+      "fetched_at": "2026-09-18T10:32:13",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "76b45450ccda3d6b2563a476",
+      "title": "Part 8A: Repair and the economic test",
+      "link": "https://www.gov.uk/guidance/rating-manual-section-2-maintaining-the-rating-list/part-8a-repair-and-the-economic-test",
+      "summary": "The Valuation Office's technical manual for the rating of business (non-domestic) property.",
+      "published_at": "2026-09-18T08:23:27",
+      "fetched_at": "2026-09-18T10:32:13",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "871199d35ead1202029d16a7",
       "title": "Current DWP research being undertaken by external organisations",
@@ -11330,255 +11577,6 @@
       "score": 6,
       "matched_keywords": [
         "payroll"
-      ]
-    },
-    {
-      "id": "8f58adda8069fdcc968e6477",
-      "title": "Reclaim tax relief for pension scheme members with relief at source",
-      "link": "https://www.gov.uk/guidance/pension-administrators-reclaim-tax-relief-using-relief-at-source",
-      "summary": "How you can use relief at source to claim tax relief back on pension scheme contributions.",
-      "published_at": "2026-08-21T13:16:18",
-      "fetched_at": "2026-08-21T18:32:14",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "pension",
-        "payroll"
-      ]
-    },
-    {
-      "id": "52729c95abab0ec59a0e80d4",
-      "title": "Vaping Products Duty and Vaping Duty Stamps guidance",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/vaping-products-duty-and-vaping-duty-stamps-guidance",
-      "summary": "",
-      "published_at": "2026-08-21T11:29:22",
-      "fetched_at": "2026-08-21T12:40:37",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "7b59bb62bb09e32d16cd040a",
-      "title": "Capital Gains Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual",
-      "summary": "HMRC is reviewing the CG Manual to ensure it provides HMRC’s interpretation of relevant legislation where there is more than one reasonable view of how rules work.Where material in the CG Manual isn’t providing an interpretation, that material is being removed. Where appropriate, material will be reproduced elsewhere and linked from the CG Manual.",
-      "published_at": "2026-08-21T10:50:05",
-      "fetched_at": "2026-08-21T12:40:37",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "3287268f5f69c5f959008dfd",
-      "title": "Official Statistics: Property rental income statistics: 2026",
-      "link": "https://www.gov.uk/government/statistics/announcements/property-rental-income-statistics-2026",
-      "summary": "This release provides statistics on income and expenses from renting property declared by taxpayers in HMRC’s Income Tax Self-Assessment (ITSA) returns data only. Statistics are provided for 5 tax years from 2020 to 2021 up until 2024 to 2025. Incorporated businesses with property income do not file ITSA returns and as such are not included in this release. The publication also does not contain information on tenants of rented property, or on income received from buying and selling properties.",
-      "published_at": "2026-08-21T10:43:50",
-      "fetched_at": "2026-08-21T12:40:37",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "2b7de0e120970022bbd309c8",
-      "title": "Form: Trusts and estates: statement of income from trust (R185) (trust income)",
-      "link": "https://www.gov.uk/government/publications/trusts-and-estates-statement-of-income-from-trust-r185-trust-income",
-      "summary": "Use form R185 (trust income) to tell beneficiaries about amounts paid or entitlements to income from a trust.",
-      "published_at": "2026-08-21T10:35:36",
-      "fetched_at": "2026-08-21T12:40:37",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "111f2386094af8dcaac9dbdf",
-      "title": "Rural Fuel Duty Relief Scheme (Notice 2001)",
-      "link": "https://www.gov.uk/guidance/rural-duty-relief-scheme-notice-2001",
-      "summary": "Find out about the Rural Fuel Duty Relief Scheme for retailers of fuel and areas eligible for the relief.",
-      "published_at": "2026-08-21T08:43:03",
-      "fetched_at": "2026-08-21T12:40:37",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "d2408279dd1702d85f7de3a5",
-      "title": "Guidance: Flexi-job apprenticeships using an approved agency",
-      "link": "https://www.gov.uk/government/publications/flexi-job-apprenticeships",
-      "summary": "Information about flexi-job apprenticeships using approved agencies, in occupations that often use short-term contracts or other non-standard employment models.",
-      "published_at": "2026-08-21T08:30:00",
-      "fetched_at": "2026-08-21T12:40:37",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "81668b5116f9009a0012713c",
-      "title": "Advisory fuel rates",
-      "link": "https://www.gov.uk/guidance/advisory-fuel-rates",
-      "summary": "Find out about advisory fuel rates for company car users, when you can use them, and how they're calculated.",
-      "published_at": "2026-08-21T08:00:00",
-      "fetched_at": "2026-08-21T12:40:37",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "cea9f0bc3669b46bda00554a",
-      "title": "Guidance: External temporary storage facilities codes for Data Element 5/23 of the Customs Declaration Service",
-      "link": "https://www.gov.uk/government/publications/external-temporary-storage-facilities-codes-for-data-element-523-of-the-customs-declaration-service",
-      "summary": "Find the codes which can be used in Data Element 5/23 to identify the location where the goods may be examined for an external temporary storage facility (ETSF) (Appendix 16F).",
-      "published_at": "2026-08-21T07:55:29",
-      "fetched_at": "2026-08-21T12:40:37",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "b26c557feb4ca96cc08bdab3",
-      "title": "Guidance: Gambling Tax: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/gambling-tax-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the Gambling Tax online service.",
-      "published_at": "2026-08-21T07:31:31",
-      "fetched_at": "2026-08-21T12:40:37",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "674934fc8b750677c5a97fd1",
-      "title": "Accredited official statistics: HMRC tax receipts and National Insurance contributions for the UK",
-      "link": "https://www.gov.uk/government/statistics/hmrc-tax-and-nics-receipts-for-the-uk",
-      "summary": "Summary of HM Revenue and Customs' tax receipts, National Insurance contributions (NICs), and expenditure for the UK.",
-      "published_at": "2026-08-21T06:00:03",
-      "fetched_at": "2026-08-21T06:40:09",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
       ]
     }
   ]
