@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-09-18T10:32:34",
+  "synced_at": "2026-09-18T15:48:03",
   "total": 500,
-  "new_count": 13,
+  "new_count": 9,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 10,
+      "added": 7,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 1,
+      "added": 0,
       "error": null
     },
     {
@@ -40,6 +40,162 @@
     }
   ],
   "items": [
+    {
+      "id": "cd6df7e40c7d25de3608fc5b",
+      "title": "Appeals reviews and tribunals guidance",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/appeals-reviews-and-tribunals-guidance",
+      "summary": "Appeals, Reviews and Tribunals Guidance",
+      "published_at": "2026-09-18T14:19:53",
+      "fetched_at": "2026-09-18T15:47:42",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "0bdaa63b2f83c0fcea21f6e3",
+      "title": "Guidance: Agent update: issue 147",
+      "link": "https://www.gov.uk/government/publications/agent-update-issue-147",
+      "summary": "Get guidance from HMRC if you're a tax agent or an adviser.",
+      "published_at": "2026-09-18T14:06:44",
+      "fetched_at": "2026-09-18T15:47:42",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "3ea0be300db7d4173539cdf1",
+      "title": "Oils Technical Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/oils-technical-manual",
+      "summary": "A general introduction into oils activity and the assurance role of HM Revenue & Customs",
+      "published_at": "2026-09-18T13:19:54",
+      "fetched_at": "2026-09-18T15:47:42",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "5e58f77cf870687440f56d9e",
+      "title": "Check if a text message you've received from HMRC is genuine",
+      "link": "https://www.gov.uk/guidance/check-if-a-text-message-youve-received-from-hmrc-is-genuine",
+      "summary": "Check a list of recent text messages from HMRC to help you decide if a text you've received is a scam.",
+      "published_at": "2026-09-18T12:47:58",
+      "fetched_at": "2026-09-18T15:47:42",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "103ad24651989b24157ee6bc",
+      "title": "Using rebated fuels in vehicles and machines (Excise Notice 75)",
+      "link": "https://www.gov.uk/guidance/using-rebated-fuels-in-vehicles-and-machines-excise-notice-75",
+      "summary": "Find out when you can use rebated diesel, biodiesel or kerosene in vehicles and other machinery.",
+      "published_at": "2026-09-18T10:45:20",
+      "fetched_at": "2026-09-18T15:47:42",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "4c3b9eac7ee2e9a76e86ae76",
+      "title": "Fuel used in private pleasure craft and for private pleasure flying (Excise Notice 554)",
+      "link": "https://www.gov.uk/guidance/fuel-used-in-private-pleasure-craft-and-for-private-pleasure-flying-excise-notice-554",
+      "summary": "Find out how to charge and collect excise duty on fuel used in private pleasure craft and fuel used for private pleasure flying.",
+      "published_at": "2026-09-18T10:40:07",
+      "fetched_at": "2026-09-18T15:47:42",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 9,
+      "matched_keywords": [
+        "payroll",
+        "cra"
+      ]
+    },
+    {
+      "id": "98116c712b351976cb170611",
+      "title": "Registered dealers in controlled oil (Excise Notice 192)",
+      "link": "https://www.gov.uk/guidance/registered-dealers-in-controlled-oil-excise-notice-192",
+      "summary": "Find out about the registered dealers in controlled oil (RDCO) scheme.",
+      "published_at": "2026-09-18T10:35:45",
+      "fetched_at": "2026-09-18T15:47:42",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "106ee24e5fadc631a34cf871",
       "title": "Form: Inheritance Tax: jointly owned assets (IHT404)",
@@ -11404,166 +11560,6 @@
       "summary": "Apply to be included on the list of professional bodies and learned societies approved for tax relief (List 3), using form P356.",
       "published_at": "2026-08-24T08:17:28",
       "fetched_at": "2026-08-24T12:42:21",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "fcff083fc9528f62cd2e8f6c",
-      "title": "Late registrations for employment related securities",
-      "link": "https://www.gov.uk/guidance/late-registrations-for-employment-related-securities",
-      "summary": "What to do if you miss the registration deadline for employment related securities.",
-      "published_at": "2026-08-24T08:11:49",
-      "fetched_at": "2026-08-24T12:42:21",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "8d03c6d6b0e588aeccc2c6ac",
-      "title": "Check if a text message you've received from HMRC is genuine",
-      "link": "https://www.gov.uk/guidance/check-if-a-text-message-youve-received-from-hmrc-is-genuine",
-      "summary": "Check a list of recent text messages from HMRC to help you decide if a text you've received is a scam.",
-      "published_at": "2026-08-24T08:00:00",
-      "fetched_at": "2026-08-24T12:42:21",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "cf757564eafb160c88a37a5f",
-      "title": "Check if an email you've received from HMRC is genuine",
-      "link": "https://www.gov.uk/guidance/check-if-an-email-youve-received-from-hmrc-is-genuine",
-      "summary": "Check a list of recent emails from HMRC to help you decide if the email you've received is a scam.",
-      "published_at": "2026-08-24T08:00:00",
-      "fetched_at": "2026-08-24T12:42:21",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "8913f9a4a9c17746ef30214f",
-      "title": "Employer Contributions to Trump Accounts and Nondiscrimination Rules for Dependent Care Assistance Programs",
-      "link": "https://www.federalregister.gov/documents/2026/08/24/C1-2026-16314/employer-contributions-to-trump-accounts-and-nondiscrimination-rules-for-dependent-care-assistance",
-      "summary": "",
-      "published_at": "2026-08-24T04:00:00",
-      "fetched_at": "2026-08-22T06:34:30",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "payroll",
-        "withholding"
-      ]
-    },
-    {
-      "id": "8a629f0f1bdc32dda6d557d8",
-      "title": "Open Meeting of the Taxpayer Advocacy Panel Joint Committee",
-      "link": "https://www.federalregister.gov/documents/2026/08/24/2026-17249/open-meeting-of-the-taxpayer-advocacy-panel-joint-committee",
-      "summary": "An open meeting of the Taxpayer Advocacy Panel's Joint Committee will be conducted. The Taxpayer Advocacy Panel is soliciting public comments, ideas, and suggestions to improve customer service at the Internal Revenue Service. This meeting will be held as a virtual video conference via the Microsoft Teams platform.",
-      "published_at": "2026-08-24T04:00:00",
-      "fetched_at": "2026-08-22T06:34:30",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "payroll",
-        "withholding"
-      ]
-    },
-    {
-      "id": "a8c3654ba567a3fdaf32bc95",
-      "title": "Self Assessment Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual",
-      "summary": "This manual contains guidance and processes for Self Assessment (SA)",
-      "published_at": "2026-08-21T15:46:43",
-      "fetched_at": "2026-08-21T18:32:14",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "b5ee9632c3f63b35fbcc8a8c",
-      "title": "Disagree with a revenue correction notice",
-      "link": "https://www.gov.uk/guidance/disagree-with-a-revenue-correction-notice",
-      "summary": "Find out what to do if you disagree with a correction HMRC has made to your tax return.",
-      "published_at": "2026-08-21T14:38:51",
-      "fetched_at": "2026-08-21T18:32:14",
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "region": "UK",
