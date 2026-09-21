@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-09-21T07:18:10",
+  "synced_at": "2026-09-21T11:58:11",
   "total": 500,
-  "new_count": 2,
+  "new_count": 9,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 5,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 2,
       "error": null
     },
     {
@@ -40,6 +40,167 @@
     }
   ],
   "items": [
+    {
+      "id": "c76f3340c43c603915945487",
+      "title": "Guidance: External temporary storage facilities codes for Data Element 5/23 of the Customs Declaration Service",
+      "link": "https://www.gov.uk/government/publications/external-temporary-storage-facilities-codes-for-data-element-523-of-the-customs-declaration-service",
+      "summary": "Find the codes which can be used in Data Element 5/23 to identify the location where the goods may be examined for an external temporary storage facility (ETSF) (Appendix 16F).",
+      "published_at": "2026-09-21T11:24:45",
+      "fetched_at": "2026-09-21T11:57:51",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "cdb556a2ff3f89b89ac2e915",
+      "title": "Research: Upcoming DWP research publications",
+      "link": "https://www.gov.uk/government/publications/list-of-upcoming-research-publications",
+      "summary": "This document provides details of upcoming Department for Work and Pensions (DWP) research publications.",
+      "published_at": "2026-09-21T10:59:46",
+      "fetched_at": "2026-09-21T11:57:51",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "de1985f948ade888f2bd93f1",
+      "title": "Guidance: Internal temporary storage facilities (ITSFs) codes for Data Element 5/23 of the Customs Declaration Service",
+      "link": "https://www.gov.uk/government/publications/internal-temporary-storage-facilities-itsfs-codes-for-data-element-523-of-the-customs-declaration-service",
+      "summary": "Find a list of codes which can be used in Data Element 5/23 to identify the location where the goods may be examined for internal temporary storage facilities (Appendix 16D).",
+      "published_at": "2026-09-21T10:25:38",
+      "fetched_at": "2026-09-21T11:57:51",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "1f3790e6d3c9c707dad620a4",
+      "title": "Guidance: Valuation scales 2026",
+      "link": "https://www.gov.uk/government/publications/valuation-scales-2026",
+      "summary": "Find the 2026 valuation scales that the Valuation Office uses to value different parts of business properties depending on its floor level and how it's used.",
+      "published_at": "2026-09-21T09:54:58",
+      "fetched_at": "2026-09-21T11:57:51",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "20a545ac96defd099ecf1180",
+      "title": "Guidance: Choose the right software for Pillar 2 Top-up Taxes",
+      "link": "https://www.gov.uk/government/publications/choose-the-right-software-for-pillar-2-top-up-taxes",
+      "summary": "Find out what commercial software is available to report Domestic Top-up Tax and Multinational Top-up Tax.",
+      "published_at": "2026-09-21T09:42:51",
+      "fetched_at": "2026-09-21T11:57:51",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "02d31961241a94b9151894ae",
+      "title": "More than £300 million paid out through Help to Save with thousands more savers set to benefit",
+      "link": "https://www.gov.uk/government/news/more-than-300-million-paid-out-through-help-to-save-with-thousands-more-savers-set-to-benefit",
+      "summary": "Low income earners encouraged to open a Help to Save account in UK Savings Week.",
+      "published_at": "2026-09-21T09:30:00",
+      "fetched_at": "2026-09-21T11:57:51",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "benefit",
+        "payroll"
+      ]
+    },
+    {
+      "id": "bd15c4249154a7a5e44ab18e",
+      "title": "Accredited official statistics: Annual DWP Benefits Statistics Compendium",
+      "link": "https://www.gov.uk/government/statistics/announcements/annual-dwp-benefits-statistics-compendium",
+      "summary": "National Statistics release of the main Department for Work and Pensions (DWP) administered benefits through Stat-Xplore or supplementary tables where appropriate.",
+      "published_at": "2026-09-21T07:39:33",
+      "fetched_at": "2026-09-21T11:57:51",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
     {
       "id": "8510a28cac98fd30d000ec02",
       "title": "Form: Winter Fuel Payment claim form",
@@ -11400,167 +11561,6 @@
       "link": "https://www.gov.uk/guidance/how-to-treat-unauthorised-payments-following-the-public-service-pensions-remedy",
       "summary": "As a result of the public service pensions remedy (known as McCloud), members may have changes to, or new, unauthorised payments.",
       "published_at": "2026-08-24T08:48:26",
-      "fetched_at": "2026-08-24T12:42:21",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "pension",
-        "payroll"
-      ]
-    },
-    {
-      "id": "3bcfda7e17e7823d1945f566",
-      "title": "Chapter 3 local government pension scheme — scheme administrators' guidance",
-      "link": "https://www.gov.uk/guidance/chapter-3-local-government-pension-scheme-scheme-administrators-guidance",
-      "summary": "If you're a pension scheme administrator of a local government public service pension scheme, check how the public service pensions remedy (also known as McCloud) could affect you.",
-      "published_at": "2026-08-24T08:40:39",
-      "fetched_at": "2026-08-24T12:42:21",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "pension",
-        "payroll"
-      ]
-    },
-    {
-      "id": "bf15367f1c45366064b2228f",
-      "title": "Paying compensation to members following the public service pensions remedy",
-      "link": "https://www.gov.uk/guidance/paying-compensation-to-members-following-the-public-service-pensions-remedy",
-      "summary": "How to compensate members who make a claim in relation to annual allowance, lifetime allowance and unauthorised payments charges where they are affected by the public service pensions remedy.",
-      "published_at": "2026-08-24T08:36:12",
-      "fetched_at": "2026-08-24T12:42:21",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "pension",
-        "payroll"
-      ]
-    },
-    {
-      "id": "3a8f5f5f1ab364c8385b523a",
-      "title": "Changes in annual allowance as a result of the public service pensions remedy",
-      "link": "https://www.gov.uk/guidance/changes-in-annual-allowance-as-a-result-of-the-public-service-pensions-remedy",
-      "summary": "How to calculate pension input amounts and how annual allowance charges are affected after the public service pensions remedy (previously known as McCloud).",
-      "published_at": "2026-08-24T08:31:43",
-      "fetched_at": "2026-08-24T12:42:21",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "pension",
-        "payroll"
-      ]
-    },
-    {
-      "id": "81f16999ddef8512fbe57159",
-      "title": "Transparency data: HMRC: workforce management information, July 2026",
-      "link": "https://www.gov.uk/government/publications/hmrc-workforce-management-information-july-2026",
-      "summary": "Reports on departmental staff numbers and costs.",
-      "published_at": "2026-08-24T08:30:03",
-      "fetched_at": "2026-08-24T12:42:21",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "f4dd8fe4a173b493ca9f44ae",
-      "title": "Guidance: Parental Conflict Indicator official statistics: consultation and response",
-      "link": "https://www.gov.uk/government/publications/plans-to-stop-reporting-the-parental-conflict-indicator-as-official-statistics-statistical-notice",
-      "summary": "The consultation has concluded. The department's response to the statistical notice has been published.",
-      "published_at": "2026-08-24T08:30:03",
-      "fetched_at": "2026-08-24T12:42:21",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "b58eca6a7a8b70c011f8fcdd",
-      "title": "Guidance: How to report life insurance Chargeable Event Certificates as a text file — guidance for insurers",
-      "link": "https://www.gov.uk/government/publications/life-insurance-chargeable-events-certificates",
-      "summary": "Check how to send life insurance Chargeable Event Certificates in electronic flat text file format to HMRC for gains occurring on or after 6 April 2002.",
-      "published_at": "2026-08-24T08:28:02",
-      "fetched_at": "2026-08-24T12:42:21",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "87cf56387c0bbd753d8432ea",
-      "title": "Chapter 1 pension schemes —  scheme administrators' guidance",
-      "link": "https://www.gov.uk/guidance/chapter-1-pension-schemes-scheme-administrators-guidance",
-      "summary": "If you’re a pension scheme administrator of a public service pension scheme, check how the public service pensions remedy (also known as McCloud) could affect you.",
-      "published_at": "2026-08-24T08:23:48",
       "fetched_at": "2026-08-24T12:42:21",
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
