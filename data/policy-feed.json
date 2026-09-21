@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-09-20T20:18:38",
+  "synced_at": "2026-09-21T03:15:48",
   "total": 500,
-  "new_count": 4,
+  "new_count": 5,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -28,7 +28,7 @@
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,31 @@
     }
   ],
   "items": [
+    {
+      "id": "8510a28cac98fd30d000ec02",
+      "title": "Form: Winter Fuel Payment claim form",
+      "link": "https://www.gov.uk/government/publications/winter-fuel-payment-claim-form",
+      "summary": "Use this form to claim a Winter Fuel Payment for winter 2026 to 2027.",
+      "published_at": "2026-09-20T23:01:01",
+      "fetched_at": "2026-09-21T03:15:28",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
     {
       "id": "cd6df7e40c7d25de3608fc5b",
       "title": "Appeals reviews and tribunals guidance",
@@ -11550,28 +11575,6 @@
       "score": 10,
       "matched_keywords": [
         "pension",
-        "payroll"
-      ]
-    },
-    {
-      "id": "45eb7e58a7b16e0e644d254a",
-      "title": "Form: Apply for approval of tax relief for professional organisations",
-      "link": "https://www.gov.uk/government/publications/professional-organisations-approval-for-tax-relief-application",
-      "summary": "Apply to be included on the list of professional bodies and learned societies approved for tax relief (List 3), using form P356.",
-      "published_at": "2026-08-24T08:17:28",
-      "fetched_at": "2026-08-24T12:42:21",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
         "payroll"
       ]
     }
