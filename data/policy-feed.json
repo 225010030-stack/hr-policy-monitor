@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-09-22T10:57:06",
+  "synced_at": "2026-09-22T16:15:16",
   "total": 500,
   "new_count": 13,
   "source_stats": [
@@ -7,7 +7,7 @@
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
       "fetched": 28,
-      "added": 2,
+      "added": 3,
       "error": null
     },
     {
@@ -28,7 +28,7 @@
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 3,
+      "added": 2,
       "error": null
     },
     {
@@ -40,6 +40,215 @@
     }
   ],
   "items": [
+    {
+      "id": "90e15995b3599a590a9e6f9c",
+      "title": "Debt Management and Banking Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/debt-management-and-banking",
+      "summary": "Some content of this manual is being considered for archiving. If there is content you use regularly, please email hmrcmanualsteam@hmrc.gov.uk to let us know as soon as possible. Our debt management and banking processes incorporates material covered in the Recovery Manual and the Banking Accounting Guide (BAAG)",
+      "published_at": "2026-09-22T13:36:55",
+      "fetched_at": "2026-09-22T16:14:55",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "c5f9c8be188ba6af0ee6fb98",
+      "title": "Claim personal allowances and tax refunds if you live abroad (R43)",
+      "link": "https://www.gov.uk/guidance/claim-personal-allowances-and-tax-refunds-if-you-live-abroad",
+      "summary": "How to claim a refund on tax and personal allowances on UK income if you're not resident in the UK on form R43.",
+      "published_at": "2026-09-22T13:35:19",
+      "fetched_at": "2026-09-22T16:14:55",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "c7934c01e0dde7db375bbae6",
+      "title": "Software developers providing customs declaration software",
+      "link": "https://www.gov.uk/guidance/list-of-software-developers-providing-customs-declaration-support",
+      "summary": "Check a list of software developers who can provide Customs Declaration Service software.",
+      "published_at": "2026-09-22T13:35:13",
+      "fetched_at": "2026-09-22T16:14:55",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "50938bf21b1d46f87dbfa65d",
+      "title": "Check if a business is registered for money laundering supervision",
+      "link": "https://www.gov.uk/guidance/money-laundering-regulations-supervised-business-register",
+      "summary": "Find out if a business has registered with HMRC under the money laundering regulations and report them if they have not.",
+      "published_at": "2026-09-22T13:26:27",
+      "fetched_at": "2026-09-22T16:14:55",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 9,
+      "matched_keywords": [
+        "payroll",
+        "regulation"
+      ]
+    },
+    {
+      "id": "f45cd38e1875f2800b70a72b",
+      "title": "Compliance Handbook",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/compliance-handbook",
+      "summary": "The aim of the Compliance Handbook is to help users understand and apply HMRC's penalties and compliance powers, as set out by legislation.",
+      "published_at": "2026-09-22T13:14:20",
+      "fetched_at": "2026-09-22T16:14:55",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 9,
+      "matched_keywords": [
+        "payroll",
+        "compliance"
+      ]
+    },
+    {
+      "id": "771e9160649dd00ecd3fd1f4",
+      "title": "Capital Gains Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual",
+      "summary": "HMRC is reviewing the CG Manual to ensure it provides HMRC’s interpretation of relevant legislation where there is more than one reasonable view of how rules work.Where material in the CG Manual isn’t providing an interpretation, that material is being removed. Where appropriate, material will be reproduced elsewhere and linked from the CG Manual.",
+      "published_at": "2026-09-22T12:38:07",
+      "fetched_at": "2026-09-22T16:14:55",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "1bd0880f04ea9126adef125b",
+      "title": "Official Statistics: Support for Mortgage Interest statistics to May 2026",
+      "link": "https://www.gov.uk/government/statistics/announcements/support-for-mortgage-interest-statistics-to-may-2026",
+      "summary": "Official statistics in development on the numbers in receipt of Support for Mortgage Interest loans.",
+      "published_at": "2026-09-22T11:54:25",
+      "fetched_at": "2026-09-22T16:14:56",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 22,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension",
+        "ei"
+      ]
+    },
+    {
+      "id": "bae4b6d194913fb7cd84aef4",
+      "title": "Official Statistics: Connect to Work Statistics to September 2026",
+      "link": "https://www.gov.uk/government/statistics/announcements/connect-to-work-statistics-to-september-2026",
+      "summary": "Quarterly official statistics on Connect to Work. This release includes data covering the period from April 2025 to September 2026.",
+      "published_at": "2026-09-22T11:14:03",
+      "fetched_at": "2026-09-22T16:14:56",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "a6bd78f6c32e45238afe9348",
+      "title": "Guidance: Check the list of businesses and sites registered for Aggregates Levy",
+      "link": "https://www.gov.uk/government/publications/check-the-list-of-businesses-and-sites-registered-for-aggregates-levy",
+      "summary": "Use this list to check if an aggregates producer or importer is registered for Aggregates Levy.",
+      "published_at": "2026-09-22T11:01:00",
+      "fetched_at": "2026-09-22T16:14:55",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "e4da89e2726bcde258b3b48d",
       "title": "Self Assessment Manual",
@@ -114,6 +323,28 @@
       "summary": "Businesses should prepare now before switchover to continue trading.",
       "published_at": "2026-09-22T09:25:53",
       "fetched_at": "2026-09-22T10:56:46",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "ec457e997b09ceff29b0736f",
+      "title": "VAT Cost Sharing Exemption Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/vat-cost-sharing-exemption-manual",
+      "summary": "Cost Sharing Exemption Manual",
+      "published_at": "2026-09-22T09:07:51",
+      "fetched_at": "2026-09-22T16:14:55",
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "region": "UK",
@@ -11339,227 +11570,6 @@
       "link": "https://www.gov.uk/guidance/how-to-avoid-payslip-fraud",
       "summary": "Check that the tax and National Insurance shown on your payslip or deduction statement has been paid correctly if you’re an agency worker, temporary worker or contractor, or you work through an umbrella or payroll company.",
       "published_at": "2026-08-25T11:58:07",
-      "fetched_at": "2026-08-25T12:41:02",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "7213c0fa925fc4dbe36d10ad",
-      "title": "Self Assessment Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual",
-      "summary": "This manual contains guidance and processes for Self Assessment (SA)",
-      "published_at": "2026-08-25T11:34:37",
-      "fetched_at": "2026-08-25T12:41:02",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "55726f6de12eb8f585b3c693",
-      "title": "Enquiry Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/enquiry-manual",
-      "summary": "How HM Revenue & Customs carries out tax enquiry work",
-      "published_at": "2026-08-25T11:32:20",
-      "fetched_at": "2026-08-25T12:41:02",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "cac9c7e1edc3647ffd8bbff7",
-      "title": "Form: Tell HMRC about the end of a qualifying interest in possession (IHT100b)",
-      "link": "https://www.gov.uk/government/publications/inheritance-tax-termination-of-an-interest-in-possession-iht100b",
-      "summary": "Report a beneficiary's qualifying interest in possession in a trust has come to an end and Inheritance Tax is due using form IHT100b.",
-      "published_at": "2026-08-25T11:21:55",
-      "fetched_at": "2026-08-25T12:41:02",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "37af31e4d685934f81687c4c",
-      "title": "Form: Report an excepted estate for Inheritance Tax for deaths from 6 April 2011 to 31 December 2021 (IHT205)",
-      "link": "https://www.gov.uk/government/publications/report-an-excepted-estate-for-inheritance-tax-for-deaths-from-6-april-2011-to-31-december-2021-iht205",
-      "summary": "Use the print and post form if the person died on or after 6 April 2011, and on or before 31 December 2021, and the estate is unlikely to pay Inheritance Tax.",
-      "published_at": "2026-08-25T11:19:08",
-      "fetched_at": "2026-08-25T12:41:02",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "2478eb6bc6aca1dd3f056a64",
-      "title": "Apply for an agent services account if you're not based in the UK",
-      "link": "https://www.gov.uk/guidance/apply-for-an-agent-services-account-if-you-are-not-based-in-the-uk",
-      "summary": "Find out how to apply for approval to get an agent services account, if your agent business is based outside the UK.",
-      "published_at": "2026-08-25T10:48:41",
-      "fetched_at": "2026-08-25T12:41:02",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "4e0bad958cfb71b76d4091d8",
-      "title": "Notice: Extra Statutory Concessions (VAT Notice 48)",
-      "link": "https://www.gov.uk/government/publications/vat-notice-48-extra-statutory-concessions",
-      "summary": "This notice explains all of HMRC's Extra Statutory Concessions in force at the time of publication.",
-      "published_at": "2026-08-25T10:35:34",
-      "fetched_at": "2026-08-25T12:41:02",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 9,
-      "matched_keywords": [
-        "payroll",
-        "statutory"
-      ]
-    },
-    {
-      "id": "4fb37e0f0c1be6d9dc63d20a",
-      "title": "Claim a refund of Construction Industry Scheme deductions as a limited company",
-      "link": "https://www.gov.uk/guidance/claim-a-refund-of-construction-industry-scheme-deductions-if-youre-a-limited-company",
-      "summary": "Get a refund of your Construction Industry Scheme (CIS) deductions if you're a subcontractor and you've had more taken than you need to pay in tax.",
-      "published_at": "2026-08-25T10:25:57",
-      "fetched_at": "2026-08-25T12:41:02",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "6b55287a9a7ea1e09a042617",
-      "title": "Find payroll software that is recognised by HMRC",
-      "link": "https://www.gov.uk/guidance/find-payroll-software-that-is-recognised-by-hmrc",
-      "summary": "Check for free and paid-for software recognised by HMRC that you can use to report PAYE information online.",
-      "published_at": "2026-08-25T10:08:32",
-      "fetched_at": "2026-08-25T12:41:02",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "10554ee61a51268e0c91d383",
-      "title": "Corporate Intangibles Research and Development Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/corporate-intangibles-research-and-development-manual",
-      "summary": "Corporation Tax and the taxation of intangible assets, remediation of contaminated land, vaccines research relief and tax credits for research & development.",
-      "published_at": "2026-08-25T09:48:34",
-      "fetched_at": "2026-08-25T12:41:02",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "d5cb97970a455c0a963fcf7d",
-      "title": "Accredited official statistics: Monthly property transactions completed in the UK with the value of £40,000 or above",
-      "link": "https://www.gov.uk/government/statistics/announcements/monthly-property-transactions-completed-in-the-uk-with-the-value-of-40000-or-above--29",
-      "summary": "This series looks at monthly property transactions completed in the UK with value of £40,000 or above.",
-      "published_at": "2026-08-25T09:29:20",
       "fetched_at": "2026-08-25T12:41:02",
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
