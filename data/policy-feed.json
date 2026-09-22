@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-09-21T18:04:12",
+  "synced_at": "2026-09-22T03:15:13",
   "total": 500,
-  "new_count": 12,
+  "new_count": 3,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 9,
+      "added": 0,
       "error": null
     },
     {
@@ -40,6 +40,32 @@
     }
   ],
   "items": [
+    {
+      "id": "08afb750c2547cf43dbb341c",
+      "title": "Official Statistics: Benefit cap: number of households capped to May 2026",
+      "link": "https://www.gov.uk/government/statistics/announcements/benefit-cap-number-of-households-capped-to-may-2026",
+      "summary": "Statistics on households that have had their benefits capped between 15 April 2013 and May 2026.",
+      "published_at": "2026-09-21T19:52:53",
+      "fetched_at": "2026-09-22T03:14:53",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 22,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension",
+        "ei"
+      ]
+    },
     {
       "id": "6d762e6e53216460f8beaa13",
       "title": "Pay Stamp Duty Reserve Tax",
@@ -11546,29 +11572,6 @@
       "score": 6,
       "matched_keywords": [
         "payroll"
-      ]
-    },
-    {
-      "id": "29e1c0453fd0a32317f1990e",
-      "title": "Accredited official statistics: Earnings and employment from Pay As You Earn Real Time Information, UK: June 2027",
-      "link": "https://www.gov.uk/government/statistics/announcements/earnings-and-employment-from-pay-as-you-earn-real-time-information-uk-june-2027",
-      "summary": "Monthly estimates of payrolled employees and their pay from HM Revenue and Customs’ (HMRC’s) Pay As You Earn (PAYE) Real Time Information (RTI) data. This is a joint release between HMRC and the Office for National Statistics (ONS)",
-      "published_at": "2026-08-24T12:36:25",
-      "fetched_at": "2026-08-24T12:42:21",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
       ]
     }
   ]
