@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-09-22T05:59:28",
+  "synced_at": "2026-09-22T10:57:06",
   "total": 500,
-  "new_count": 2,
+  "new_count": 13,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 8,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 3,
       "error": null
     },
     {
@@ -40,6 +40,262 @@
     }
   ],
   "items": [
+    {
+      "id": "e4da89e2726bcde258b3b48d",
+      "title": "Self Assessment Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual",
+      "summary": "This manual contains guidance and processes for Self Assessment (SA)",
+      "published_at": "2026-09-22T10:28:32",
+      "fetched_at": "2026-09-22T10:56:46",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "e590f8901a479b48cf2d3269",
+      "title": "Debt Management and Banking Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/debt-management-and-banking",
+      "summary": "Some content of this manual is being considered for archiving. If there is content you use regularly, please email hmrcmanualsteam@hmrc.gov.uk to let us know as soon as possible. Our debt management and banking processes incorporates material covered in the Recovery Manual and the Banking Accounting Guide (BAAG)",
+      "published_at": "2026-09-22T09:50:27",
+      "fetched_at": "2026-09-22T10:56:46",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "12438d993727d53750d4248f",
+      "title": "Guidance: Self Assessment commercial software suppliers",
+      "link": "https://www.gov.uk/government/publications/self-assessment-commercial-software-suppliers",
+      "summary": "Find software suppliers for tax returns, supplementary pages and attachments.",
+      "published_at": "2026-09-22T09:43:45",
+      "fetched_at": "2026-09-22T10:56:46",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "b2722b45b9d01ceb2b0803d3",
+      "title": "Trader Support Service users urged to prepare for new platform",
+      "link": "https://www.gov.uk/government/news/trader-support-service-users-urged-to-prepare-for-new-platform",
+      "summary": "Businesses should prepare now before switchover to continue trading.",
+      "published_at": "2026-09-22T09:25:53",
+      "fetched_at": "2026-09-22T10:56:46",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "054650ea9494c3a0b135cc05",
+      "title": "Capital Gains Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual",
+      "summary": "HMRC is reviewing the CG Manual to ensure it provides HMRC’s interpretation of relevant legislation where there is more than one reasonable view of how rules work.Where material in the CG Manual isn’t providing an interpretation, that material is being removed. Where appropriate, material will be reproduced elsewhere and linked from the CG Manual.",
+      "published_at": "2026-09-22T09:05:27",
+      "fetched_at": "2026-09-22T10:56:46",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "ef760c39b5cb7d7b1e60e030",
+      "title": "Producing Dovey Native Botanical Gin",
+      "link": "https://www.gov.uk/guidance/producing-dovey-native-botanical-gin",
+      "summary": "Find out how to apply to the Spirit Drinks Verification Scheme, pay fees and comply with the product specification for Dovey Native Botanical Gin.",
+      "published_at": "2026-09-22T08:49:58",
+      "fetched_at": "2026-09-22T10:56:46",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "384b040e57e7c295f91c1183",
+      "title": "Official Statistics: Benefit cap: number of households capped to May 2026",
+      "link": "https://www.gov.uk/government/statistics/benefit-cap-number-of-households-capped-to-may-2026",
+      "summary": "Statistics on households that have had their benefits capped between 15 April 2013 and May 2026",
+      "published_at": "2026-09-22T08:30:01",
+      "fetched_at": "2026-09-22T10:56:46",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 22,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension",
+        "ei"
+      ]
+    },
+    {
+      "id": "3176c2429cf8d0c40a6b95b6",
+      "title": "Official Statistics: Pre-release access to DWP statistics",
+      "link": "https://www.gov.uk/government/statistics/pre-release-access-to-statistics-order-2008",
+      "summary": "Job titles of people with pre-release access to Department for Work and Pensions (DWP) statistics and the organisations they belong to.",
+      "published_at": "2026-09-22T08:30:01",
+      "fetched_at": "2026-09-22T10:56:46",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "bbd4042901f51ccbbeadb037",
+      "title": "Guidance: Benefit cap statistics: background information and methodology",
+      "link": "https://www.gov.uk/government/publications/benefit-cap-statistics-background-information-and-methodology",
+      "summary": "Information about benefit cap statistics and methodology including the purpose, source, definitions and limitations of statistics covered.",
+      "published_at": "2026-09-22T08:30:01",
+      "fetched_at": "2026-09-22T10:56:46",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "c48fd2e5f8b20a208f16d79c",
+      "title": "Guidance: National Minimum Wage information for employers",
+      "link": "https://www.gov.uk/government/publications/national-minimum-wage-information-for-employers-nmw-fs1",
+      "summary": "Find out about the checks we carry out to make sure you're paying your workers at least the National Minimum Wage.",
+      "published_at": "2026-09-22T08:00:03",
+      "fetched_at": "2026-09-22T10:56:46",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "minimum wage"
+      ]
+    },
+    {
+      "id": "938508eaa684362e529861fe",
+      "title": "Accredited official statistics: HMRC tax receipts and National Insurance contributions for the UK",
+      "link": "https://www.gov.uk/government/statistics/hmrc-tax-and-nics-receipts-for-the-uk",
+      "summary": "Summary of HM Revenue and Customs' tax receipts, National Insurance contributions (NICs), and expenditure for the UK.",
+      "published_at": "2026-09-22T06:00:07",
+      "fetched_at": "2026-09-22T10:56:46",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
     {
       "id": "08afb750c2547cf43dbb341c",
       "title": "Official Statistics: Benefit cap: number of households capped to May 2026",
@@ -11305,260 +11561,6 @@
       "summary": "This series looks at monthly property transactions completed in the UK with value of £40,000 or above.",
       "published_at": "2026-08-25T09:29:20",
       "fetched_at": "2026-08-25T12:41:02",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "9b56266fa938614d4a949b58",
-      "title": "Guidance: Advice for decision making: staff guide",
-      "link": "https://www.gov.uk/government/publications/advice-for-decision-making-staff-guide",
-      "summary": "Advice for DWP decision makers on Universal Credit, PIP and contribution-based JSA and ESA for people who are eligible for Universal Credit.",
-      "published_at": "2026-08-25T08:30:03",
-      "fetched_at": "2026-08-25T12:41:02",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "f8840f2143643d3c53325ce3",
-      "title": "Agency Information Collection Activities; Comment Request on U.S. Individual Income Tax Returns and Related Forms, Schedules, Attachments, and Published Guidance",
-      "link": "https://www.federalregister.gov/documents/2026/08/25/2026-17292/agency-information-collection-activities-comment-request-on-us-individual-income-tax-returns-and",
-      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
-      "published_at": "2026-08-25T04:00:00",
-      "fetched_at": "2026-08-25T06:40:24",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "payroll",
-        "withholding"
-      ]
-    },
-    {
-      "id": "6c4ec02a6ad06072cf5f2ac7",
-      "title": "Guidance: Compliance checks: Electronic sales suppression —  possession of tools — CC/FS68A",
-      "link": "https://www.gov.uk/government/publications/compliance-checks-electronic-sales-suppression-possession-of-tools-ccfs68a",
-      "summary": "This factsheet tells you about electronic sales suppression (ESS) for the possession of tools.",
-      "published_at": "2026-08-24T23:15:10",
-      "fetched_at": "2026-08-25T01:05:19",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 9,
-      "matched_keywords": [
-        "payroll",
-        "compliance"
-      ]
-    },
-    {
-      "id": "e89f5ddd098fd5869a5c9c99",
-      "title": "Barnsley residents to get practical AI training to help them find work and build future careers",
-      "link": "https://www.gov.uk/government/news/barnsley-residents-to-get-practical-ai-training-to-help-them-find-work-and-build-future-careers",
-      "summary": "Two new schemes will launch in Barnsley to help residents use AI in simple, practical ways – from applying for jobs to preparing for interviews.",
-      "published_at": "2026-08-24T23:01:00",
-      "fetched_at": "2026-08-25T01:05:19",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "f8504d3d7d37373bb9b259fa",
-      "title": "Company Taxation Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual",
-      "summary": "All aspects of company taxation.",
-      "published_at": "2026-08-24T13:41:42",
-      "fetched_at": "2026-08-24T18:35:27",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "e8d6a7480f513380883709be",
-      "title": "Guidance: Basic PAYE Tools: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/basic-paye-tools-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the Basic PAYE Tools (BPT) online service.",
-      "published_at": "2026-08-24T13:37:46",
-      "fetched_at": "2026-08-24T18:35:27",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "dab08fc06f604e9013255d72",
-      "title": "Withdraw funds from your Customs Declaration Service cash account",
-      "link": "https://www.gov.uk/guidance/withdraw-funds-from-your-cash-account-for-cds-declarations",
-      "summary": "Make a request to withdraw funds from your cash account.",
-      "published_at": "2026-08-24T13:01:46",
-      "fetched_at": "2026-08-24T18:35:27",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "fd12539de64f618b5ba40fa7",
-      "title": "Accredited official statistics: Earnings and employment from Pay As You Earn Real Time Information, UK: September 2027",
-      "link": "https://www.gov.uk/government/statistics/announcements/earnings-and-employment-from-pay-as-you-earn-real-time-information-uk-september-2027",
-      "summary": "Monthly estimates of payrolled employees and their pay from HM Revenue and Customs’ (HMRC’s) Pay As You Earn (PAYE) Real Time Information (RTI) data. This is a joint release between HMRC and the Office for National Statistics (ONS)",
-      "published_at": "2026-08-24T12:43:45",
-      "fetched_at": "2026-08-24T18:35:27",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "4841950b7d06a74595e80449",
-      "title": "Accredited official statistics: Earnings and employment from Pay As You Earn Real Time Information, UK: August 2027",
-      "link": "https://www.gov.uk/government/statistics/announcements/earnings-and-employment-from-pay-as-you-earn-real-time-information-uk-august-2027",
-      "summary": "Monthly estimates of payrolled employees and their pay from HM Revenue and Customs’ (HMRC’s) Pay As You Earn (PAYE) Real Time Information (RTI) data. This is a joint release between HMRC and the Office for National Statistics (ONS)",
-      "published_at": "2026-08-24T12:41:44",
-      "fetched_at": "2026-08-24T18:35:27",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "d20d858c16bf783aba9b22d8",
-      "title": "Accredited official statistics: Earnings and employment from Pay As You Earn Real Time Information, UK: July 2027",
-      "link": "https://www.gov.uk/government/statistics/announcements/earnings-and-employment-from-pay-as-you-earn-real-time-information-uk-july-2027",
-      "summary": "Monthly estimates of payrolled employees and their pay from HM Revenue and Customs’ (HMRC’s) Pay As You Earn (PAYE) Real Time Information (RTI) data. This is a joint release between HMRC and the Office for National Statistics (ONS)",
-      "published_at": "2026-08-24T12:39:42",
-      "fetched_at": "2026-08-24T18:35:27",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "eea7636191e286b6f33d8614",
-      "title": "Report a problem using the Customs Declaration Service",
-      "link": "https://www.gov.uk/guidance/report-a-problem-using-the-customs-declaration-service",
-      "summary": "Find out what to do if you experience a problem whilst submitting a declaration using the Customs Declaration Service.",
-      "published_at": "2026-08-24T12:36:34",
-      "fetched_at": "2026-08-24T12:42:21",
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "region": "UK",
