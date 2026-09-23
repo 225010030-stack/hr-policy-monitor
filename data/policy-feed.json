@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-09-23T05:46:31",
+  "synced_at": "2026-09-23T10:44:56",
   "total": 500,
-  "new_count": 3,
+  "new_count": 11,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 6,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 2,
       "error": null
     },
     {
@@ -40,6 +40,193 @@
     }
   ],
   "items": [
+    {
+      "id": "813483458c67d0f046135bcf",
+      "title": "Guidance: Authorised Consignee Temporary Storage (ACTS) location codes for Data Element 5/23 of the Customs Declaration Service",
+      "link": "https://www.gov.uk/government/publications/authorised-consignee-temporary-storage-acts-location-codes-for-data-element-523-of-the-customs-declaration-service",
+      "summary": "Find a list of the codes which can be used in Data Element 5/23 to identify the location where the goods may be examined for Authorised Consignee Temporary Storage (Appendix 16N).",
+      "published_at": "2026-09-23T10:38:28",
+      "fetched_at": "2026-09-23T10:44:36",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "482b354d10c02037fc7fad31",
+      "title": "Almost 3 million young adults are ‘quids in’ after claiming Child Trust Fund",
+      "link": "https://www.gov.uk/government/news/almost-3-million-young-adults-are-quids-in-after-claiming-child-trust-fund",
+      "summary": "Young people urged to go online to find their Child Trust Fund.",
+      "published_at": "2026-09-23T10:15:06",
+      "fetched_at": "2026-09-23T10:44:36",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "70b7455dbe3e234f6d8c67d0",
+      "title": "Capital Gains Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual",
+      "summary": "HMRC is reviewing the CG Manual to ensure it provides HMRC’s interpretation of relevant legislation where there is more than one reasonable view of how rules work.Where material in the CG Manual isn’t providing an interpretation, that material is being removed. Where appropriate, material will be reproduced elsewhere and linked from the CG Manual.",
+      "published_at": "2026-09-23T10:10:49",
+      "fetched_at": "2026-09-23T10:44:36",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "27df40a24c1c25756900e93f",
+      "title": "Corporate report: Funeral Support Payment in Scotland: Service Level Agreement",
+      "link": "https://www.gov.uk/government/publications/funeral-support-payment-in-scotland-service-level-agreement",
+      "summary": "The Service Level Agreement between the Secretary of State for Work and Pensions and Scottish Ministers for people living in Scotland.",
+      "published_at": "2026-09-23T08:30:04",
+      "fetched_at": "2026-09-23T10:44:36",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "e24324528bd1dbeed132d216",
+      "title": "Transparency data: Industrial Injuries Advisory Council public meetings",
+      "link": "https://www.gov.uk/government/publications/industrial-injuries-advisory-council-public-meetings",
+      "summary": "These documents record the discussions at Industrial Injuries Advisory Council (IIAC) public meetings and list the delegates who attended.",
+      "published_at": "2026-09-23T08:27:50",
+      "fetched_at": "2026-09-23T10:44:36",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "1694e6ff90063479f54d3f6a",
+      "title": "Accredited official statistics: Earnings and employment from Pay As You Earn Real Time Information, UK: May 2027",
+      "link": "https://www.gov.uk/government/statistics/announcements/earnings-and-employment-from-pay-as-you-earn-real-time-information-uk-may-2027",
+      "summary": "Monthly estimates of payrolled employees and their pay from HM Revenue and Customs’ (HMRC’s) Pay As You Earn (PAYE) Real Time Information (RTI) data. This is a joint release between HMRC and the Office for National Statistics (ONS).",
+      "published_at": "2026-09-23T08:09:04",
+      "fetched_at": "2026-09-23T10:44:36",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "478fa9d72a92751eae9b7ec1",
+      "title": "Accredited official statistics: Earnings and employment from Pay As You Earn Real Time Information, UK: April 2027",
+      "link": "https://www.gov.uk/government/statistics/announcements/earnings-and-employment-from-pay-as-you-earn-real-time-information-uk-april-2027",
+      "summary": "Monthly estimates of payrolled employees and their pay from HM Revenue and Customs’ (HMRC’s) Pay As You Earn (PAYE) Real Time Information (RTI) data. This is a joint release between HMRC and the Office for National Statistics (ONS).",
+      "published_at": "2026-09-23T08:08:21",
+      "fetched_at": "2026-09-23T10:44:36",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "782e6cec7d7d547ab867eca2",
+      "title": "Debt Management and Banking Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/debt-management-and-banking",
+      "summary": "Some content of this manual is being considered for archiving. If there is content you use regularly, please email hmrcmanualsteam@hmrc.gov.uk to let us know as soon as possible. Our debt management and banking processes incorporates material covered in the Recovery Manual and the Banking Accounting Guide (BAAG)",
+      "published_at": "2026-09-23T07:42:29",
+      "fetched_at": "2026-09-23T10:44:36",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
     {
       "id": "fb6abf603b44b5efdc74cb94",
       "title": "New plan for Britain’s first Workplace Health System",
@@ -11398,197 +11585,6 @@
         "benefits",
         "medical",
         "pension"
-      ]
-    },
-    {
-      "id": "78480448009359f8f40a9d71",
-      "title": "Superfund Tax on Chemical Substances; Request To Modify List of Taxable Substances; Notice of Filing for Methylene Diphenyl Diisocyanate; n=2.0-3.0",
-      "link": "https://www.federalregister.gov/documents/2026/08/26/2026-17432/superfund-tax-on-chemical-substances-request-to-modify-list-of-taxable-substances-notice-of-filing",
-      "summary": "This notice of filing announces that a petition has been filed requesting that methylene diphenyl diisocyanate ((C&lt;INF&gt;8&lt;/INF&gt;H&lt;INF&gt;6&lt;/INF&gt;NO)(C&lt;INF&gt;8&lt;/INF&gt;H&lt;INF&gt;5&lt;/INF&gt;NO)&lt;INF&gt;n-2&lt;/INF&gt; (C&lt;INF&gt;7&lt;/INF&gt;H&lt;INF&gt;4&lt;/INF&gt;NO); n=2.0-3.0), also known as &quot;MDI,&quot; be added to the list of taxable substances. This notice of filing also requests comments on the petition. This notice of filing is not a determination tha",
-      "published_at": "2026-08-26T04:00:00",
-      "fetched_at": "2026-08-26T12:45:10",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "payroll",
-        "withholding"
-      ]
-    },
-    {
-      "id": "ff8b712286ea92e5b139813f",
-      "title": "Superfund Tax on Chemical Substances; Request To Modify List of Taxable Substances; Notice of Filing for Acrylate Monomer Synthetic Rubber; x=587.30, y=583.29, z=258.18, a=1.58",
-      "link": "https://www.federalregister.gov/documents/2026/08/26/2026-17431/superfund-tax-on-chemical-substances-request-to-modify-list-of-taxable-substances-notice-of-filing",
-      "summary": "This notice of filing announces that a petition has been filed requesting that acrylate monomer synthetic rubber ((C&lt;INF&gt;5&lt;/INF&gt;H&lt;INF&gt;8&lt;/INF&gt;O&lt;INF&gt;2&lt;/INF&gt;)&lt;INF&gt;x&lt;/INF&gt;- (C&lt;INF&gt;7&lt;/INF&gt;H&lt;INF&gt;12&lt;/INF&gt;O&lt;INF&gt;2&lt;/INF&gt;)&lt;INF&gt;y&lt;/INF&gt;- (C&lt;INF&gt;6&lt;/INF&gt;H&lt;INF&gt;10&lt;/INF&gt;O&lt;INF&gt;3&lt;/INF&gt;)&lt;INF&gt;z&lt;/INF&gt;- (C&lt;INF&gt;35&lt;/INF&gt;H&lt;INF&gt;62&lt;/INF&gt;O&lt;INF&gt;3&lt;/INF&",
-      "published_at": "2026-08-26T04:00:00",
-      "fetched_at": "2026-08-26T12:45:10",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "payroll",
-        "withholding"
-      ]
-    },
-    {
-      "id": "1e9470afa5204c3cebcdd087",
-      "title": "Superfund Tax on Chemical Substances; Request To Modify List of Taxable Substances; Notice of Filing for Poly(divinylbenzene-ethylvinylbenzene); x=1.33x1017, y=3.27x1016",
-      "link": "https://www.federalregister.gov/documents/2026/08/26/2026-17430/superfund-tax-on-chemical-substances-request-to-modify-list-of-taxable-substances-notice-of-filing",
-      "summary": "This notice of filing announces that a petition has been filed requesting that poly(divinylbenzene-ethylvinylbenzene) ((C&lt;INF&gt;10&lt;/INF&gt;H&lt;INF&gt;10&lt;/INF&gt;)&lt;INF&gt;x&lt;/INF&gt;(C&lt;INF&gt;10&lt;/INF&gt;H&lt;INF&gt;12&lt;/INF&gt; )&lt;INF&gt;y&lt;/INF&gt;; x=1.33x10\\17\\, y=3.27x10\\16\\), also known as &quot;DVB- EVB,&quot; be added to the list of taxable substances. This notice of filing also requests comments on the petition. This notice of filing is not a determination that",
-      "published_at": "2026-08-26T04:00:00",
-      "fetched_at": "2026-08-26T12:45:10",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "payroll",
-        "withholding"
-      ]
-    },
-    {
-      "id": "8d56b913541e8b62ecabf73e",
-      "title": "Pro Rata Share of Subpart F Income, Tested Income, or Tested Loss",
-      "link": "https://www.federalregister.gov/documents/2026/08/26/2026-17365/pro-rata-share-of-subpart-f-income-tested-income-or-tested-loss",
-      "summary": "This document contains proposed regulations relating to the determination of a United States shareholder's pro rata share of subpart F income, tested income, or tested loss of a controlled foreign corporation. The proposed regulations would affect shareholders of foreign corporations, including United States shareholders of controlled foreign corporations.",
-      "published_at": "2026-08-26T04:00:00",
-      "fetched_at": "2026-08-26T12:45:10",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "payroll",
-        "withholding",
-        "ei",
-        "regulation"
-      ]
-    },
-    {
-      "id": "1998fc3c137e4dff23dbca0f",
-      "title": "Guidance: Employing disabled people: Disability Confident and CIPD manager’s guide",
-      "link": "https://www.gov.uk/government/publications/disability-confident-and-cipd-guide-for-line-managers-on-employing-people-with-a-disability-or-health-condition",
-      "summary": "A practical guide for line managers on recruiting, managing and developing people with a disability or health condition.",
-      "published_at": "2026-08-25T15:36:43",
-      "fetched_at": "2026-08-25T18:35:23",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "168731c2e64f0e66f7b34506",
-      "title": "Guidance: GAAR Advisory Panel opinion of 29 July 2026: Disguised Remuneration arrangements using dual payments (enablers of defeated tax avoidance)",
-      "link": "https://www.gov.uk/government/publications/gaar-advisory-panel-opinion-of-29-july-2026-disguised-remuneration-arrangements-using-dual-payments-enablers-of-defeated-tax-avoidance",
-      "summary": "Use the GAAR Advisory Panel opinion on Disguised Remuneration arrangements using dual payments to help you recognise when arrangements may be abusive tax arrangements.",
-      "published_at": "2026-08-25T15:07:57",
-      "fetched_at": "2026-08-25T18:35:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "0542b0b16136fad2e008525e",
-      "title": "Accredited official statistics: Child Benefit Statistics: annual release, August 2025",
-      "link": "https://www.gov.uk/government/statistics/child-benefit-statistics-annual-release-august-2025",
-      "summary": "Geographical analysis of Child Benefit at country, region, local authority, Westminster/Scottish parliamentary constituency and small area level.",
-      "published_at": "2026-08-25T13:39:53",
-      "fetched_at": "2026-08-25T18:35:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "benefit",
-        "payroll"
-      ]
-    },
-    {
-      "id": "1d19a1c3448807b36c9e049c",
-      "title": "Official Statistics: PAYE and corporate tax receipts from the banking sector: 2026",
-      "link": "https://www.gov.uk/government/statistics/announcements/paye-and-corporate-tax-receipts-from-the-banking-sector-2026",
-      "summary": "Statistics on PAYE Income Tax and National Insurance contributions, Bank Levy, Bank Surcharge, Corporation Tax and Bank Payroll Tax receipts from the banking sector.",
-      "published_at": "2026-08-25T13:06:20",
-      "fetched_at": "2026-08-25T18:35:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
       ]
     }
   ]
