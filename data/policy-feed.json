@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-09-24T16:28:40",
+  "synced_at": "2026-09-24T21:07:44",
   "total": 500,
-  "new_count": 27,
+  "new_count": 7,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
       "fetched": 27,
-      "added": 5,
+      "added": 6,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 14,
+      "added": 1,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 8,
+      "added": 0,
       "error": null
     },
     {
@@ -40,6 +40,29 @@
     }
   ],
   "items": [
+    {
+      "id": "1e2e060a517689db30028f9b",
+      "title": "Accredited official statistics: UK Betting and Gaming Statistics",
+      "link": "https://www.gov.uk/government/statistics/announcements/uk-betting-and-gaming-statistics--9",
+      "summary": "Annual betting and gaming receipts and declarations statistics. Updated with provisional data from August 2025 to July 2026.",
+      "published_at": "2026-09-24T16:36:25",
+      "fetched_at": "2026-09-24T21:07:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
     {
       "id": "0263506fbfabf903e0506fb1",
       "title": "Independent report: SSAC Occasional Paper 27: The influence of the social security system on educational and vocational decision-making at age 16",
@@ -11541,28 +11564,6 @@
       "matched_keywords": [
         "payroll",
         "ei"
-      ]
-    },
-    {
-      "id": "193a201b188757ef875d0818",
-      "title": "Official Statistics: Background information and quality report: property rental income statistics",
-      "link": "https://www.gov.uk/government/statistics/background-information-and-quality-report-property-rental-income-statistics",
-      "summary": "Background information and quality report for statistics relating to property rental income.",
-      "published_at": "2026-08-28T08:30:00",
-      "fetched_at": "2026-08-28T09:25:48",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
       ]
     }
   ]
