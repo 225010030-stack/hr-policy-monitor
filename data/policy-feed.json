@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-09-24T06:00:36",
+  "synced_at": "2026-09-24T11:05:31",
   "total": 500,
-  "new_count": 6,
+  "new_count": 27,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
       "fetched": 27,
-      "added": 6,
+      "added": 5,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 16,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 6,
       "error": null
     },
     {
@@ -40,6 +40,516 @@
     }
   ],
   "items": [
+    {
+      "id": "ef8dff67a26ff7b4bab34407",
+      "title": "Guidance: Employers PAYE payment plan: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/employers-paye-payment-plan-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the Employers PAYE payment plan service.",
+      "published_at": "2026-09-24T10:42:59",
+      "fetched_at": "2026-09-24T11:05:10",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "590599de6059d90c5555f008",
+      "title": "Pay Stamp Duty Land Tax",
+      "link": "https://www.gov.uk/guidance/pay-stamp-duty-land-tax",
+      "summary": "How to pay Stamp Duty Land Tax, and how long it takes for your payment to reach HMRC.",
+      "published_at": "2026-09-24T10:37:33",
+      "fetched_at": "2026-09-24T11:05:10",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "e226af5dabafbb141c04722e",
+      "title": "Guidance: Decision makers’ guide: Vol 2: International subjects: staff guide",
+      "link": "https://www.gov.uk/government/publications/decision-makers-guide-vol-2-international-subjects-staff-guide",
+      "summary": "Guidance for DWP decision makers on decision making and appeals.",
+      "published_at": "2026-09-24T09:57:19",
+      "fetched_at": "2026-09-24T11:05:10",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "10b49b933a4087a7b0afe5f6",
+      "title": "Guidance: Report Pillar 2 top-up taxes: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/report-pillar-2-top-up-taxes-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the Report Pillar 2 top-up taxes service.",
+      "published_at": "2026-09-24T09:53:46",
+      "fetched_at": "2026-09-24T11:05:10",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "aa2b8c9833b4f91fce5b98d3",
+      "title": "Corporate report: Named tax avoidance schemes, promoters, enablers and suppliers",
+      "link": "https://www.gov.uk/government/publications/named-tax-avoidance-schemes-promoters-enablers-and-suppliers",
+      "summary": "Information about tax avoidance schemes, promoters, enablers and suppliers of these schemes.",
+      "published_at": "2026-09-24T09:40:24",
+      "fetched_at": "2026-09-24T11:05:10",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "e87a3713e04faec42070ad9c",
+      "title": "Guidance: Self Assessment payment plan: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/self-assessment-payment-plan-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the Self Assessment payment plan service.",
+      "published_at": "2026-09-24T09:08:42",
+      "fetched_at": "2026-09-24T11:05:10",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "6a20d8615adab979679be338",
+      "title": "Guidance: Simple Assessment payment plan: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/simple-assessment-payment-plan-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the Simple Assessment payment plan service.",
+      "published_at": "2026-09-24T09:06:24",
+      "fetched_at": "2026-09-24T11:05:10",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "b5b2c25877203f7cbc46dfdc",
+      "title": "Guidance: VAT payment plan: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/vat-payment-plan-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the VAT payment plan service.",
+      "published_at": "2026-09-24T09:04:39",
+      "fetched_at": "2026-09-24T11:05:10",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "e968943922ea5ca8d7b1ac2f",
+      "title": "Corporate report: Penalties for a failure to correct certain offshore tax non-compliance",
+      "link": "https://www.gov.uk/government/publications/penalties-for-a-failure-to-correct-certain-offshore-tax-non-compliance",
+      "summary": "The current list of people found liable to a penalty for failing to correct their offshore tax non-compliance during the required period.",
+      "published_at": "2026-09-24T08:30:20",
+      "fetched_at": "2026-09-24T11:05:10",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 13,
+      "matched_keywords": [
+        "payroll",
+        "ei",
+        "compliance"
+      ]
+    },
+    {
+      "id": "e5d37af1982e35ed0d6e6fec",
+      "title": "Corporate report: People involved in transactions connected with VAT fraud",
+      "link": "https://www.gov.uk/government/publications/people-involved-in-transactions-connected-with-vat-fraud",
+      "summary": "A list of people penalised for their involvement in transactions connected with VAT fraud.",
+      "published_at": "2026-09-24T08:30:20",
+      "fetched_at": "2026-09-24T11:05:10",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "5908c18ff4492c233f742262",
+      "title": "Official Statistics: Pre-release access to DWP statistics",
+      "link": "https://www.gov.uk/government/statistics/pre-release-access-to-statistics-order-2008",
+      "summary": "Job titles of people with pre-release access to Department for Work and Pensions (DWP) statistics and the organisations they belong to.",
+      "published_at": "2026-09-24T08:30:16",
+      "fetched_at": "2026-09-24T11:05:10",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "a014c039eb06f082482a8d25",
+      "title": "Transparency data: DWP 2025 voluntary reporting on disability, mental health and wellbeing",
+      "link": "https://www.gov.uk/government/publications/dwp-2025-voluntary-reporting-on-disability-mental-health-and-wellbeing",
+      "summary": "DWP's progress on disability, mental health and wellbeing in the workplace, from April 2025 to March 2026.",
+      "published_at": "2026-09-24T08:30:12",
+      "fetched_at": "2026-09-24T11:05:10",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 22,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension",
+        "ei"
+      ]
+    },
+    {
+      "id": "632c9af4faf9becb326b4c96",
+      "title": "Guidance: DWP statistical work programme",
+      "link": "https://www.gov.uk/government/publications/dwp-statistical-work-programme",
+      "summary": "The statistical work programme outlines developments to releases of DWP Official Statistics.",
+      "published_at": "2026-09-24T08:30:11",
+      "fetched_at": "2026-09-24T11:05:10",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "91fb0234e8abb45f2c1a2b6b",
+      "title": "Official Statistics: Economic labour market status of individuals aged 50 and over, trends over time: September 2026",
+      "link": "https://www.gov.uk/government/statistics/economic-labour-market-status-of-individuals-aged-50-and-over-trends-over-time-september-2026",
+      "summary": "Statistics showing the trends over time in the economic labour market status of individuals aged 50 and over.",
+      "published_at": "2026-09-24T08:30:09",
+      "fetched_at": "2026-09-24T11:05:10",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "4b72780a8ec47d52c0b3d216",
+      "title": "Official Statistics: Council Tax: stock of properties, 2026",
+      "link": "https://www.gov.uk/government/statistics/council-tax-stock-of-properties-2026",
+      "summary": "Statistics on the stock of domestic properties by Council Tax Band in England and Wales.",
+      "published_at": "2026-09-24T08:30:08",
+      "fetched_at": "2026-09-24T11:05:10",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "78cd97f9fd1900353e774d86",
+      "title": "Corporate report: Details of deliberate tax defaulters",
+      "link": "https://www.gov.uk/government/publications/publishing-details-of-deliberate-tax-defaulters-pddd",
+      "summary": "The current list of people who deliberately got their tax affairs wrong.",
+      "published_at": "2026-09-24T08:30:08",
+      "fetched_at": "2026-09-24T11:05:10",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "8e86612d3ae62b3538dcdacf",
+      "title": "Accredited official statistics: Background Quality Report: Corporation Tax liabilities and receipts",
+      "link": "https://www.gov.uk/government/statistics/quality-report-corporation-tax-liabilities-and-receipts",
+      "summary": "A report helping users to understand the strengths and limitations of the published statistics.",
+      "published_at": "2026-09-24T08:30:07",
+      "fetched_at": "2026-09-24T11:05:10",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "1dd1a5db1231b15883318477",
+      "title": "Official Statistics: Quality report: Patent Box relief",
+      "link": "https://www.gov.uk/government/statistics/quality-report-patent-box-relief",
+      "summary": "Background information and quality report for statistics relating to the Patent Box relief.",
+      "published_at": "2026-09-24T08:30:07",
+      "fetched_at": "2026-09-24T11:05:10",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "e007bf3b9a0671e4f7838bcc",
+      "title": "Official Statistics: Patent Box reliefs statistics",
+      "link": "https://www.gov.uk/government/statistics/patent-box-reliefs-statistics",
+      "summary": "Information on the number of companies claiming relief under the UK Patent Box and its associated cost to the Exchequer.",
+      "published_at": "2026-09-24T08:30:07",
+      "fetched_at": "2026-09-24T11:05:10",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "c77076f77433863b075e9544",
+      "title": "Accredited official statistics: Corporation Tax Statistics 2026",
+      "link": "https://www.gov.uk/government/statistics/corporation-tax-statistics-2026",
+      "summary": "Analyses of Corporation Tax receipts and liabilities.",
+      "published_at": "2026-09-24T08:30:07",
+      "fetched_at": "2026-09-24T11:05:10",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "5e631fb11217c304abca1388",
+      "title": "Guidance: Housing Benefit adjudication circulars 2026",
+      "link": "https://www.gov.uk/government/publications/housing-benefit-adjudication-circulars-2026",
+      "summary": "Adjudication circulars provide updates to the Housing Benefit guidance manual for local authority staff.",
+      "published_at": "2026-09-24T07:41:03",
+      "fetched_at": "2026-09-24T11:05:10",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "7ae049445872da1ee22e14c6",
+      "title": "Capital Gains Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual",
+      "summary": "HMRC is reviewing the CG Manual to ensure it provides HMRC’s interpretation of relevant legislation where there is more than one reasonable view of how rules work.Where material in the CG Manual isn’t providing an interpretation, that material is being removed. Where appropriate, material will be reproduced elsewhere and linked from the CG Manual.",
+      "published_at": "2026-09-24T07:19:43",
+      "fetched_at": "2026-09-24T11:05:10",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
     {
       "id": "6654182dce668fc2471d680f",
       "title": "Agency Information Collection Activities; Comment Request on Tax Return Preparer Complaint Process and Fraud or Misconduct Affidavit",
@@ -11048,541 +11558,6 @@
         "benefit",
         "benefits",
         "pension"
-      ]
-    },
-    {
-      "id": "8c66d0ae3ae007559b7794c1",
-      "title": "Policy paper: Inheritance Tax on Pensions: Technical Note 2",
-      "link": "https://www.gov.uk/government/publications/inheritance-tax-on-pensions-technical-note-2",
-      "summary": "This further technical note provides additional information to that provided in technical note 1 relating to Inheritance Tax on pensions announced at the Autumn Budget 2024.",
-      "published_at": "2026-08-27T08:30:04",
-      "fetched_at": "2026-08-27T11:06:04",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "pension",
-        "payroll"
-      ]
-    },
-    {
-      "id": "2082369b8fcc4e013b99f06c",
-      "title": "Research: Survey of education professionals: Young people and work report",
-      "link": "https://www.gov.uk/government/publications/survey-of-education-professionals-young-people-and-work-report",
-      "summary": "The young people and work report is an independent review of the increase in the number of young people who are not in education, employment or training (NEET).",
-      "published_at": "2026-08-27T08:30:04",
-      "fetched_at": "2026-08-27T11:06:04",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "5a61006db4e1211690baf218",
-      "title": "Transparency data: HMRC: spending over £500, July 2026",
-      "link": "https://www.gov.uk/government/publications/hmrc-spending-over-500-july-2026",
-      "summary": "Spending by electronic purchasing card solution (ePCS) over £500.",
-      "published_at": "2026-08-27T08:30:02",
-      "fetched_at": "2026-08-27T11:06:04",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "ea9e2f5986b404667eabbd91",
-      "title": "Research: Survey of healthcare professionals: Young people and work report",
-      "link": "https://www.gov.uk/government/publications/survey-of-healthcare-professionals-young-people-and-work-report",
-      "summary": "Survey of healthcare professionals’ views on the rise in young people not in education, employment or training, their health needs and healthcare support.",
-      "published_at": "2026-08-27T08:30:02",
-      "fetched_at": "2026-08-27T11:06:04",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 22,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension",
-        "ei"
-      ]
-    },
-    {
-      "id": "41d9ef7566b5cf8efce2f962",
-      "title": "Research: Survey of young people not in employment, education or training",
-      "link": "https://www.gov.uk/government/publications/survey-of-young-people-not-in-employment-education-or-training",
-      "summary": "The young people and work report is an independent review of the increase in the number of young people who are not in education, employment or training (NEET).",
-      "published_at": "2026-08-27T08:30:02",
-      "fetched_at": "2026-08-27T11:06:04",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "3e5c838fa2d7a94ea96a7ddf",
-      "title": "Research: Young people and work report: General population polling",
-      "link": "https://www.gov.uk/government/publications/young-people-and-work-report-general-population-polling",
-      "summary": "The young people and work report is an independent review of the increase in the number of young people who are not in education, employment or training (NEET).",
-      "published_at": "2026-08-27T08:30:02",
-      "fetched_at": "2026-08-27T11:06:04",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "fb75b88de99265a53416ce3a",
-      "title": "Research: Employer views on hiring young people survey report",
-      "link": "https://www.gov.uk/government/publications/employer-views-on-hiring-young-people-survey-report",
-      "summary": "The young people and work report is an independent review of the increase in the number of young people who are not in education, employment or training (NEET).",
-      "published_at": "2026-08-27T08:30:02",
-      "fetched_at": "2026-08-27T11:06:04",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "ccddb148f6c718ed2e2b6aa2",
-      "title": "Research: Qualitative research with NEET 16 to 24 year olds not currently claiming health or disability benefits",
-      "link": "https://www.gov.uk/government/publications/qualitative-research-with-neet-16-to-24-year-olds-not-currently-claiming-health-or-disability-benefits",
-      "summary": "Study of young people aged 16 to 24 not in education, employment or training (NEET) who were not claiming health or disability benefits.",
-      "published_at": "2026-08-27T08:30:02",
-      "fetched_at": "2026-08-27T11:06:04",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "997fca273737a9786b099163",
-      "title": "Official Statistics: Plastic Packaging Tax (PPT) Statistics",
-      "link": "https://www.gov.uk/government/statistics/plastic-packaging-tax-ppt-statistics",
-      "summary": "Plastic Packaging Tax (PPT) statistics including registered population, tonnages of declared plastic packaging and revenue data.",
-      "published_at": "2026-08-27T08:30:01",
-      "fetched_at": "2026-08-27T11:06:04",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "50d313aa9e0d6d453f97b13b",
-      "title": "Accredited official statistics: Background Quality Report: Capital Gains Tax statistics",
-      "link": "https://www.gov.uk/government/statistics/background-quality-report-capital-gains-tax-cgt-statistics",
-      "summary": "This report relates to Capital Gains Tax statistics published annually by HM Revenue and Customs.",
-      "published_at": "2026-08-27T08:30:01",
-      "fetched_at": "2026-08-27T11:06:04",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "5699a6de5695c76f3c07afda",
-      "title": "Accredited official statistics: Capital Gains Tax statistics",
-      "link": "https://www.gov.uk/government/statistics/capital-gains-tax-statistics",
-      "summary": "Commentary, supporting documents, and tables relating to annual Capital Gains Tax statistics.",
-      "published_at": "2026-08-27T08:30:01",
-      "fetched_at": "2026-08-27T11:06:04",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "965bc373a82dbb600f7a2242",
-      "title": "Official Statistics: Quality report: Plastic Packaging Tax (PPT)",
-      "link": "https://www.gov.uk/government/statistics/quality-report-plastic-packaging-tax-ppt",
-      "summary": "Quality report for statistics related to Annual Plastic Packaging Tax (PPT)",
-      "published_at": "2026-08-27T08:30:01",
-      "fetched_at": "2026-08-27T11:06:04",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "e8bfa0b9fdc8e82c5bf0b706",
-      "title": "Research: Survey of healthcare professionals: Young people and work report",
-      "link": "https://www.gov.uk/government/publications/survey-of-healthcare-professionals-young-people-and-work-report",
-      "summary": "Survey of healthcare professionals’ views on the rise in young people not in education, employment or training, their health needs and healthcare support.",
-      "published_at": "2026-08-27T08:30:00",
-      "fetched_at": "2026-08-27T21:43:01",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 22,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension",
-        "ei"
-      ]
-    },
-    {
-      "id": "c799ae0f2d733c6f3c6e9a8a",
-      "title": "Research: Survey of education professionals: Young people and work report",
-      "link": "https://www.gov.uk/government/publications/survey-of-education-professionals-young-people-and-work-report",
-      "summary": "The young people and work report is an independent review of the increase in the number of young people who are not in education, employment or training (NEET).",
-      "published_at": "2026-08-27T08:30:00",
-      "fetched_at": "2026-08-27T21:43:01",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "6e3038e19791ed76ba0a3276",
-      "title": "Research: Survey of young people not in education, employment or training",
-      "link": "https://www.gov.uk/government/publications/survey-of-young-people-not-in-employment-education-or-training",
-      "summary": "The young people and work report is an independent review of the increase in the number of young people who are not in education, employment or training (NEET).",
-      "published_at": "2026-08-27T08:30:00",
-      "fetched_at": "2026-08-27T21:43:01",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "49027e4b71982b483b181869",
-      "title": "Research: Young people and work report: General population polling",
-      "link": "https://www.gov.uk/government/publications/young-people-and-work-report-general-population-polling",
-      "summary": "The young people and work report is an independent review of the increase in the number of young people who are not in education, employment or training (NEET).",
-      "published_at": "2026-08-27T08:30:00",
-      "fetched_at": "2026-08-27T21:43:01",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "f05a11737d0920f9ff3d2900",
-      "title": "Research: Employer views on hiring young people survey report",
-      "link": "https://www.gov.uk/government/publications/employer-views-on-hiring-young-people-survey-report",
-      "summary": "The young people and work report is an independent review of the increase in the number of young people who are not in education, employment or training (NEET).",
-      "published_at": "2026-08-27T08:30:00",
-      "fetched_at": "2026-08-27T21:43:01",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "84e8cba2d8533a029441ae91",
-      "title": "Research: Qualitative research with NEET 16 to 24 year olds not currently claiming health or disability benefits",
-      "link": "https://www.gov.uk/government/publications/qualitative-research-with-neet-16-to-24-year-olds-not-currently-claiming-health-or-disability-benefits",
-      "summary": "Study of young people aged 16 to 24 not in education, employment or training (NEET) who were not claiming health or disability benefits.",
-      "published_at": "2026-08-27T08:30:00",
-      "fetched_at": "2026-08-27T21:43:01",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "b1f53413ec738232c16896fa",
-      "title": "Guidance: Pension schemes newsletter 184 — August 2026",
-      "link": "https://www.gov.uk/government/publications/pension-schemes-newsletter-184-august-2026",
-      "summary": "Newsletter 184, published by HMRC in August 2026 to update stakeholders on the latest news for pension schemes.",
-      "published_at": "2026-08-27T08:00:04",
-      "fetched_at": "2026-08-27T11:06:04",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "pension",
-        "payroll"
-      ]
-    },
-    {
-      "id": "59b790672adacab787f0b36b",
-      "title": "Official Statistics: Economic labour market status of individuals aged 50 and over, trends over time: September 2026",
-      "link": "https://www.gov.uk/government/statistics/announcements/economic-labour-market-status-of-individuals-aged-50-and-over-trends-over-time-september-2026",
-      "summary": "Headline measures include the average age of labour market exit, the employment rate gap between those aged 50 and over and those aged 35 to 49, and the employment rate of individuals aged 50 and over.",
-      "published_at": "2026-08-27T07:52:20",
-      "fetched_at": "2026-08-27T11:06:04",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "e81b255426fe4104fc2cca27",
-      "title": "Government's Jobs Guarantee turns promise into paycheques for young people",
-      "link": "https://www.gov.uk/government/news/governments-jobs-guarantee-turns-promise-into-paycheques-for-young-people",
-      "summary": "The first young people supported by a new Government programme for the long-term unemployed have started their jobs.",
-      "published_at": "2026-08-26T21:30:03",
-      "fetched_at": "2026-08-27T07:13:22",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 22,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension",
-        "ei"
-      ]
-    },
-    {
-      "id": "efcc84fd607f253ad179cc34",
-      "title": "Government's Jobs Guarantee turns promise into paycheques for young people",
-      "link": "https://www.gov.uk/government/news/governments-jobs-guarantee-turns-promise-into-paycheques-for-young-people",
-      "summary": "The first young people supported by a new Government programme for the long-term unemployed have started their jobs.",
-      "published_at": "2026-08-26T21:30:00",
-      "fetched_at": "2026-08-28T09:25:48",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 22,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension",
-        "ei"
       ]
     }
   ]
