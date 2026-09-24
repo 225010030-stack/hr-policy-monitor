@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-09-24T03:05:32",
+  "synced_at": "2026-09-24T06:00:36",
   "total": 500,
-  "new_count": 7,
+  "new_count": 6,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
-      "fetched": 28,
-      "added": 7,
+      "fetched": 27,
+      "added": 6,
       "error": null
     },
     {
@@ -40,6 +40,30 @@
     }
   ],
   "items": [
+    {
+      "id": "6654182dce668fc2471d680f",
+      "title": "Agency Information Collection Activities; Comment Request on Tax Return Preparer Complaint Process and Fraud or Misconduct Affidavit",
+      "link": "https://www.federalregister.gov/documents/2026/09/24/2026-19602/agency-information-collection-activities-comment-request-on-tax-return-preparer-complaint-process",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+      "published_at": "2026-09-24T04:00:00",
+      "fetched_at": "2026-09-24T06:00:16",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
     {
       "id": "2e7f0c47b2e8cfb166ea07a7",
       "title": "Official Statistics: Department for Work and Pensions Complaints statistics to June 2026",
@@ -11559,31 +11583,6 @@
         "benefits",
         "pension",
         "ei"
-      ]
-    },
-    {
-      "id": "34356a69471c4abc217fa78d",
-      "title": "Accredited official statistics: Housing Benefit Debt Recoveries statistics: April 2025 to March 2026",
-      "link": "https://www.gov.uk/government/statistics/announcements/housing-benefit-debt-recoveries-statistics-april-2025-to-march-2026",
-      "summary": "Data on the amount of Housing Benefit that is overpaid to claimants, the overpayments recovered and amounts written off.",
-      "published_at": "2026-08-26T12:52:55",
-      "fetched_at": "2026-08-26T19:43:43",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
       ]
     }
   ]
