@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-09-25T03:22:10",
+  "synced_at": "2026-09-25T06:02:13",
   "total": 500,
-  "new_count": 7,
+  "new_count": 8,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
-      "fetched": 27,
-      "added": 6,
+      "fetched": 28,
+      "added": 7,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 1,
+      "added": 0,
       "error": null
     },
     {
@@ -40,6 +40,78 @@
     }
   ],
   "items": [
+    {
+      "id": "70cbf17a90745ca96a780064",
+      "title": "Capital Gains Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual",
+      "summary": "HMRC is reviewing the CG Manual to ensure it provides HMRC’s interpretation of relevant legislation where there is more than one reasonable view of how rules work.Where material in the CG Manual isn’t providing an interpretation, that material is being removed. Where appropriate, material will be reproduced elsewhere and linked from the CG Manual.",
+      "published_at": "2026-09-25T05:18:48",
+      "fetched_at": "2026-09-25T06:01:53",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "8a318da5b20df7450a646427",
+      "title": "Open Meeting of the Taxpayer Advocacy Panel Joint Committee",
+      "link": "https://www.federalregister.gov/documents/2026/09/25/2026-19690/open-meeting-of-the-taxpayer-advocacy-panel-joint-committee",
+      "summary": "An open meeting of the Taxpayer Advocacy Panel's Joint Committee will be conducted. The Taxpayer Advocacy Panel is soliciting public comments, ideas, and suggestions to improve customer service at the Internal Revenue Service. This meeting will be held as a virtual video conference via the Microsoft Teams platform.",
+      "published_at": "2026-09-25T04:00:00",
+      "fetched_at": "2026-09-25T06:01:53",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
+    {
+      "id": "74bd3f33e1c03e500833ecbe",
+      "title": "Estate Tax Closing Letter User Fee Update",
+      "link": "https://www.federalregister.gov/documents/2026/09/25/2026-19666/estate-tax-closing-letter-user-fee-update",
+      "summary": "This document contains final regulations relating to the imposition of a user fee on authorized persons requesting the issuance of IRS Letter 627, also referred to as an estate tax closing letter. The final regulations, which adopt without change the text of the proposed regulations, increase the amount of the user fee imposed on a request for the issuance of an estate tax closing letter from $56 to $76. The Independent Offices Appropriations Act of 1952 authorizes the charging of user fees. The",
+      "published_at": "2026-09-25T04:00:00",
+      "fetched_at": "2026-09-25T06:01:53",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 14,
+      "matched_keywords": [
+        "payroll",
+        "withholding",
+        "regulation"
+      ]
+    },
     {
       "id": "61d59617f444febc64cb5213",
       "title": "Government’s digital employment tools help thousands take the next step into work",
@@ -11499,73 +11571,6 @@
         "benefit",
         "benefits",
         "pension"
-      ]
-    },
-    {
-      "id": "46e1cc49a4efd7e7a5d6e764",
-      "title": "Official Statistics: Property rental income statistics",
-      "link": "https://www.gov.uk/government/statistics/property-rental-income-statistics",
-      "summary": "These statistics provide information about unincorporated landlords that file Income Tax Self Assessment returns, their property income, and related expenses.",
-      "published_at": "2026-08-28T08:30:00",
-      "fetched_at": "2026-08-28T09:25:48",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "86e9decd99121fc7df2cc978",
-      "title": "Accredited official statistics: Monthly property transactions completed in the UK with value of £40,000 or above",
-      "link": "https://www.gov.uk/government/statistics/monthly-property-transactions-completed-in-the-uk-with-value-40000-or-above",
-      "summary": "This series looks at monthly property transactions completed in the UK with value of £40,000 or above.",
-      "published_at": "2026-08-28T08:30:00",
-      "fetched_at": "2026-08-28T09:25:48",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "8546c96db4dd1da8d50b23b1",
-      "title": "Official Statistics: Schedule of updates and announcements for HMRC's statistics",
-      "link": "https://www.gov.uk/government/statistics/schedule-of-updates-and-announcements-for-hmrcs-statistics",
-      "summary": "Publication plan for HMRC National and Official Statistics. Any changes to the schedule will be detailed in the announcements.",
-      "published_at": "2026-08-28T08:30:00",
-      "fetched_at": "2026-08-28T09:25:48",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
       ]
     }
   ]
