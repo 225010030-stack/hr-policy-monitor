@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-09-24T21:07:44",
+  "synced_at": "2026-09-25T03:22:10",
   "total": 500,
   "new_count": 7,
   "source_stats": [
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 1,
+      "added": 0,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,31 @@
     }
   ],
   "items": [
+    {
+      "id": "61d59617f444febc64cb5213",
+      "title": "Government’s digital employment tools help thousands take the next step into work",
+      "link": "https://www.gov.uk/government/news/governments-digital-employment-tools-help-thousands-take-the-next-step-into-work",
+      "summary": "Tens of thousands of jobseekers have already benefited from the Government’s new digital employment support tools, helping people build CVs, prepare for interviews and take the next step into work.",
+      "published_at": "2026-09-24T23:01:02",
+      "fetched_at": "2026-09-25T03:21:49",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
     {
       "id": "1e2e060a517689db30028f9b",
       "title": "Accredited official statistics: UK Betting and Gaming Statistics",
@@ -11541,29 +11566,6 @@
       "score": 6,
       "matched_keywords": [
         "payroll"
-      ]
-    },
-    {
-      "id": "1ba00b6bb63fecaec2cf15fa",
-      "title": "Accredited official statistics: Tobacco Bulletin",
-      "link": "https://www.gov.uk/government/statistics/tobacco-bulletin",
-      "summary": "Monthly statistics on duty receipts and clearances for cigarettes and other tobacco products.",
-      "published_at": "2026-08-28T08:30:00",
-      "fetched_at": "2026-08-28T09:25:48",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
       ]
     }
   ]
