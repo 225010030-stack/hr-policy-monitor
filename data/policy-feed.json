@@ -1,12 +1,12 @@
 {
-  "synced_at": "2026-09-26T03:27:34",
+  "synced_at": "2026-09-26T06:01:21",
   "total": 500,
-  "new_count": 13,
+  "new_count": 5,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
-      "fetched": 28,
+      "fetched": 25,
       "added": 5,
       "error": null
     },
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 8,
+      "added": 0,
       "error": null
     },
     {
@@ -40,6 +40,30 @@
     }
   ],
   "items": [
+    {
+      "id": "a157331fde721b1188940da8",
+      "title": "Information Reporting Regarding Qualified Opportunity Zones and Updated Qualified Opportunity Fund Certification and Decertification Procedures",
+      "link": "https://www.federalregister.gov/documents/2026/09/28/C1-2026-18574/information-reporting-regarding-qualified-opportunity-zones-and-updated-qualified-opportunity-fund",
+      "summary": "",
+      "published_at": "2026-09-28T04:00:00",
+      "fetched_at": "2026-09-26T06:01:01",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
     {
       "id": "caa77185a6e49a4efebc910c",
       "title": "Guidance: CDS Declaration Completion Instructions for Exports",
@@ -11522,30 +11546,6 @@
       "score": 6,
       "matched_keywords": [
         "payroll"
-      ]
-    },
-    {
-      "id": "558d8cc38fc1aa244ba73a66",
-      "title": "Agency Information Collection Activities; Comment Request on Form 1098-E",
-      "link": "https://www.federalregister.gov/documents/2026/09/01/2026-17839/agency-information-collection-activities-comment-request-on-form-1098-e",
-      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
-      "published_at": "2026-09-01T04:00:00",
-      "fetched_at": "2026-09-01T11:04:02",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "payroll",
-        "withholding"
       ]
     }
   ]
