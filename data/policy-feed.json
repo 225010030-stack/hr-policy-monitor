@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-09-26T06:01:21",
+  "synced_at": "2026-09-26T10:47:44",
   "total": 500,
-  "new_count": 5,
+  "new_count": 7,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 2,
       "error": null
     },
     {
@@ -62,6 +62,51 @@
       "matched_keywords": [
         "payroll",
         "withholding"
+      ]
+    },
+    {
+      "id": "6b5a604a1dea6b7f3a0d62e3",
+      "title": "Claim a waiver for duty on goods that you bring to Northern Ireland from Great Britain or countries outside the UK and EU",
+      "link": "https://www.gov.uk/guidance/claim-a-waiver-for-duty-on-goods-that-you-bring-to-northern-ireland-from-great-britain",
+      "summary": "Find out how to claim a customs duty waiver if you are bringing goods into Northern Ireland from Great Britain or countries outside the UK and EU which might otherwise be charged ‘at risk’ tariffs.",
+      "published_at": "2026-09-26T07:00:01",
+      "fetched_at": "2026-09-26T10:47:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "3357b9ce36550f70c3915a6f",
+      "title": "Report payments and view your allowance for non-customs state aid and Customs Duty waiver claims",
+      "link": "https://www.gov.uk/guidance/report-payments-and-view-your-allowance-for-non-customs-state-aid-and-customs-duty-waiver-claims",
+      "summary": "Use the online service to report non-customs state aid payments you’ve received to HMRC and view your state aid allowance if you’ve claimed Customs Duty waivers.",
+      "published_at": "2026-09-26T07:00:01",
+      "fetched_at": "2026-09-26T10:47:23",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
       ]
     },
     {
@@ -11487,51 +11532,6 @@
       "link": "https://www.gov.uk/guidance/claim-back-an-import-security-deposit-or-guarantee",
       "summary": "Use this service for Temporary Admission, inward processing or authorised use with an authorisation by declaration, or if proof of origin was not available at the time of import.",
       "published_at": "2026-09-01T08:17:36",
-      "fetched_at": "2026-09-01T11:04:04",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "d140263a9e30bb9e8692c7fb",
-      "title": "Check the recognised overseas pension schemes notification list",
-      "link": "https://www.gov.uk/guidance/check-the-recognised-overseas-pension-schemes-notification-list",
-      "summary": "Find schemes that have told HMRC they meet the conditions to be a recognised overseas pension scheme (ROPS).",
-      "published_at": "2026-09-01T08:00:03",
-      "fetched_at": "2026-09-01T11:04:04",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "pension",
-        "payroll"
-      ]
-    },
-    {
-      "id": "b09b72cb5819512ebb2e8eee",
-      "title": "Guidance: List of Individual Savings Account (ISA) managers approved by HMRC",
-      "link": "https://www.gov.uk/government/publications/list-of-individual-savings-account-isa-managers-approved-by-hmrc",
-      "summary": "Find ISA managers approved by HMRC from October 2014.",
-      "published_at": "2026-09-01T08:00:03",
       "fetched_at": "2026-09-01T11:04:04",
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
