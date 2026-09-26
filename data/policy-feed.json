@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-09-25T21:04:53",
+  "synced_at": "2026-09-26T03:27:34",
   "total": 500,
-  "new_count": 5,
+  "new_count": 13,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 8,
       "error": null
     },
     {
@@ -40,6 +40,183 @@
     }
   ],
   "items": [
+    {
+      "id": "caa77185a6e49a4efebc910c",
+      "title": "Guidance: CDS Declaration Completion Instructions for Exports",
+      "link": "https://www.gov.uk/government/publications/uk-trade-tariff-cds-volume-3-export-declaration-completion-guide",
+      "summary": "This guide provides detailed completion instructions for data elements when making a written export declaration to the Customs Declaration Service (CDS).",
+      "published_at": "2026-09-25T23:15:00",
+      "fetched_at": "2026-09-26T03:27:14",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "66e27f3b5614810a321194f4",
+      "title": "Guidance: Excise tax types, excise duty rates and supplementary guidance",
+      "link": "https://www.gov.uk/government/publications/excise-tax-types-excise-duty-rates-and-supplementary-guidance",
+      "summary": "Find tax type codes (DE 4/3) which may be declared for goods liable to excise duty, their associated excise duty rates and guidance on how to determine the tax types that apply to goods liable to excise duty.",
+      "published_at": "2026-09-25T23:15:00",
+      "fetched_at": "2026-09-26T03:27:14",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "52b2a174e4f4a7934c08ef9d",
+      "title": "Guidance: CDS Declaration Completion Instructions for Imports",
+      "link": "https://www.gov.uk/government/publications/cds-uk-trade-tariff-volume-3-import-declaration-completion-guide",
+      "summary": "This guide provides detailed completion instructions for data elements when making an import declaration to the Customs Declaration Service (CDS).",
+      "published_at": "2026-09-25T23:15:00",
+      "fetched_at": "2026-09-26T03:27:14",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "4933ba22df91bf93d275037d",
+      "title": "Guidance: Tax types for Data Element 4/3 of the Customs Declaration Service",
+      "link": "https://www.gov.uk/government/publications/tax-types-for-data-element-43-of-the-customs-declaration-service",
+      "summary": "Find the tax type codes which identify the kinds of duty or tax to be paid or secured (Appendix 8).",
+      "published_at": "2026-09-25T23:15:00",
+      "fetched_at": "2026-09-26T03:27:14",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "e5e28826b3b63d2de40d94b2",
+      "title": "Guidance: Currency codes for Data Element 4/10 of the Customs Declaration Service",
+      "link": "https://www.gov.uk/government/publications/currency-codes-for-data-element-410-of-the-customs-declaration-service",
+      "summary": "Find the currency codes to be used with Data Element (DE) 4/10 of the Customs Declaration Service (Appendix 11).",
+      "published_at": "2026-09-25T23:15:00",
+      "fetched_at": "2026-09-26T03:27:14",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "a0b005c4a40dfb0b50f731d5",
+      "title": "Guidance: CDS Customs Clearance Request Completion Instructions for Inventory Exports",
+      "link": "https://www.gov.uk/government/publications/uk-trade-tariff-cds-volume-3-c21-customs-clearance-request-completion-guide-inventory-exports",
+      "summary": "This Data Element Completion Guide relates to Customs Declaration Service (CDS) Customs Clearance Requests ((CCR) inventory releases previously referred to as C21s) for export purposes only.",
+      "published_at": "2026-09-25T23:15:00",
+      "fetched_at": "2026-09-26T03:27:14",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "a3272a4a268411ac5644cce4",
+      "title": "Guidance: CDS BIRDS Declarations and Customs Clearance Request completion instructions",
+      "link": "https://www.gov.uk/government/publications/cds-birds-declarations-and-customs-clearance-request-completion-instructions",
+      "summary": "These Data Element Completion instructions relate to Customs Declaration Service (CDS) Customs Clearance Requests ((CCR) inventory releases previously referred to as C21s) for import purposes only.",
+      "published_at": "2026-09-25T23:15:00",
+      "fetched_at": "2026-09-26T03:27:14",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "592ffa3bde307199eb507cb0",
+      "title": "Guidance: National additional codes to declare with Data Element 6/17 of the Customs Declaration Service",
+      "link": "https://www.gov.uk/government/publications/national-additional-codes-to-declare-with-data-element-617-of-the-customs-declaration-service",
+      "summary": "Find the national additional codes to be declared in Data Element 6/17 to calculate duties and taxes (Appendix 19).",
+      "published_at": "2026-09-25T23:15:00",
+      "fetched_at": "2026-09-26T03:27:14",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "c5fbc8ca051fa06731bf7813",
       "title": "Accredited official statistics: Monthly property transactions completed in the UK with the value of £40,000 or above",
@@ -11369,201 +11546,6 @@
       "matched_keywords": [
         "payroll",
         "withholding"
-      ]
-    },
-    {
-      "id": "6331b3d83e839c4b951c47b9",
-      "title": "Admin Law Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/admin-law-manual",
-      "summary": "Guidance on admin law covering incorrect advice to customers, collection and management, extra statutory concessions and statements of practice.",
-      "published_at": "2026-09-01T00:00:00",
-      "fetched_at": "2026-09-01T11:04:04",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 9,
-      "matched_keywords": [
-        "payroll",
-        "statutory"
-      ]
-    },
-    {
-      "id": "3e4f92ae237c33820080f09e",
-      "title": "Rates and thresholds for employers 2026 to 2027",
-      "link": "https://www.gov.uk/guidance/rates-and-thresholds-for-employers-2026-to-2027",
-      "summary": "Use these rates and thresholds when you operate your payroll or provide expenses and benefits to your employees.",
-      "published_at": "2026-08-31T23:15:03",
-      "fetched_at": "2026-09-01T03:30:11",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 14,
-      "matched_keywords": [
-        "benefit",
-        "benefits",
-        "payroll"
-      ]
-    },
-    {
-      "id": "ea48c668ec577f413073e065",
-      "title": "Guidance: Transit newsletters — HMRC updates",
-      "link": "https://www.gov.uk/government/publications/community-common-transit-and-tir-newsletters",
-      "summary": "Check for the latest updates about moving goods using transit and the New Computerised Transit System (NCTS).",
-      "published_at": "2026-08-31T23:01:05",
-      "fetched_at": "2026-09-01T03:30:11",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "847fdcb0d9555151815e60f1",
-      "title": "Guidance: Personal Independence Payment (PIP) assessment guide for Assessment Providers",
-      "link": "https://www.gov.uk/government/publications/personal-independence-payment-assessment-guide-for-assessment-providers",
-      "summary": "Guidance for Health Professionals carrying out PIP assessment activity and for those responsible for the quality of PIP assessments.",
-      "published_at": "2026-08-31T08:30:05",
-      "fetched_at": "2026-08-31T12:39:08",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "467dc702c7bc9739cbdfdf92",
-      "title": "Guidance: Work Capability Assessment handbook: for healthcare professionals",
-      "link": "https://www.gov.uk/government/publications/work-capability-assessment-handbook-for-healthcare-professionals",
-      "summary": "This guidance is for healthcare professionals who undertake Work Capability Assessments on behalf of the Department for Work and Pensions.",
-      "published_at": "2026-08-31T08:30:05",
-      "fetched_at": "2026-08-31T12:39:08",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "bf04d744362e84e3b67899c7",
-      "title": "Section 898(c) Transition Rule for Allocating Foreign Taxes and Section 960(d)(4) Foreign Tax Credit Disallowance; Correction",
-      "link": "https://www.federalregister.gov/documents/2026/08/31/2026-17764/section-898c-transition-rule-for-allocating-foreign-taxes-and-section-960d4-foreign-tax-credit",
-      "summary": "This document contains corrections to the proposed regulations (REG-115145-25), published in the Federal Register on August 3, 2026. These proposed regulations relate to allocating foreign taxes of foreign corporations affected by the repeal of the one-month deferral election and to the disallowance of foreign tax credits on certain distributions of previously taxed earnings and profits.",
-      "published_at": "2026-08-31T04:00:00",
-      "fetched_at": "2026-08-29T07:46:56",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "payroll",
-        "withholding",
-        "ei",
-        "regulation"
-      ]
-    },
-    {
-      "id": "6810dd58e373356347bb30a3",
-      "title": "Internal Revenue Service Advisory Council; Public Meeting",
-      "link": "https://www.federalregister.gov/documents/2026/08/31/2026-17758/internal-revenue-service-advisory-council-public-meeting",
-      "summary": "The Internal Revenue Service Advisory Council will hold a public meeting.",
-      "published_at": "2026-08-31T04:00:00",
-      "fetched_at": "2026-08-29T07:46:56",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "payroll",
-        "withholding"
-      ]
-    },
-    {
-      "id": "1220b8b9f0bd0c638a54eff0",
-      "title": "Agency Information Collection Activities; Comment Request on Foreign Account Tax Compliance Act (FATCA) Registration",
-      "link": "https://www.federalregister.gov/documents/2026/08/31/2026-17744/agency-information-collection-activities-comment-request-on-foreign-account-tax-compliance-act-fatca",
-      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
-      "published_at": "2026-08-31T04:00:00",
-      "fetched_at": "2026-08-29T07:46:56",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "payroll",
-        "withholding",
-        "ei",
-        "compliance"
       ]
     }
   ]
