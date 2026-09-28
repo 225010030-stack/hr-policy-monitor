@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-09-27T20:51:30",
+  "synced_at": "2026-09-28T03:34:23",
   "total": 500,
-  "new_count": 6,
+  "new_count": 7,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -28,7 +28,7 @@
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 1,
+      "added": 2,
       "error": null
     },
     {
@@ -62,6 +62,56 @@
       "matched_keywords": [
         "payroll",
         "withholding"
+      ]
+    },
+    {
+      "id": "8db7465df07b13e02fbe17c7",
+      "title": "Guidance: Pathways to Work Innovation Fund: applicant bid pack",
+      "link": "https://www.gov.uk/government/publications/pathways-to-work-innovation-fund-applicant-bid-pack",
+      "summary": "This pack explains the Pathways to Work Innovation Fund, how to apply for grant funding, and whether it is right for your organisation.",
+      "published_at": "2026-09-27T23:01:03",
+      "fetched_at": "2026-09-28T03:34:03",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "5d273943dd9a7ba8db6306ba",
+      "title": "Guidance: Pathways to Work Innovation Fund",
+      "link": "https://www.gov.uk/government/publications/pathways-to-work-innovation-fund",
+      "summary": "Information about the Innovation Fund.",
+      "published_at": "2026-09-27T23:01:03",
+      "fetched_at": "2026-09-28T03:34:03",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
       ]
     },
     {
@@ -11502,50 +11552,6 @@
         "benefit",
         "benefits",
         "pension"
-      ]
-    },
-    {
-      "id": "d83b9e28bb2e6fe1985f26bc",
-      "title": "Promotional material: Vaping Products Duty and Vaping Duty Stamps Scheme — communications resources",
-      "link": "https://www.gov.uk/government/publications/vaping-products-duty-and-vaping-duty-stamps-scheme-communications-resources",
-      "summary": "These resources are designed to enable you to cascade accurate, timely information about the upcoming Vaping Products Duty and Vaping Duty Stamps Scheme to your members.",
-      "published_at": "2026-09-01T08:30:02",
-      "fetched_at": "2026-09-01T11:04:04",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "bcff53c723676c780f7fa5d3",
-      "title": "Transparency data: HMRC: spending over £25,000, July 2026",
-      "link": "https://www.gov.uk/government/publications/hmrc-spending-over-25000-july-2026",
-      "summary": "Reports on departmental spending over £25,000.",
-      "published_at": "2026-09-01T08:30:02",
-      "fetched_at": "2026-09-01T11:04:04",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
       ]
     }
   ]
