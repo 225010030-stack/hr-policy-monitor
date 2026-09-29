@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-09-29T12:06:22",
+  "synced_at": "2026-09-29T21:50:33",
   "total": 500,
-  "new_count": 31,
+  "new_count": 10,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 18,
+      "added": 1,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 7,
+      "added": 3,
       "error": null
     },
     {
@@ -40,6 +40,103 @@
     }
   ],
   "items": [
+    {
+      "id": "c4989c7bcd0b53a4a4fe31aa",
+      "title": "Research: State Pension uprating analysis 2026",
+      "link": "https://www.gov.uk/government/publications/state-pension-uprating-analysis-2026",
+      "summary": "This ad hoc analysis examines the impact of the adjusted Triple Lock.",
+      "published_at": "2026-09-29T16:22:20",
+      "fetched_at": "2026-09-29T21:50:13",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "6c39802c8d0e87095333a231",
+      "title": "Guidance: LA Welfare Direct bulletins: 2026",
+      "link": "https://www.gov.uk/government/publications/la-welfare-direct-bulletins-2026",
+      "summary": "These LA Welfare Direct bulletins provide information that affects Housing Benefit and other areas of DWP, to local authority staff.",
+      "published_at": "2026-09-29T15:53:53",
+      "fetched_at": "2026-09-29T21:50:13",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "f5ff5933d797efdb95f7c517",
+      "title": "Guidance: Disability Confident service providers",
+      "link": "https://www.gov.uk/government/publications/disability-confident-service-providers",
+      "summary": "This document gives the contact details of service providers who may be able to help businesses become Disability Confident employers.",
+      "published_at": "2026-09-29T15:08:26",
+      "fetched_at": "2026-09-29T21:50:13",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "b84e584363cec48c3abadfff",
+      "title": "Guidance: VAT online: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/vat-online-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the VAT online service.",
+      "published_at": "2026-09-29T12:47:17",
+      "fetched_at": "2026-09-29T21:50:13",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "398332674854e8f6fbfb2019",
       "title": "Compliance Handbook",
@@ -11462,98 +11559,6 @@
       "score": 6,
       "matched_keywords": [
         "payroll"
-      ]
-    },
-    {
-      "id": "9163981e20deee493fe968a5",
-      "title": "Guidance: Childcare service: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/tax-free-childcare-service-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the Childcare service.",
-      "published_at": "2026-09-03T07:54:25",
-      "fetched_at": "2026-09-03T10:39:00",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "14cb65525b15e9b9099b53e7",
-      "title": "Guidance: Filing your Company Tax Return online",
-      "link": "https://www.gov.uk/government/publications/corporation-tax-commercial-software-suppliers",
-      "summary": "Find recognised commercial software suppliers and software you can use to file your Company Tax Return and any supplementary pages online.",
-      "published_at": "2026-09-03T07:50:42",
-      "fetched_at": "2026-09-03T10:39:00",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "db561473ce43923df2c4c350",
-      "title": "Agency Information Collection Activities: Comment Request on the Burden Related to the Advance Notice of Rescission of Health Coverage",
-      "link": "https://www.federalregister.gov/documents/2026/09/03/2026-18014/agency-information-collection-activities-comment-request-on-the-burden-related-to-the-advance-notice",
-      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
-      "published_at": "2026-09-03T04:00:00",
-      "fetched_at": "2026-09-03T05:36:52",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "payroll",
-        "withholding"
-      ]
-    },
-    {
-      "id": "a3f4462b39a968bc786062d7",
-      "title": "Agency Information Collection Activities: Comment Request on the Burden Related to the Fuel Tax Guidance and Related Third-Party Disclosure and Recordkeeping Requirements",
-      "link": "https://www.federalregister.gov/documents/2026/09/03/2026-18013/agency-information-collection-activities-comment-request-on-the-burden-related-to-the-fuel-tax",
-      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
-      "published_at": "2026-09-03T04:00:00",
-      "fetched_at": "2026-09-03T05:36:52",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "payroll",
-        "withholding"
       ]
     }
   ]
