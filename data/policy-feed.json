@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-09-29T21:50:33",
+  "synced_at": "2026-09-30T03:55:35",
   "total": 500,
   "new_count": 10,
   "source_stats": [
@@ -7,7 +7,7 @@
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
       "fetched": 25,
-      "added": 6,
+      "added": 8,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 1,
+      "added": 2,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 3,
+      "added": 0,
       "error": null
     },
     {
@@ -40,6 +40,50 @@
     }
   ],
   "items": [
+    {
+      "id": "918ba3d03c8f28d91ce0ac6c",
+      "title": "Pay your Economic Crime Levy",
+      "link": "https://www.gov.uk/guidance/pay-your-economic-crime-levy",
+      "summary": "How to pay the Economic Crime Levy, and how long it takes for your payment to reach HMRC.",
+      "published_at": "2026-09-29T23:15:01",
+      "fetched_at": "2026-09-30T03:55:14",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "072846aee7f131089848e950",
+      "title": "Submit a return for the Economic Crime Levy",
+      "link": "https://www.gov.uk/guidance/submit-a-return-for-the-economic-crime-levy",
+      "summary": "Find out how to submit a return and how to amend a return for the Economic Crime Levy.",
+      "published_at": "2026-09-29T23:15:01",
+      "fetched_at": "2026-09-30T03:55:14",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "c4989c7bcd0b53a4a4fe31aa",
       "title": "Research: State Pension uprating analysis 2026",
@@ -11498,53 +11542,6 @@
       "link": "https://www.gov.uk/government/publications/pay-as-you-earn-paye-service-availability-and-issues",
       "summary": "Check the availability and any issues affecting the PAYE online service.",
       "published_at": "2026-09-03T08:03:58",
-      "fetched_at": "2026-09-03T10:39:00",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "7d6799f4fe02060491101b20",
-      "title": "Guaranteed Minimum Pensions Fixed Rate Revaluation",
-      "link": "https://www.gov.uk/government/consultations/guaranteed-minimum-pensions-fixed-rate-revaluation",
-      "summary": "We are seeking views on the proposed continuation of 3.25% per annum as the rate of revaluation applied to fixed rate revaluation of Guaranteed Minimum Pensions (GMPs) for early leavers.",
-      "published_at": "2026-09-03T08:00:03",
-      "fetched_at": "2026-09-03T10:39:00",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "e25f804aa9e5db17d1509420",
-      "title": "Guidance: Help to Save: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/help-to-save-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the Help to Save service.",
-      "published_at": "2026-09-03T07:57:29",
       "fetched_at": "2026-09-03T10:39:00",
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
