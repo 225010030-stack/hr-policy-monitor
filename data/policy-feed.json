@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-09-30T11:54:06",
+  "synced_at": "2026-09-30T17:35:36",
   "total": 500,
-  "new_count": 21,
+  "new_count": 15,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
-      "fetched": 26,
-      "added": 9,
+      "fetched": 28,
+      "added": 10,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 10,
+      "added": 4,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 2,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,119 @@
     }
   ],
   "items": [
+    {
+      "id": "f6ff5e1585aa0682339c6d52",
+      "title": "Transparency data: Industrial Injuries Advisory Council public meetings",
+      "link": "https://www.gov.uk/government/publications/industrial-injuries-advisory-council-public-meetings",
+      "summary": "These documents record the discussions at Industrial Injuries Advisory Council (IIAC) public meetings and list the delegates who attended.",
+      "published_at": "2026-09-30T14:36:05",
+      "fetched_at": "2026-09-30T17:35:16",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "2bf9279cfd9711f0d7bc58bb",
+      "title": "Correspondence: Edition 7: Making Tax Digital for Income Tax — software developer newsletter",
+      "link": "https://www.gov.uk/government/publications/edition-7-making-tax-digital-for-income-tax-software-developer-newsletter",
+      "summary": "HMRC's newsletter for software developers for Making Tax Digital for Income Tax.",
+      "published_at": "2026-09-30T14:19:21",
+      "fetched_at": "2026-09-30T17:35:16",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "8070751c0c4965a67872c64e",
+      "title": "Guidance: Income Record Viewer for agents: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/income-record-viewer-for-agents-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the Income Record Viewer for agents service.",
+      "published_at": "2026-09-30T14:15:18",
+      "fetched_at": "2026-09-30T17:35:16",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "7955fdf1f74cf69a6a4fa1ae",
+      "title": "Enquiry Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/enquiry-manual",
+      "summary": "How HM Revenue & Customs carries out tax enquiry work",
+      "published_at": "2026-09-30T12:38:09",
+      "fetched_at": "2026-09-30T17:35:16",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "374238aa0bad17fd385c793a",
+      "title": "Guidance: Data Element 2/3: Documents and Other Reference Codes (Union) of the Customs Declaration Service (CDS)",
+      "link": "https://www.gov.uk/government/publications/data-element-23-documents-and-other-reference-codes-union-of-the-customs-declaration-service-cds",
+      "summary": "Find the relevant document codes, document status codes and details to be declared such as licences and certificates (Appendix 5A).",
+      "published_at": "2026-09-30T12:27:00",
+      "fetched_at": "2026-09-30T17:35:16",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "60b66ecfd86e2f9efb18dd6e",
       "title": "Transparency data: DWP spending over £25,000, April 2026",
@@ -319,6 +432,56 @@
       "summary": "This document contains temporary regulations regarding general requirements for Trump accounts, the establishment of an initial Trump account (including automatic enrollment by the Secretary of the Treasury), and qualified general contributions (including qualified stock contributions), which are a special type of contribution made to Trump accounts. These temporary regulations affect trustees of Trump accounts, account beneficiaries of Trump accounts, responsible parties of Trump accounts, and ",
       "published_at": "2026-09-30T04:00:00",
       "fetched_at": "2026-09-30T11:53:46",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 14,
+      "matched_keywords": [
+        "payroll",
+        "withholding",
+        "regulation"
+      ]
+    },
+    {
+      "id": "a1f96ef88dba6fca83f5edf4",
+      "title": "Trump Accounts",
+      "link": "https://www.federalregister.gov/documents/2026/09/30/2026-20027/trump-accounts",
+      "summary": "This document contains proposed regulations regarding general requirements for Trump accounts, the establishment of an initial Trump account (including automatic enrollment by the Secretary of the Treasury) and qualified general contributions (including qualified stock contributions), which are a special type of contribution made to Trump accounts. This document also withdraws a prior notice of proposed rulemaking (REG-117270-25) containing proposed regulations regarding the election to establis",
+      "published_at": "2026-09-30T04:00:00",
+      "fetched_at": "2026-09-30T17:35:16",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 14,
+      "matched_keywords": [
+        "payroll",
+        "withholding",
+        "regulation"
+      ]
+    },
+    {
+      "id": "1b39f3c732c5105db108f61d",
+      "title": "Employer Contributions to Trump Accounts and Nondiscrimination Rules for Dependent Care Assistance Programs; Hearing",
+      "link": "https://www.federalregister.gov/documents/2026/09/30/2026-20021/employer-contributions-to-trump-accounts-and-nondiscrimination-rules-for-dependent-care-assistance",
+      "summary": "This document announces that the public hearing scheduled for October 15, 2026, at 10 a.m. ET, for the notice of proposed rulemaking and notice of public hearing (REG-101355-26) published in the Federal Register on August 11, 2026, has been changed to a telephonic-only hearing. These proposed regulations would provide guidance with respect to employer contributions to Trump accounts, including applicable nondiscrimination rules, and the nondiscrimination rules for dependent care assistance progr",
+      "published_at": "2026-09-30T04:00:00",
+      "fetched_at": "2026-09-30T17:35:16",
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
       "region": "US",
@@ -11403,161 +11566,6 @@
       "matched_keywords": [
         "payroll",
         "regulation"
-      ]
-    },
-    {
-      "id": "ccc45780e4bae981dc99ec6b",
-      "title": "Guidance: Get access to Manage your Alcohol Duty online: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/get-access-to-manage-your-alcohol-duty-online-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the get access to the Manage your Alcohol Duty online service.",
-      "published_at": "2026-09-03T14:19:47",
-      "fetched_at": "2026-09-03T15:45:07",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "ccc3c29f0132bcb289cc83c6",
-      "title": "Form: Inheritance Tax account (IHT400)",
-      "link": "https://www.gov.uk/government/publications/inheritance-tax-inheritance-tax-account-iht400",
-      "summary": "Apply for probate or confirmation if there's Inheritance Tax to pay, or if the deceased's estate does not qualify as an 'excepted estate'.",
-      "published_at": "2026-09-03T14:19:26",
-      "fetched_at": "2026-09-03T15:45:07",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "6cd7953187c124fb7740599f",
-      "title": "Guidance: Maritime ports and wharves location codes for Data Element 5/23 of the Customs Declaration Service",
-      "link": "https://www.gov.uk/government/publications/maritime-ports-and-wharves-location-codes-for-data-element-523-of-the-customs-declaration-service",
-      "summary": "Find the codes which can be used in Data Element 5/23 to identify the location where the goods may be examined for maritime ports and wharves (Appendix 16C).",
-      "published_at": "2026-09-03T12:45:00",
-      "fetched_at": "2026-09-03T15:45:07",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "b4c87fab0a9f7631642f3ff4",
-      "title": "Guidance: External temporary storage facilities codes for Data Element 5/23 of the Customs Declaration Service",
-      "link": "https://www.gov.uk/government/publications/external-temporary-storage-facilities-codes-for-data-element-523-of-the-customs-declaration-service",
-      "summary": "Find the codes which can be used in Data Element 5/23 to identify the location where the goods may be examined for an external temporary storage facility (ETSF) (Appendix 16F).",
-      "published_at": "2026-09-03T12:43:38",
-      "fetched_at": "2026-09-03T15:45:07",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "d51a872908780ac3373a6610",
-      "title": "Guidance: Agent services account: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/agent-services-account-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the agent services account.",
-      "published_at": "2026-09-03T12:03:11",
-      "fetched_at": "2026-09-03T15:45:07",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "5e6a835ac3734ea05326d82e",
-      "title": "Guidance: Agent services account if you’re not based in the UK: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/agent-services-account-if-you-are-not-based-in-the-uk-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the approval and set up of your agent services account if you are not based in the UK.",
-      "published_at": "2026-09-03T11:59:55",
-      "fetched_at": "2026-09-03T15:45:07",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "e84ec92e7aaaac79c0bc2307",
-      "title": "Guidance: Child Benefit: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/child-benefit-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the Child Benefit online service.",
-      "published_at": "2026-09-03T11:44:50",
-      "fetched_at": "2026-09-03T15:45:07",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "benefit",
-        "payroll"
       ]
     }
   ]
