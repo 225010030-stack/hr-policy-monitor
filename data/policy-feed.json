@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-09-30T06:33:05",
+  "synced_at": "2026-09-30T11:54:06",
   "total": 500,
-  "new_count": 8,
+  "new_count": 21,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
-      "fetched": 25,
-      "added": 8,
+      "fetched": 26,
+      "added": 9,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 10,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 2,
       "error": null
     },
     {
@@ -40,6 +40,303 @@
     }
   ],
   "items": [
+    {
+      "id": "60b66ecfd86e2f9efb18dd6e",
+      "title": "Transparency data: DWP spending over £25,000, April 2026",
+      "link": "https://www.gov.uk/government/publications/dwp-spending-over-25000-april-2026",
+      "summary": "Reports on departmental spending over £25,000.",
+      "published_at": "2026-09-30T09:00:29",
+      "fetched_at": "2026-09-30T11:53:46",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "fafb003cd6d7b334d884fbf7",
+      "title": "Transparency data: DWP spending over £25,000, June 2026",
+      "link": "https://www.gov.uk/government/publications/dwp-spending-over-25000-june-2026",
+      "summary": "Reports on departmental spending over £25,000.",
+      "published_at": "2026-09-30T08:54:09",
+      "fetched_at": "2026-09-30T11:53:46",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "c343deeb80e806dfc6880b20",
+      "title": "Official Statistics: Non-domestic rating: business floorspace, March 2026",
+      "link": "https://www.gov.uk/government/statistics/announcements/non-domestic-rating-business-floorspace-march-2026",
+      "summary": "Statistics on the floorspace of a range of classes of properties on the 2023 rating list as at 31 March 2026.",
+      "published_at": "2026-09-30T08:40:56",
+      "fetched_at": "2026-09-30T11:53:46",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "c004ebb6bc4392f7702d453b",
+      "title": "Transparency data: HMRC: spending over £500, August 2026",
+      "link": "https://www.gov.uk/government/publications/hmrc-spending-over-500-august-2026",
+      "summary": "Spending by electronic purchasing card solution (ePCS) over £500.",
+      "published_at": "2026-09-30T08:30:04",
+      "fetched_at": "2026-09-30T11:53:46",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "e7d9ebd263b80bd1e85f6fbd",
+      "title": "Corporate report: Tackling alcohol smuggling: outputs",
+      "link": "https://www.gov.uk/government/publications/tackling-alcohol-smuggling-outputs",
+      "summary": "A report on the outputs of HMRC's alcohol strategy covering alcohol seizures, criminal enforcement and the Alcohol Wholesaler Registration Scheme.",
+      "published_at": "2026-09-30T08:30:04",
+      "fetched_at": "2026-09-30T11:53:46",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "db0f43e92f223fd862b3bc4d",
+      "title": "Policy paper: HMRC small and medium-sized enterprise (SME) action plan: 2025 to 2028",
+      "link": "https://www.gov.uk/government/publications/hmrc-small-and-medium-sized-enterprise-sme-action-plan-2025-to-2028",
+      "summary": "HM Revenue and Customs (HMRC) is backing your business by making it easier for small businesses to access public sector supply chains, removing unnecessary burdens and costs",
+      "published_at": "2026-09-30T08:30:04",
+      "fetched_at": "2026-09-30T11:53:46",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "964d2aab75be9c2ef41eaca2",
+      "title": "Accredited official statistics: Monthly property transactions completed in the UK with value of £40,000 or above",
+      "link": "https://www.gov.uk/government/statistics/monthly-property-transactions-completed-in-the-uk-with-value-40000-or-above",
+      "summary": "This series looks at monthly property transactions completed in the UK with value of £40,000 or above.",
+      "published_at": "2026-09-30T08:30:04",
+      "fetched_at": "2026-09-30T11:53:46",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "3e8425301d776fbf8fb1b694",
+      "title": "Accredited official statistics: UK Betting and Gaming Statistics",
+      "link": "https://www.gov.uk/government/statistics/uk-betting-and-gaming-statistics",
+      "summary": "Annual statistics from the 7 different gambling regimes administered by HM Revenue and Customs.",
+      "published_at": "2026-09-30T08:30:01",
+      "fetched_at": "2026-09-30T11:53:46",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "0dc5b9a0aaccf11c021c1fef",
+      "title": "Transparency data: Trade Specialised Committee on Administrative Co-operation in VAT and Recovery of Taxes and Duties",
+      "link": "https://www.gov.uk/government/publications/trade-specialised-committee-on-administrative-co-operation-in-vat-and-recovery-of-taxes-and-duties-third-meeting",
+      "summary": "Meeting agendas and summaries for this joint UK-EU forum for combatting VAT fraud and recovering claims related to taxes and duties.",
+      "published_at": "2026-09-30T08:30:01",
+      "fetched_at": "2026-09-30T11:53:46",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "f2e11acc8a4f0471f55cffb7",
+      "title": "How model assisted valuation delivers large-scale property valuations",
+      "link": "https://www.gov.uk/guidance/how-model-assisted-valuation-delivers-large-scale-property-valuations",
+      "summary": "How the Valuation Office Agency uses model assisted valuation and mass appraisal to support large-scale valuation.",
+      "published_at": "2026-09-30T08:30:01",
+      "fetched_at": "2026-09-30T11:53:46",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "de642f022d926a1591d34e00",
+      "title": "Transparency data: HMRC: spending over £25,000, August 2026",
+      "link": "https://www.gov.uk/government/publications/hmrc-spending-over-25000-august-2026",
+      "summary": "Reports on departmental spending over £25,000.",
+      "published_at": "2026-09-30T08:30:01",
+      "fetched_at": "2026-09-30T11:53:46",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "14cc3336da5914f5573045c3",
+      "title": "Apply for business rates for a self-catering property in Wales",
+      "link": "https://www.gov.uk/guidance/apply-for-business-rates-for-a-self-catering-property-in-wales",
+      "summary": "Check the criteria and fill in this form to apply for business rates on a self-catering holiday let in Wales.",
+      "published_at": "2026-09-30T07:18:46",
+      "fetched_at": "2026-09-30T11:53:46",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 9,
+      "matched_keywords": [
+        "holiday",
+        "payroll"
+      ]
+    },
+    {
+      "id": "8dc8164c07ec1539e09881d4",
+      "title": "Trump Accounts",
+      "link": "https://www.federalregister.gov/documents/2026/09/30/2026-20026/trump-accounts",
+      "summary": "This document contains temporary regulations regarding general requirements for Trump accounts, the establishment of an initial Trump account (including automatic enrollment by the Secretary of the Treasury), and qualified general contributions (including qualified stock contributions), which are a special type of contribution made to Trump accounts. These temporary regulations affect trustees of Trump accounts, account beneficiaries of Trump accounts, responsible parties of Trump accounts, and ",
+      "published_at": "2026-09-30T04:00:00",
+      "fetched_at": "2026-09-30T11:53:46",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 14,
+      "matched_keywords": [
+        "payroll",
+        "withholding",
+        "regulation"
+      ]
+    },
     {
       "id": "918ba3d03c8f28d91ce0ac6c",
       "title": "Pay your Economic Crime Levy",
@@ -11260,301 +11557,6 @@
       "score": 10,
       "matched_keywords": [
         "benefit",
-        "payroll"
-      ]
-    },
-    {
-      "id": "12bf2febff131952b0fc410c",
-      "title": "Report exports that arrived or left a UK port that were not notified in CDS",
-      "link": "https://www.gov.uk/guidance/report-exports-that-arrived-or-left-a-uk-port-that-were-not-declared-in-chief",
-      "summary": "Use a form to tell HMRC about exports that were not notified through the Customs Declaration Service (CDS), when they arrived or left the UK port.",
-      "published_at": "2026-09-03T10:42:37",
-      "fetched_at": "2026-09-03T15:45:07",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "1bd8084a5959dca5e4967e73",
-      "title": "Guidance: Pension Schemes: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/pension-schemes-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the online services for pension schemes.",
-      "published_at": "2026-09-03T10:06:04",
-      "fetched_at": "2026-09-03T10:39:00",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "pension",
-        "payroll"
-      ]
-    },
-    {
-      "id": "c526dedab40205c3929e7a75",
-      "title": "Check if and when you need to register as a tax adviser with HMRC",
-      "link": "https://www.gov.uk/guidance/check-if-and-when-you-need-to-register-as-a-tax-adviser-with-hmrc",
-      "summary": "Check if and when you need to register for an agent services account to interact with HMRC on behalf of your clients as a tax adviser.",
-      "published_at": "2026-09-03T10:04:54",
-      "fetched_at": "2026-09-03T10:39:00",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "a4ac44262a1056ec4a3e9173",
-      "title": "Official Statistics: Connect to Work to June 2026",
-      "link": "https://www.gov.uk/government/statistics/announcements/connect-to-work-to-june-2026",
-      "summary": "Quarterly official statistics in development on Connect to Work. This release includes data covering the period from April 2025 to June 2026.",
-      "published_at": "2026-09-03T09:39:28",
-      "fetched_at": "2026-09-03T10:39:00",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "f1fd82f49876757591fef6ea",
-      "title": "Capital Gains Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual",
-      "summary": "HMRC is reviewing the CG Manual to ensure it provides HMRC’s interpretation of relevant legislation where there is more than one reasonable view of how rules work.Where material in the CG Manual isn’t providing an interpretation, that material is being removed. Where appropriate, material will be reproduced elsewhere and linked from the CG Manual.",
-      "published_at": "2026-09-03T09:20:38",
-      "fetched_at": "2026-09-03T10:39:00",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "31b0e530afc4a759c5cffee3",
-      "title": "Guidance: Report and manage your allowance for Customs Duty waiver claims: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/report-and-manage-your-allowance-for-customs-duty-waiver-claims-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the Report and manage your allowance for Customs Duty waiver claims service.",
-      "published_at": "2026-09-03T09:11:20",
-      "fetched_at": "2026-09-03T10:39:00",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "66b6f720b7f9aba3280af09d",
-      "title": "Guidance: Charities: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/charities-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the Charities online service.",
-      "published_at": "2026-09-03T09:04:38",
-      "fetched_at": "2026-09-03T10:39:00",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "970948717668cc6163e12a2c",
-      "title": "Guidance: Anti-Money Laundering: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/anti-money-laundering-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the Anti-Money Laundering online service.",
-      "published_at": "2026-09-03T08:33:15",
-      "fetched_at": "2026-09-03T10:39:00",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "c82a315073787b1e1cd643e5",
-      "title": "The Occupational Pension Schemes (Schemes that were Contracted-out) (No 2) (Amendment) Regulations 2026",
-      "link": "https://www.gov.uk/government/consultations/the-occupational-pension-schemes-schemes-that-were-contracted-out-no-2-amendment-regulations-2026",
-      "summary": "We are seeking views on the proposed draft regulations that provide for the conversion of Guaranteed Minimum Pensions (GMPs) into other scheme benefits.",
-      "published_at": "2026-09-03T08:30:05",
-      "fetched_at": "2026-09-03T10:39:00",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 21,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension",
-        "regulation"
-      ]
-    },
-    {
-      "id": "d8930879bdb1a7b4d7c2243f",
-      "title": "Guidance: Alcohol Wholesaler Registration Scheme: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/alcohol-wholesaler-registration-scheme-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the Alcohol Wholesaler Registration Scheme (AWRS).",
-      "published_at": "2026-09-03T08:17:09",
-      "fetched_at": "2026-09-03T10:39:00",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "605f9f8b1740f12b247578fd",
-      "title": "International events",
-      "link": "https://www.gov.uk/guidance/international-events",
-      "summary": "This handbook provides essential information for managing import and export procedures for international events. It outlines the key documents required and offers guidance on accompanied baggage, reliefs, licenses, and special procedures such as temporary admission.",
-      "published_at": "2026-09-03T08:03:59",
-      "fetched_at": "2026-09-03T10:39:00",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "e4e0b491bbb7eaa947a02042",
-      "title": "Contacts",
-      "link": "https://www.gov.uk/guidance/international-events/contacts",
-      "summary": "This section provides information on the various points of contact which have been provided to offer support.",
-      "published_at": "2026-09-03T08:03:59",
-      "fetched_at": "2026-09-03T10:39:00",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "5d9a6b09180a5ee7a697f260",
-      "title": "Guidance: Pay As You Earn (PAYE): service availability and issues",
-      "link": "https://www.gov.uk/government/publications/pay-as-you-earn-paye-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the PAYE online service.",
-      "published_at": "2026-09-03T08:03:58",
-      "fetched_at": "2026-09-03T10:39:00",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
         "payroll"
       ]
     }
