@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-10-01T04:04:57",
+  "synced_at": "2026-10-01T07:06:26",
   "total": 500,
-  "new_count": 10,
+  "new_count": 6,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
-      "fetched": 25,
-      "added": 5,
+      "fetched": 26,
+      "added": 6,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 3,
+      "added": 0,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 2,
+      "added": 0,
       "error": null
     },
     {
@@ -40,6 +40,30 @@
     }
   ],
   "items": [
+    {
+      "id": "dba9bedb4988f59117a62090",
+      "title": "Superfund Tax on Chemical Substances; Request To Modify List of Taxable Substances; Notice of Filing for Styrene Isoprene Block Copolymer; x+z=482, y=2,178.51, a=1.70",
+      "link": "https://www.federalregister.gov/documents/2026/10/01/2026-20061/superfund-tax-on-chemical-substances-request-to-modify-list-of-taxable-substances-notice-of-filing",
+      "summary": "This notice of filing announces that a petition has been filed requesting that styrene isoprene block copolymer ((C&lt;INF&gt;8&lt;/INF&gt;H&lt;INF&gt;8&lt;/INF&gt;)&lt;INF&gt;x&lt;/INF&gt;- (C&lt;INF&gt;5&lt;/INF&gt;H&lt;INF&gt;8&lt;/INF&gt;)&lt;INF&gt;y&lt;/INF&gt;- (C&lt;INF&gt;8&lt;/INF&gt;H&lt;INF&gt;8&lt;/INF&gt;)&lt;INF&gt;z&lt;/INF&gt;- (C&lt;INF&gt;33&lt;/INF&gt;H&lt;INF&gt;56&lt;/INF&gt;N&lt;INF&gt;4&lt;/INF&gt;OS&lt;INF&gt;2&lt;/INF&gt;)&lt;INF&gt;a&lt;/INF&gt;; x+z=482, y=2,178.51, a",
+      "published_at": "2026-10-01T04:00:00",
+      "fetched_at": "2026-10-01T07:06:04",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
     {
       "id": "54d58a5f5798d6ceede46631",
       "title": "Notice: Loading of excise goods as aircraft, ship and train stores (Excise Notice 69a)",
@@ -11549,30 +11573,6 @@
         "payroll",
         "withholding",
         "regulation"
-      ]
-    },
-    {
-      "id": "359c4c3ecc7d8738813a8e93",
-      "title": "Publication of Inflation Adjustment Factor and Applicable Amounts for Clean Electricity Production Credit for Calendar Year 2026",
-      "link": "https://www.federalregister.gov/documents/2026/09/04/2026-18105/publication-of-inflation-adjustment-factor-and-applicable-amounts-for-clean-electricity-production",
-      "summary": "The 2026 inflation adjustment factor and applicable amounts are used in calculating the amount of the clean electricity production credit allowable under section 45Y (section 45Y credit) of the Internal Revenue Code (Code), which are required by law to be published in the Federal Register.",
-      "published_at": "2026-09-04T04:00:00",
-      "fetched_at": "2026-09-04T05:42:34",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "payroll",
-        "withholding"
       ]
     }
   ]
