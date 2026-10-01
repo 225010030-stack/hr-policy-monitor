@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-09-30T21:51:22",
+  "synced_at": "2026-10-01T04:04:57",
   "total": 500,
-  "new_count": 8,
+  "new_count": 10,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
-      "fetched": 28,
-      "added": 8,
+      "fetched": 25,
+      "added": 5,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 3,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 2,
       "error": null
     },
     {
@@ -40,6 +40,125 @@
     }
   ],
   "items": [
+    {
+      "id": "54d58a5f5798d6ceede46631",
+      "title": "Notice: Loading of excise goods as aircraft, ship and train stores (Excise Notice 69a)",
+      "link": "https://www.gov.uk/government/publications/excise-notice-69a-duty-free-ships-stores",
+      "summary": "This notice explains HMRC's policy on aircraft, ship and train stores following the Excise Goods (Aircraft and Ship's Stores) Regulation 2015.",
+      "published_at": "2026-09-30T23:15:04",
+      "fetched_at": "2026-10-01T04:04:36",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 12,
+      "matched_keywords": [
+        "payroll",
+        "cra",
+        "regulation"
+      ]
+    },
+    {
+      "id": "267a057b502a915cd349f9b3",
+      "title": "Form: Excise movements: notice of intention to claim drawback (EX75)",
+      "link": "https://www.gov.uk/government/publications/excise-movements-notice-of-intention-to-claim-drawback-ex75",
+      "summary": "You can tell HMRC that you plan to make a claim for excise duty drawback by email, post or online.",
+      "published_at": "2026-09-30T23:15:04",
+      "fetched_at": "2026-10-01T04:04:36",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "0db576aeedbf6e2ed25c13c3",
+      "title": "£2,000 boost for small businesses who take on young apprentices",
+      "link": "https://www.gov.uk/government/news/2000-boost-for-small-businesses-who-take-on-young-apprentices",
+      "summary": "Smaller businesses backing the next generation will receive £2,000 for every new young apprentice they take on, opening more doors for young people into skilled careers across the country.",
+      "published_at": "2026-09-30T23:01:10",
+      "fetched_at": "2026-10-01T04:04:37",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 22,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension",
+        "ei"
+      ]
+    },
+    {
+      "id": "2c7ceeebb1619fc6b59e3f1a",
+      "title": "New Vaping Products Duty comes into effect",
+      "link": "https://www.gov.uk/government/news/new-vaping-products-duty-comes-into-effect",
+      "summary": "New Vaping Products Duty comes into force from 1 October 2026.",
+      "published_at": "2026-09-30T23:01:09",
+      "fetched_at": "2026-10-01T04:04:36",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "52daf399ddbaa5c35cd1d45d",
+      "title": "Call for bold new ideas to support disabled people and those with health conditions into work",
+      "link": "https://www.gov.uk/government/news/call-for-bold-new-ideas-to-support-disabled-people-and-those-with-health-conditions-into-work",
+      "summary": "Businesses, charities and innovators can start bidding for a share of £60 million to help unlock work for the millions of people out of work with a disability or a health condition.",
+      "published_at": "2026-09-30T23:01:09",
+      "fetched_at": "2026-10-01T04:04:37",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
     {
       "id": "f6ff5e1585aa0682339c6d52",
       "title": "Transparency data: Industrial Injuries Advisory Council public meetings",
@@ -11454,118 +11573,6 @@
       "matched_keywords": [
         "payroll",
         "withholding"
-      ]
-    },
-    {
-      "id": "faaba50690ff771f413b3eb1",
-      "title": "Guidance: Compliance checks: alternative dispute resolution — CC/FS21",
-      "link": "https://www.gov.uk/government/publications/compliance-checks-alternative-dispute-resolution-ccfs21",
-      "summary": "This factsheet is about disputes during compliance checks.",
-      "published_at": "2026-09-03T23:30:00",
-      "fetched_at": "2026-09-04T02:51:25",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 9,
-      "matched_keywords": [
-        "payroll",
-        "compliance"
-      ]
-    },
-    {
-      "id": "e3f5d4b97b6814783232d02f",
-      "title": "Accredited official statistics: UK regional trade in goods statistics, second quarter, April to June 2026",
-      "link": "https://www.gov.uk/government/statistics/announcements/uk-regional-trade-in-goods-statistics-second-quarter-april-to-june-2026",
-      "summary": "This quarterly release is a disaggregation of the UK overseas trade in goods statistics with further breakdown to nine English Government Regions, Scotland, Wales and Northern Ireland.",
-      "published_at": "2026-09-03T19:54:16",
-      "fetched_at": "2026-09-03T20:28:30",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "e451ae22a54cbc1129dd28da",
-      "title": "Official Statistics: Council Tax: stock of properties, 2026",
-      "link": "https://www.gov.uk/government/statistics/announcements/council-tax-stock-of-properties-2026",
-      "summary": "Statistics on the stock of domestic properties by Council Tax Band in England and Wales.",
-      "published_at": "2026-09-03T16:28:06",
-      "fetched_at": "2026-09-03T20:28:30",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "b41fe7a35dedabfc2cca53d6",
-      "title": "Official Statistics: Non-domestic rating: business floorspace, March 2026",
-      "link": "https://www.gov.uk/government/statistics/announcements/non-domestic-rating-business-floorspace-march-2026",
-      "summary": "Statistics on the floorspace of a range of classes of properties on the 2023 rating list as at 31 March 2026.",
-      "published_at": "2026-09-03T16:18:32",
-      "fetched_at": "2026-09-03T20:28:30",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "8872e57430ea3f61084755a1",
-      "title": "Check if a business is registered for money laundering supervision",
-      "link": "https://www.gov.uk/guidance/money-laundering-regulations-supervised-business-register",
-      "summary": "Find out if a business has registered with HMRC under the money laundering regulations and report them if they have not.",
-      "published_at": "2026-09-03T15:32:56",
-      "fetched_at": "2026-09-03T15:45:07",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 9,
-      "matched_keywords": [
-        "payroll",
-        "regulation"
       ]
     }
   ]
