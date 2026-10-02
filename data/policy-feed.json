@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-10-02T04:00:03",
+  "synced_at": "2026-10-02T06:54:08",
   "total": 500,
-  "new_count": 9,
+  "new_count": 10,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
-      "fetched": 26,
-      "added": 7,
+      "fetched": 29,
+      "added": 10,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 1,
+      "added": 0,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 1,
+      "added": 0,
       "error": null
     },
     {
@@ -40,6 +40,104 @@
     }
   ],
   "items": [
+    {
+      "id": "c2e3c56ee4f952f48c0a0c94",
+      "title": "Federal Scholarship Tax Credit",
+      "link": "https://www.federalregister.gov/documents/2026/10/02/2026-20277/federal-scholarship-tax-credit",
+      "summary": "This document contains proposed regulations regarding the nonrefundable Federal tax credit for qualified contributions to scholarship granting organizations to fund qualified elementary and secondary school education scholarships. The proposed regulations would affect taxpayers who make such qualified contributions, States that elect to participate by certifying organizations as scholarship granting organizations, and the organizations that have been certified as scholarship granting organizatio",
+      "published_at": "2026-10-02T04:00:00",
+      "fetched_at": "2026-10-02T06:53:47",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 14,
+      "matched_keywords": [
+        "payroll",
+        "withholding",
+        "regulation"
+      ]
+    },
+    {
+      "id": "ffef7a17c5cd76e7b632c8f3",
+      "title": "Federal Scholarship Tax Credit",
+      "link": "https://www.federalregister.gov/documents/2026/10/02/2026-20264/federal-scholarship-tax-credit",
+      "summary": "This document contains temporary regulations that address the new nonrefundable Federal tax credit for qualified contributions to scholarship granting organizations made in 2027 and later taxable years to fund qualified elementary and secondary education scholarships. The temporary regulations implement certain requirements and procedures for States that make elections to participate in this Federal tax credit and organizations that have been certified as scholarship granting organizations by on",
+      "published_at": "2026-10-02T04:00:00",
+      "fetched_at": "2026-10-02T06:53:47",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 14,
+      "matched_keywords": [
+        "payroll",
+        "withholding",
+        "regulation"
+      ]
+    },
+    {
+      "id": "a73ec6a604de47f3d2f8a7fc",
+      "title": "Agency Information Collection Activities; Comment Request on Discharge From or Subordination of Federal Lax Lien",
+      "link": "https://www.federalregister.gov/documents/2026/10/02/2026-20190/agency-information-collection-activities-comment-request-on-discharge-from-or-subordination-of",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+      "published_at": "2026-10-02T04:00:00",
+      "fetched_at": "2026-10-02T06:53:47",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
+    {
+      "id": "f5b86cc5f884da3b9107e65a",
+      "title": "Agency Information Collection Activities; Comment Request on Application to Participate in the IRS Acceptance Agent Program",
+      "link": "https://www.federalregister.gov/documents/2026/10/02/2026-20189/agency-information-collection-activities-comment-request-on-application-to-participate-in-the-irs",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+      "published_at": "2026-10-02T04:00:00",
+      "fetched_at": "2026-10-02T06:53:47",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
     {
       "id": "ffb5a8fa6edc334e3ad07796",
       "title": "New report backs government action to help neurodivergent people succeed at work",
@@ -11504,101 +11602,6 @@
       "matched_keywords": [
         "payroll",
         "ei"
-      ]
-    },
-    {
-      "id": "e3502e390a17c3cde2bf61e0",
-      "title": "Accredited official statistics: No NINo PIP administrative exercise statistics, at November 2025",
-      "link": "https://www.gov.uk/government/statistics/announcements/no-nino-pip-administrative-exercise-statistics-at-november-2025",
-      "summary": "Statistical release on the completion of the No NINo administrative exercise.",
-      "published_at": "2026-09-08T07:47:50",
-      "fetched_at": "2026-09-08T10:32:58",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "4ee01200e495dd1611e6ab69",
-      "title": "Policy paper: Alcoholic product category changes for travellers’ duty-free allowances",
-      "link": "https://www.gov.uk/government/publications/alcoholic-product-category-changes-for-travellers-duty-free-allowances",
-      "summary": "This tax information and impact note is about changes to how alcoholic products are grouped within duty-free allowances.",
-      "published_at": "2026-09-08T06:59:57",
-      "fetched_at": "2026-09-08T10:32:58",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "9ce961cdda0ab9c58daa0964",
-      "title": "Car Loan Interest Deduction",
-      "link": "https://www.federalregister.gov/documents/2026/09/08/2026-18219/car-loan-interest-deduction",
-      "summary": "This document contains final regulations regarding the deduction for certain taxpayers for an amount up to $10,000 of qualified passenger vehicle loan interest. This document also contains final regulations regarding new information reporting requirements for certain persons who, in a trade or business, receive from any individual interest aggregating $600 or more for any calendar year on a specified passenger vehicle loan, including applicable penalties for failures to file information returns ",
-      "published_at": "2026-09-08T04:00:00",
-      "fetched_at": "2026-09-05T05:31:40",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "payroll",
-        "withholding",
-        "ei",
-        "regulation"
-      ]
-    },
-    {
-      "id": "d571078d65edc5ceda37ea8e",
-      "title": "Official Statistics: Patent Box relief statistics: September 2026",
-      "link": "https://www.gov.uk/government/statistics/announcements/patent-box-relief-statistics-september-2026",
-      "summary": "Statistics on the number of companies elected into the UK Patent Box and its associated cost to the Exchequer",
-      "published_at": "2026-09-07T16:35:29",
-      "fetched_at": "2026-09-07T17:12:34",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
       ]
     }
   ]
