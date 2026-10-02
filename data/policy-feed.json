@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-10-01T22:19:50",
+  "synced_at": "2026-10-02T04:00:03",
   "total": 500,
-  "new_count": 26,
+  "new_count": 9,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 10,
+      "added": 1,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 9,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,54 @@
     }
   ],
   "items": [
+    {
+      "id": "ffb5a8fa6edc334e3ad07796",
+      "title": "New report backs government action to help neurodivergent people succeed at work",
+      "link": "https://www.gov.uk/government/news/new-report-backs-government-action-to-help-neurodivergent-people-succeed-at-work",
+      "summary": "Neurodivergent people can thrive in the workplace when they are given tailored employment support an independent report has found.",
+      "published_at": "2026-10-01T23:01:05",
+      "fetched_at": "2026-10-02T03:59:43",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "3dbf41ca2ade593e8ee6c126",
+      "title": "Corporate report: Details of deliberate tax defaulters",
+      "link": "https://www.gov.uk/government/publications/publishing-details-of-deliberate-tax-defaulters-pddd",
+      "summary": "The current list of people who deliberately got their tax affairs wrong.",
+      "published_at": "2026-10-01T23:00:00",
+      "fetched_at": "2026-10-02T03:59:43",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
     {
       "id": "3d1d955d9655b390ad89e679",
       "title": "750 young people connect with top employers at Birmingham’s first Youth Guarantee Jobs Fair",
@@ -11550,55 +11598,6 @@
       ],
       "score": 6,
       "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "b8edec64c6c23f95bf57fcdb",
-      "title": "Official Statistics: Health Assessment Statistics: PIP and WCA to July 2026",
-      "link": "https://www.gov.uk/government/statistics/announcements/health-assessment-statistics-pip-and-wca-to-july-2026",
-      "summary": "Official statistics in development on Personal Independence Payment (PIP) and Work Capability Assessments (WCA) assessment volumes and channels in Great Britain from January 2021 to July 2026.",
-      "published_at": "2026-09-07T14:24:56",
-      "fetched_at": "2026-09-07T17:12:35",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "fc554ad4b4aefe50f69d23b3",
-      "title": "Download the HMRC app",
-      "link": "https://www.gov.uk/guidance/download-the-hmrc-app",
-      "summary": "Download and access the HMRC app to manage your details, taxes and benefits.",
-      "published_at": "2026-09-07T14:06:39",
-      "fetched_at": "2026-09-07T17:12:34",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 14,
-      "matched_keywords": [
-        "benefit",
-        "benefits",
         "payroll"
       ]
     }
