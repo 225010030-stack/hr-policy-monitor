@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-10-05T13:34:04",
+  "synced_at": "2026-10-05T23:42:58",
   "total": 500,
-  "new_count": 8,
+  "new_count": 14,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
       "fetched": 23,
-      "added": 1,
+      "added": 4,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 5,
+      "added": 7,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 2,
+      "added": 3,
       "error": null
     },
     {
@@ -40,6 +40,236 @@
     }
   ],
   "items": [
+    {
+      "id": "f7646fac149ba25171a0ee08",
+      "title": "Guidance: CDS Declaration Completion Instructions for Exports",
+      "link": "https://www.gov.uk/government/publications/uk-trade-tariff-cds-volume-3-export-declaration-completion-guide",
+      "summary": "This guide provides detailed completion instructions for data elements when making a written export declaration to the Customs Declaration Service (CDS).",
+      "published_at": "2026-10-05T23:15:04",
+      "fetched_at": "2026-10-05T23:42:37",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "1e2bff3a25a1ff420bc8ba3d",
+      "title": "Guidance: Appendix 1: DE 1/10: Requested and Previous Procedure Codes of the Customs Declaration Service (CDS)",
+      "link": "https://www.gov.uk/government/publications/appendix-1-de-110-requested-and-previous-procedure-codes-of-the-customs-declaration-service-cds",
+      "summary": "Find out the completion rules and instructions for each 4-digit Requested and Previous Procedure Code that can be used in Data Element (DE) 1/10 for Imports.",
+      "published_at": "2026-10-05T23:15:04",
+      "fetched_at": "2026-10-05T23:42:37",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "7fcdc205c2353d754607b745",
+      "title": "Guidance: CDS Declaration Completion Instructions for Imports",
+      "link": "https://www.gov.uk/government/publications/cds-uk-trade-tariff-volume-3-import-declaration-completion-guide",
+      "summary": "This guide provides detailed completion instructions for data elements when making an import declaration to the Customs Declaration Service (CDS).",
+      "published_at": "2026-10-05T23:15:04",
+      "fetched_at": "2026-10-05T23:42:37",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "9f199dcc11e601385372e307",
+      "title": "Guidance: Appendix 21: Import Declaration Category Data Sets",
+      "link": "https://www.gov.uk/government/publications/appendix-21-import-declaration-category-data-sets",
+      "summary": "Find out about the the specific data elements needed for each declaration category when making an import declaration on the Customs Declaration Service.",
+      "published_at": "2026-10-05T23:15:04",
+      "fetched_at": "2026-10-05T23:42:37",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "10acdb83c7658f4e00b60d7f",
+      "title": "Guidance: Appendix 2: DE 1/11: Additional Procedure Codes of the Customs Declaration Service (CDS)",
+      "link": "https://www.gov.uk/government/publications/appendix-2-de-111-additional-procedure-codes-of-the-customs-declaration-service-cds",
+      "summary": "Find out the completion rules instructions for each 3-digit Union and National Additional Procedure Code that can be used in Data Element (DE) 1/11 for Imports.",
+      "published_at": "2026-10-05T23:15:04",
+      "fetched_at": "2026-10-05T23:42:37",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "e5ee713a0b5709d7525d5fa0",
+      "title": "Free careers support now available through Jobcentres",
+      "link": "https://www.gov.uk/government/news/free-careers-support-now-available-through-jobcentres",
+      "summary": "People across England can now access free careers advice alongside employment support through Jobcentres, making it easier to get help to find work, change careers, progress in work or build new skills.",
+      "published_at": "2026-10-05T23:01:02",
+      "fetched_at": "2026-10-05T23:42:38",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "27b7ee8b948c6c6e4da9cadd",
+      "title": "Policy paper: Unpaid carers action plan: recognise, refer, reach (easy read)",
+      "link": "https://www.gov.uk/government/publications/unpaid-carers-action-plan-recognise-refer-reach-easy-read",
+      "summary": "Easy read version of the government’s plan to make life better for unpaid carers in England.",
+      "published_at": "2026-10-05T15:52:15",
+      "fetched_at": "2026-10-05T23:42:38",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "26509a8cdf52ea61cc59e162",
+      "title": "Major boost for young people in Rossendale as Youth Hub opens to support them towards work",
+      "link": "https://www.gov.uk/government/news/major-boost-for-young-people-in-rossendale-as-youth-hub-opens-to-support-them-towards-work",
+      "summary": "Young people in Rossendale are set to benefit from expanded employment support through a new Youth Hub in the area, as the government continues to deliver opportunity directly into the heart of the community.",
+      "published_at": "2026-10-05T14:52:47",
+      "fetched_at": "2026-10-05T23:42:38",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "761facfc3813cc85ff33fc28",
+      "title": "Check if a text message you've received from HMRC is genuine",
+      "link": "https://www.gov.uk/guidance/check-if-a-text-message-youve-received-from-hmrc-is-genuine",
+      "summary": "Check a list of recent text messages from HMRC to help you decide if a text you've received is a scam.",
+      "published_at": "2026-10-05T14:44:26",
+      "fetched_at": "2026-10-05T23:42:37",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "af279a83bec95fb867fa88ce",
+      "title": "Guidance: How to make a voluntary disclosure to HMRC",
+      "link": "https://www.gov.uk/government/publications/hmrc-your-guide-to-making-a-disclosure",
+      "summary": "Find out about the different ways to make a voluntary disclosure to HMRC if you think you have not paid the correct amount of tax.",
+      "published_at": "2026-10-05T14:38:39",
+      "fetched_at": "2026-10-05T23:42:37",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "8d252eb95c21019dfae9b785",
       "title": "Transparency data: HMRC major projects: appointment letters for Senior Responsible Owners",
@@ -11377,231 +11607,6 @@
       "score": 6,
       "matched_keywords": [
         "payroll"
-      ]
-    },
-    {
-      "id": "e20239d6ab9fad50c6b0d539",
-      "title": "Guidance: Rebated Oils Enquiry Services: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/rebated-oils-enquiry-services-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the Rebated Oils Enquiry Services online service.",
-      "published_at": "2026-09-09T11:05:27",
-      "fetched_at": "2026-09-09T15:53:18",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "d39c65759bd2fdfefcdb0ef1",
-      "title": "Policy paper: Anti‑avoidance information notices",
-      "link": "https://www.gov.uk/government/publications/anti-avoidance-information-notices",
-      "summary": "Find out about anti-avoidance information notices (AAINs), including their purpose, how they work and the terms used in them.",
-      "published_at": "2026-09-09T11:02:16",
-      "fetched_at": "2026-09-09T15:53:18",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "7c5f15d51c4b8519828b7bd2",
-      "title": "Official Statistics: VAT gap estimates",
-      "link": "https://www.gov.uk/government/statistics/vat-gap-estimates",
-      "summary": "HMRC statistics relating to VAT gap estimates.",
-      "published_at": "2026-09-09T11:00:04",
-      "fetched_at": "2026-09-09T15:53:18",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "98c2a1cf1e7ee110721de5ea",
-      "title": "Check if a business is registered for money laundering supervision",
-      "link": "https://www.gov.uk/guidance/money-laundering-regulations-supervised-business-register",
-      "summary": "Find out if a business has registered with HMRC under the money laundering regulations and report them if they have not.",
-      "published_at": "2026-09-09T09:59:28",
-      "fetched_at": "2026-09-09T10:44:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 9,
-      "matched_keywords": [
-        "payroll",
-        "regulation"
-      ]
-    },
-    {
-      "id": "c92b7ca42834cef70cdfcb03",
-      "title": "Improved Self Assessment registration service launched",
-      "link": "https://www.gov.uk/government/news/improved-self-assessment-registration-service-launched",
-      "summary": "Customers who have income to declare for the 2025 to 2026 tax year encouraged to register for Self Assessment now.",
-      "published_at": "2026-09-09T09:40:47",
-      "fetched_at": "2026-09-09T10:44:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "eaceea20adb0f66a78004d58",
-      "title": "Guidance: Child Benefit: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/child-benefit-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the Child Benefit online service.",
-      "published_at": "2026-09-09T08:45:23",
-      "fetched_at": "2026-09-09T10:44:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "benefit",
-        "payroll"
-      ]
-    },
-    {
-      "id": "5ea8fce1d372e9f23fff6276",
-      "title": "Official Statistics: Annual savings statistics",
-      "link": "https://www.gov.uk/government/statistics/announcements/annual-savings-statistics--7",
-      "summary": "The next release of HMRC statistics on Individual Savings Accounts, Child Trust Funds and Help to Save accounts will be published in September 2026.",
-      "published_at": "2026-09-09T08:20:52",
-      "fetched_at": "2026-09-09T10:44:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "6507d3c9a4e21b9b36fccd73",
-      "title": "Guidance: Community and Amateur Sports Club newsletter 5 — September 2026",
-      "link": "https://www.gov.uk/government/publications/community-and-amateur-sports-club-newsletter-5-september-2026",
-      "summary": "Use the newsletters to get HMRC updates if you're a charity or Community and Amateur Sports Club (CASC).",
-      "published_at": "2026-09-09T08:00:00",
-      "fetched_at": "2026-09-09T10:44:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "790e2f0dc5e5449fe8b525cd",
-      "title": "Guidance: Charities newsletter 3 — September 2026",
-      "link": "https://www.gov.uk/government/publications/charities-newsletter-3-september-2026",
-      "summary": "Get information about HMRC consultations, Gift Aid, guidance reviews and updates to charity services and systems.",
-      "published_at": "2026-09-09T08:00:00",
-      "fetched_at": "2026-09-09T10:44:23",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "3b853b61918e704d3d073082",
-      "title": "Superfund Tax on Chemical Substances; Request To Modify List of Taxable Substances; Notice of Filing for Acrylonitrile-butadiene Rubber; x=3,344.33, y=1,335.09, a=2.98",
-      "link": "https://www.federalregister.gov/documents/2026/09/09/2026-18268/superfund-tax-on-chemical-substances-request-to-modify-list-of-taxable-substances-notice-of-filing",
-      "summary": "This notice of filing announces that a petition has been filed requesting that acrylonitrile-butadiene rubber ((C&lt;INF&gt;4&lt;/INF&gt;H&lt;INF&gt;6&lt;/INF&gt;)&lt;INF&gt;x&lt;/INF&gt;- (C&lt;INF&gt;3&lt;/INF&gt;H&lt;INF&gt;3&lt;/INF&gt;N)&lt;INF&gt;y&lt;/INF&gt;- (C&lt;INF&gt;25&lt;/INF&gt;H&lt;INF&gt;44&lt;/INF&gt;OS&lt;INF&gt;2&lt;/INF&gt;)&lt;INF&gt;a&lt;/INF&gt;; x=3,344.33, y=1,335.09, a=2.98), also known as &quot;NBR,&quot; be added to the list of taxable substances. This notice of fil",
-      "published_at": "2026-09-09T04:00:00",
-      "fetched_at": "2026-09-09T05:51:11",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "payroll",
-        "withholding"
       ]
     }
   ]
