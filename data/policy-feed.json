@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-10-04T20:51:13",
+  "synced_at": "2026-10-05T03:59:09",
   "total": 500,
-  "new_count": 3,
+  "new_count": 4,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -28,7 +28,7 @@
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
@@ -40,6 +40,32 @@
     }
   ],
   "items": [
+    {
+      "id": "3817c9209c97d6bfcee5ae84",
+      "title": "Supported housing residents to keep more of what they earn as new rules come into force",
+      "link": "https://www.gov.uk/government/news/supported-housing-residents-to-keep-more-of-what-they-earn-as-new-rules-come-into-force",
+      "summary": "More than 325,000 residents in supported housing and temporary accommodation will keep more of what they earn when they take up work or increase their hours.",
+      "published_at": "2026-10-04T23:01:12",
+      "fetched_at": "2026-10-05T03:58:49",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 22,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension",
+        "ei"
+      ]
+    },
     {
       "id": "1b473440e719860648bbae63",
       "title": "Receive goods into and remove goods from an excise warehouse (Excise Notice 197)",
@@ -11560,28 +11586,6 @@
       "link": "https://www.gov.uk/guidance/refunds-of-uk-vat-for-non-uk-businesses-or-eu-vat-for-uk-businesses",
       "summary": "How to claim a VAT refund in the UK if you're established outside the UK.",
       "published_at": "2026-09-08T15:34:33",
-      "fetched_at": "2026-09-08T15:57:19",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "61cedd8eb33369e42f126737",
-      "title": "Policy paper: Revenue and Customs Brief 8 (2026): UK VAT refunds for non-UK businesses in a VAT group",
-      "link": "https://www.gov.uk/government/publications/revenue-and-customs-brief-8-2026-uk-vat-refunds-for-non-uk-businesses-in-a-vat-group",
-      "summary": "This brief explains changes to how non-UK businesses in a VAT group claim UK VAT refunds, including transitional arrangements and how to ask HMRC to reconsider certain refused claims.",
-      "published_at": "2026-09-08T15:34:01",
       "fetched_at": "2026-09-08T15:57:19",
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
