@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-10-06T07:26:22",
+  "synced_at": "2026-10-06T12:43:48",
   "total": 500,
-  "new_count": 5,
+  "new_count": 25,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
-      "fetched": 23,
-      "added": 5,
+      "fetched": 25,
+      "added": 7,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 16,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 0,
+      "added": 2,
       "error": null
     },
     {
@@ -40,6 +40,472 @@
     }
   ],
   "items": [
+    {
+      "id": "1111055a935920f0c139e121",
+      "title": "Guidance: Data Element 2/3: Documents and Other Reference Codes (Union) of the Customs Declaration Service (CDS)",
+      "link": "https://www.gov.uk/government/publications/data-element-23-documents-and-other-reference-codes-union-of-the-customs-declaration-service-cds",
+      "summary": "Find the relevant document codes, document status codes and details to be declared such as licences and certificates (Appendix 5A).",
+      "published_at": "2026-10-06T12:21:05",
+      "fetched_at": "2026-10-06T12:43:28",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "cc7aae56db5805b91bc380cf",
+      "title": "Official Statistics: Non-domestic rating: business floorspace, March 2026",
+      "link": "https://www.gov.uk/government/statistics/announcements/non-domestic-rating-business-floorspace-march-2026",
+      "summary": "Statistics on the floorspace of a range of classes of properties on the 2023 rating list as at 31 March 2026.",
+      "published_at": "2026-10-06T11:39:29",
+      "fetched_at": "2026-10-06T12:43:28",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "69b6c70fb7d1253a5d72a7ce",
+      "title": "Capital Gains Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual",
+      "summary": "HMRC is reviewing the CG Manual to ensure it provides HMRC’s interpretation of relevant legislation where there is more than one reasonable view of how rules work.Where material in the CG Manual isn’t providing an interpretation, that material is being removed. Where appropriate, material will be reproduced elsewhere and linked from the CG Manual.",
+      "published_at": "2026-10-06T11:36:51",
+      "fetched_at": "2026-10-06T12:43:28",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "1a980f86545966768490b064",
+      "title": "Guidance: Approved payers in the middleman scheme",
+      "link": "https://www.gov.uk/government/publications/foreign-entertainers-list-of-approved-payers-in-the-middleman-scheme",
+      "summary": "Check this list of approved payers for non-UK resident entertainers and find out if you need to deduct withholding tax.",
+      "published_at": "2026-10-06T11:30:19",
+      "fetched_at": "2026-10-06T12:43:28",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
+    {
+      "id": "94b7b0bc09720ac64bd9221b",
+      "title": "Authorising an agent to deal with your tax affairs",
+      "link": "https://www.gov.uk/guidance/authorising-an-agent-to-deal-with-your-tax-affairs",
+      "summary": "Check what a paid agent can do on your behalf. How you authorise the agent depends on the tax, and you may need to use paper form 64-8 or an online service.",
+      "published_at": "2026-10-06T11:03:06",
+      "fetched_at": "2026-10-06T12:43:28",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "ab2843d0805fe74f8a77d020",
+      "title": "Compliance Handbook",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/compliance-handbook",
+      "summary": "The aim of the Compliance Handbook is to help users understand and apply HMRC's penalties and compliance powers, as set out by legislation.",
+      "published_at": "2026-10-06T11:02:37",
+      "fetched_at": "2026-10-06T12:43:28",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 9,
+      "matched_keywords": [
+        "payroll",
+        "compliance"
+      ]
+    },
+    {
+      "id": "3b12a1c28971c6c7442f4977",
+      "title": "Identify tax scams by phone, text, email or social media",
+      "link": "https://www.gov.uk/guidance/identify-hmrc-related-scam-phone-calls-emails-and-text-messages",
+      "summary": "Use this checklist to decide if a suspicious phone call, text message (SMS), email or social media account is a scam.",
+      "published_at": "2026-10-06T10:56:02",
+      "fetched_at": "2026-10-06T12:43:28",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "a466499fc07c56357e76a7dc",
+      "title": "Tell HMRC the value of items in your PAYE Settlement Agreement",
+      "link": "https://www.gov.uk/guidance/tell-hmrc-the-value-of-items-in-your-paye-settlement-agreement",
+      "summary": "Use form PSA1 or send an informal calculation to tell HMRC about the value of items included in your PAYE Settlement Agreement.",
+      "published_at": "2026-10-06T10:39:25",
+      "fetched_at": "2026-10-06T12:43:28",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "2f8f9d949552989dcc50298d",
+      "title": "Statutory guidance: Reference Documents for The Customs (Tariff Quotas) (EU Exit) Regulations 2020",
+      "link": "https://www.gov.uk/government/publications/reference-documents-for-the-customs-tariff-quotas-eu-exit-regulations-2020",
+      "summary": "Check the documents that detail product specific tariff-rate quotas, including the individual product volumes and rates, and also list of eligible goods and their authorised uses.",
+      "published_at": "2026-10-06T10:20:18",
+      "fetched_at": "2026-10-06T12:43:28",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 16,
+      "matched_keywords": [
+        "payroll",
+        "ei",
+        "regulation",
+        "statutory"
+      ]
+    },
+    {
+      "id": "aa9bae070242a4a5d9b8e0c7",
+      "title": "Statutory guidance: Reference Document for The Customs Tariff (Establishment) (EU Exit) Regulations 2020",
+      "link": "https://www.gov.uk/government/publications/reference-document-for-the-customs-tariff-establishment-eu-exit-regulations-2020",
+      "summary": "Find the UK’s most favoured nation tariff rates as referenced in The Customs Tariff (Establishment) (EU Exit) Regulations 2020.",
+      "published_at": "2026-10-06T10:20:09",
+      "fetched_at": "2026-10-06T12:43:28",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 12,
+      "matched_keywords": [
+        "payroll",
+        "regulation",
+        "statutory"
+      ]
+    },
+    {
+      "id": "078acec47037bbcabbaecb71",
+      "title": "Statutory guidance: Reference Documents for The Customs Tariff (Suspension of Import Duty Rates) (EU Exit) Regulations 2020",
+      "link": "https://www.gov.uk/government/publications/reference-documents-for-the-customs-tariff-suspension-of-import-duty-rates-eu-exit-regulations-2020",
+      "summary": "Find out about the tariff suspensions that apply from the end of the transition period.",
+      "published_at": "2026-10-06T10:20:01",
+      "fetched_at": "2026-10-06T12:43:28",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 16,
+      "matched_keywords": [
+        "pension",
+        "payroll",
+        "regulation",
+        "statutory"
+      ]
+    },
+    {
+      "id": "a8f80b03c8074f76022f8666",
+      "title": "Guidance: Pathways to Work Innovation Fund: applicant bid pack",
+      "link": "https://www.gov.uk/government/publications/pathways-to-work-innovation-fund-applicant-bid-pack",
+      "summary": "This pack explains the Pathways to Work Innovation Fund, how to apply for grant funding, and whether it is right for your organisation.",
+      "published_at": "2026-10-06T10:08:30",
+      "fetched_at": "2026-10-06T12:43:28",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "df285dd5aeab6df4e0d32e3d",
+      "title": "Notice: Registered consignees (Excise Notice 203a)",
+      "link": "https://www.gov.uk/government/publications/excise-notice-203a-registered-consignees",
+      "summary": "This notice sets out the UK's requirements for the commercial movement of excise goods by a Registered Consignee.",
+      "published_at": "2026-10-06T09:46:18",
+      "fetched_at": "2026-10-06T12:43:28",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "97b083c47a060d4188de7f33",
+      "title": "Guidance: Real Time Information internet submissions: 2027 to 2028 technical specifications",
+      "link": "https://www.gov.uk/government/publications/real-time-information-internet-submissions-2027-to-2028-technical-specifications",
+      "summary": "Real Time Information (RTI) Rules and Interface Management (RIM) artefacts and supporting technical specifications for software developers.",
+      "published_at": "2026-10-06T09:39:38",
+      "fetched_at": "2026-10-06T12:43:28",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "f69b2e7efcb4277616167b6a",
+      "title": "Check if a business is registered for money laundering supervision",
+      "link": "https://www.gov.uk/guidance/money-laundering-regulations-supervised-business-register",
+      "summary": "Find out if a business has registered with HMRC under the money laundering regulations and report them if they have not.",
+      "published_at": "2026-10-06T09:19:35",
+      "fetched_at": "2026-10-06T12:43:28",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 9,
+      "matched_keywords": [
+        "payroll",
+        "regulation"
+      ]
+    },
+    {
+      "id": "f45557324cbc5218abde5d3e",
+      "title": "Draft legislation: Plastic packaging tax — chemical recycling and adoption of a mass balance approach",
+      "link": "https://www.gov.uk/government/consultations/draft-legislation-plastic-packaging-tax-chemical-recycling-and-adoption-of-a-mass-balance-approach",
+      "summary": "This technical consultation seeks views on draft regulations and supporting document for the Plastic Packaging Tax mass balance approach for chemically recycled plastic.",
+      "published_at": "2026-10-06T09:00:12",
+      "fetched_at": "2026-10-06T12:43:28",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 9,
+      "matched_keywords": [
+        "payroll",
+        "regulation"
+      ]
+    },
+    {
+      "id": "d37737702ef54541039613b5",
+      "title": "Research: Local reference rents, listed by BRMA and property size (September 2026)",
+      "link": "https://www.gov.uk/government/publications/local-reference-rents-listed-by-brma-and-property-size-september-2026",
+      "summary": "Local reference rent (LRR) levels by number of rooms and broad rental market areas (BRMA) for residential properties in England in September 2026.",
+      "published_at": "2026-10-06T08:30:01",
+      "fetched_at": "2026-10-06T12:43:28",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "489ce32a9a3abe9b93cd50ad",
+      "title": "Transparency data: DWP's special advisers' gifts, hospitality and meetings, January to March 2026",
+      "link": "https://www.gov.uk/government/publications/dwps-special-advisers-gifts-hospitality-and-meetings-january-to-march-2026",
+      "summary": "Data on gifts and hospitality received by special advisers, and meetings they attended with senior media figures.",
+      "published_at": "2026-10-06T08:30:01",
+      "fetched_at": "2026-10-06T12:43:28",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 22,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension",
+        "ei"
+      ]
+    },
+    {
+      "id": "c95892830c1ed62b44c5a75e",
+      "title": "Transparency in Coverage",
+      "link": "https://www.federalregister.gov/documents/2026/10/06/2026-20447/transparency-in-coverage",
+      "summary": "These final rules set forth requirements that amend the regulations under the Public Health Service Act, the Employee Retirement Income Security Act of 1974, and the Internal Revenue Code regarding price transparency reporting requirements for non- grandfathered group health plans and health insurance issuers offering non-grandfathered group and individual health insurance coverage. Specifically, these final rules are intended to improve the standardization, accuracy, and accessibility of public",
+      "published_at": "2026-10-06T04:00:00",
+      "fetched_at": "2026-10-06T12:43:28",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "health plan",
+        "payroll",
+        "withholding",
+        "regulation"
+      ]
+    },
+    {
+      "id": "73bba49f592d3c8875ae357f",
+      "title": "Agency Information Collection Activities; Comment Request on Cognitive and Psychological Research Coordinated by Statistics of Income on Behalf of All IRS Operations Functions",
+      "link": "https://www.federalregister.gov/documents/2026/10/06/2026-20410/agency-information-collection-activities-comment-request-on-cognitive-and-psychological-research",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+      "published_at": "2026-10-06T04:00:00",
+      "fetched_at": "2026-10-06T12:43:28",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
     {
       "id": "f7646fac149ba25171a0ee08",
       "title": "Guidance: CDS Declaration Completion Instructions for Exports",
@@ -11129,471 +11595,6 @@
       "summary": "Guidance for staff working through PAYE processes for individuals and employers. HMRC is currently reviewing this guidance. If you have any comments or feedback, please email: hmrcmanualsteam@hmrc.gov.uk",
       "published_at": "2026-09-10T08:26:14",
       "fetched_at": "2026-09-10T10:34:26",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "9ee348cc4258d5274a870d1a",
-      "title": "Promotional material: Help with VAT on fund management services — GfC20",
-      "link": "https://www.gov.uk/government/publications/help-with-vat-on-fund-management-services-gfc20",
-      "summary": "Find out how to determine the correct VAT treatment of outsourced fund management services.",
-      "published_at": "2026-09-10T08:00:01",
-      "fetched_at": "2026-09-10T10:34:26",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "04055636b51df7424805ba2b",
-      "title": "Guidance: Flexi-job apprenticeships using an approved agency",
-      "link": "https://www.gov.uk/government/publications/flexi-job-apprenticeships",
-      "summary": "Information about flexi-job apprenticeships using approved agencies, in occupations that often use short-term contracts or other non-standard employment models.",
-      "published_at": "2026-09-10T07:32:43",
-      "fetched_at": "2026-09-10T10:34:26",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "8dd6f8c9c2c6b6656c9c5b1e",
-      "title": "Current DWP research being undertaken by external organisations",
-      "link": "https://www.gov.uk/guidance/current-dwp-research-in-the-field-undertaken-by-external-organisations",
-      "summary": "Check a list of live research being conducted by research organisations for the Department of Work and Pensions (DWP).",
-      "published_at": "2026-09-10T07:30:40",
-      "fetched_at": "2026-09-10T10:34:26",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 22,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension",
-        "ei"
-      ]
-    },
-    {
-      "id": "bd614e56e8659a55ac212361",
-      "title": "Art Advisory Panel-Notice of Closed Meeting",
-      "link": "https://www.federalregister.gov/documents/2026/09/10/2026-18483/art-advisory-panel-notice-of-closed-meeting",
-      "summary": "Closed meeting of the Art Advisory Panel will be held in New York, NY or virtually via Microsoft Teams. The entire meeting will be closed.",
-      "published_at": "2026-09-10T04:00:00",
-      "fetched_at": "2026-09-10T10:34:26",
-      "source_id": "fedreg_irs",
-      "source_name": "US Federal Register · IRS",
-      "region": "US",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "withholding",
-        "IRS",
-        "US"
-      ],
-      "score": 11,
-      "matched_keywords": [
-        "payroll",
-        "withholding"
-      ]
-    },
-    {
-      "id": "517b4010197a1a3db69f43cd",
-      "title": "Correspondence: The Timms Review: co-chair update, September 2026",
-      "link": "https://www.gov.uk/government/publications/the-timms-review-co-chair-update-september-2026",
-      "summary": "This document sets out an update on the progress of the Timms Review of Personal Independence Payment (PIP), from the Review's co-chairs.",
-      "published_at": "2026-09-09T20:00:00",
-      "fetched_at": "2026-09-09T20:23:04",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "1f91f39de918a94135fdc85f",
-      "title": "Self Assessment Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual",
-      "summary": "This manual contains guidance and processes for Self Assessment (SA)",
-      "published_at": "2026-09-09T16:06:57",
-      "fetched_at": "2026-09-09T20:23:03",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "f0012e962131b90f5b93daf8",
-      "title": "Transparency data: DWP and CMG: spending over £500, July and August 2026",
-      "link": "https://www.gov.uk/government/publications/dwp-and-cmg-spending-over-500-july-and-august-2026",
-      "summary": "Spending by electronic purchasing card solution (ePCS), over £500.",
-      "published_at": "2026-09-09T15:13:42",
-      "fetched_at": "2026-09-09T15:53:19",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "fd1cdfe78ae17b8966fe1ec1",
-      "title": "Policy paper: Carbon border adjustment mechanism (CBAM): Policy summary",
-      "link": "https://www.gov.uk/government/publications/carbon-border-adjustment-mechanism-cbam-policy-summary",
-      "summary": "This is a policy summary for the carbon border adjustment mechanism.",
-      "published_at": "2026-09-09T14:15:06",
-      "fetched_at": "2026-09-09T15:53:18",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "d5d8616d26be277164c8e930",
-      "title": "Accredited official statistics: Personal Independence Payment statistics April 2013 to July 2026",
-      "link": "https://www.gov.uk/government/statistics/announcements/personal-independence-payment-statistics-april-2013-to-july-2026",
-      "summary": "Quarterly statistics including numbers of claims with entitlement, new claim registrations, decisions and awards made.",
-      "published_at": "2026-09-09T13:48:37",
-      "fetched_at": "2026-09-09T15:53:19",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "59a4009e31f851d1f900a047",
-      "title": "Transparency data: Adult skills fund (ASF) postcode files",
-      "link": "https://www.gov.uk/government/publications/adult-skills-fund-asf-postcode-files",
-      "summary": "Data file for ASF devolution showing the funding bodies that are responsible for funding each postcode in England.",
-      "published_at": "2026-09-09T13:30:04",
-      "fetched_at": "2026-09-09T15:53:19",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "4ec1ae6968a3294287f776b4",
-      "title": "Policy paper: Introduction of Carbon Border Adjustment Mechanism",
-      "link": "https://www.gov.uk/government/publications/introduction-of-carbon-border-adjustment-mechanism",
-      "summary": "This tax information and impact note is about the new Carbon Border Adjustment Mechanism (CBAM) tax.",
-      "published_at": "2026-09-09T12:49:07",
-      "fetched_at": "2026-09-09T15:53:18",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "70cc625ba4335f5b1ded6204",
-      "title": "Guidance: Real Time Information internet submissions: 2027 to 2028 technical specifications",
-      "link": "https://www.gov.uk/government/publications/real-time-information-internet-submissions-2027-to-2028-technical-specifications",
-      "summary": "Real Time Information (RTI) Rules and Interface Management (RIM) artefacts and supporting technical specifications for software developers.",
-      "published_at": "2026-09-09T12:45:36",
-      "fetched_at": "2026-09-09T15:53:18",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "3b87050bacc31b0ae1ec4599",
-      "title": "Trusts, Settlements and Estates Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual",
-      "summary": "An introduction to trusts, their income and gains and how HM Revenue & Customs treats them for tax purposes.",
-      "published_at": "2026-09-09T12:42:57",
-      "fetched_at": "2026-09-09T15:53:18",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "payroll",
-        "ei"
-      ]
-    },
-    {
-      "id": "10f41886c0e0442a5494c944",
-      "title": "Self Assessment Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual",
-      "summary": "This manual contains guidance and processes for Self Assessment (SA)",
-      "published_at": "2026-09-09T12:26:56",
-      "fetched_at": "2026-09-09T15:53:18",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "e4634d3255715979934841ed",
-      "title": "Accredited official statistics: ESA: outcomes of Work Capability Assessments including mandatory reconsiderations and appeals: September 2026",
-      "link": "https://www.gov.uk/government/statistics/announcements/esa-outcomes-of-work-capability-assessments-including-mandatory-reconsiderations-and-appeals-september-2026",
-      "summary": "Outcomes of Employment and Support Allowance (ESA) Work Capability Assessments, including mandatory reconsiderations and appeals information.",
-      "published_at": "2026-09-09T12:15:05",
-      "fetched_at": "2026-09-09T15:53:19",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "14ebaa7d48c35a86f4dc32fe",
-      "title": "Guidance: Intrastat: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/intrastat-is2-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the Intrastat (IS2) online service.",
-      "published_at": "2026-09-09T11:49:14",
-      "fetched_at": "2026-09-09T15:53:18",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "04ccf037a9e7737b1162aba1",
-      "title": "Guidance: Approved offshore reporting funds",
-      "link": "https://www.gov.uk/government/publications/approved-offshore-reporting-funds",
-      "summary": "Find a list of offshore funds that have applied for and been approved as reporting funds.",
-      "published_at": "2026-09-09T11:38:08",
-      "fetched_at": "2026-09-09T15:53:18",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "be9cbeab1511512276919c95",
-      "title": "Check what you'll need to get a legally binding decision on a commodity code",
-      "link": "https://www.gov.uk/guidance/check-what-youll-need-to-get-a-legally-binding-decision-on-a-commodity-code",
-      "summary": "Find out what you'll need to get a legally binding decision on the commodity code to use when importing or exporting your goods.",
-      "published_at": "2026-09-09T11:34:06",
-      "fetched_at": "2026-09-09T15:53:18",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "a96b88ca797e1cb58f9b1268",
-      "title": "Guidance: Tied Oils Enquiry Service: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/tied-oils-enquiry-service-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the Tied Oils Enquiry Service online service.",
-      "published_at": "2026-09-09T11:08:52",
-      "fetched_at": "2026-09-09T15:53:18",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "63c82e08c5347b4965155b73",
-      "title": "Official Statistics: Schedule of updates and announcements for HMRC's statistics",
-      "link": "https://www.gov.uk/government/statistics/schedule-of-updates-and-announcements-for-hmrcs-statistics",
-      "summary": "Publication plan for HMRC National and Official Statistics. Any changes to the schedule will be detailed in the announcements.",
-      "published_at": "2026-09-09T11:06:58",
-      "fetched_at": "2026-09-09T15:53:18",
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "region": "UK",
