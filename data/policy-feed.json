@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-10-06T12:43:48",
+  "synced_at": "2026-10-06T22:18:37",
   "total": 500,
-  "new_count": 25,
+  "new_count": 15,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
       "fetched": 25,
-      "added": 7,
+      "added": 6,
       "error": null
     },
     {
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 16,
+      "added": 5,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 2,
+      "added": 4,
       "error": null
     },
     {
@@ -40,6 +40,218 @@
     }
   ],
   "items": [
+    {
+      "id": "979da4bda42837aae73f6afc",
+      "title": "Official Statistics: Access to Work statistics: April 2007 to March 2026",
+      "link": "https://www.gov.uk/government/statistics/announcements/access-to-work-statistics-april-2007-to-march-2025--2",
+      "summary": "Statistics include approval and payment volumes as well as Access to Work expenditure and average payment amounts.",
+      "published_at": "2026-10-06T16:31:53",
+      "fetched_at": "2026-10-06T22:18:16",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "a665cd548fcf3720f59d9937",
+      "title": "Research: State Pension uprating analysis 2026",
+      "link": "https://www.gov.uk/government/publications/state-pension-uprating-analysis-2026",
+      "summary": "This ad hoc analysis examines the impact of the adjusted Triple Lock.",
+      "published_at": "2026-10-06T16:20:11",
+      "fetched_at": "2026-10-06T22:18:16",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "8a7728dbcf08b00a42f79314",
+      "title": "Check genuine HMRC contact that uses more than one communication method",
+      "link": "https://www.gov.uk/guidance/check-genuine-hmrc-contact-that-uses-more-than-one-communication-method",
+      "summary": "Check recent contacts from HMRC to help you decide if a suspicious email, phone call, text or letter could be a scam.",
+      "published_at": "2026-10-06T14:29:07",
+      "fetched_at": "2026-10-06T22:18:16",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "4845b18bf6a47c8eaa7535fd",
+      "title": "Capital Gains Manual",
+      "link": "https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual",
+      "summary": "HMRC is reviewing the CG Manual to ensure it provides HMRC’s interpretation of relevant legislation where there is more than one reasonable view of how rules work.Where material in the CG Manual isn’t providing an interpretation, that material is being removed. Where appropriate, material will be reproduced elsewhere and linked from the CG Manual.",
+      "published_at": "2026-10-06T13:57:11",
+      "fetched_at": "2026-10-06T22:18:16",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "payroll",
+        "ei"
+      ]
+    },
+    {
+      "id": "0ec4129e7a24e0e8dbf8d069",
+      "title": "Guidance: Pathways to Work Innovation Fund: applicant bid pack",
+      "link": "https://www.gov.uk/government/publications/pathways-to-work-innovation-fund-applicant-bid-pack",
+      "summary": "This pack explains the Pathways to Work Innovation Fund, how to apply for grant funding, and whether it is right for your organisation.",
+      "published_at": "2026-10-06T13:29:52",
+      "fetched_at": "2026-10-06T22:18:16",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "3ca9d201dd7db0b29c5dd3f7",
+      "title": "Online services for agents",
+      "link": "https://www.gov.uk/guidance/tax-agents-handbook/online-services-for-agents",
+      "summary": "Information about services available to agents, including Self Assessment and PAYE for agents online services, multi-factor authentication, calculators and the HMRC App. Find out about service availability and any current issues.",
+      "published_at": "2026-10-06T13:26:54",
+      "fetched_at": "2026-10-06T22:18:16",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "a1c3114e65f4cad88a14f543",
+      "title": "The Tax Agent's Handbook",
+      "link": "https://www.gov.uk/guidance/tax-agents-handbook",
+      "summary": "Information to help tax agents and advisers find guidance, use HMRC's services and contact HMRC.",
+      "published_at": "2026-10-06T13:26:54",
+      "fetched_at": "2026-10-06T22:18:16",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "05b0080be9bef82b21d2abdf",
+      "title": "Research: Skills England annual skills report and Sectoral Skills Needs Assessments 2026",
+      "link": "https://www.gov.uk/government/publications/skills-england-annual-skills-report-and-sectoral-skills-needs-assessments-2026",
+      "summary": "The 2026 annual skills report highlights key challenges in the skills system. Our Skills Needs Assessments outline skills demand and supply in priority sectors.",
+      "published_at": "2026-10-06T13:19:23",
+      "fetched_at": "2026-10-06T22:18:16",
+      "source_id": "uk_dwp",
+      "source_name": "UK DWP · Employment & Benefits",
+      "region": "UK",
+      "category": "benefits",
+      "tags": [
+        "benefits",
+        "leave",
+        "pension",
+        "UK"
+      ],
+      "score": 18,
+      "matched_keywords": [
+        "leave",
+        "benefit",
+        "benefits",
+        "pension"
+      ]
+    },
+    {
+      "id": "ac757008c79ef73c206e2513",
+      "title": "Apply for an increase in tax credits for a backdated disability benefit decision",
+      "link": "https://www.gov.uk/guidance/apply-for-an-increase-in-tax-credits-for-a-backdated-disability-benefit-decision",
+      "summary": "Ask for a backdated disability benefit decision to be included in a period when you were claiming Working Tax Credit or Child Tax Credit.",
+      "published_at": "2026-10-06T13:00:52",
+      "fetched_at": "2026-10-06T22:18:16",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 10,
+      "matched_keywords": [
+        "benefit",
+        "payroll"
+      ]
+    },
     {
       "id": "1111055a935920f0c139e121",
       "title": "Guidance: Data Element 2/3: Documents and Other Reference Codes (Union) of the Customs Declaration Service (CDS)",
@@ -11395,219 +11607,6 @@
         "benefit",
         "benefits",
         "pension"
-      ]
-    },
-    {
-      "id": "b5981525b2c9d8ccb4210ec5",
-      "title": "Connect to Work delivers for thousands more as programme expands",
-      "link": "https://www.gov.uk/government/news/connect-to-work-delivers-for-thousands-more-as-programme-expands",
-      "summary": "Thousands of people with health conditions or disabled people are in work following support from the Government’s flagship local employment programme, according to official data published today [Thursday 10 Sept]",
-      "published_at": "2026-09-10T10:36:56",
-      "fetched_at": "2026-09-10T15:48:24",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "dd354f57bbd6702f26f9ea60",
-      "title": "Employment Income Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/employment-income-manual",
-      "summary": "A guide to the Income Tax (Earnings and Pensions) Act 2003.",
-      "published_at": "2026-09-10T10:06:08",
-      "fetched_at": "2026-09-10T10:34:26",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 10,
-      "matched_keywords": [
-        "pension",
-        "payroll"
-      ]
-    },
-    {
-      "id": "b6fe03d752ea664517cbbe4b",
-      "title": "Corporate report: Named tax avoidance schemes, promoters, enablers and suppliers",
-      "link": "https://www.gov.uk/government/publications/named-tax-avoidance-schemes-promoters-enablers-and-suppliers",
-      "summary": "Information about tax avoidance schemes, promoters, enablers and suppliers of these schemes.",
-      "published_at": "2026-09-10T09:33:30",
-      "fetched_at": "2026-09-10T10:34:26",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "3378e1a77e682b48a41056cf",
-      "title": "Transparency data: HMRC major projects: appointment letters for Senior Responsible Owners",
-      "link": "https://www.gov.uk/government/publications/hmrc-major-projects-appointment-letters-for-senior-responsible-owners",
-      "summary": "HMRC appointment letters for Government Major Projects Portfolio (GMPP) and Departmental Major Projects (DMP) Senior Responsible Owners (SROs).",
-      "published_at": "2026-09-10T09:00:05",
-      "fetched_at": "2026-09-10T10:34:26",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "ec86a3eef804193d96556a30",
-      "title": "Corporate report: Businesses not complying with money laundering regulations",
-      "link": "https://www.gov.uk/government/publications/businesses-not-complying-with-money-laundering-regulations",
-      "summary": "A list of businesses that have not met their obligations under the 2017 regulations.",
-      "published_at": "2026-09-10T08:41:00",
-      "fetched_at": "2026-09-10T10:34:26",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 13,
-      "matched_keywords": [
-        "payroll",
-        "ei",
-        "regulation"
-      ]
-    },
-    {
-      "id": "f0539ad7158d4a62ee2298dc",
-      "title": "Guidance: Connect to Work statistics release strategy",
-      "link": "https://www.gov.uk/government/publications/connect-to-work-statistics-release-strategy",
-      "summary": "How DWP manages the release of Connect to Work statistics.",
-      "published_at": "2026-09-10T08:30:05",
-      "fetched_at": "2026-09-10T10:34:26",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "a5d1dd11301f7fe6295c868c",
-      "title": "Official Statistics: Connect to Work to June 2026",
-      "link": "https://www.gov.uk/government/statistics/connect-to-work-to-june-2026",
-      "summary": "Quarterly official statistics on Connect to Work. This release includes data covering the period from April 2025 to June 2026.",
-      "published_at": "2026-09-10T08:30:04",
-      "fetched_at": "2026-09-10T10:34:26",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "12002f51690e3f6f39773aa1",
-      "title": "Official Statistics: Connect to Work to June 2026",
-      "link": "https://www.gov.uk/government/statistics/connect-to-work-to-june-2026",
-      "summary": "Quarterly official statistics on Connect to Work. This release includes data covering the period from April 2025 to June 2026.",
-      "published_at": "2026-09-10T08:30:00",
-      "fetched_at": "2026-09-11T15:50:17",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "0d0af178d12e5e2b54b892e8",
-      "title": "PAYE Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/paye-manual",
-      "summary": "Guidance for staff working through PAYE processes for individuals and employers. HMRC is currently reviewing this guidance. If you have any comments or feedback, please email: hmrcmanualsteam@hmrc.gov.uk",
-      "published_at": "2026-09-10T08:26:14",
-      "fetched_at": "2026-09-10T10:34:26",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
       ]
     }
   ]
