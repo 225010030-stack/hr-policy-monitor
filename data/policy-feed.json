@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-10-07T04:14:29",
+  "synced_at": "2026-10-07T07:05:46",
   "total": 500,
-  "new_count": 6,
+  "new_count": 13,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
-      "fetched": 25,
-      "added": 6,
+      "fetched": 30,
+      "added": 11,
       "error": null
     },
     {
@@ -21,7 +21,7 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 0,
+      "added": 2,
       "error": null
     },
     {
@@ -40,6 +40,171 @@
     }
   ],
   "items": [
+    {
+      "id": "53739c7f975eb00bed3f3202",
+      "title": "Guidance: Register a trust or estate: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/register-a-trust-or-estate-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the trusts and estates registration service.",
+      "published_at": "2026-10-07T07:00:05",
+      "fetched_at": "2026-10-07T07:05:26",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "121d9f40e134842bf5b465ff",
+      "title": "Guidance: Compliance checks: prohibition of promotion of certain tax avoidance schemes — CC/FS91",
+      "link": "https://www.gov.uk/government/publications/compliance-checks-prohibition-of-promotion-of-certain-tax-avoidance-schemes-ccfs91",
+      "summary": "This factsheet tells you about what happens if you promote certain tax avoidance schemes.",
+      "published_at": "2026-10-07T06:00:05",
+      "fetched_at": "2026-10-07T07:05:26",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 9,
+      "matched_keywords": [
+        "payroll",
+        "compliance"
+      ]
+    },
+    {
+      "id": "f735ae63e7067fcdd1ac314d",
+      "title": "Agency Information Collection Activities; Comment Request on Treasury Decision (TD) 8686, Requirements To Ensure Collection of Section 2056A Estate Tax",
+      "link": "https://www.federalregister.gov/documents/2026/10/07/2026-20542/agency-information-collection-activities-comment-request-on-treasury-decision-td-8686-requirements",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+      "published_at": "2026-10-07T04:00:00",
+      "fetched_at": "2026-10-07T07:05:26",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
+    {
+      "id": "f9e44a81c9a3ab08e9de8d60",
+      "title": "Agency Information Collection Activities; Comment Request on Form 8881",
+      "link": "https://www.federalregister.gov/documents/2026/10/07/2026-20541/agency-information-collection-activities-comment-request-on-form-8881",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+      "published_at": "2026-10-07T04:00:00",
+      "fetched_at": "2026-10-07T07:05:26",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
+    {
+      "id": "6dc047b46ea3593b943fed92",
+      "title": "Agency Information Collection Activities; Comment Request on Returns Regarding Payments of Interest",
+      "link": "https://www.federalregister.gov/documents/2026/10/07/2026-20540/agency-information-collection-activities-comment-request-on-returns-regarding-payments-of-interest",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+      "published_at": "2026-10-07T04:00:00",
+      "fetched_at": "2026-10-07T07:05:26",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
+    {
+      "id": "0673d439b40b680cd4b6f827",
+      "title": "Agency Information Collection Activities; Comment Request on Time and Manner of Making Certain Elections Under the Technical and Miscellaneous Revenue Act of 1988",
+      "link": "https://www.federalregister.gov/documents/2026/10/07/2026-20539/agency-information-collection-activities-comment-request-on-time-and-manner-of-making-certain",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+      "published_at": "2026-10-07T04:00:00",
+      "fetched_at": "2026-10-07T07:05:26",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
+    {
+      "id": "b5f82f86612c2f1ff9bbfc25",
+      "title": "Agency Information Collection Activities; Comment Request on Trump Account Election(s)",
+      "link": "https://www.federalregister.gov/documents/2026/10/07/2026-20538/agency-information-collection-activities-comment-request-on-trump-account-elections",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+      "published_at": "2026-10-07T04:00:00",
+      "fetched_at": "2026-10-07T07:05:26",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
     {
       "id": "979da4bda42837aae73f6afc",
       "title": "Official Statistics: Access to Work statistics: April 2007 to March 2026",
@@ -11447,166 +11612,6 @@
       "score": 6,
       "matched_keywords": [
         "payroll"
-      ]
-    },
-    {
-      "id": "613f97eb19794a152a9f5f07",
-      "title": "Guidance: Childcare service: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/tax-free-childcare-service-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the Childcare service.",
-      "published_at": "2026-09-10T12:31:53",
-      "fetched_at": "2026-09-10T15:48:24",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "32b9d002d2b362d1e74c2c28",
-      "title": "Guidance: Fulfilment House Due Diligence Scheme registered businesses list",
-      "link": "https://www.gov.uk/government/publications/fulfilment-house-due-diligence-scheme-registered-businesses-list",
-      "summary": "Check if the business that stores your goods in the UK is registered with the Fulfilment House Due Diligence Scheme if you’re a trader based outside of the UK.",
-      "published_at": "2026-09-10T11:08:50",
-      "fetched_at": "2026-09-10T15:48:24",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "742692e62f4c37fc9c718f53",
-      "title": "Correspondence: The Timms Review: co-chair update, September 2026",
-      "link": "https://www.gov.uk/government/publications/the-timms-review-co-chair-update-september-2026",
-      "summary": "This document sets out an update on the progress of the Timms Review of Personal Independence Payment (PIP), from the Review's co-chairs.",
-      "published_at": "2026-09-10T11:05:24",
-      "fetched_at": "2026-09-10T15:48:24",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "228ce6082e7b993263130abc",
-      "title": "Builders' merchants and trade warehouses",
-      "link": "https://www.gov.uk/guidance/rating-manual-section-6-part-3-valuation-of-all-property-classes/builders-merchants-and-trade-warehouses",
-      "summary": "This publication is intended for Valuation Officers. It may contain links to internal resources that are not available through this version.",
-      "published_at": "2026-09-10T10:56:38",
-      "fetched_at": "2026-09-10T15:48:24",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "6572d73ad8d7861758d45e5e",
-      "title": "Rating Manual section 5a: valuation of all property classes",
-      "link": "https://www.gov.uk/guidance/rating-manual-section-6-part-3-valuation-of-all-property-classes",
-      "summary": "Guidance for Valuation Officers.",
-      "published_at": "2026-09-10T10:56:38",
-      "fetched_at": "2026-09-10T15:48:24",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "53e671d0f0c0c9c58b4d9d7c",
-      "title": "Land valuations for the contractor's basis",
-      "link": "https://www.gov.uk/guidance/rating-manual-section-6-part-3-valuation-of-all-property-classes/land-valuations-for-the-contractor-s-basis",
-      "summary": "This publication is intended for Valuation Officers. It may contain links to internal resources that are not available through this version.",
-      "published_at": "2026-09-10T10:56:38",
-      "fetched_at": "2026-09-10T15:48:24",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "1e5a53262927c31be6dc751c",
-      "title": "Research: List of upcoming releases of management information and ad hoc analyses",
-      "link": "https://www.gov.uk/government/publications/list-of-upcoming-releases-of-management-information-and-ad-hoc-analyses",
-      "summary": "List of upcoming releases of DWP management information and ad hoc analyses.",
-      "published_at": "2026-09-10T10:43:50",
-      "fetched_at": "2026-09-10T15:48:24",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
       ]
     }
   ]
