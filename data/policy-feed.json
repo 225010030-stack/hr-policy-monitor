@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-10-07T22:40:35",
+  "synced_at": "2026-10-08T04:26:38",
   "total": 500,
-  "new_count": 15,
+  "new_count": 8,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -21,14 +21,14 @@
       "source_id": "uk_hmrc",
       "source_name": "UK HMRC Updates",
       "fetched": 20,
-      "added": 6,
+      "added": 0,
       "error": null
     },
     {
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 1,
+      "added": 0,
       "error": null
     },
     {
