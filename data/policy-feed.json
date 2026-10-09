@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-10-09T12:33:05",
+  "synced_at": "2026-10-09T22:13:36",
   "total": 500,
-  "new_count": 15,
+  "new_count": 9,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
@@ -28,7 +28,7 @@
       "source_id": "uk_dwp",
       "source_name": "UK DWP · Employment & Benefits",
       "fetched": 20,
-      "added": 6,
+      "added": 0,
       "error": null
     },
     {
@@ -40,6 +40,95 @@
     }
   ],
   "items": [
+    {
+      "id": "9ea7361053b455f09aa29241",
+      "title": "Apply for business rates for a self-catering property in Wales",
+      "link": "https://www.gov.uk/guidance/apply-for-business-rates-for-a-self-catering-property-in-wales",
+      "summary": "Check the criteria and fill in this form to apply for business rates on a self-catering holiday let in Wales.",
+      "published_at": "2026-10-09T15:00:58",
+      "fetched_at": "2026-10-09T22:13:15",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 9,
+      "matched_keywords": [
+        "holiday",
+        "payroll"
+      ]
+    },
+    {
+      "id": "1dea0375ca46fae6bc3654da",
+      "title": "Guidance: One Stop Shop Union scheme: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/one-stop-shop-union-scheme-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the One Stop Shop (OSS) Union scheme online service.",
+      "published_at": "2026-10-09T15:00:13",
+      "fetched_at": "2026-10-09T22:13:15",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "42bd68ef470e86c32b42f1af",
+      "title": "Guidance: VAT Import One Stop Shop Scheme: service availability and issues",
+      "link": "https://www.gov.uk/government/publications/vat-import-one-stop-shop-scheme-service-availability-and-issues",
+      "summary": "Check the availability and any issues affecting the VAT Import One Stop Shop (IOSS) Scheme online service.",
+      "published_at": "2026-10-09T14:59:08",
+      "fetched_at": "2026-10-09T22:13:15",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
+    {
+      "id": "9277fdbc8f9789e25af2d2db",
+      "title": "Guidance: Maritime ports and wharves location codes for Data Element 5/23 of the Customs Declaration Service",
+      "link": "https://www.gov.uk/government/publications/maritime-ports-and-wharves-location-codes-for-data-element-523-of-the-customs-declaration-service",
+      "summary": "Find the codes which can be used in Data Element 5/23 to identify the location where the goods may be examined for maritime ports and wharves (Appendix 16C).",
+      "published_at": "2026-10-09T13:54:35",
+      "fetched_at": "2026-10-09T22:13:15",
+      "source_id": "uk_hmrc",
+      "source_name": "UK HMRC Updates",
+      "region": "UK",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "NI",
+        "UK"
+      ],
+      "score": 6,
+      "matched_keywords": [
+        "payroll"
+      ]
+    },
     {
       "id": "c2e27f03525f0fc695343a08",
       "title": "Correspondence: Keep Britain Working review update: a national growth opportunity, September 2026",
@@ -11499,99 +11588,6 @@
       ],
       "score": 6,
       "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "899d46576d3f1ae278c07ff4",
-      "title": "Guidance: Report Pillar 2 top-up taxes: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/report-pillar-2-top-up-taxes-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the Report Pillar 2 top-up taxes service.",
-      "published_at": "2026-09-15T09:53:25",
-      "fetched_at": "2026-09-15T11:02:08",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "789df9754b1d97a1cbfbcdb1",
-      "title": "Corporate report: Administrative Burdens Advisory Board 'Tell ABAB' report 2025 to 2026",
-      "link": "https://www.gov.uk/government/publications/administrative-burdens-advisory-board-tell-abab-report-2025-to-2026",
-      "summary": "A report summarising the responses to an annual online survey that aims to improve HMRC's service to small businesses.",
-      "published_at": "2026-09-15T09:45:00",
-      "fetched_at": "2026-09-15T11:02:08",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
-      ]
-    },
-    {
-      "id": "a2655404fb5211b9cd78b831",
-      "title": "Official Statistics: Pre-release access to DWP statistics",
-      "link": "https://www.gov.uk/government/statistics/pre-release-access-to-statistics-order-2008",
-      "summary": "Job titles of people with pre-release access to Department for Work and Pensions (DWP) statistics and the organisations they belong to.",
-      "published_at": "2026-09-15T09:41:41",
-      "fetched_at": "2026-09-15T11:02:08",
-      "source_id": "uk_dwp",
-      "source_name": "UK DWP · Employment & Benefits",
-      "region": "UK",
-      "category": "benefits",
-      "tags": [
-        "benefits",
-        "leave",
-        "pension",
-        "UK"
-      ],
-      "score": 18,
-      "matched_keywords": [
-        "leave",
-        "benefit",
-        "benefits",
-        "pension"
-      ]
-    },
-    {
-      "id": "7cafdba35d83478cc116ccf5",
-      "title": "Guidance: Payrolling benefits and expenses online service: service availability and issues",
-      "link": "https://www.gov.uk/government/publications/payrolling-benefits-and-expenses-online-service-service-availability-and-issues",
-      "summary": "Check the availability and any issues affecting the payrolling benefits and expenses online service.",
-      "published_at": "2026-09-15T08:50:24",
-      "fetched_at": "2026-09-15T11:02:08",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 14,
-      "matched_keywords": [
-        "benefit",
-        "benefits",
         "payroll"
       ]
     }
