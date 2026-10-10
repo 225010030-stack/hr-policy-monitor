@@ -1,13 +1,13 @@
 {
-  "synced_at": "2026-10-10T06:54:08",
+  "synced_at": "2026-10-10T11:53:39",
   "total": 500,
-  "new_count": 4,
+  "new_count": 5,
   "source_stats": [
     {
       "source_id": "fedreg_irs",
       "source_name": "US Federal Register · IRS",
-      "fetched": 29,
-      "added": 4,
+      "fetched": 30,
+      "added": 5,
       "error": null
     },
     {
@@ -40,6 +40,30 @@
     }
   ],
   "items": [
+    {
+      "id": "afceb49abc330ee24abec95c",
+      "title": "Agency Information Collection Activities; Comment Request Relating to Lien Agreement Notice of Election of and Agreement to Special Lien",
+      "link": "https://www.federalregister.gov/documents/2026/10/13/2026-20832/agency-information-collection-activities-comment-request-relating-to-lien-agreement-notice-of",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+      "published_at": "2026-10-13T04:00:00",
+      "fetched_at": "2026-10-10T11:53:19",
+      "source_id": "fedreg_irs",
+      "source_name": "US Federal Register · IRS",
+      "region": "US",
+      "category": "tax",
+      "tags": [
+        "tax",
+        "payroll",
+        "withholding",
+        "IRS",
+        "US"
+      ],
+      "score": 11,
+      "matched_keywords": [
+        "payroll",
+        "withholding"
+      ]
+    },
     {
       "id": "9ea7361053b455f09aa29241",
       "title": "Apply for business rates for a self-catering property in Wales",
@@ -11567,28 +11591,6 @@
       "matched_keywords": [
         "payroll",
         "compliance"
-      ]
-    },
-    {
-      "id": "67b0e67196e79ac4d04c37f9",
-      "title": "Self Assessment Manual",
-      "link": "https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual",
-      "summary": "This manual contains guidance and processes for Self Assessment (SA)",
-      "published_at": "2026-09-15T09:55:34",
-      "fetched_at": "2026-09-15T11:02:08",
-      "source_id": "uk_hmrc",
-      "source_name": "UK HMRC Updates",
-      "region": "UK",
-      "category": "tax",
-      "tags": [
-        "tax",
-        "payroll",
-        "NI",
-        "UK"
-      ],
-      "score": 6,
-      "matched_keywords": [
-        "payroll"
       ]
     }
   ]
